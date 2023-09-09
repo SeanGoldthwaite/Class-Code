@@ -1,0 +1,52 @@
+---
+title: 'Language Classifier: Bayes'
+author: "Christopher Alexeev"
+date: "11/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source('G:/Programming/B365-FA20-Final-Project/Classifiers/bayes_classifier/bayes.R')
+```
+
+## Train
+
+```{r}
+training_data = clean_data('../../data.csv')
+
+split = sample.split(training_data, SplitRatio = 0.8)
+X = subset(training_data, split == "TRUE")
+y = subset(training_data, split == "FALSE")
+
+cl = train_classifier(X)
+cm = test(cl,y)
+
+confusionMatrix(cm)
+```
+``` {r}
+#avg_accuracy(training_data,100)
+```
+
+## Test
+
+```{r}
+country = clean_data('../../testing_data/country_data.csv')
+food = clean_data('../../testing_data/food_data.csv')
+chemistry = clean_data('../../testing_data/chemistry_data.csv')
+```
+### Food
+``` {r}
+confusionMatrix(test(cl,food))
+```
+
+### Countries
+``` {r}
+confusionMatrix(test(cl,country))
+```
+
+### Chemistry
+``` {r}
+confusionMatrix(test(cl,chemistry))
+```
+

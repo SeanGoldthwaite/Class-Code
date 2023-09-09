@@ -1,0 +1,10 @@
+﻿Le sinaptobrevine sono piccole proteine integrali di membrana delle vescicole sinaptiche, con peso molecolare di 18 kilodalton (kDa).
+La sinaptobrevina è una delle proteine SNARE coinvolte nella formazione dei complessi SNARE.È bersaglio delle esotossine sia botulinica che tetanica, quindi coinvolta nell'insorgenza delle rispettive patologie. 
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN)  Sutton RB, Fasshauer D, Jahn R, Brünger AT, Crystal structure of a SNARE complex involved in synaptic exocytosis at 2.4 Å resolution, in Nature, vol. 395, n. 6700, 1998,  pp. 347–353, DOI:10.1038/26412.
+(EN)  Ernst JA, Brunger AT, High resolution structure, stability, and synaptotagmin binding of a truncated neuronal SNARE complex, in J Biol Chem, vol. 278, n. 10, 2003,  pp. 8630–6, DOI:10.1074/jbc.M211889200.

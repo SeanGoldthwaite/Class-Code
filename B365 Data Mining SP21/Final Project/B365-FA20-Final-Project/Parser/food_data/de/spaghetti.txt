@@ -1,0 +1,41 @@
+﻿Spaghetti [ʃpaˈɡɛti], italienische Standardaussprache [spa'get-ti], (gemäß Duden auch Spagetti) sind aus Hartweizengrieß hergestellte Teigwaren bzw. Nudeln mit rundem Querschnitt, etwa zwei Millimeter Durchmesser (gekocht) und etwa 25 cm Länge. In den deutschsprachigen Raum gelangten die Spaghetti aus Italien.
+Die Bezeichnung Spaghetti wurde aus dem Italienischen übernommen (lat. spacus „Bindfaden“ → ital. spago „Schnur“ → Diminutiv spaghetto → Plural spaghetti „Schnürchen“). Besonders dicke Spaghetti werden Spaghettoni genannt, besonders dünne Spaghettini. Noch dünner als Spaghettini sind Capellini.
+In Deutschland werden Spaghetti teilweise auch unter Zusatz von Eiern als Eierteigwaren angeboten. Ähnlich geformt, aber meist kürzer als Spaghetti, sind Eiernudeln (italienisch Pasta all’ uovo), die es auch als Bandnudeln gibt. Fadennudeln sind kürzer und dünner und werden meist als Suppeneinlage verwendet. Eine Art Fadennudel gab es nach neuesten Funden bereits im 2. Jahrtausend v. Chr. im heutigen China. Sie wurden allerdings aus Hirsemehl hergestellt.
+Spaghetti gelten als schwierige Speise in Bezug auf die Einhaltung der Tischsitten.
+
+
+== Bekannte Spaghetti-Gerichte ==
+Spaghetti aglio e olio – mit Knoblauch und Olivenöl
+Spaghetti alla carbonara – mit Speck, Ei und Käse
+Spaghetti alla napoletana – mit Tomatensauce
+Spaghetti alla puttanesca – mit scharf-würziger Tomatensauce und Sardellen, Peperoni, Oliven und Kapern
+Spaghetti alla gricia – mit gebratenem Speck (Lardo) und Pecorino-Käse
+Spaghetti alle vongole – mit Venusmuscheln
+Spaghetti bolognese – mit Tomatensauce und Hackfleisch oder mit Ragù alla bolognese
+Spaghetti all’amatriciana – mit Guanciale, Tomaten, Pecorino, Peperoncini (Chilischoten) und Olivenöl
+Spaghetti cacio e pepe - mit Pfeffer und Pecorino (Rom)
+
+
+== Bruchverhalten ==
+Ein lange ungelöstes physikalisches Rätsel um die Spaghetti war die Tatsache, dass trockene Spaghetti für gewöhnlich nicht in zwei Stücke zerbrechen, wie es die klassische Festigkeitslehre (Elastostatik) vermuten lässt, sondern in mehrere Teile. Audoly und Neukirch zeigten 2004 eine Erklärung des Phänomens über Biegewellen auf,
+die von den „Kirchhoff-Gleichungen der Elastizitätstheorie“ ausgeht.
+Eine trockene Spaghetti wird hierbei als unendlich dünner elastischer Stab idealisiert, wie ihn der Physiker Gustav Robert Kirchhoff in einem 1859 veröffentlichten Aufsatz beschrieb.
+Ein wichtiger Werkstoffparameter in diesem Falle ist der Elastizitätsmodul (Biegemodul). Spaghetti haben bei 100 % Hartweizengrießanteil im trockenen Zustand und einer Luftfeuchtigkeit von 50 % einen Elastizitätsmodul von 4,3 kN/mm2.
+Um trotzdem beim Bruch zwei Teile zu erhalten, kann man die Spagetti verdrehen und es entsteht eine Torsion. Beim Bruch wird dann zusätzliche Energie mit der Auflösung der Verdrehung verbraucht, welche dann einen zweiten Bruch der Spagetti verhindert.Man kann eine trockene Spaghetti (Marke Barilla No 1, No 3, No 5) mit der Dichte ρ=1,5±0,1 g/cm3, dem E-Modul E=3,8±0,3 GPa, dem Schubmodul G=1,5±0,2 GPa und der Poissonzahl ν=0,3±0,1 beschreiben.
+
+
+== Siehe auch ==
+Spaghetti-Baum – ein Aprilscherz der BBC von 1957
+Spaghettieis
+Spaghettimaß
+Liste der Pastaformen
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+Stefan Maier: Spannungsgeladene Pastaforschung – Forscher entdecken, warum Spaghetti beim Brechen in viele Teile zerspringen, wissenschaft.de, 6. September 2005
+Houyuan Lu et al.: Pasta à la Steinzeit – Schon in Neolithikum gab es in China Teigwaren, wissenschaft.de, 13. Oktober 2005
+Spaghetti-Test Effilee: Vergleich verschiedener Spaghettimarken

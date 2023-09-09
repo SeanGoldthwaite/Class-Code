@@ -1,0 +1,544 @@
+﻿Elon Reeve Musk (Pretoria, Sudáfrica; 28 de junio de 1971) es un físico, emprendedor, inventor y magnate sudafricano, nacionalizado canadiense y estadounidense. Cofundador de PayPal, SpaceX, Hyperloop, SolarCity, The Boring Company, Neuralink y OpenAI. Es director general de SpaceX, de Tesla Motors, presidente de SolarCity y copresidente de OpenAI. En febrero de 2020 su fortuna se estimaba en 43 300 millones de USD, lo que le convertía en una de las personas más ricas del mundo. En diciembre de 2016, Musk fue nombrado como la 21ª persona más poderosa del mundo por la revista Forbes.[3]​[2]​
+
+
+== Infancia, juventud y formación ==
+Los padres de Elon son Errol Musk y Maye Musk.
+En 1950 Maye Musk y su familia se mudaron desde Canadá a Pretoria, Sudáfrica. Su padre Joshua Norman Haldeman y su madre Winnifred Josephine "Wyn" (Fletcher)[4]​ tenían una exitosa consulta quiropráctica que les permitía realizar viajes de aventura. En 1952 volaron 35 000 kilómetros alrededor del mundo en un avión que su padre trajo desmontado en piezas desde Canadá. Joshua fue el primero en realizar un vuelo en avión privado desde Sudáfrica a Australia sin instrumentación electrónica.[5]​
+Durante más de diez años, Maye y familia pasaron tres semanas del invierno vagando por el desierto del Kalahari en busca de la legendaria Ciudad perdida de Kalahari. Sus padres realizaron diversas presentaciones y charlas sobre sus viajes.[6]​[5]​
+A los 15 años Maye atendió a la escuela de modelos de un amigo de su madre y los fines de semana trabajó de modelo de pasarela y catálogos.[6]​
+A los 20 años Maye se presentó al concurso de belleza de 1969 Miss Sudáfrica y quedó finalista.[7]​
+En 1970 Maye se casó con Errol Musk, un ingeniero sudafricano que conoció en la escuela secundaria. En tres años tuvieron tres hijos: Elon Musk (28 de junio de 1971), Kimbal Musk (20 de septiembre de 1972) y Tosca Musk (20 de julio de 1974). Maye obtuvo una maestría (máster) en dietética de la Universidad del Estado Libre de Orange en Sudáfrica.[6]​
+Elon Musk creció en una casa grande con su hermano Kimbal, su hermana Tosca y varios primos.
+Su padre, Errol Musk, trabajaba de ingeniero.[8]​ Maye trabajó en casa como asesora nutricionista para clientes. En los fines de semana Maye trabajaba como modelo, por lo que sus hijos apenas veían a sus padres y tenían mucha libertad para perseguir sus intereses.
+
+ 
+
+A los 10 años aprendió a programar.[9]​ Vendió su primer programa, un juego del espacio llamado Blastar, por el equivalente a 500 USD cuando tenía 12 años.[9]​ El dinero que ganaba programando lo gastaba en cómics, ordenadores y juegos de rol como Dungeons and Dragons.[10]​
+En 1979, para escapar de los maltratos de su marido, Maye se divorció y se mudó a Durban. Errol reclamó en los tribunales los términos del divorcio.[11]​
+En 1981 Elon decidió ir a vivir a Johannesburgo con su padre porque lo veía triste y solitario. Kimbal se unió a ellos cuatro años después.[6]​ Su padre, Errol, era un ingeniero brillante que hizo mucho dinero en los negocios oscuros de la construcción y la minería de esmeraldas.
+En la escuela no tenía amigos y era maltratado por sus compañeros. Tras tomar clases de karate, judo, lucha y a los 16 años crecer hasta los 180 cm, empezó a defenderse.[12]​
+Después de graduarse en la Secundaria para varones de Pretoria se fue de su casa cuando tenía 17 años, sin el apoyo de sus padres y en parte debido al servicio militar obligatorio en el ejército sudafricano.
+Como su madre había nacido en Regina, Saskatchewan, Canadá, de padres estadounidenses, y como muchos de sus parientes vivían en el Oeste Canadiense, Musk emigró a Canadá.
+En 1989 Elon, Kimbal, Tosca y Maye Musk se mudaron a Kingston, Ontario.[13]​[14]​
+Cuando llegó a Canadá, todos los ahorros de Maye estaban bloqueados, por lo que tuvo que trabajar en varios empleos.
+Maye alquiló un pequeño apartamento en Toronto donde estuvieron 3 semanas retirando grapas del suelo y papel pintado de las paredes. En el proceso Maye se cortó la mano y puso en riesgo sus trabajos como modelo de manos.
+Con el primer dinero que ganó Maye compró una alfombra gruesa para que pudieran dormir en el suelo del apartamento y un ordenador para Elon Musk.[15]​
+Maye trabajó como investigadora en la Universidad de Toronto. Simultáneamente impartió clases de nutrición y modelaje dos noches por semana y además trabajaba como asesora nutricionista y estudiaba para su segundo máster dietético.[15]​ Sus tres hijos tuvieron que conseguir becas, pedir préstamos y trabajar para estudiar en la universidad. Muchos meses no podían comer carne roja ni una vez a la semana.[15]​
+En 1992 Elon obtuvo una beca para estudiar Economía y Física en la Universidad de Pensilvania. Recibió sus títulos de Economía y Física del Wharton School en la Universidad de Pensilvania. Después se matriculó en Stanford para hacer el doctorado pero a los dos días lo abandonó para iniciar su propia empresa.[16]​
+Uno de sus profesores en la Universidad de Pensilvania era director ejecutivo de una empresa en Los Gatos, Silicon Valley, dedicada a investigar ultracondensadores electrolíticos destinados a vehículos eléctricos. Elon Musk trabajó un verano en la empresa Pinnacle Research. Esos ultracondensadores tenían una densidad energética muy alta, pero sus componentes químicos eran carísimos y se vendían por miligramos porque había muy pocas minas que los extrajeran. No eran escalables para su producción en masa.[10]​[17]​
+Tras obtener sus licenciaturas, e inspirado por innovadores como Nikola Tesla,[18]​ Musk decidió entrar en tres áreas en las que consideraba había «problemas importantes», como luego indicaría él mismo: «Una de ellas era internet, otra la energía renovable y la otra era el espacio».[9]​
+
+
+== Carrera ==
+A los 9 años comenzó a programar un Commodore VIC-20 que tenía 8 kilobytes de memoria RAM.[19]​
+En Sudáfrica, Elon Musk hizo su primer negocio a los 12 años cuando vendió, por 500 dólares, el código fuente de un videojuego[16]​ a la revista sudafricana PC and Office Technology, que en 1984 publicó las 167 líneas de código fuente del juego espacial de ciencia ficción Blastar, del que la introducción decía: «En este juego tienes que destruir un carguero extraterrestre que lleva bombas mortales de hidrógeno y Status Beam Machines. El programa hace un buen uso de los sprites y las animaciones, y en este sentido su lectura merece la pena».[20]​
+En 1995 tuvo la intención de trabajar para Netscape y fue a sus oficinas, pero no se atrevió a hablar con nadie por timidez.[19]​
+
+
+=== Zip2 ===
+
+Kimbal acompañó a Elon en un viaje en coche atravesando todo Estados Unidos en un mes, desde Silicon Valley a Filadelfia, donde Elon tenía que completar sus estudios en Penn. Durante el viaje hablaron mucho de emprender un negocio.[21]​
+En 1995, Musk se inscribió en el programa de doctorado en Física Aplicada y Ciencia de Materiales en la Universidad de Stanford, pero a los dos días abandonó las clases para poder fundar Zip2, junto con su hermano Kimbal Musk y su amigo Greg Curry.[22]​ Elon Musk era el director ejecutivo de Zip2.[19]​
+Zip2 gestionaba el desarrollo, alojamiento y mantenimiento de sitios web específicos para empresas de medios de comunicación. Esto les permitía establecer una presencia en la web a través de la edición automática añadiendo mapas e indicaciones de ruta para ir de puerta a puerta a las direcciones (un negocio que anticipaba lo que sería Google Maps combinado con Yelp).[16]​ Para ello consiguieron el uso gratuito de la cartografía de Navteq, que había costado 300 millones de USD. Aplicaron el lenguaje Java para enviar los mapas e indicaciones como imágenes vectoriales en lugar de mapas de bits, que eran muy lentos de transmitir en la incipiente red de internet.[23]​
+Elon se dedicó a la programación y la ingeniería, mientras que Kimbal hacía las ventas y buscaba capital.[24]​
+Elon era inmigrante con una visa temporal y Kimbal era un inmigrante ilegal en Estados Unidos.[25]​
+Por la falta de recursos económicos Kimbal y Elon estuvieron un tiempo viviendo en la oficina de 4 m x 9 m de Zip2 y usaban las instalaciones de YMCA para ducharse.[26]​ Solían comer muy barato en Jack in the Box.[23]​
+Cuando lo pudieron pagar se mudaron a un apartamento y Kimbal cocinaba para toda la plantilla de Zip2.[27]​
+Su hermana Tosca se mudó de Toronto a San Francisco y  trabajó con ellos en Zip2.[28]​
+Para el 50 cumpleaños de su madre Maye, sus hijos, como no tenían dinero, le regalaron una casita de madera de juguete y un coche de madera del tamaño de una caja de cerillas y le dijeron: Un día te los compraremos de verdad.[15]​
+En febrero de 1999 gestionaba casi 200 sitios web, incluyendo el sitio New York Today, que era un directorio local del The New York Times.
+Zip2 también gestionaba parte de las cadenas de Hearst Corporation, Times Mirror, Knight-Ridder y Pulitzer Publishing.
+Zip2 fue vendida a Compaq Computer en 1999 por 307 millones de dólares,[29]​[27]​ de los que Elon recibió 22 millones de USD.[12]​
+
+
+=== X.com y PayPal ===
+
+En marzo de 1999 Elon Musk, Ho, Harris Fricker y Cristopher Payne fundaron X.com como una startup financiera. Inicialmente Musk invirtió 12 millones USD en X.com.[30]​
+A los cinco meses de su fundación Harris Fricker amenazó diciendo que si no era CEO se marcharía con el resto a crear otra compañía. Elon Musk le dijo que debería hacerlo. Fricker, Ho y otros ingenieros claves abandonaron X.com. Fricker tuvo una carrera exitosa como CEO de GMP Capital. Payne fundó una firma de capital privado en Toronto.[30]​
+X.com fue uno de los primeros bancos de internet. Tuvo que luchar contra numerosas regulaciones bancarias. Sus depósitos estaban asegurados por la FDIC.[30]​
+Confinity Inc. fue una compañía de software de Silicon Valley fundada en diciembre de 1998 por Max Levchin, Peter Thiel y Luke Nosek como empresa criptográfica que procesaba pagos electrónicos.
+A finales de 1999 Confinity lanzó su producto estrella, PayPal, que a través del puerto de infrarrojos permitía mandar dinero entre usuarios de PDA como la Palm Pilot.[31]​
+En marzo de 2000 X.com y Confinity decidieron que tenía más sentido unir fuerzas que derrochar dinero en publicidad para atraer a los mismos clientes. Combinando el producto PayPal con los sofisticados servicios de X.com se fusionaron en una nueva entidad llamada X.com de la que Elon Musk fue nombrado CEO por ser el mayor accionista de la compañía fusionada resultante. En unas semanas X.com levantó 100 millones USD de inversión de Deutsche Bank y Goldman Sachs. En aquel tiempo X.com tenía más de un millón de clientes.[20]​
+Las dos compañías trataron de juntar sus culturas con poco éxito. Hubo peleas sobre el diseño de la infraestructura tecnológica de la empresa. El equipo de Confinity, liderado por Levchin, quería usar software de código abierto Linux, mientras que Musk quería usar el software de centro de datos de Microsoft.[30]​
+X.com se enfrentó en duras batallas a la infraestructura tecnológica, el fraude en línea y las estrategias de marca. En septiembre de 2000 las tensiones dentro del equipo directivo aumentaron.
+En enero de 2000 Elon Musk se había casado con Justine Wilson. El trabajo no les había permitido ir de luna de miel. Nueve meses después planearon juntar negocio y ocio para hacer un viaje para buscar capital inversor y terminarlo en luna de miel en los Juegos Olímpicos de Sydney. A las 22:30, cuando Musk estaba volando, se celebró una junta extraordinaria de X.com en la que se destituyó a Elon Musk como CEO y se nombró a Peter Thiel. Elon Musk canceló su luna de miel, tomó el primer avión de vuelta a California y pidió al consejo que reconsiderase su decisión.
+Musk terminó aceptando la reorganización y aunque su influencia en la compañía decreció, Musk quedó como asesor consultivo y siguió invirtiendo aumentando su posición como mayor accionista.[20]​[32]​
+En junio de 2001 X.com cambió el nombre por el de su producto PayPal para denominarse PayPal Inc.
+En 2002 PayPal empezó a cotizar en bolsa.
+Por entonces la compañía facturaba 240 millones USD al año con PayPal.
+Cuando eBay mostró interés en comprar PayPal la mayoría querían vender cuanto antes. Musk y Mortiz pidieron al consejo que rechazara las primeras ofertas. En julio de 2002 eBay subió la oferta hasta 1500 millones USD y el consejo y Musk aceptaron la venta.[30]​
+En octubre de 2002, eBay adquirió PayPal por 1500 millones de dólares en acciones.[33]​ Antes de la venta, Musk era el accionista mayoritario, con el 11.7% de las acciones de PayPal.[34]​
+Con la venta Elon Musk ganó 180 millones USD después de impuestos.[16]​ Dedicó 100 millones USD a fundar SpaceX, 70 millones USD a Tesla, Inc. y 10 millones USD a SolarCity.[12]​
+Varios miembros del equipo de PayPal fundaron sus propias compañías, como YouTube (Chad Hurley, Steve Chen y Jawed Karim), LinkedIn (Reid Hoffman), Yelp (Russel Simmons, Jeremy Stoppelman), Palantir Technologies, y Jammer.[10]​
+Otros, como Peter Thiel, Reid Hoffman y Botha, se convirtieron en grandes inversores en la industria tecnológica.[30]​
+En 2015 eBay se separó de PayPal para hacerla una compañía independiente.[35]​
+
+
+=== SpaceX ===
+
+En 2002, Elon Musk comenzó a investigar la viabilidad de mandar un cohete a Marte. Cada cohete Delta-2 costaba entre 50 y 60 millones de dólares por misión y se necesitaban al menos 2 misiones. Realizó tres viajes a Rusia e intentó comprar sin éxito cohetes intercontinentales ICBM sin las cabezas nucleares.[17]​[36]​ En el avión de vuelta con sus socios Mike Griffin y Jim Cantrell, Elon les mostró una hoja de cálculo en la que había trabajado durante meses. Era el primer prototipo de SpaceX donde detallaba todas las partes del negocio. En el diseño usaría cohetes reutilizables. Tendría una estrategia de integración vertical. En las necesidades de los clientes había un nicho emergente para lanzar satélites pequeños. Analizaba criterios de costes y beneficios. El modelo de negocio sería el de una empresa aeroespacial privada. También había estudiado la física detrás de la estructura del cohete y el lanzamiento.[20]​
+En junio de 2002, Musk fundó su tercera compañía, Space Exploration Technologies (SpaceX),[37]​
+de la cual es actualmente el director ejecutivo y director de tecnología. SpaceX se dedica a desarrollar y producir lanzaderas espaciales, con un énfasis en reducción de costes y una alta fiabilidad. Los primeros dos cohetes de transporte desarrollados por SpaceX son el Falcon 1 y el Falcon 9, y su primera cápsula es la Dragon.
+El 23 de diciembre de 2008 SpaceX firmó un contrato de 1600 millones de dólares con la NASA[38]​ por 12 vuelos de su cohete Falcon 9 y la nave Dragon a la Estación Espacial Internacional, reemplazando al Transbordador Espacial después de su retiro en el 2011. Inicialmente, el Falcon 9 y el Dragón reemplazarán la función de transporte de carga del transbordador, mientras que la función de transporte del personal será realizada por el Soyuz. Sin embargo, SpaceX ha diseñado el Falcon 9/Dragon para transporte de astronautas, y la Comisión Augustine ha recomendado que el transporte de astronautas sea manejado por empresas comerciales como SpaceX.[39]​
+Musk ve la exploración espacial como un paso importante en la expansión -incluso la preservación- de la conciencia humana.[40]​ Musk ha dicho que la vida en múltiples planetas nos puede servir como una defensa en contra de amenazas a la supervivencia de la especie humana.
+
+ 
+
+El objetivo de Musk es el de reducir el costo de los viajes tripulados al espacio por un factor de 100. Fundó SpaceX con 100 millones de dólares de su fortuna acumulada anteriormente y continúa siendo el director ejecutivo (CEO) y de tecnología (CTO) de su empresa ubicada en Hawthorne, California.
+En siete años, SpaceX diseñó la familia de cohetes Falcon y las naves espaciales multiuso Dragon desde cero. En septiembre de 2009, El Falcon 1 se convirtió en el primer vehículo de combustible líquido de financiamiento privado en poner un satélite en la órbita terrestre. La NASA seleccionó a SpaceX para formar parte del primer programa que entregaría a empresas privadas la responsabilidad de llevar carga a la Estación Espacial Internacional. Este contrato, que tiene un valor mínimo de 1600 millones de dólares y un valor máximo de 3100 millones, se ha convertido en una piedra fundamental de la estación espacial. Además de estos servicios, los objetivos de SpaceX incluyen reducir los costos de los vuelos orbitales y aumentar su fiabilidad, ambos por factor de diez, al mismo tiempo que crea el primer vehículo de lanzamiento orbital reutilizable. En los próximos años, Musk se enfocará en llevar a los astronautas a la Estación Espacial Internacional, e incluso a Marte.[41]​
+
+
+==== Starlink ====
+
+Starlink es un proyecto de la empresa SpaceX para la creación de una constelación de satélites de internet[42]​ con el objetivo de brindar un servicio de internet de banda ancha, baja latencia y cobertura mundial a bajo costo.[43]​[44]​[45]​ En 2017 se completaron los requisitos regulatorios para lanzar 11 943 satélites para mediados de la década de 2020.[46]​ SpaceX también planea vender satélites para uso militar,[47]​ científico y de exploración.[45]​ En noviembre de 2018, la empresa recibió la autorización del ente gubernamental estadounidense (FCC) para desplegar 7518 satélites de banda ancha, que se sumarían a los 4425 aprobados en marzo del mismo año.[48]​
+El desarrollo comenzó en 2015, y los primeros prototipos de satélite fueron lanzados el 22 de febrero de 2018.[49]​[50]​ El lanzamiento de los primeros 60 satélites se llevó a cabo el 23 de mayo de 2019, y se espera que el inicio de operaciones comerciales de la constelación empiece en el año 2020.[51]​[52]​ La investigación y desarrollo del proyecto tiene lugar en las instalaciones de SpaceX ubicadas en Redmond, Washington.
+El tráfico de Internet a través de un satélite geoestacionario tiene una latencia teórica mínima de al menos 477 ms desde el usuario al satélite pero, en la práctica, esta latencia es de 600 ms o más. Los satélites de StarLink orbitarían entre 1/30 y 1/105 de la distancia de las órbitas geoestacionarias y, por lo tanto, ofrecerían latencias de entre 7 y 30 ms, comparables o inferiores a las redes de cable o fibra existentes.[53]​
+En mayo de 2018, SpaceX calculó que el costo total del desarrollo y la construcción de la constelación se acercará a los 10 000 millones de USD.[54]​
+
+
+=== Tesla ===
+
+En 2003 JB Straubel y Elon Musk visitaron la empresa AC Propulsion, que tenía un prototipo de coche deportivo eléctrico basado en un kit de un coche de gasolina al que habían adaptado un motor eléctrico y unas baterías de iones de litio. El prototipo aceleraba de 0 a 100 km/h en menos de 4 segundos y tenía una autonomía de 300 kilómetros. Durante meses Elon Musk trató de convencerlos de que comercializaran el vehículo, pero ellos no estaban interesados en hacerlo. Los miembros de AC Propulsion lo pusieron en contacto con Martin Eberhard, Marc Tarpenning y fundaron Tesla Motors con la intención de fabricar un coche eléctrico deportivo.
+En abril de 2004 Elon Musk decidió invertir 6,3 millones de dólares en Tesla Motors. No era el único inversor, pero contribuyó con el 98 % de la financiación. Otros inversores fueron Eberhard y pequeñas firmas de capital riesgo. Musk continuó invirtiendo en todas las rondas siguientes. Como resultado de la crisis financiera de 2008 y retiros forzosos en Tesla,[55]​ Musk aceptó tomar el puesto de director ejecutivo en 2008.[56]​
+Elon diseñó los logotipos y letras de Tesla y SpaceX.[57]​
+En 2006 anunció su plan maestro para Tesla:
+
+ 
+[58]​
+Su inexperiencia e ingenuidad les llevaron a infravalorar el capital necesario para crear una empresa fabricante de coches. Tenían previsto gastar 25 millones de USD antes de la primera entrega y terminaron gastando 140 millones de USD.
+Compraban carrocerías de Lotus Elyse a las que instalaban baterías, motor eléctrico y controladores aumentando el peso más del 60% por lo que invalidaban las pruebas de choque originales. Al final el Tesla Roadster tenía solo un 7% de piezas comunes con el Lotus Elyse.
+El ensamblado de los componentes se hacía en unas instalaciones que les alquiló un concesionario de Ford.[59]​
+Martin Eberhard falseó las cuentas y pidió a otros que mintieran al respecto. Elon afirmó repetidamente que Martin Eberhard es la peor persona con la que ha trabajado.[60]​ Las dificultades financieras estuvieron a punto de llevar a Tesla a la bancarrota.
+Hasta junio de 2012 se habían vendido 2100 Tesla Roadster en 31 países. El deportivo de dos plazas Tesla Roadster costaba unos 100 000 dólares.
+
+ 
+
+El nombre Tesla era una marca registrada por un particular en 1995 y Marc Tappening consiguió negociar su compra por 75 000 USD.
+En febrero de 2016, tras 10 años en el empeño, compraron el dominio tesla.com por 10 millones de USD a Stu Grossman, que no lo usaba para alojar páginas web.[61]​[62]​
+De los primeros tiempos de Tesla Elon recordaba:
+
+ 
+[12]​
+Aprendiendo de los errores cometidos con el Roadster diseñaron desde cero un turismo eléctrico de lujo con 5 puertas y prestaciones de un coche deportivo. Tenía actualizaciones de software telemáticas y podía hacer viajes cargando en la red de cargadores rápidos superchargers de Tesla.
+En octubre de 2010 Tesla compró la vieja fábrica NUMMI, que había fabricado para GM y Toyota, de la que apenas pudieron usar máquinas o herramientas y la mayoría fue a la chatarra.
+Los suministradores de componentes del automóvil eran reacios a venderles piezas de calidad y Tesla se vio obligada a fabricarlas mediante integración vertical para no desaparecer.[63]​
+El 22 de junio de 2012 comenzó la producción del liftback eléctrico Tesla Model S de 5 plazas más dos asientos infantiles. La versión más barata era la de 60 kWh y tenía 335 km de autonomía EPA y aceleraba de 0 a 100 km/h en 5,5 segundos. La versión de 85 kWh tenía 426 km de autonomía EPA y aceleraba de 0 a 100 km/h en 5,4 segundos. En marzo de 2020 todavía ningún otro coche eléctrico (que no fuera Tesla) había superado estas prestaciones. En 2020 estaba a la venta el Tesla Model S P100D Ludicrous con una autonomía de 555 km EPA y una aceleración de 0 a 100 km/h en 2,3 segundos, lo que le convertía en el coche de serie más rápido del mundo en aceleración. Desde octubre de 2014 todos los Tesla Model S salen de fábrica con el hardware que permitirá activar las funcionalidades del sistema Autopilot. Incluye un radar frontal, 12 sensores ultrasónicos que detectan objetos alrededor del coche en todas direcciones y velocidades, una cámara frontal de alta precisión y un sistema de asistencia a la frenada controlado digitalmente.
+El Tesla Model X es un SUV eléctrico fabricado por Tesla Motors basado en la plataforma del Model S. Las puertas traseras de gaviota son articuladas y se abren hacia arriba.
+Inició sus entregas en el mercado estadounidense en septiembre de 2015.
+La versión más barata era la de 60D y tenía 322 km de autonomía EPA y aceleraba de 0 a 100 km/h en 6,2 segundos. La versión de P90D tenía 402 km de autonomía EPA y aceleraba de 0 a 100 km/h en 3,4 segundos.
+En julio de 2016 Musk publicó la segunda parte del plan maestro de Tesla:[64]​
+
+ 
+
+En julio de 2016, Tesla comenzó a desarrollar su hardware y software Autopilot dentro de la empresa, finalizando su colaboración con Mobileye.[65]​
+En noviembre de 2016, SolarCity fue adquirida por Tesla, Inc.[66]​
+El Tesla Model 3 es un vehículo eléctrico que se lanzó con un precio base de 35 000 dólares. Su producción comenzó a mediados de 2017. En 2018 y en 2019 fue el modelo eléctrico más vendido en el mundo. En 2019 el Tesla Model 3 fue el séptimo turismo más vendido en Estados Unidos con 154 836 unidades.
+La versión más barata del Tesla Model 3 era la SR y tenía 354 km de autonomía EPA y aceleraba de 0 a 100 km/h en 5,6 segundos. La versión de Performance y tenía 499 km de autonomía EPA y aceleraba de 0 a 100 km/h en 3,4 segundos.
+En enero de 2019 Musk viajó a China para el comienzo de las obras de Gigafactoría Shanghai, que era la primera gran planta de Tesla fuera de Estados Unidos.[67]​El tiempo entre el inicio de obras y la producción de los primeros coches fue de menos de un año.[68]​
+El Tesla model Y es un crossover eléctrico que comparte el 75% de las piezas con el Tesla Model 3. Sus entregas comenzaron en marzo de 2020.
+La versión más barata del Tesla Model Y era la SR y tenía 370 km de autonomía EPA y aceleraba de 0 a 100 km/h en 6,3 segundos. La versión de Performance y tenía 450 km de autonomía EPA y aceleraba de 0 a 100 km/h en 3,7 segundos.
+En 2020 Tesla había vendido un millón de vehículos acumulando sus modelos Roadster, Model S, Model X y Model 3 y se había anunciado la producción inminente del Tesla Semi, el Tesla Roadster 2020 y el Tesla Cybertruck.
+Todos los vehículos Tesla fabricados desde 2014 llevan de serie el hardware HW1 (una cámara, sensores ultrasónicos, 1 radar) para el Autopilot (asistencia a la conducción).
+Desde octubre de 2016 tienen de serie el hardware HW2 (8 cámaras, 12 sensores ultrasónicos, 1 radar delantero). Desde abril de 2019 todos los vehículos Tesla tienen activadas las funciones básicas de Autopilot. Las funciones avanzadas de conducción autónoma (Full Self-Driving Capabilities) son opcionales.[69]​ Las capacidades del Autopilot se actualizan telemáticamente sin llevar los coches al taller. El sistema Autopilot entrena una red neuronal de aprendizaje profundo con datos que recopila de toda la flota de vehículos Tesla equipados con el hardware Autopilot, que en marzo de 2020 ya eran 950 000. Esto convertía a Tesla en la empresa que había recopilado más datos reales para la conducción autónoma en todo tipo de situaciones.
+A principios de 2020 Tesla se convirtió en el segundo fabricante de coches en capitalización bursátil tras Toyota.[70]​
+En enero de 2016 Musk tenía 28,9 millones de acciones de Tesla, que equivalía a un 22% de la compañía.[71]​[72]​
+
+
+=== SolarCity ===
+
+Es una empresa de productos fotovoltaicos y servicios fundada en 2006, donde su primo, Lyndon Rive, es el consejero delegado y cofundador. Elon Musk es el principal inversor y presidente de la junta directiva de SolarCity.[73]​[74]​ Elon Musk no dirige las operaciones diarias de la empresa. En 2011 SolarCity era la mayor empresa proveedora de sistemas de energía solar en Estados Unidos. Su objetivo es extender la energía solar y hacerla lo más asequible posible.[75]​
+La motivación subyacente para la fundación de SolarCity y Tesla Motors es la de combatir el calentamiento global.[76]​
+En 2016 SolarCity se fusionó con Tesla, Inc.
+
+
+=== Halcyon Molecular ===
+Él es miembro de la junta directiva, junto con sus compañeros fundadores de PayPal Luke Nosek y Peter Thiel.[77]​
+Halcyon Molecular fue fundada con el objetivo de investigar medicamentos, extender la longevidad.
+
+
+=== Tesla Energy ===
+
+El 30 de abril de 2015 Tesla presentó dos sistemas de almacenamiento de energía: Powerwall y Powerpack. El Tesla Powerwall es un paquete de baterías de iones de litio usado como respaldo en la red eléctrica de un domicilio y que puede almacenar energía eléctrica proveniente de la generación de energía renovable, como instalaciones solares o eólicas, o almacenar electricidad en horario nocturno cuando la electricidad es más barata.[78]​ Puede instalarse en exteriores o interiores y no precisa un cuarto cerrado.[79]​
+También permite realizar una instalación eléctrica en lugares remotos sin acceso a la red.
+Tesla ofrece dos capacidades: 7 kWh y 10 kWh.
+El modelo de 7 kWh está optimizado para ciclos diarios mientras que el de 10 kWh está optimizado para el respaldo de energía cuando ocurren cortes de electricidad.[80]​[81]​[82]​[83]​
+Para instalaciones mayores Tesla ofrecía el Powerpack de 100 kWh de capacidad y que puede escalarse de forma indefinida hasta alcanzar capacidades de GWh.[84]​
+En septiembre de 2017 Musk acordó con el gobierno del Sur de Australia un contrato de Tesla Energy para instalar la que sería entonces la mayor central de almacenamiento eléctrico con baterías de iones de litio para aliviar los apagones en el estado. Musk lo acordó en Twitter, con la garantía de que si no lo terminaba en 100 días le saldría gratis al gobierno.[85]​
+Se instaló en plazo[86]​ y excedió las prestaciones y beneficios previstos,[87]​ a pesar del escepticismo de los políticos federales australianos.[88]​[89]​
+El proyecto de 100MW/129MWh costó 66 millones de USD y en el primer año produjo unos ahorros de 40 millones de USD.[90]​[91]​
+El 29 de julio de 2019 Tesla presentó el Tesla Megapack con una capacidad de almacenamiento de 3 MWh y una capacidad de inversor de 1.5 MW. En menos de 3 meses Tesla podía instalar en una superficie de 8900 m² una planta de 250 MW de potencia y 1 GWh de almacenamiento. Tenía la opción de conectarse directamente a corriente continua DC producida por paneles fotovoltaicos para crear una planta de energía renovable.[91]​
+
+
+=== Neuralink ===
+
+Neuralink es una empresa de nanobiotecnología fundada por Musk que tiene como objetivo integrar el cerebro humano con la inteligencia artificial. La compañía fue fundada en 2016 y se dio a conocer al gran público por primera vez en marzo de 2017. La empresa se centra en la creación de dispositivos que se pueden implantar en el cerebro humano, con el propósito final de ayudar a los seres humanos a fusionarse con el software y mantener el ritmo de los avances en inteligencia artificial. Estas mejoras podrían mejorar la memoria o permitir una interacción más directa con los dispositivos informáticos.[92]​[93]​[94]​
+
+
+=== OpenAI ===
+
+OpenAI es una empresa de investigación de inteligencia artificial (IA) sin fines de lucro que tiene como objetivo promover y desarrollar inteligencia artificial amigable, de tal manera que beneficie a la humanidad en su conjunto.
+
+
+=== The Boring Company ===
+
+The Boring Company (La Compañía Tuneladora) es una compañía de excavación e infraestructuras fundada por Elon Musk a finales de 2016, después de mencionar primero la idea en su cuenta de Twitter.[95]​[96]​ Musk afirmó que la dificultad con el tráfico de Los Ángeles y las limitaciones de una red de transporte en 2D fueron la inspiración para el proyecto.[97]​
+En febrero de 2017, la compañía comenzó cavando una zanja de prueba de 9 metros de ancho, 15 metros de largo y 4.5 metros de profundidad en las oficinas de SpaceX en Los Ángeles, debido a que la construcción en ese lugar no requiere de permisos.[95]​[98]​
+A principios de 2018 the Boring Company se desgajó de SpaceX formando una compañía separada. El 90% de las acciones fueron a Elon Musk y el 10% a los primeros empleados. En diciembre de 2018 se reasignó el 6% de las acciones a SpaceX.[99]​
+El objetivo de la compañía es mejorar el método y la velocidad de excavación lo suficiente para establecer una red subterránea de túneles que sea económicamente factible.[100]​
+
+ 
+[101]​
+A finales de abril de 2017, la compañía empezó a utilizar una tuneladora para iniciar la construcción de un túnel utilizable en SpaceX, tal como había anunciado Musk en marzo del mismo año.[102]​
+En mayo de 2019 la compañía ganó un proyecto de 48.7 millones de USD para transportar personas bajo Las Vegas. En septiembre comenzaron los preparativos[103]​ y la construcción en octubre de 2019.[104]​
+El 15 de noviembre de 2019 comenzaron a tunelar el primer túnel[105]​ y lo terminaron el 27 de diciembre de 2019. Musk anunció que estaría operativo en 2020.[106]​
+
+
+== Método de trabajo ==
+Para abordar un problema acude a los principios básicos de la Física. Usa su versión del método científico:
+
+1. Se pregunta una cuestión.2. Reúne todas las posibles evidencias sobre el asunto.3. Desarrolla axiomas basados en la evidencia e intenta asignar una probabilidad de verdad a cada una.4. Llega a una conclusión basada en la evidencia para determinar: ¿Son correctos estos axiomas? ¿Son relevantes? ¿Necesariamente llevan a esta conclusión? ¿Con qué probabilidad?5. Intenta falsear la conclusión. Busca refutaciones de otros que te ayuden a romper tu conclusión.6. Si nadie puede invalidar tu conclusión, entonces probablemente tengas razón, pero no la razón absoluta.[12]​
+
+
+=== Hidrógeno ===
+Para alimentar un coche eléctrico había dos opciones viables: baterías o una pila de combustible alimentada por hidrógeno.
+Mientras otros fabricantes —como Toyota, Honda, Kia— apostaban por el hidrógeno Musk lo hizo por las baterías para los vehículos Tesla.
+En el Automotive World News Congress de Detroit en 2015 y respondiendo a una pregunta Musk dijo en dos minutos:
+
+ 
+[107]​
+Los coches de pila de combustible de hidrógeno se comenzaron a vender comercialmente en 2013. En 2017 vendieron 6475 unidades en todo el mundo.[108]​ En 2019 las ventas globales alcanzaron las 7574 unidades de los tres modelos disponibles: Kia Nexo, Toyota Mirai y Honda Clarity.[109]​
+Sin embargo, en 2019 globalmente se vendieron 2.2 millones de vehículos eléctricos, de los que Tesla vendió 367 820 unidades.[110]​
+
+
+=== Conducción autónoma ===
+Un lídar o lidar (acrónimo del inglés LIDAR, Light Detection and Ranging o Laser Imaging Detection and Ranging) es un dispositivo que permite determinar la distancia desde un emisor láser a un objeto o superficie utilizando un haz láser pulsado. La distancia al objeto se determina midiendo el tiempo de retraso entre la emisión del pulso y su detección a través de la señal reflejada. En 2019 un LIDAR para coche se vendía por unos 75 000 USD.[111]​
+En 2019 en el desarrollo de las técnicas para la conducción autónoma la mayoría de las empresas (Waymo de Alphabet, Ford, Uber, y GM Cruise) usaban LIDAR mientras que Tesla apostó por resolver el problema sin LIDAR y usando un ordenador que procesaba las imágenes de cámaras para reconocer y comprender el mundo.
+
+ 
+[112]​
+En 2019 Tesla desarrolló y produjo su propio ordenador FSD para la conducción autónoma que procesaba 2300 fps (fotogramas por segundo) consumiendo solo 72 vatios.
+Elon Musk dijo los mapas GPS de alta precisión para la conducción autónoma eran una muy mala idea porque llevaban a que el sistema se hiciera extremadamente frágil al depender demasiado de ellos y no ser capaz de adaptarse.[111]​
+En abril de 2019 Tesla tenía 425 000 vehículos equipados con el hardware para la conducción autónoma. En marzo de 2020 ya eran 950 000 coches que cuando circulaban proporcionaban a Tesla datos de conducción real (no simulada) que alimentaban su red neuronal de aprendizaje profundo para la conducción autónoma.
+
+
+== Filantropía ==
+Musk es el presidente de la Musk Foundation, que enfoca sus esfuerzos filantrópicos en la educación científica, salud pediátrica y energía limpia.[75]​
+Es uno de los fiduciarios de la Fundación X Prize, la cual promueve el uso de energía limpia.
+Es miembro de la junta directiva de la Space Foundation, La National Academy of Aeronautics and Space Engineering, la Sociedad Planetaria, y la Space Engineering Advisory Board de la Universidad de Stanford.
+Musk también es miembro de la junta de fiduciarios del California Institute of Technology (Caltech).
+En el 2010, Musk inició un programa multimillonario a través de su fundación para donar sistemas de energía solar para necesidades críticas en zonas de desastres, dando preferencia a las áreas donde SolarCity no opera y no tiene intención de establecer operaciones. La razón por la que eligió estas áreas, fue para dejar claro que este era un emprendimiento estrictamente filantrópico con ninguna intención de lucro.
+El primero de estos equipos en ser utilizado fue en un centro de respuesta a huracanes en Alabama que no había recibido ayuda estatal o federal.[113]​
+En julio de 2011 la Musk Foundation donó 250 000 USD para un proyecto de energía fotovoltaica en Sōma, Fukushima, Japón, que había sido devastada por un reciente tsunami.[114]​
+
+En el 2001, Musk tenía planes de llevar adelante el proyecto "Oasis en Marte", el cual llevaría un invernadero experimental en miniatura a Marte, que contendría plantas comestibles que crecerían en el regolito marciano.[115]​[44]​ No obstante, decidió posponer indefinidamente el proyecto ya que llegó a la conclusión de que el problema fundamental que impide a la humanidad convertirse en una civilización espacial es la falta de desarrollo en la tecnología de cohetes. Decidió tratar este problema fundando SpaceX para poder crear nuevos cohetes interplanetarios.
+Es uno de los firmantes de The Giving Pledge formado por millonarios que adquieren el compromiso moral de donar parte de su fortuna.[116]​
+En julio de 2014 el dibujante de cómics Matthew Inman y el bisnieto de Nikola Tesla, William Terbo, pidieron a Elon Musk que donara 8 millones de USD para la construcción del Tesla Science Center at Wardenclyffe.[117]​ Musk donó 1 millón de USD para el proyecto y acordó instalar un Tesla Supercharger en el aparcamiento del museo.[118]​[19]​
+En enero de 2015 Musk donó 10 millones de USD para que el Future of Life Institute hiciera un programa de investigación global para mantener beneficiosa para la humanidad a la inteligencia artificial.[119]​[120]​
+En octubre de 2018, en un esfuerzo para ayudar a resolver la crisis de agua por envenamiento por plomo en Flint (Michigan), Musk y la Musk Foundation donarón 480 000 USD para instalar nuevas fuentes con sistemas de filtración para que todas las escuelas de Flint pudieran tener agua potable segura.[121]​ En octubre de 2019 habían conseguido que 30 000 niños de las 12 zonas escolares tuvieran agua potable segura.[122]​
+Musk es uno de los mayores donantes de la American Civil Liberties Union ACLU.[123]​
+En octubre de 2019 Musk donó 1 millón de USD a la iniciativa para la plantación de 20 millones de árboles '#TeamTrees' liderada por miembros de la comunidad de YouTube y en colaboración con la fundación Arbor Day Foundation.[124]​[125]​
+
+
+== Premios y reconocimientos ==
+
+En junio del 2011, Musk recibió por el Premio Heinlein por Avances en la Comercialización del Espacio.[126]​
+En febrero del 2011, la revista Forbes incluyó a Musk en su lista de los «20 directores ejecutivos (CEO) de menos de 40 años más poderosos en los Estados Unidos».[127]​
+La Federación Aeronáutica Internacional, la organización encargada del registro de récords de vuelo, otorgó a Musk el máximo honor de la institución, la FAI Gold Space Medal, por diseñar el primer cohete en alcanzar la órbita con fondos privados. Otros receptores del premio incluyen a Neil Armstrong, Burt Rutan de Scaled Composites y John Glenn.
+Fue incluido en la lista de las 100 personas que más influyeron al mundo en el 2010 de la revista Time.
+La revista Esquire lo nombró como una de las 75 personas más influyentes del siglo XXI.[40]​
+Fue reconocido como una Leyenda viviente de la aviación en el 2010 por la Fundación Kitty Hawk por crear el sucesor del Transbordador Espacial (F9/Dragon). Otros galardonados incluyen a Buzz Aldrin y Richard Branson.[128]​
+También recibió el premio George Low del American Institute of Aeronautics and Astronautics por su notable contribución al transporte aeroespacial en el 2008. Musk fue reconocido por su diseño del Falcon 1, el primer vehículo privado propulsado con combustible líquido en alcanzar la órbita de la tierra.[129]​
+Recibió el Trofeo Von Braun de la Sociedad Espacial Nacional en 2008/2009, por su liderazgo en un logro significativo en el espacio.[130]​
+Recibió el National Conservation Achievement Award del National Wildlife Federation por Tesla Motors y SolarCity.[131]​
+Fue galardonado en la Aviation Week de 2008 por contar con el logro más significativo a nivel mundial en la industria espacial.[132]​
+Fue nombrado el Innovador del Año en 2007 por la R&D Magazine por SpaceX, Tesla and SolarCity.[133]​
+En 2010, fue nombrado el Ejecutivo Automotriz del Año a nivel mundial por demostrar liderazgo tecnológico e innovación con Tesla Motors. Musk es el hombre más joven en recibir este galardón.[134]​
+Inc Magazine le entregó el premio de Emprendedor del Año en 2007 por su trabajo en Tesla y SpaceX.[135]​
+Recibió el Index Design Award en 2007 por su diseño del Tesla Roadster.[136]​
+Mijail Gorbachov le entregó en 2006, en nombre de Global Green, el premio al diseño de un producto por su diseño del Tesla Roadster.[137]​
+En una encuesta realizada por la Space Foundation en 2010, Musk quedó en el puesto nº 10 (empatado con el pionero de la cohetería Wernher von Braun) entre los héroes espaciales más populares.[138]​
+En junio de 2016, Business Insider nombró a Musk como uno de los «10 principales visionarios de negocios que crean valor para el mundo», junto con Mark Zuckerberg y Sal Khan.[139]​
+En diciembre de 2016, Musk ocupó el puesto 21 en la lista de Forbes de las personas más poderosas del mundo.[140]​
+
+
+=== Doctorados Honoris Causa ===
+Doctorado Honoris Causa en diseño por parte del Art Center School de Pasadena.[141]​Doctorado Honoris Causa (DUniv) en Ingeniería Aeroespacial de la Universidad de Surrey.[142]​
+
+
+== Participación en televisión ==
+El 25 de enero de 2015 fue presentado el capítulo número 12 (564 del total de la serie) de la 26ª temporada de la serie animada Los Simpson, llamado The Musk Who Fell to Earth (en español, La máscara que cayó en la Tierra), en la cual Elon Musk fue presentado como estrella invitada, interpretándose a sí mismo. En esta historia, Musk se representa a sí mismo como un hombre que tras haber prestado sus ideas en pos de la evolución de la industria automotriz (sin hacer alusión necesaria a la firma Tesla, Inc.), decide recorrer el país a bordo de una nave espacial con la cual aterriza en el jardín de la familia Simpson. Rápidamente, Musk y Homer se hacen amigos debido a que algunas reflexiones de este último estimulan nuevas ideas en el joven inventor. Homer lo lleva a la planta nuclear de Springfield donde rápidamente Elon desplaza de su posición a Montgomery Burns, provocando que la planta sea cerrada y generando el descontento en la sociedad.
+Posteriormente a la emisión de este capítulo, Musk se mostró disconforme con una expresión al finalizar el mismo, donde Lisa expresa tras su partida que «Para un hombre que gusta de los autos eléctricos, su nave quemaba mucho combustible». Tal broma recibió la respuesta de Elon quien expresó que:
+
+ 
+
+
+== Intereses ==
+Leyó muchísimos libros, entre ellos de Nietzsche, Schopenhauer y la Guía del autoestopista galáctico.[10]​
+Musk se ha descrito a sí mismo como un adicto al trabajo que dedica por lo general entre 80 y 100 horas semanales a su trabajo en Tesla y SpaceX. De media duerme entre 6 horas y 6 horas y media al día. En las raras ocasiones en las que tiene tiempo libre, lo pasa jugando con sus hijos. Tiene gemelos y trillizos que se llevan 2 años entre ellos.[144]​[75]​[10]​
+
+
+=== Política ===
+
+Políticamente, Musk se ha descrito como medio demócrata y medio republicano.
+
+ 
+[145]​
+En 2018 afirmó que no era conservador. «Estoy registrado como votante independiente y soy políticamente moderado.»[146]​
+Debido al aumento de la automatización y la inteligencia artificial, Musk apoya la renta básica universal.[147]​ También apoya la democracia directa.[148]​ Se ha descrito a sí mismo como socialista.
+
+ 
+[149]​
+Musk ha dicho que Estados Unidos es el mejor país que nunca ha existido en la Tierra, que la democracia no existiría si no fuera por los Estados Unidos, ya que previno su desaparición en las dos guerras mundiales y en la guerra fría. También afirmó que sería un error decir que Estados Unidos es perfecto, porque no lo es, y que Estados Unidos ha hecho cosas malas y estúpidas.[150]​[151]​
+Antes de la elección de Donald Trump como Presidente de los Estados Unidos, Musk le criticó diciendo:
+
+ 
+[152]​
+Tras la toma de posesión de Trump, Musk aceptó participar en unos consejos consultivos para Trump.[153]​[154]​
+En junio de 2017 y en protesta por la decisión de Trump de retirar a los Estados Unidos del acuerdo de París sobre cambio climático, Musk renunció a su participación en los consejos consultivos diciendo: «El cambio climático es real. Abandonar París no es bueno para Estados Unidos ni para el mundo.»[155]​[156]​
+En agosto de 2019 Musk apoyó en Twitter al candidato presidencial Andrew Yang, cuyo programa gira en torno al problema del desplazamiento del trabajo por la automatización y la inteligencia artificial. Musk dijo en un tuit que la renta básica universal es «obviamente necesaria»."[157]​
+
+
+=== Grupos de presión ===
+En una entrevista Musk dijo que era un donante significativo del partido Demócrata, pero que también donaba bastante al partido Republicano. También afirmó que las donaciones a partidos políticos eran un requerimiento para tener una voz para hablar al gobierno de Estados Unidos.[158]​[159]​
+Un informe de 2012 de la Sunlight Foundation, una fundación independiente que investiga el gasto del gobierno, halló que desde 2002 SpaceX había gastado más de 4 millones de USD en grupos de presión del Congreso de Estados Unidos y más de 800 000 USD en contribuciones a los demócratas y a los republicanos. La campaña de SpaceX para ganar apoyo político fue sistemático y sofisticado, y a diferencia de la mayoría de startups SpaceX ha mantenido una presencia significativa en los grupos de presión en Washington desde el primer día y Musk donó unos 725 000 USD a varias campañas desde 2002.
+En 2004 contribuyó con 2000 USD a la campaña de reelección de George W. Bush, con 100 000 USD[160]​ a la campaña de reelección de Barack Obama y donó 5000 USD al senador republicano Marco Rubio, que representa a Florida, un estado crítico para la industria espacial.
+En conjunto, Musk y SpaceX donaron unos 250 000 USD en ciclo de elecciones de 2012.[158]​[161]​
+Además SpaceX contrató al anterior líder republicano de la mayoría en el Senado Trent Lott  para representar a la compañía a través del grupo de presión Patton Boggs LLP. Además SpaceX emplea otros grupos de lobby.[162]​
+
+
+=== Religión ===
+Preguntado si creía en algún tipo de destino, distinto de la física, en la transición de la humanidad para ser una especie multiplanetaria, Musk respondió:
+
+ 
+[163]​[164]​
+
+
+=== Vida como simulación ===
+Como posible solución a la paradoja de Fermi que pregunta dónde están los extraterrestres, Musk ha considerado la hipótesis de la simulación.
+
+ 
+
+[165]​
+
+ 
+[166]​
+
+
+=== Automóviles ===
+En 1994 compró por 1400 USD un viejo BMW 320i de 1978 que arregló él mismo. Lo tuvo unos dos años hasta tuvo un accidente al soltarse una rueda cuando lo conducía un empleado de Zip2.[167]​
+Cuando trabajaba en Zip2 se compró un Jaguar E-Type de 1967.[167]​
+
+En 1999, tras vender Zip2, Elon compró un McLaren F1 de un millón de USD que utilizaba todos los días. Mientras Elon conducía Peter Thiel le preguntó que qué podía hacer el coche. Musk dijo «¡mira esto!» mientras aceleraba y cambiaba de carril. Como el coche no tenía control de tracción inició un trompo que invadió los carriles contrarios, salió de la calzada volando para caer destrozando la carrocería, suspensión y cristales. Musk salió del coche riéndose y Thiel le preguntó de qué se reía. Musk le dijo: "No sabes lo mejor. El coche no está asegurado".[168]​[30]​
+El McLaren F1 contaba con un motor V-12 de 6.1 litros y 627 caballos, tenía carrocería de fibra de carbono. Solo se fabricaron 64 unidades.
+Afortunadamente Elon y su acompañante, Peter Thiel, cofundador de PayPal, salieron ilesos. Probablemente a partir de ese accidente tuvo como prioridad crear los coches más seguros del mundo.
+[169]​
+[170]​
+Tras reparar el McLaren F1 lo vendió más adelante para obtener efectivo.[30]​
+El McLaren F1 era capaz de alcanzar los 100 km/h en 3,2 segundos. En la presentación del Tesla Model S P85D Elon dijo que había igualado la marca del 0 a 100 km/h en 3,2 segundos del McLaren F1. En 2016 el Tesla Model S P100D consiguió romper esa marca y establecerla en 2,28 segundos, convirtiéndolo en el coche de serie más rápido del mundo en aceleración.[171]​
+En junio de 2019, Musk insinuó que el diseño de un vehículo anfibio basado en el que hizo Wet Nellie para el coche submarino en la película de James Bond El espía que me amó (The Spy Who Loved Me) (1977) podría ser posible.[172]​[173]​ Musk compró en 2013 el coche de Wet Nellie en una subasta de Sotheby's por casi un millón de USD[174]​ y en 2019 lo expuso en la presentación del Tesla Cybertruck.
+También tuvo un Audi Q7 del que no le gustaba el acceso a la tercera fila de asientos. Eso fue un acicate para diseñar las puertas de ala de gaviota del Tesla Model X.[167]​
+En 2007 tenía un Hamann BMW M5.[167]​
+En 2012 tenía un Porsche 911.[167]​
+En 2017 un amigo le regaló un Ford Model T.[167]​
+En 2018 lanzó al espacio su Tesla Roadster en un cohete Falcon Heavy de SpaceX y estará millones de años orbitando al Sol.[167]​
+También tiene un Tesla Model S, un Tesla Model X y un Tesla Model 3 Performance.
+
+
+=== Cine ===
+En 2010 la fábrica de SpaceX se usó para la filmación de Iron Man 2 y Musk hace un cameo en la película.[175]​
+En 2013 tiene un cameo en Machete Kills, y aparecen las instalaciones de SpaceX.[176]​
+En 2014 aparece en la película de ciencia ficción Transcendence.[176]​
+En 2015 da voz a su personaje en el episodio de Los Simpson titulado The Musk Who Fell to Earth en el que Elon Musk va a Springfield y Homer le sugiere una idea que podría revolucionar la ciudad, pero que al final termina costándole una fortuna al señor Burns.[176]​
+En 2015 tiene un cameo en la serie The Big Bang Theory, en el capítulo 9 de la novena temporada, The Platonic Permutation, interpretándose a sí mismo.
+En 2016 aparece como él mismo en la película ¿Por qué él?, protagonizada por James Franco y Bryan Cranston, en la que asiste a una fiesta que da lugar en la película.
+En 2014 aparece en la serie South Park en el episodio Handicar solo como una referencia. Pero ya más tarde en 2016 aparece en los episodios “Members only", “Not funny" y “El fin de la seriealizacion tal como la conocemos" interpretandose a sí mismo.
+En 2017 tiene un cameo en la serie El joven Sheldon, en el capítulo 6 de la primera temporada, Un parche, un módem y un Zantac, como él mismo.[177]​
+En 2019 aparece en el capítulo 3 de la cuarta temporada de Rick & Morty "One Crew Over the Crewcoo's Morty", interpretando a una versión de sí mismo de un universo alternativo en la que los humanos tienen grandes colmillos llamado Elon Tusk.
+
+
+=== Festivales ===
+Musk solía acudir al festival Burning Man. En el festival de 2004 se le ocurrió la idea para la empresa SolarCity.[178]​
+
+
+=== Hyperloop ===
+
+El 12 de agosto de 2013 propuso el sistema Hyperloop como un sistema que permitiría transportar personas entre San Francisco y Los Ángeles en 35 minutos. Actualmente los 563 kilómetros se pueden recorrer en coche en unas 5 horas y media por las carreteras existentes.[179]​[10]​
+Hyperloop es un modo de transporte nuevo que busca cambiar el paradigma actual al ser rápido y barato para personas y mercancías. Hyperloop es un concepto de diseño abierto, similar a GNU/Linux, en el que las aportaciones de la comunidad pueden hacer avanzar el diseño y hacerlo una realidad. Es un sistema rápido, barato, con salidas casi inmediatas para el viajero y sostenible ambientalmente.[180]​
+Consiste en un tubo que contiene aire a baja presión por el que unas cápsulas circulan sobre un colchón de aire. El morro de la cápsula contiene un compresor eléctrico que transfiere alta presión de aire desde el morro a la cola de la cápsula. El compresor proporciona levitación y en menor grado propulsión.[180]​
+El proyecto entre San Francisco y Los Ángeles con dos tubos está cubierto por paneles solares en el techo que generarían más de la energía que necesita para operar. Los paneles solares tendrían una anchura de 4,25 m y cubrirían una distancia de 563 km. Con una producción de energía solar de 120 W/m² se esperaría que el sistema produciría un pico máximo de 285 MW de producción solar.
+El sistema en conjunto consumiría una media de 21 MW. Esto incluye la energía necesaria para la propulsión, resistencia aerodinámica, recarga de baterías y bombas de vacío. Los paneles solares proporcionarían una media de 57 MW, que es más que suficiente para operar el Hyperloop.[180]​
+El coste total sería de 6 000 millones de USD para la versión sencilla y de 7 500 millones de USD para la versión grande con capacidad de transportar coches. Amortizando este capital en 20 años y añadiendo los costes de operación cada billete sencillo saldría por unos 20 USD.[180]​
+La versión sencilla de Hyperloop costaría un 9% de lo que costaría el tren de alta velocidad entre Los Ángeles y San Francisco.[180]​
+En enero de 2015 Elon Musk anunció que se construiría una pista de pruebas para el Hyperloop en Texas para que compañías y estudiantes probaran sus diseños.[181]​
+
+
+=== Aviones ===
+Tuvo un avión checo Aero L-39 que valía aproximadamente 250 000 dólares.[182]​ El avión Dassault Falcon 900 utilizado en la película, Gracias por fumar, está registrado a nombre de Musk. Musk figura como uno de los productores ejecutivos del filme.[183]​
+
+
+=== Música ===
+El 30 de marzo de 2019, Musk lanzó un sencillo de rap a la plataforma musical SoundCloud bajo el nombre de usuario "Emo G Records".[184]​ Titulada "RIP Harambe", la canción fue interpretada por Yung Jake, escrita por Yung Jake y Caroline Polachek , y producida por BloodPop.[185]​[186]​ En diez días, la canción había logrado más de 2 000 000 reproducciones.[184]​ El 30 de enero de 2020, Musk lanzó una segunda canción a su perfil de SoundCloud titulada "Don't Doubt Ur Vibe".[187]​
+Se cree que Musk es un fanático del girlgroup surcoreano Loona. Esto, luego de que Grimes, su actual pareja y quien ha colaborado con este grupo anteriormente, haya publicado en la red social Twitter cómo fue su experiencia en el estudio con las chicas.[188]​ 
+Elon, al cabo de un mes, respondió con un tuit con la palabra «Loona», estilizada en mayúsculas y con emoticonos de relámpagos en los extremos. Los fanáticos de Loona recibieron con entusiasmo el creciente interés de Musk por este grupo de K-Pop.[189]​
+Además, se ha confirmado que Go Won, la undécima miembro de Loona, sería, según Grimes, la madrina del hijo de esta última y Elon, X Æ A-Xii Musk.[190]​
+
+
+=== Homenajes en sus productos ===
+Los vehículos Tesla incluyen Easter Eggs (Huevos de Pascua): características o funciones escondidas o no documentadas incluidas como bromas en un programa informático.
+Musk bautizó el modo de aceleración superior del Tesla Model S como Ludicrous y el nivel posterior como Plaid, copiando las velocidades de las naves espaciales (Ludicrous Speed, Plaid Speed) en la comedia satírica Spaceballs (1987) de Mel Brooks.[191]​[192]​ Ludicrous Speed sería una velocidad superior a la velocidad de la luz en el que las estrellas visibles dejan una traza lineal, mientras que la Plaid Speed sería una velocidad todavía superior en el que las estrellas dejarían trazas longitudinales y transversales creando un patrón tartán (plaid) de listas cruzadas como en un kilt escocés.
+En los Tesla con Ludicrous si se aprieta el botón Ludicrous y se mantiene 3 segundos, la pantalla cambia y representa lo que sería ir en el espacio a una velocidad superior a la de la luz. Es una referencia a la película Spaceballs.[193]​
+El volumen de sonido de los Tesla Model S y X llega hasta el nivel 11 en homenaje a una secuencia de la película de falso documental This is Spinal Tap (1984) dirigida por Rob Reiner.[194]​ En la película un músico muestra su amplificador en el que todos los diales llegan hasta 11.
+Los Tesla incorporan el Tesla Emissions Testing Mode (modo de control de emisiones) que produce sonidos de pedos en cualquiera de los asientos y se puede programar para que los produzca al poner el intermitente.[195]​
+En SpaceX el primer lanzamiento del Dragon mandó como carga secreta un queso en homenaje a Monty Python.[12]​
+En los Tesla si se cambia el nombre del vehículo a Patsy, Rabbit of Caerbannog, Mr. Creosote, Biggus Dickus o Unladen Swallow aparece el pie de Cupido y suena un pedo en referencia a Monty Python.[196]​[197]​
+Desde octubre de 2018 todos los vehículos Tesla incorporan los viejos juegos de Atari: Missile Command, Asteroids, Lunar Lander y Centipede.[198]​
+Desde septiembre de 2018 los Teslas con Autopilot pueden seleccionar el Modo Mad Max como el más agresivo para los cambios de carril automatizados. Es un homenaje a película Mad Max (1979) dirigida por George Miller.[199]​
+Para el Tesla Model 3 diseñó un sofisticado depósito para el sistema de refrigeración bautizado Superbottle (Superbotella) que lleva impreso un dibujo de una botella con capa al estilo de los superhéroes.[200]​
+En los vehículos Tesla cuando se activa el modo Centinela (Sentry Mode) aparece la imagen del ordenador HAL 9000 de la película 2001 una odisea del espacio, de Stanley Kubrick.[201]​ Se puede activar con el comando de voz Keep Summer Safe («Mantén segura a Summer») en referencia al episodio 6 de la temporada 2 de Rick and Morty, en la que Rick ordena a su vehículo que proteja a Summer (hermana de Morty), que se queda dentro del vehículo.[202]​
+En los coches Tesla cuando el nombre del vehículo se cambia a «42» aparece el mensaje «Vida, el Universo y Todo».  En el libro de Douglas Adams The Hitchhiker’s Guide to the Galaxy (Guía del autoestopista galáctico) se le pregunta al superordenador Deep Thought cuál es el significado de la vida y tras 7.5 millones de años responde: «42».[201]​
+En los vehículos Tesla con suspensión neumática tras pulsar el logo T y escribir el código 007 sale el Lotus Esprit anfibio que apareció en la película de James Bond de 1977 The Spy Who Loved Me (El espía que me amó).[201]​
+En los coches Tesla activando la palanca del Autopilot 4 veces se muestra la carretera con los colores del arco iris. Es una referencia al juego Mario Kart para Nintendo 64.[193]​
+Cuando un coche Tesla tiene la batería cargada para una autonomía de 121 km y se abre la APP del teléfono aparecen múltiples referencias a la película de 1985 Back to the Future (Regreso al Futuro).[193]​
+Si se aprieta el logo de Tesla durante 5 segundos y se introduce el código «MARS» la pantalla de navegación muestra lo que vería un vehículo circulando por Marte.[193]​
+En un Tesla si se aprieta el icono de teléfono durante 3 segundos el texto cambia a Ahoy-Hoy que fue la frase propuesta por el inventor del teléfono Alexander Graham Bell para responder un teléfono.
+En noviembre de 2019 Musk presentó el Tesla Cybertruck, una camioneta pickup eléctrica. La presentación fue en Los Ángeles, la misma ciudad, el mismo mes y el mismo año que la película Blade Runner, en que se inspiró el diseño del Cybertruck.[203]​[204]​[205]​
+
+
+== Vida personal ==
+En diciembre de 2000 se tomó sus primeras vacaciones en años y fue 15 días a Brasil y a una reserva de caza en Sudáfrica. En enero de 2001 volvió a California y a los pocos días empezó a sentirse mal. Tras varias pruebas le diagnosticaron meningitis viral, le aplicaron un tratamiento y le dieron el alta. Unos días después emperoró y Justine le llevó a un médico, que llamó a una ambulancia y lo trasladaron al Sequoia Hospital en Redwood City. Le diagnosticaron malaria y le aplicaron el tratamiento habitual. Estando en la unidad de cuidados intensivos un doctor revisó su caso y se dio cuenta de que su tipo de malaria era el falciparum malaria, que es el más letal. Cambiaron el tratamiento a otro más agresivo que podía tener efectos secundarios peligrosos como arritmias y fallo orgánico. Estuvo a punto de morir. Perdió 20 kilos.
+Tardó 6 meses en recuperarse totalmente.[30]​[206]​
+Musk vive en Bel-Air, California.
+En 2000 Elon se casó con su primera esposa, la autora canadiense Justine Wilson, a la que conoció cuando ambos eran estudiantes en la Universidad de Queen.[207]​
+En 2002 Justine y Elon tuvieron un hijo llamado Nevada Alexander Musk. A las diez semanas murió por el síndrome de muerte súbita.[30]​
+Elon y Justine tuvieron 5 hijos (unos gemelos y unos trillizos). 
+Se separaron en el año 2008.
+En 2008 conoció a la actriz británica Talulah Riley y se declaró a los 10 días. Se casaron en 2010 y se divorciaron en 2012. Se volvieron a casar en 2013. Registraron los papeles para otro divorcio pero retiraron la propuesta de divorcio. Más adelante volvieron a divorciarse.[12]​[208]​
+En noviembre de 2017 terminó su relación con la actriz Amber Heard debido a sus conflictos de agendas.[12]​[209]​[210]​
+El 7 de mayo de 2018, Musk y la música canadiense Grimes anunciaron que habían comenzado a salir.[211]​[212]​
+En enero de 2020 anunció que estaba esperando su sexto hijo y el primero junto a la cantante Grimes.[213]​[214]​
+Maye Musk es una modelo y nutricionista canadiense-sudafricana. Tiene dos máster. Ha sido modelo durante más de 50 años.[15]​ Es la madre de los emprendedores Elon Musk, Kimbal Musk y Tosca Musk.[13]​
+Errol Musk nació hacia 1946 y es el padre de Elon Musk. Estuvo casado con Maye nueve años y se separó en 1979. Errol se casó con Heide, una viuda con tres niños. Uno de ellos era Jana, que entonces tenía cuatro años. Errol y Heide estuvieron 18 años casados y tuvieron dos hijos: Alexandra Ali Musk y Asha Rose Musk. En 2017 Errol, con 72 años, tuvo un hijo con su hijastra Jana Bezuidenhout, que entonces tenía 30 años.
+[215]​
+[216]​
+En 1995 Kimbal cofundó con su hermano Elon la empresa de software Zip2, que en 1999 compró Compaq por 307 millones de USD.
+En los últimos años Kimbal ha creado varias empresas con el objetivo de tener un impacto duradero en la cultura de la comida mediante restaurantes, huertos escolares y granjas urbanas.
+Kimbal Musk y Hugo Matheson fundaron en 2004 The Kitchen Restaurant Group, un grupo de restaurantes de proximidad en Colorado, Chicago, Cleveland[217]​, Memphis,[218]​ e Indianapolis.[219]​ Desde 2011 es cofundador y presidente de Big Green (anteriormente The Kitchen Community), una organización sin ánimo de lucro que construyó cientos de huertos en patios de colegio de Estados Unidos.[220]​[221]​ Musk también es cofundador y presidente de Square Roots, una empresa de granjas urbanas de Brooklyn, Nueva York que cultiva alimentos hidropónicos dentro de contenedores de barco con un rendimiento similar al de un campo de 8000 m².[222]​[223]​[224]​ Musk es consejero de Tesla, Inc. y SpaceX. Estuvo en el consejo de dirección de Chipotle Mexican Grill[225]​ de 2013  a 2019.[226]​ Kimbal es un accionista importante de Tesla, Inc..[227]​ Kimbal es el fideicomisario de Elon en Tesla, Inc. y SpaceX para el caso de que Elon quedara incapacitado.[24]​
+La hermana de Musk, Tosca Musk, es una cineasta sudafricana-canadiense. Es productora, productora ejecutiva y directora de películas de cine, programas de televisión y contenido para la web. Fue pionera de las series web con Tiki Bar TV. Su película de televisión Holiday Engagement[228]​ fue de las más vistas de la historia del canal de películas de Hallmark.[229]​[230]​
+En 2001 fundó su productora Musk Entertainment.[231]​
+Tosca es cofundadora y CEO del servicio de películas por streaming Passionflix.[232]​
+
+		
+		
+		
+		
+		
+		
+
+
+== Controversias ==
+En octubre de 2008, después de que Musk confirmara que Tesla Motors se estaba quedando sin dinero en efectivo,[233]​[234]​ salió a la luz que había contratado a una empresa externa de ITC para revisar todos los correos electrónicos y mensajes instantáneos de Tesla. Posteriormente, un investigador forense tomó huellas digitales de impresiones que habían sido descartadas cerca de la fotocopiadora que se utilizó para filtrar el correo electrónico. La investigación indicó que el empleado responsable de publicar el mensaje donde se indicaba el estado financiero de la empresa fue Peng Zhou. Musk ofreció a Zhou la opción de disculparse con la compañía y renunciar, opción que tomó para evitar ser enjuiciado.[235]​
+El 26 de mayo de 2009, el ex director ejecutivo de Tesla Motors, Martin Eberhard, presentó una denuncia en el Condado de San Mateo, California, en contra de Tesla Motors y Musk por difamación e incumplimiento de contrato. El caso se basaba sobre la cuestión de quién debería ser llamado el verdadero fundador de Tesla.[236]​ El 29 de julio de 2009, un juez de la Corte Superior del Condado de San Mateo descartó la solicitud de Eberhard que pedía ser declarado como uno de los dos únicos fundadores de la compañía.[236]​ Tesla indicó en un comunicado que la resolución era "consistente con la creencia de Tesla en un equipo de fundadores, que incluyen el actual director ejecutivo Elon Musk y el CTO JB Straubel, quienes fueron fundamentales en la creación de Tesla desde su concepción."[237]​
+A principios de agosto, Eberhard abandonó el caso,[238]​ y las partes llegaron a un acuerdo el 21 de septiembre. Aunque los términos del acuerdo son confidenciales, éste incluía una provisión en la que las partes consideraban a Eberhard, Musk, JB Straubel, Marc Tarpenning e Ian Wright como los cinco cofundadores de Tesla Motors.[239]​
+En 2018 Musk anunció la creación de un proyecto llamado “Pravda” (o Pravduh), que en ruso significa “Verdad” que evaluaría la credibilidad de los medios de comunicación y las noticias falsas. Este anuncio llegó tras sus polémicas con distintos periodistas en las redes sociales, concretamente tras señalar que los medios de comunicación estarían -según Elon Musk- bajo presión de las compañías petroleras y automovilistas mediante pagos por publicidad.[240]​
+Durante un debate en las redes sociales, Elon Musk fue acusado de antisemitismo por algunos usuarios de internet y periodistas después de que este respondiera a un mensaje del periodista Joshua Topolsky en el que este explicaba a Elon como unas “personas poderosas” controlaban las encuestas, a lo que Elon Musk respondió que las mismas “personas poderosas” que controlaban las encuestas, también controlaban los medios de comunicación. Esto fue malinterpretado por algunos usuarios de las redes sociales, personalidades y periodistas, obligando a Elon Musk a dar una explicación de la situación en profundidad.[241]​
+
+
+=== SEC ===
+El 7 de agosto de 2018 Elon publicó los tuits:
+
+ 
+
+ 
+
+La SEC (U.S. Securities and Exchange Commission) presentó cargos contra Elon Musk alegando que la potencial transacción no era segura y dependía de numerosas contingencias. Musk no había acordado los detalles del acuerdo con los potenciales socios financieros, y sus afirmaciones no se correspondían con los hechos. La SEC afirmó que los tuits engañosos hicieron subir las acciones de Tesla un 6% el 7 de agosto, causando una disrupción en el mercado. El 29 de septiembre de 2018 Musk y Tesla llegaron a un acuerdo sin admitir o negar las alegaciones de la SEC que requería que:
+
+Elon Musk dejara ser Presidente de Tesla para ser sustituido por uno independiente por al menos 3 años.Tesla nombraría dos nuevos directores independientes a su consejo.Tesla establecería un nuevo comité de directores independientes y controlaría y supervisaría las comunicaciones de Musk.Musk pagaría 20 millones de USD y Tesla pagaría otros 20 millones de USD. Los 40 millones se distribuirían entre los accionistas perjudicados.[242]​El 4 de octubre de 2018 Elon escribió el tuit:
+
+ 
+
+Esto hacía referencia a los ataques en bolsa de los vendedores en corto que apostaban por el hundimiento del valor de las acciones de Tesla. El 21 de mayo de 2019 el 31% de las acciones disponibles de Tesla estaban atacadas en corto.[243]​
+Los ataques en corto se produjeron durante años y en unos niveles sin precedentes en la bolsa sin que la SEC abriera una investigación y pusiera límites.[244]​
+En un programa del programa 60 minutes emitido en 2018 afirmó:
+
+ 
+[245]​
+El 20 de febrero de 2019 a las 1:15 AM escribió el tuit:
+
+ 
+
+Y a las 5:41 AM escribió el tuit:
+
+ 
+
+La SEC aprovechó esta oportunidad para demandarle el 25 de febrero de 2019 por desacato e incuplimiento del acuerdo de septiembre de 2018 ya que esos tuits no habían sido aprobados con antelación por el abogado de Tesla. El 30 de abril de 2019 la jueza impuso una enmienda al acuerdo de septiembre de 2018 por el que el abogado de Tesla debería aprobar con antelación todas las comunicaciones escritas públicas de Elon Musk que contuvieran información de:
+
+La condición financiera, declaraciones, resultados, ganancias o gobierno de Tesla,Potenciales o propuestas fusiones, adquisiciones, disposiciones, ofertas de licitación o empresas conjuntas de Tesla.Números de producción, ventas o entregas (reales o calculadas) que no hubieran sido compartidos, o que difirieran de la dirección oficial de Tesla.Propuestas líneas de negocio no relacionadas con las actuales de Tesla (definidas en el registro como vehículos, transporte y productos de energía sostenible).Cambios en el estado de los valores, facilidades de crédito, financiación o acuerdos de préstamo.Decisiones legales, recomendaciones regulatorias o decisiones no públicas.Cualquier cosa que requiera el registro de un formulario 8-K de la SEC, incluyendo cambios en el control de la compañía, sus ejecutivos y directores.Cualquier otra materia que Tesla o la mayoría de sus miembros independientes dentro del consejo crea que necesita una aprobación previa.[245]​
+
+
+=== El rescate en la cueva de Tham Luang ===
+En julio de 2018 Musk intentó asistir a los rescatadores durante el rescate de la cueva de Than Luang dirigiendo a sus empleados en la fabricación de una pequeña cápsula de rescate con un diámetro de 38 cm en la que cupiera un niño. Musk, respondiendo a las peticiones de usuarios de Twitter,[246]​ se comunicó con el gobierno tailandés.[247]​
+Organizó el trabajo de ingenieros de sus empresas para que diseñaran contrarreloj un pequeño submarino para ayudar en el rescate y documentó todo el proceso en Twitter.[248]​[249]​ Richard Stanton, director del equipo de rescate internacional también urgió a Musk para la construcción del minisubmarino como respaldo en el caso de que la inundación empeorara.[250]​
+Ingenieros de SpaceX y The Boring Company fabricaron el minisubmarino en un día partiendo de un tubo de transferencia de oxígeno líquido de un cohete Falcon 9[251]​ y lo trasladaron a Tailandia.[252]​Lo bautizaron "Wild Boar" como el equipo de fútbol de los niños.[253]​ Su diseño, basado en las aportaciones del equipó de buceo, era un tubo de 150 cm de largo y 30 cm de diámetro que pesaba 41 kg. Se propulsaba manualmente por los buzos y tenía compartimentos para colocar pesas de buceo y ajustar la flotabilidad,[254]​ con la intención de transportar con seguridad a los niños que podrían tener dificultades para aprender las técnicas de buceo requeridas para salir de la cueva sin entrar en pánico. Para el caso en que el minisubmarino no cupiera en algunos tramos de la cueva, Elon Musk pidió a la empresa californiana de botes hinchables que construyera cápsulas de escape inflables.
+[255]​[256]​Cuando llegó el minisubmarino a Tailandia 8 de los 12 niños ya habían sido rescatados usando anestesia, máscaras de buceo y oxígeno.[257]​[258]​
+[259]​ Las autoridades tailandesas decidieron no usar el submarino.[260]​[261]​[262]​En marzo de 2019 Elon Musk fue galardonado por el rey de Tailandia con la Orden de Direkgunabhorn (Member of the Order of the Direkgunabhorn) por sus contribuciones y las de su equipo en la misión de rescate.[263]​
+
+
+==== Reacciones ====
+El supervisor de la operación de rescate, Narongsak Osatanakorn, afirmó que el submarino era tecnológicamente sofisticado, pero no encajaba en la misión para entrar en la cueva.[264]​[265]​ Vernon Unsworth, un espeológo aficionado que había estado 6 años explorando la cueva y que asesoró en el rescate, criticó en la CNN que el submarino no era más que una operación publicitaria porque no tenía posibilidad de éxito y que Musk no comprendía cómo eran los pasadizos de la cueva.[266]​[267]​[268]​ Y que además
+
+ 
+
+Musk afirmó en Twitter que el aparato habría funcionado y se refirió a Unsworth como "pedo guy" (tipo pedófilo), lo que causó reacciones contra Musk.[269]​[270]​ Musk borró los tuits. También borró un tuit en que a un crítico del aparato le dijo
+
+ 
+
+[270]​El 16 de julio de 2018 Unsworth afirmó que estaba considerando emprender acciones legales contra los comentarios de Musk.[271]​[272]​ Dos días después Musk pidió perdón por sus comentarios.[273]​[274]​[275]​[276]​
+El 28 de agosto de 2018 en respuesta a una crítica desde Twitter, Musk escribió el tuit:
+
+ 
+[277]​ Al día siguiente se hizo pública una carta del abogado Lin Wood fechada el 6 de agosto que mostraba que estaba preparando una demanda de difamación.[278]​[279]​Un autoproclamado investigador privado mandó un correo electrónico a Musk con la oferta de buscar basura en el pasado de Unsworth. Musk aceptó la oferta en agosto de 2018 y le pagó 50 000 USD.[280]​ Más tarde se supo que el investigador era un delincuente condenado por delitos de fraude.[281]​ El 30 de agosto, usando detalles de la presunta investigación,[282]​[283]​ Musk mandó a un periodista de BuzzFeed News, que había escrito sobre la controversia, un correo electrónico encabezado «Off the record» en el que afirmaba que Unsworth era un:
+
+ 
+
+Lo último fue desmentido por la pareja de Unswoth. El 5 de septiembre el reportero publicó en un tuit una copia del correo electrónico diciendo que el «off the record» era un acuerdo entre dos y él no lo había acordado.[284]​A mediados de septiembre Unsworth presentó una demanda en un juzgado federal de Los Ángeles.[285]​[286]​ 
+En su defensa Musk argumentó que en lenguaje coloquial "pedo guy" era un insulto común en Sudáfrica donde creció sinónimo de "viejo siniestro" y se usa para insultar la apariencia y el comportamiento. El diccionario Dictionary of Contemporary Slang define el término "pedo" como
+
+ 
+[287]​[288]​El caso de difamación, en el que Unsworth reclamaba 190 millones de USD, empezó el 4 de diciembre de 2019 en Los Ángeles.[289]​ Durante el juicio Musk pidió perdón a Unsworth otra vez por el tuit original. El 6 de diciembre el jurado determinó que Musk no era culpable de difamación.[290]​[291]​
+
+
+=== Joe Rogan ===
+En el programa 1169 del podcast The Joe Rogan Experience del 7 de septiembre de 2018, Elon le recomendó a Rogan, un fanático de los coches rápidos, que comprara un Tesla Model S P100D Ludicrous, cosa que hizo al poco tiempo. Elon bebió whisky. Rogan le invitó a fumar marihuana y Elon fumó una calada. El uso de marihuana para usos recreativos es legal en California, donde se realizó la entrevista.[166]​
+Musk publicó el tuit:
+
+ 
+
+La entrevista tuvo un impacto negativo en su imagen, la de Tesla y la de SpaceX.[292]​
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+VANCE, Ashlee. Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future. Virgin Books (2015). ISBN 9780753555620. Afterthoughts by Ashlee Vance
+VANCE, Ashlee, Elon Musk: El empresario que anticipa el futuro, Grupo Planeta, 2016, ISBN 8499425283, 9788499425283DAVENPORT, Christian. The Space Barons; Elon Musk. Jeff Bezos, and the Quest to Colonize the Cosmos. PublicAffairs (2018). ISBN 978-1610398299FERNHOLZ, Tim. Rocket Billionaires: Elon Musk, Jeff Bezos, and the New Space Race. Houghton Mifflin Harcourt (2018). ISBN 978-1-328-66223-1
+AND HYPERINK, Pauline T., Biografía De Elon Musk, Babelcube Inc., 2014, 96 pp. ISBN 1633390624, 9781633390621
+DICKER, Chris, Elon Musk Biography: How The World Would Look Like in the Next 30 Years?: Tesla Cars, SpaceX, SolarCity and Other Inventions, Chris Dicker.
+CROWLEY REDDING, Anna, Elon Musk: A Mission to Save the World, Feiwel & Friends, 2019, 256 pp. ISBN 1250313635, 9781250313638
+RUSSELL, Jesse, Elon Musk, Book on Demand, 2012, 130 pp. ISBN 5510792264, 9785510792263
+DAVIDSON, Patrick, Musk Manía: Los 5 principios de ELON MUSK, fundador de TESLA, PAYPAL, SPACEX y otras grandes compañías, Profit Editorial, 2017, ISBN 8416904340, 9788416904341
+KALLEN, Stuart A., Elon Musk and Tesla, ReferencePoint Press, Incorporated, 2015, 80 pp. ISBN 1601528701, 9781601528704
+OWENS, J. T., Elon Musk: The Unauthorized Autobiography, Amazon Digital Services LLC - Kdp Print Us, 2018, 548 pp. ISBN 1977020828, 9781977020826
+KNIGHT, Andrew, Elon Musk: Elon Musk's Best Lessons for Life, Business, Success and Entrepreneurship, Ingram Publishing, 2019, 110 pp. ISBN 1925989488, 9781925989489
+DIKKERS, Scott, Welcome to the Future Which Is Mine, Grand Central Publishing, 2018, 192 pp. ISBN 1538764148, 9781538764145
+WHITMAN, Nate, Elon Musk: The Biography of a Modern Genius and Business Titan, Amazon Digital Services LLC - KDP Print US, 2019, 162 pp. ISBN 1072954354, 9781072954354
+SMITH, Mark, Elon Musk: An Extraordinary Life: Follow the Journey, The Lessons, The Rules for Success, Amazon Digital Services LLC - KDP Print US, 2019, 142 pp. ISBN 1700433458, 9781700433459
+GOLD, Steve, The Elon Musk Collection: The Biography of a Modern Day Renaissance Man & the Business & Life Lessons of a Modern Day Renaissance Man, CreateSpace Independent Publishing Platform, 2016, 186 pp. ISBN 1523673869, 9781523673865
+NAGELHOUT, Ryan, Elon Musk: Space Entrepreneur, Greenhaven Publishing LLC, 2016, 104 pp. ISBN 1534560351, 9781534560352
+MCKENZIE, Hamish, Insane Mode: How Elon Musk’s Tesla Sparked an Electric Revolution to End the Age of Oil, Faber & Faber, 2018, 256 pp. ISBN 0571327680, 9780571327683
+RIOUX, Steve, You Are Elon Musk, Independently Published, 2019, 328 pp. ISBN 1696795273, 9781696795272
+
+
+== Enlaces externos ==
+
+Elon Musk en Twitter Wikimedia Commons alberga una categoría multimedia sobre Elon Musk.

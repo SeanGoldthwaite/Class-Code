@@ -1,0 +1,248 @@
+﻿Gli acciai inossidabili (o Inox dal francese inoxydable o Stainless oppure Rostfrei) sono caratterizzati da una maggior resistenza alla ossidazione e alla corrosione, specie in aria umida o in acqua dolce, rispetto ai cosiddetti "acciai al carbonio" (o comune acciaio non legato).
+Tale capacità è dovuta principalmente alla quasi assenza di carbonio <=0,07%, ed alla presenza del cromo, nella lega, in grado di passivarsi e cioè di ricoprirsi di uno strato sottile e aderente di ossidi, praticamente invisibile dello spessore pari a pochi strati atomici (dell'ordine dei 0,3–5 nm), che protegge superficialmente il metallo o la lega sottostante, dall'azione dell'ossigeno e degli agenti chimici esterni.Il contenuto minimo di cromo "libero", ossia non combinato al carbonio, per cui un acciaio si può ritenere Inossidabile è il 10,5% per cui poter avere la formazione dello strato di ossido "passivante" continuo e protettivo nei confronti dalla corrosione. Il cromo nella lega, infatti, combinandosi con il carbonio, può formare carburi di cromo, che limitano la disponibilità di tali elementi di lega a formare ossidi e, quindi, di passivarsi.Generalmente si trovano valori tra 12 e 17% di cromo nella lega, ma nell'acciaio inox possono essere utilizzati anche altri elementi per aumentare la resistenza all'ossidazione e alla corrosione.
+
+
+== Storia ==
+
+L'invenzione dell'acciaio inossidabile si deve agli inglesi Woods e Clark, i quali nel 1872 brevettarono una lega di ferro contenente il 35% in peso di cromo e resistente agli acidi.
+L'industrializzazione tuttavia avvenne soltanto anni dopo quando nel 1913 Harry Brearley di Sheffield, sperimentando acciai per canne di armi da fuoco, scoprì che un suo provino di acciaio con il 13-14% di cromo e con un tenore di carbonio relativamente alto (0,25%) non si arrugginiva quando era esposto all'atmosfera. La prima menzione di questo progresso tecnologico risale al 1915 e si trova in un articolo del New York Times riguardo l'uso per posateria di questa classe di acciai, elogiandone la resistenza alla corrosione perfino a contatto con gli acidi organici contenuti nei cibi.
+Successivamente questa proprietà venne spiegata con la passivazione del cromo, che forma sulla superficie una pellicola di ossido estremamente sottile, continua e stabile.
+I successivi progressi della metallurgia fra gli anni quaranta e sessanta del XX secolo hanno ampliato il loro sviluppo e le loro applicazioni.
+Tuttora vengono perfezionati e adattati alle richieste dei vari settori industriali, come il petrolifero/petrolchimico, minerario, energetico, nucleare e alimentare.
+
+
+== Descrizione ==
+
+
+=== Passivazione ===
+
+Molto appropriata è la dizione anglosassone stainless (letteralmente "senza macchia") derivata dalla capacità di questi materiali di ossidarsi (o, come si suol dire, passivarsi) ma non arrugginirsi negli ambienti atmosferici e naturali.
+Il fenomeno della passivazione avviene per reazione del metallo con l'ambiente ossidante (aria, acqua, soluzioni varie, ecc).
+La natura dello strato passivante, formato essenzialmente da ossidi/idrossidi di cromo, è autocicatrizzante e garantisce la protezione del metallo, anche se localmente si verificano abrasioni o asportazioni della pellicola, qualora la composizione chimica dell'acciaio e la severità del danno siano opportunamente inter-relazionate.
+In particolare, il film passivo può essere più o meno resistente in funzione della concentrazione di cromo nella lega e in relazione all'eventuale presenza di altri elementi leganti quali il nichel, il molibdeno, il titanio.
+
+
+=== Classificazione degli acciai inossidabili attraverso l'indice P.R.E.N. ===
+Gli acciai inossidabili possono essere classificati attraverso la loro resistenza alla corrosione localizzata e, in particolare, alla vaiolatura. Questa classificazione si basa sulla composizione chimica e sul calcolo dell'indice Pitting Resistance Equivalent Number (P.R.E.N.); più questo indice è elevato, maggiore risulterà la resistenza alla vaiolatura. Questa classificazione è utilizzata in quanto di facile e agile determinazione, tuttavia va ricordato che non fornisce una descrizione completa ed esauriente delle proprietà di resistenza a corrosione degli acciai inossidabili. Gli acciai inossidabili possono quindi essere suddivisi in quattro categorie:
+
+Acciai Inossidabili Lean: non contengono Molibdeno e il valore tipico del loro indice P.R.E.N. si attesta intorno a 25 (per esempio il 18-10)
+Acciai Inossidabili Standard: sono caratterizzati da un indice P.R.E.N. tra 25 e 40 (per esempio l'AISI 316)
+Acciai Inossidabili Super: possiedono un indice P.R.E.N. ≥ 40
+Acciai Inossidabili Iper: contengono elevate percentuali di Cromo > 30% in peso e il valore dell'indice P.R.E.N. può raggiungere 50
+
+
+=== Nomenclatura AISI ===
+In commercio esistono vari tipi di acciai inox, conosciuti principalmente sotto la notazione di acciaio AISI (American Iron and Steel Institute, Istituto di unificazione statunitense per ferro e acciaio). La notazione AISI ha assunto erroneamente il significato di sinonimo per "acciaio inox", poiché tale istituto codifica anche tipi differenti di acciaio La notazione AISI individua l'acciaio inox attraverso una sigla a tre cifre con possibile aggiunta di una lettera.
+la prima di queste cifre indica la classe dell'acciaio:
+
+serie 2XX - acciaio austenitico al cromo-nichel-manganese
+serie 3XX - acciaio austenitico al cromo-nichel e cromo-nichel-molibdeno
+serie 4XX - acciai ferritici o martensitici al cromo
+serie 5XX - acciaio martensitico al cromo medio
+serie 6XX - acciaio indurente per precipitazione al cromotra le lettere ad esempio:
+
+la lettera "L" indica la bassa percentuale di carbonio (Low Carbon) presente. Questa caratteristica fa sì che l'acciaio leghi meno gas, in quanto il carbonio tende, in qualsiasi condizione, a legarsi con l'idrogeno, precipitando idrocarburi; la presenza di idrogeno è spesso penalizzante per l'acciaio, ad alte temperature e soprattutto in condizione di ionizzazione (radiazioni ionizzanti). L'atomo di idrogeno ionizzato (H+) è molto piccolo e ad alta temperatura si sposta con maggiore facilità nel reticolo dell'acciaio, rischia di accumularsi e provocare pericolose discontinuità. Il basso tenore di carbonio consente anche una buona saldabilità anche per spessori > 6 mm.
+l'annotazione "N" sta a indicare la presenza di azoto disciolto nella lega. Grazie alle sue proprietà di gas inerte (il legame azoto-azoto è triplo, gli atomi sono molto vicini tra loro e perciò si separano difficilmente), l'azoto funge da schermo sull'acciaio limitandone la contaminazione esterna.
+L'annotazione "Ti" sta a indicare la presenza di titanio il quale assicura una completa resistenza alla corrosione nelle saldature di elementi di grosso spessore.
+
+
+=== Sigle commerciali ===
+I vari acciai inox differiscono in base alla percentuale in peso degli elementi costituenti la lega.
+Tra gli acciai più comunemente utilizzati distinguiamo:
+
+304 - Cr (18%) Ni (10%) C (0,05%);
+304 L - (Low Carbon): Cr (18%) Ni (10%) C (< 0.03%);
+316 - Cr (16%) Ni (11.3/13 %) Mo (2/3 %)
+316 L - (Low Carbon): Cr (16,5/18,5%) Ni (10,5/13,5%) Mo (2/2,25%) C (< 0.02%);
+316 LN - (Low Carbon Nitrogen) (presenza di azoto disciolto nel reticolo cristallino del materiale);
+316 LN ESR (electro-slag remelting);
+430: Cr (16/18 %) C (0,08%).
+904 L - (Low Carbon): Cr (19/23%) Ni (23/28%) Mo (2/2,25%) C (< 0.03%) Cu (1-2%); ritenuto il migliore acciaio in termini di durabilità e lucentezza; praticamente inattaccabile dagli acidi grazie alla presenza di rame. La casa Rolex è l'unica al mondo ad utilizzare questo acciaio per realizzare i propri manufatti.Questi materiali possono essere anche stabilizzati al titanio o al niobio come:
+
+316 Ti
+316 Nb
+430 Ti.La posizione del ferro all'interno della lega influenza diverse caratteristiche del materiale, di elevata importanza per il suo utilizzo.
+La principale è la amagneticità:
+
+nella disposizione a corpo centrato il materiale evidenzia proprietà ferritiche e perciò magnetiche;
+in quella a facce centrate l'acciaio è austenitico e perciò paramagnetico.Come già accennato in precedenza, gli AISI 304 e 316 appartengono alla famiglia degli acciai a struttura austenitica mentre l'AISI 420 è a struttura martensitica.
+La differenza tra l'acciaio 304 e 316, a parte il costo maggiore e la presenza nel 316 di Mo, è data dalla più elevata austenicità del secondo grazie alla più alta percentuale di nichel.
+Sebbene questi acciai conservino la struttura austenitica, in alcuni casi restano nella massa grani cristallini isolati che mantengono una struttura ferritica, derivata dalla ferrite δ.
+
+
+== Tipologie di acciaio inossidabile ==
+
+Gli acciai inox si dividono tradizionalmente, secondo la loro microstruttura, in tre grandi famiglie:
+
+acciai inossidabili ferritici
+acciai inossidabili austenitici
+acciai inossidabili martensiticiOltre a queste tre categorie esistono anche altre tre famiglie, il cui impiego è in forte ascesa, per impieghi specifici:
+
+acciai inossidabili bifasici austeno-ferritici o duplex
+acciai inossidabili indurenti per precipitazione
+acciai inossidabili austenitici al Mn-N o Nichel-free
+
+
+=== Acciai inossidabili ferritici ===
+Gli acciai inossidabili ferritici sono acciai inossidabili in cui il principale elemento aggiunto in lega è il cromo, variabile dall'11 al 30% circa. All'interno di questo campo, infatti, si osserva dal diagramma di stato ferro-cromo, che la lega ottenuta dalla temperatura ambiente a quella di fusione rimane sempre in fase ferritica.
+Questi acciai hanno buona resistenza meccanica e moderata resistenza alla corrosione. Hanno grano cristallino a reticolo cubico a corpo centrato come gli acciai al carbonio, ma le caratteristiche meccaniche non possono essere incrementate per mezzo di trattamenti termici.
+Il tenore di carbonio è minore rispetto agli acciai inossidabili martensitici. Un tipo particolarmente resistente al calore contiene il 26% di cromo. Altri elementi presenti sono il molibdeno, l'alluminio per aumentare la resistenza all'ossidazione a caldo, lo zolfo per facilitare la lavorabilità.
+Il limite di snervamento è moderatamente basso e, non essendo possibile effettuare trattamenti termici di tempra per l'assenza di punti critici, è possibile migliorare le caratteristiche meccaniche esclusivamente attraverso fenomeni di ricristallizzazione o di incrudimento. Si osserva una particolare attenzione a limitare il riscaldamento al di sotto degli 850 °C per evitare l'ingrossamento del grano cristallino, e a non sostare tra i 400 e i 570 °C nel raffreddamento, per non incorrere nella fragilità al rinvenimento.
+Gli acciai inossidabili ferritici hanno una moderata resistenza alla corrosione, che aumenta con la percentuale di cromo e con l'introduzione in lega del molibdeno; sono magnetizzabili; non sono suscettibili di tempra e devono necessariamente essere sottoposti alla ricottura; la saldabilità è scarsa, in quanto il materiale che viene surriscaldato subisce l'ingrossamento del grano cristallino.Gli impieghi più comuni sono vasellame o posateria di bassa qualità, acquai, lavelli e finiture per l'edilizia. In lamiere sottili si usano per rivestimenti, piastre per ponti navali, sfioratori, trasportatori a catena, estrattori di fumi e depolverizzatori.Gli acciai inossidabili superferritici sono stati ideati per ridurre la suscettibilità alla corrosione alveolare e alle rotture per tensocorrosione degli inox austenitici. Questi acciai dolci al cromo hanno due composizioni possibili: cromo 18% e molibdeno 2%, oppure cromo 26% e molibdeno 1%.
+Le proprietà fondamentali sono le stesse degli acciai inox ferritici, con in più la resistenza alla corrosione alveolare e alla rottura da tensocorrosione (SCC); saldabilità scarsa o discreta.
+A causa della bassa saldabilità gli impieghi sono limitati a particolari saldati di meno di 5 mm di spessore. Sono utilizzati per pannelli e radiatori solari, tubi di scambiatori di calore e di condensatori, serbatoi per acqua calda e tubazioni di circolazione di salamoie nelle industrie alimentari.
+
+
+=== Acciai inossidabili austenitici ===
+Gli acciai inossidabili austenitici sono gli acciai inossidabili più comuni, hanno un tenore di carbonio inferiore allo 0,1%, cromo compreso tra il 18% e il 25% e nichel dall'8% al 20%.
+Il nichel è in grado di estendere il campo austenitico, ossia stabilizza la struttura cristallina tipica delle alte temperature fino a condizioni prossime a quelle normali. La struttura austenitica, in realtà, si conserva in condizioni metastabili a temperatura ambiente, e tale struttura si mantiene per tempi indefiniti, in quanto lo sviluppo completo della forma stabile, perlite, è estremamente lento (vedi curve di Bain).
+Come desumibile dall'esame delle curve di Bain, la trasformazione austeno/perlitica richiede che il materiale sia tenuto in forno per tempi lunghissimi, industrialmente insostenibili.
+D'altra parte, le velocità di raffreddamento e le temperature da raggiungere necessarie nella tempra per ottenere martensite sono tali che la struttura cristallina compatibile con processi economicamente interessanti è unicamente quella austenitica.
+Gli acciai inossidabili austenitici hanno struttura cubica a facce centrate, contenente Ni e Cr in percentuale tale da conservare la struttura austenitica anche a temperatura ambiente. Sono classificati in base alla percentuale di Ni e di Cr (vedi tabella); nella classificazione ASTM costituiscono la serie 3XX.
+La composizione base dell'acciaio inossidabile austenitico è il 18% di Cr e l'8% di Ni, codificata in 18/8 (AISI 304). Una percentuale del 2-3% di molibdeno permette la formazione di carburi di molibdeno migliori rispetto a quelli di cromo e assicura una miglior resistenza alla corrosione dei cloruri (come l'acqua di mare e di sali disgelanti)(acciaio 18/8/3) (AISI 316). Il contenuto di carbonio è basso (0,08% max di C), ma esistono anche acciai inox austenitici dolci (0,03% di C max). L'acciaio inox austenitico può essere stabilizzato con titanio o niobio per evitare una forma di corrosione nell'area delle saldature (vedi più avanti le debolezze di questo tipo di acciaio). Considerando la notevole percentuale di componenti pregiati (Ni, Cr, Ti, Nb, Ta), gli acciai inox austenitici sono fra i più costosi tra gli acciai di uso comune.
+Le proprietà fondamentali sono:
+
+ottima resistenza alla corrosione;
+facilità di ripulitura e ottimo coefficiente igienico;
+facilmente lavorabile, forgiabile e saldabile;
+incrudibile se lavorato a freddo e non tramite trattamento termico;
+in condizione di totale ricottura non si magnetizza.La loro struttura austenitica (con cristallo CFC) li rende immuni dalla transizione duttile-fragile (che si manifesta invece con la struttura ferritica, cristallo ccc), quindi conservano la loro tenacità fino a temperature criogeniche (He liquido). La dimensione dei grani, sensibilmente più elevata di quella degli acciai ferritici da costruzione, li rende resistenti allo scorrimento viscoso; di conseguenza fra gli acciai per costruzione di recipienti a pressione, sono quelli che possono essere utilizzati alle temperature più elevate (600 °C).
+La struttura austenitica è paramagnetica e, quindi, questi acciai possono essere facilmente riconosciuti disponendo di magneti permanenti calibrati.
+Gli impieghi di questi acciai sono molto vasti: pentole e servizi domestici, serramenti e finiture architettoniche, mattatoi, fabbriche di birra, lattine per bibite e prodotti alimentari; serbatoi per gas liquefatti, scambiatori di calore, apparecchi di controllo dell'inquinamento e di estrazione di fumi, autoclavi industriali. La loro resistenza a gran parte degli aggressivi chimici li rende inoltre molto apprezzati nell'industria chimica. Lo stesso tipo di acciaio fu utilizzato nel 1929 per la costruzione della guglia del Chrysler Building di New York: la struttura fu costruita in officina in 4 tronconi separati e poi assemblati sulla cima della costruzione nel giro di 90 minuti. La lucentezza della guglia, a 80 anni dalla sua costruzione, testimonia l'altissimo grado di resistenza alla corrosione e di inossidabilità del materiale impiegato (Nirosta).
+Gli acciai inossidabili austenitici soffrono però di alcune limitazioni:
+
+a bassa temperatura la resistenza alla corrosione diminuisce drasticamente: gli acidi intaccano il film di ossido protettivo e ciò provoca corrosione generica in questi acciai;
+nelle fessure e nelle zone protette la quantità di ossigeno può non essere sufficiente alla conservazione della pellicola di ossido, con conseguente corrosione interstiziale;
+nelle soluzioni acquose, gli ioni degli alogenuri, specie l'anione (Cl-), diffondono nelle discontinuità del film passivante degli acciai inox austenitici e provocano la cosiddetta corrosione per vaiolatura, conosciuta dai corrosionisti come pitting corrosion. Un altro effetto dei cloruri è la SCC (Stress Corrosion Cracking - rottura da tensocorrosione).L'unico trattamento termico applicabile per questa classe di acciai è la solubilizzazione del C a 1050 °C, che favorisce la diffusione del carbonio in maniera omogenea all'interno dei grani cristallini, seguita da raffreddamento rapido per evitare la permanenza nell'area fra 800 e 400 °C, dove può avvenire la precipitazione dei carburi di cromo. La precipitazione di questi carburi, generalmente Cr23C6,  si concentra ai bordi dei grani cristallini, implicando un impoverimento locale del cromo libero che può scendere sotto il 12% e quindi la distruzione del film passivo e la perdita della resistenza a corrosione. La conseguenza è la possibile insorgenza di corrosione intergranulare.
+
+
+=== Acciai inossidabili martensitici ===
+Gli acciai inossidabili martensitici sono leghe al cromo (dall'11 al 18% circa) con carbonio relativamente elevato (fino a 1,1% in peso), contenenti piccole quantità di altri elementi.
+I tipici elementi di lega in essi presenti sono: manganese, silicio, cromo e molibdeno; può essere aggiunto zolfo per migliorarne la lavorabilità con macchine per asportazione di truciolo, con parziale discapito comunque delle caratteristiche meccaniche.
+L'acciaio inossidabile martensitico ha caratteristiche meccaniche molto elevate ed è ben lavorabile alle macchine, è l'unico acciaio inossidabile che può essere sottoposto a tempra, trattamento termico atto ad aumentarne le proprietà meccaniche (carico di rottura, carico di snervamento, durezza).
+È conosciuto soprattutto con la nomenclatura americana: per esempio l'acciaio al solo cromo è l'AISI serie 400 (da ricordare AISI410 con C = 0,12% circa e Cr = 13% circa e 420, con 0,20% < C < 0,40% e Cr = 13% circa; AISI 440 con C = 1% circa e Cr = 17%); nella nomenclatura UNI ha sigle come X20Cr13, X30Cr13, X40Cr14. È magnetico. È anche conosciuto come acciaio "serie 00".
+L'acciaio inossidabile martensitico è autotemprante, ma per semplice raffreddamento dalla temperatura di formatura a caldo alla temperatura ambiente si sviluppa una struttura cristallina deformata, con forti tensioni residue e conseguente infragilimento.
+Per ovviare a tali condizioni sfavorevoli, la procedura produttiva prevede generalmente le seguenti fasi:
+
+ricottura di lavorabilità: essa è svolta col metodo isotermico solo quando si voglia la durezza minima; altrimenti si raffredda a velocità costante, scegliendola in base alla durezza che si vuole ottenere (vedi curve CCT);
+tempra a temperatura di circa 1000 °C e per un tempo sufficiente a sciogliere i carburi di cromo, utile per aumentare la resistenza all'usura;
+rinvenimento a temperature diverse a seconda che si voglia privilegiare la durezza, la resistenza alla corrosione o la tenacità.Gli acciai inossidabili martensitici sono utilizzati soprattutto per la loro elevata resistenza allo scorrimento viscoso, sebbene la loro formabilità e saldabilità sia estremamente difficoltosa e la loro resistenza alla corrosione sia minore rispetto a quella delle altre famiglie.
+La resistenza alla corrosione non è eccezionale perché il cromo è in un tenore generalmente più basso di quello delle altre categorie di acciai inossidabili; inoltre perché la struttura martensitica ha un'alta densità di difetti reticolari, che agiscono da catalizzatori delle reazioni di corrosione.
+L'AISI 440 è utilizzato per l'utensileria inossidabile (coltelli, forbici, bisturi, lamette, iniettori per motori a combustione interna).
+
+
+=== Acciai inossidabili bifasici austeno-ferritici o Duplex ===
+Gli acciai inossidabili bifasici austeno-ferritici, detti anche duplex, presentano una struttura a grani cristallini misti di austenite e di ferrite. Si tratta di acciai dalla microstruttura ibrida: il tenore di cromo va dal 18 al 32% e tende a stabilizzare la microstruttura ferritica, quello di nichel dal 4,5 al 7% risulta in quantità insufficienti per determinare una struttura microcristallina totalmente austenitica (che quindi rimane in parte ferritica). Quasi tutte le sue varianti contengono fra il 2,5 e il 4% di molibdeno.
+Esistono inoltre forme di Duplex, chiamati "poveri" che non contengono molibdeno e hanno tenori di nickel minori del 4,5%.
+Le proprietà fondamentali sono:
+
+struttura microcristallina peculiare nota come duplex, austenitica e ferritica, che conferisce più resistenza alle rotture per tensocorrosione;
+maggior grado di passivazione per il più alto tenore di cromo (e la presenza del molibdeno) e quindi miglior resistenza alla corrosione puntiforme (pitting) rispetto agli acciai inossidabili austenitici 18-8;
+saldabilità e forgiabilità buone;
+alta resistenza a trazione e allo snervamento.Gli impieghi più comuni sono: scambiatori di calore, macchine per movimentazione dei materiali, serbatoi e vasche per liquidi ad alta concentrazione di cloro, refrigeratori ad acqua marina, dissalatori, impianti per salamoia alimentare e acque sotterranee e ricche di sostanze aggressive. Viene usato anche per la costruzione di turbine in centrali idroelettriche.
+
+
+=== Acciai inossidabili indurenti per precipitazione ===
+Gli acciai inossidabili indurenti per precipitazione presentano la possibilità di innalzare notevolmente le proprie caratteristiche meccaniche per trattamenti termici particolari di invecchiamento, che consentono di far precipitare fasi intermetalliche dure nella matrice austenitica o martensitica al fine di aumentare le proprietà meccaniche della lega. Questi acciai sono stati sviluppati per colmare le lacune delle altre classi di acciai inossidabili (scarse proprietà meccaniche degli acciai inossidabili ferritici e austenitici e scarsa resistenza alla corrosione degli acciai inossidabili martensitici.
+Gli acciai inossidabili indurenti per precipitazione raggiungono elevate resistenze meccaniche e un'elevata tenacità grazie all'aggiunta di elementi in grado di formare precipitati durante trattamenti termici di invecchiamento: alluminio, rame, titanio, molibdeno, niobio, vanadio, azoto. Inoltre questi acciai possiedono una resistenza alla corrosione paragonabile a quella degli acciai inossidabili austenitici classici, a parità di cromo e molibdeno.
+
+
+=== Acciai inossidabili austenitici al Mn-N o Nichel-free ===
+Gli acciai inossidabili austenitici al manganese-azoto nascono dalla necessità di sostituire nella lega metallica il nichel. Infatti, il nichel è un allergene e ha un elevato costo sia economico sia ambientale.
+Il manganese e l'azoto sono elementi in grado di stabilizzare la microstruttura austenitica. Nel dettaglio, il manganese permette un aumento di solubilità dell'azoto nella matrice ferrosa. L'azoto conferisce il vero e proprio contributo austenitizzante; inoltre, incrementa fortemente le caratteristiche meccaniche e di resistenza a corrosione. Questi elementi inoltre sono entrambi biocompatibili. Per garantire la microstruttura austenitica devono essere presenti in lega in grandi quantità: il manganese fino al 23% e l'azoto fino all'1% (in peso).
+Le buone proprietà meccaniche unite alla biocompatibilità e a una sufficiente lavorabilità, rendono per le applicazioni mediche questi acciai dei validi sostituti agli acciai inossidabili austenitici convenzionali.
+
+
+== Applicazioni ==
+
+
+=== Acciai inox per acqua potabile ===
+Secondo il Decreto del Ministero della Sanità del 21 marzo 1973 i tipi di acciai inossidabili che possono essere impiegati per il contatto con acque potabili, e più in generale con gli alimenti, sono i seguenti:
+
+
+=== Armature inossidabili ===
+Le barre di acciaio inox utilizzate per strutture in calcestruzzo armato in genere sono realizzate con acciai inossidabili di microstruttura austenitica o duplex austeno-ferritica. I primi contengono 17-18% di Cr e 8-10% di Ni, mentre i secondi contengono 22-26% di Cr e 4-8% di Ni.
+Le armature in acciaio inox, al contrario delle armature comuni in acciaio al carbonio, rientrano nel gruppo delle armature poco sensibili alla corrosione. Infatti gli acciai inossidabili possono resistere alla corrosione in presenza di calcestruzzo con un contenuto di cloruri molto elevato, anche quando questo è carbonatato. Invece nel calcestruzzo non carbonatato e non inquinato da cloruri, le barre di acciaio inossidabile si comportano come le normali barre di acciaio al carbonio, pertanto non apportano alcun vantaggio nei confronti della resistenza alla corrosione della struttura.
+Le barre d'acciaio inossidabile però devono garantire le stesse prestazioni meccaniche (resistenza allo snervamento e la duttilità) richieste alle normali barre d'armatura. A tal fine le armature di acciaio inossidabile austenitico vengono sottoposte a trattamenti di rafforzamento mentre per gli acciai inossidabili duplex, tali trattamenti non sono indispensabili.
+L'utilizzo dell'armatura inossidabile è limitato dall'elevato costo, il quale può avere un rilevante impatto sul costo necessario alla realizzazione dell'intera struttura. Infatti le barre in acciaio inox, in funzione della composizione chimica, costano da sei a dieci volte in più rispetto alle armature comuni in acciaio al carbonio. L'utilizzo di barre in acciaio inossidabile pertanto viene limitato per la realizzazione di opere in condizioni ambientali d'elevata aggressività, soprattutto legata alla presenza d'acqua di mare o di sali disgelanti (azione dei cloruri), oppure nei casi in cui, per l'importanza della struttura, sia richiesta una vita di servizio molto lunga. In questi casi infatti la protezione offerta dal copriferro può risultare insufficiente a prevenire la corrosione, e pertanto l'acciaio inox può garantire la durata richiesta per l'opera senza dover ricorrere successivamente a costose e complesse manutenzioni straordinarie che, in alcuni casi, risultano più onerose del costo iniziale dovuto alla scelta dell'armatura inossidabile. Il costo di costruzione si può ridurre limitandone l'utilizzo alle parti più vulnerabili della struttura o alle zone in cui lo spessore di copriferro deve essere ridotto, come negli elementi snelli o nei rivestimenti di facciata. In questo caso è necessario che l'armatura al carbonio e quella inox non entrino mai in contatto per evitare fenomeni di corrosione elettrochimica.
+Gli acciai inossidabili austenitici hanno un coefficiente di dilatazione termica di circa 1,8×10−5 °C−1, maggiore sia di quello del calcestruzzo (circa 10-5 °C−1) sia di quello delle comuni armature (1,2×10−5 °C−1).
+Il maggiore coefficiente di dilatazione termica potrebbe creare situazioni sfavorevoli nel caso di incendi, tuttavia l'acciaio inossidabile austenitico ha una conducibilità termica notevolmente inferiore rispetto all'acciaio al carbonio.
+
+
+=== Acciaio inox per alte temperature ===
+Questi acciai inox sono stati messi a punto per operare a elevata temperatura in condizioni ossidanti. La percentuale di cromo è del 24% e il nichel va dal 14 al 22%.
+Le proprietà fondamentali sono resistenza all'ossidazione (sfaldatura) ad alta temperatura e buona resistenza meccanica alle alte temperature.
+Gli impieghi più comuni avvengono in parti di forni, tubi irradianti e rivestimenti di muffole, per temperature di esercizio fra 950 e 1100 °C.
+
+
+=== Acciai da ultra alto vuoto e criogenia ===
+Il metallo più utilizzato in UV e in UHV è un acciaio inox che col ferro, ha cromo, nichel, con tracce di silicio, carbonio, manganese, molibdeno, niobio e titanio, è utilizzato come costituente strutturale dell'ambiente da vuoto, ha il vantaggio di essere reperibile e relativamente economico, ha proprietà di resistenza meccanica abbastanza elevate, non si tempra, si salda con facilità, ha un basso degasaggio, è abbastanza inerte chimicamente.
+Nell'UV si necessita di una tipologia d'acciaio austenitico (AISI 316), poiché possiede una struttura molto legata e di conseguenza meno attaccabile chimicamente.
+La presenza di metalli refrattari, come il molibdeno, aiuta a legare elettro-chimicamente gli atomi di ferro, conferendone maggiore inerzia e un grado di durezza superiore (circa 180 gradi Vickers).
+L'acciaio austenitico permette di utilizzare la lega anche nell'UHV, poiché l'amagneticità strutturale le dona un'inerzia quasi totale alle interazioni "deboli" garantendo un vuoto più pulito.
+La presenza di cromo, nonostante le sue caratteristiche ferriticizzanti, conferisce all'acciaio stabilità ed elasticità, garantendone così duttilità e malleabilità.
+Resta comunque il fatto che, in questa tecnologia, l'acciaio più utilizzato sia quello austenitico.
+La sua temperatura di fusione è di 1435 °C, tuttavia dobbiamo considerare che, durante la saldatura, nell'intervallo di temperatura tra i 600 e gli 800 °C, si trasforma, o meglio decade, da austenitico a ferritico (come indicato nel diagramma di sensibilizzazione di Schaeffler).
+Il suo decadimento è più rapido e permanente per gli acciai 304 rispetto ai 316.
+Periodo di sensibilizzazione:
+
+304: 10 minuti;
+304 L: 30 minuti;
+316 L: un'ora.Più esteso è questo periodo (la estensione è proporzionale alla presenza di nickel), più il materiale è affidabile.
+Per ridurre ulteriormente il degasaggio della lega 316 si effettua il processo di electro slag remelting, in cui la stessa viene rifusa in un forno a radiofrequenze, in modo da eliminare le microscorie di ossidi e di carburi, che, oltre a "sporcare" il vuoto, la rendono più ferritica. Il 316 L N ESR, poiché molto costoso, viene utilizzato limitatamente e prevalentemente negli acceleratori di particelle.
+L'acciaio è costituente delle camere da vuoto, delle flange e di eventuali altri elementi come bulloni e dadi; in ogni modo, una camera da vuoto in acciaio richiede ulteriori trattamenti finalizzati a diminuire il costante degasaggio di idrogeno dalle sue pareti. Uno dei principali è il vacuum firing, con il quale l'acciaio viene in primo luogo scaldato a 1400 °C e poi rapidamente raffreddato, per attraversare celermente la zona di sensibilizzazione senza decadere in ferritico. Così, oltre alla diminuzione della percentuale di azoto sulle superfici, si ottiene un aumento della sua austeniticità.
+
+
+== Problematiche specifiche ==
+
+
+=== Contaminazione ferrosa ===
+La resistenza alla corrosione dell'acciaio inox può essere messa in pericolo dalla contaminazione ferrosa derivante da particelle provenienti da operazioni di taglio, rettifica e saldatura dell'acciaio al carbonio. La presenza di contaminazioni sulle superfici del metallo, oltre a creare un difetto estetico può dar luogo a inneschi di corrosione localizzata (pitting), anche solo a contatto con aria, pregiudicando la giusta condizione di passività nel tempo. Infatti, le particelle di ferro che si depositano sulla superficie dell'acciaio inox, ad esempio a causa di spruzzi di saldatura di componenti di acciaio al carbonio, si ossidano molto velocemente formando la ruggine, anche solo in presenza dell'umidità atmosferica, causando un'antiestetica macchiatura della superficie, che in alcuni casi, ostacolando il fenomeno di naturale passivazione dell'acciaio inox, può evolvere in fenomeni di pitting. Per questa ragione la lavorazione dell'acciaio al carbonio e quella dell'acciaio inossidabile devono avvenire in due zone distinte e separate.
+Inoltre, gli attrezzi manuali (es. spazzole) e i macchinari utilizzati (es. presse), non devono contenere acciaio al carbonio e devono essere puliti in maniera approfondita quando si passa dall'acciaio al carbonio all'acciaio inossidabile. Le lavorazioni di taglio, saldatura o sabbiatura non devono essere fatte con elementi contenenti acciaio al carbonio (es. dischi abrasivi, elettrodi, graniglia). Per lo stesso motivo, nello stoccaggio e nella movimentazione dell'acciaio inossidabile, deve essere evitato qualsiasi contatto con attrezzi di acciaio al carbonio, ad esempio forche di elevatori, catene, scaffalature, ecc.
+Per verificare la avvenuta contaminazione esistono appositi test. Una volta contaminato l'acciaio inox, può esserne effettuata la decontaminazione mediante trattamento con specifiche paste passivanti a base di acido fosforico o nitrico. Per rimuovere qualunque traccia di soluzione acida e contaminanti disciolti si dovrà risciacquare l'acciaio con acqua deionizzata e asciugare la parte pulita. In questo caso è necessario trattare l'intera superficie inox, per evitare l'effetto "a chiazze". Gli stessi prodotti possono essere utilizzati nel caso di ossidazione dovuta a un'elevata esposizione ad agenti corrosivi quali la salsedine. La contaminazione ferrosa è quella più ricorrente sugli acciai inox, ma si possono comunque verificare fenomeni di contaminazione da altri metalli non ferrosi, come alluminio, rame, piombo, ecc. Le modalità per eliminare le tracce contaminanti sono le stesse consigliate per le tracce ferrose.
+
+
+=== Sensibilizzazione ===
+La sensibilizzazione degli acciai inossidabili è un problema legato alla corrosione e coinvolge principalmente gli acciai inossidabili aventi un elevato tenore di carbonio. Questo fenomeno metallurgico di degrado del materiale corrisponde alla precipitazione di carburi di cromo ai bordi dei grani cristallini. Ciò avviene a seguito di esposizione a temperature comprese tra i 450 °C e i 950 °C.
+Tale precipitazione porta nelle zone adiacenti a un impoverimento di cromo e più in generale degli alliganti passivanti che garantiscono la formazione del film protettivo superficiale di ossidi.
+Di conseguenza qualora il materiale verrà esposto ad ambienti aggressivi verrà portato alla disgregazione della matrice metallica, a seguito di una corrosione preferenziale lungo i bordi grano cristallini.
+
+
+== Giunzioni ==
+I manufatti in acciaio inox vengono frequentemente giuntati mediante saldatura e bullonatura. Un errore comune è quello di utilizzare elettrodi e bulloni contenenti acciaio al carbonio invece di utilizzarli zincati. Oltre al problema della contaminazione ferrosa, il mettere a contatto l'acciaio inox con un materiale meno nobile determina l'innesco di celle galvaniche, nel momento in cui un elettrolita entra in gioco, con conseguente corrosione del materiale meno nobile.
+
+
+== Normativa di riferimento ==
+UNI EN 10088-1:2005 - Acciai inossidabili - Parte 1: Lista degli acciai inossidabili
+ASTM A-967 - Standard specification for chemical passivation treatments of stainless steel parts
+Decreto ministeriale 21 marzo 1973 Gazzetta Ufficiale - Repubblica Parte 1 n. 104 del 20-04-1973 (Supplemento Ordinario): Materiali a contatto con alimenti
+Decreto del Ministero del lavoro, della salute e delle politiche sociali 24 settembre 2008 n° 174, Regolamento recante aggiornamento del decreto ministeriale 21 marzo 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale. Recepimento della direttiva 2007/19/CE. [1]
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Walter Nicodemi, Introduzione agli acciai inossidabili, 2ª ed., AIM, 2003, ISBN 88-85298-47-8.
+
+
+== Voci correlate ==
+Acciaio
+Passivazione
+Inox austenitico
+Leghe inox austenitiche
+Acciaio strutturale
+Designazione acciaio
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «acciaio inossidabile»
+ Wikimedia Commons contiene immagini o altri file su acciaio inossidabile
+
+
+== Collegamenti esterni ==
+
+(EN) Acciaio inossidabile, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Articoli su acciaio inossidabile, su worldstainless.org. URL consultato il 29 dicembre 2008 (archiviato dall'url originale il 6 gennaio 2009).
+ La soluzione ferritica (PDF), su worldstainless.org. URL consultato il 7 settembre 2009 (archiviato dall'url originale il 30 novembre 2010). Articolo su certificazione alimentare dell'acciaio inox m.o.c.a., su condorinox-lavorazioni.it. URL consultato il 19 giugno 2020 (archiviato il 19 giugno 2020).

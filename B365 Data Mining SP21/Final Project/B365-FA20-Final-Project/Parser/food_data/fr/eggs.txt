@@ -1,0 +1,59 @@
+﻿Un easter egg (terme anglais pour « œuf de Pâques ») est, en informatique ou dans les jeux vidéo, une fonction cachée au sein d'un programme (image animée, jeu, message électronique, etc.) accessible grâce à un mot-clé ou à une combinaison de touches ou de clics.
+Un easter egg n'est pas assimilable à un virus : il n'abîme ni le programme original ni les autres données et ne se propage pas ; il est caché et a été inséré volontairement par les créateurs. Il peut s'agir de la liste des auteurs du logiciel, d'un jeu, d'une blague, d'une séquence inédite, de bruitages.
+Certains se trouvent aussi dans les jeux vidéo (Diablo est un exemple connu). Les niveaux secrets (en) des jeux vidéo sont souvent classés comme easter eggs, ainsi que les clins d'œil ou les références dans les jeux vidéo.
+
+
+== Origine du nom ==
+Les références cachées existent dans des œuvres depuis longtemps, mais l'habitude de les appeler easter egg proviendrait du film The Rocky Horror Picture Show (1975) car des acteurs avaient caché des œufs de Pâques sur le plateau, mais ne les avaient pas tous trouvés. Quelques-uns sont encore visibles à l'écran dans le montage final du long métrage. La « chasse aux œufs de Pâques » au sens littéral dans ce film a été reprise ensuite pour désigner les références cachées par d'autres réalisateurs.
+Par la suite, d'autres œuvres ont repris ce terme, lorsqu'elles traitaient de ce sujet de manière secondaire ou quand cela faisait partie de l'intrigue principale, tel le roman Player One d'Ernest Cline et son adaptation cinématographique Ready Player One de Steven Spielberg.
+Il est aussi probable que l'utilisation du terme easter egg, pour décrire une fonctionnalité ou un message caché, provienne du jeu Adventure (en), sorti en 1979 pour la console de jeux Atari 2600, développé par l'employé Warren Robinett.
+À cette époque, Atari n'incluait pas les noms des développeurs dans les génériques de jeu, par peur de se faire voler leurs employés. Robinett, en désaccord avec ses superviseurs sur ce manque de reconnaissance, a secrètement inséré le message « Créé par Warren Robinett » dans le jeu. Ce message apparaît seulement lorsque le joueur déplace son avatar sur un pixel spécifique (le Gray Dot), situé dans une certaine partie du jeu, permettant ainsi d'entrer dans une partie cachée du monde où le générique peut être lu. Peu après son départ, le message fut découvert par un joueur, qui partagea sa découverte avec Atari. Atari voulut supprimer le message du jeu, mais cet effort fut jugé trop coûteux. Par la suite, Steven Wright, le directeur chez Atari, suggéra de conserver le message et même d'encourager l'inclusion de tels messages dans les prochains jeux, en les décrivant comme des « Œuf de Pâques » (easter egg) que les joueurs devraient trouver, d'où le terme « easter egg »,,,.
+
+
+== Dans les jeux vidéo ==
+
+En plus du nom de « Robinett » qui apparaît dans le jeu Adventure (en) (1979), il existe de nombreux autres jeux vidéo où des Easter eggs ont été dissimulés.
+Depuis Adventure, il est devenu récurrent que les développeurs placent des Easter eggs dans leurs jeux vidéo. La plupart sont intentionnels, une façon de communiquer avec le joueur ou bien comme Robinett un moyen de se venger de la direction. Dans les jeux vidéo, les Easter eggs ont pris une variété de formes de simple message à l'écran à la refonte visuelle des éléments d'un jeu. Le célèbre jeu de stratégie Age of Empires (1997) par exemple contient un Easter egg permettant de changer les projectiles des catapultes en remplacent les pierres par des vaches.
+Le premier jeu d'aventure textuel Colossal Cave Adventure (1976), comprenait plusieurs « instructions » secrètes. L'une d'entre elles était « xyzzy » (en), une commande permettant au joueur de se déplacer entre deux points distants dans le monde du jeu.
+Selon les recherches d'Ed Fries, le premier Easter egg connu dans un jeu d'arcade fut dans le jeu Starship 1 (en) (1977), développé par Ron Milner (en). En exécutant une suite d'actions dans le bon ordre le joueur faisait apparaître un message à l'écran « Hi Ron! ». Fries l'a décrit comme le plus ancien jeu d'arcade connu à ce jour qui répond clairement à la définition d'un Easter egg. Celui-ci a été découvert en 2017, soit 40 ans après la sortie du jeu, ce qui porte à croire que d'autres Easter eggs restent à découvrir,. Fries a remarqué que certaines machines d'arcade Atari revendues sous l'étiquette Kee Games ont inclus des changements de matériel qui rendraient le jeu différent de la version Atari. Anti-Aircraft II (en) (1975) comprenait un moyen de modifier le circuit imprimé pour faire modifier les avions du jeu en les faisant apparaître en Ovnis. Parce que cela nécessitait une modification matérielle, Fries s'est demandé si cela répondait à la définition d'un Easter egg.
+Certains Easter eggs sont plus élaborés, ils comprennent parfois des niveaux secrets (en) entiers à découvrir par le joueur. Ces zones cachées contiennent souvent des blagues propres à la fandom ou l'équipe de développement et diffèrent donc d'une simple salle de débogage (en). Certains jeux contiennent des Easter eggs encore plus élaborés. Dans le jeu de LucasArts, Day of the Tentacle (1993), le jeu Maniac Mansion (1987) peut être joué dans sa version complète en utilisant un ordinateur présent dans la chambre du personnage,.
+D'autres Easter eggs ont pris naissance sans aucune volonté de la part des développeurs, comme le très célèbre code Konami. Ce code de triche que l'on retrouve aujourd'hui dans beaucoup de jeux provient du jeu NES, Gradius (1985). Le développeur, Kazuhisa Hashimoto, créa le code comme moyen de déboguer rapidement le jeu en donnant à l'avatar du joueur certaines capacités pour pouvoir parcourir plus facilement le jeu. Ces types de codes sont généralement retirés du jeu final, mais dans le cas de Gradius, Hashimoto a simplement oublié de le supprimer et le code a rapidement été découvert par les joueurs. Sa popularité a inspiré Konami à réutiliser le code et à le conserver délibérément pour plusieurs de ses futurs jeux, comme un Easter egg,.
+Des problèmes techniques peuvent également créer des Easter eggs involontaires. Jon Burton (en), fondateur de Traveller's Tales, a déclaré que de nombreux Easter eggs sont venus de la volonté que leurs jeux Mega Drive obtiennent la certification de Sega. Par exemple, donner un coup sur le côté de la cartouche du jeu Sonic 3D Blast (1996), alors qu'elle était insérée dans la console, ramènerait le jeu à l'écran de sélection de niveau, ce qui selon Burton était le traitement par défaut des exceptions pour toute erreur non identifiée du processeur, comme lorsque la connectivité entre la cartouche et le microprocesseur de la console était temporairement perdue.
+
+
+== En informatique ==
+
+Dans les logiciels informatiques, les Easter eggs sont en général des messages secrets qui se produisent à la suite de l’exécution d'une commande non documentée. Les résultats peuvent varier d'un simple message où d'une image affichée à une page de générique des développeurs ou à un petit jeu vidéo caché dans un logiciel.
+Dans le système d'exploitation TOPS-10 (en) (pour l'ordinateur DEC PDP-10), la commande make est utilisée pour appeler l'éditeur TECO pour créer un fichier. Si on lui donne en argument le nom de fichier love, pour que la commande lise make love il s’arrêtera pendant un instant et répondra not war ? avant de créer le fichier.
+Certaines versions du système d'exploitation DEC OpenVMS ont caché des codes d'état de sortie, y compris une référence au sketch des Monty Python, le Guide de conversation hongrois grivois (en) ; le code « exit %xb70 » renvoie le message « %SYSTEM-W-FISH, my hovercraft is full of eels » tandis que « exit %x34b4 » renvoie une référence à un ancien mème Internet : « %SYSTEM-F-GAMEOVER, All your base are belong to us ».
+Beaucoup d'ordinateurs ont des Easter eggs encore plus élaborés cachés dans la mémoire ROM, y compris des listes de noms de développeurs, des recommandations politiques, des extraits de musique ou des photos de l'équipe de développement. La version 1997 de Microsoft Office contient un simulateur de vol caché dans Microsoft Excel et un jeu de flipper dans Microsoft Word,. Depuis 2002, Microsoft n'autorise plus aucun code caché ou non documenté, dans le cadre de son initiative Trustworthy Computing.
+L'outil logiciel apt-get du système d'exploitation Debian contient un Easter egg original, lorsque l'on entre la commande apt-get help dans le shell on peut lire un message « This APT has Super Cow Powers. », un indice pour le véritable Easter egg qui consiste à simplement entrer apt-get moo dans le shell, qui affichera une vache en format ASCII sur le terminal.
+Un Easter egg se trouve sur tous les systèmes d'exploitation Microsoft Windows avant Windows XP. Dans l'écran de veille 3D Text, entrer le texte « volcano » affichait les noms de tous les volcans des États-Unis. Microsoft a retiré cet œuf de Pâques dans Windows XP mais en a ajouté d'autres ; Microsoft Excel 95 par exemple contenait un jeu d'action caché semblable à Doom (1993), appelé « The Hall of Tortured Souls ».
+Le moteur de recherche de Google contient de nombreux Easter eggs (en), donnés à l'utilisateur en réponse à certaines requêtes de recherche. Par exemple, Google Maps a déjà répondu à une demande d'itinéraire de la ville de New York à Tokyo en disant à l'utilisateur de traverser en kayak l'océan Pacifique.
+Dès son retour dans l'entreprise, Steve Jobs a interdit les Easter eggs dans tous les produits Apple. Le premier Easter egg à apparaître après sa mort a été dans une mise à jour du Mac App Store pour OS X Mountain Lion en 2012, dans laquelle les applications téléchargées ont été temporairement horodatées comme « 24 janvier 1984 », la date de la vente du premier ordinateur Macintosh.
+
+
+== Au cinéma ==
+
+
+== Notes et références ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Easter egg (media) » (voir la liste des auteurs).
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Liste d'Easter eggs
+Œuf de Pâques
+Code Konami
+Niveaux secrets (en) dans les jeux vidéo.
+Caméo
+Morceau caché
+About:
+
+
+=== Liens externes ===
+(en) The Easter Egg Archive
+Laboratoire-microsoft
+(en) Liste de Easter Eggs dans les jeux d'arcade Portail de l’informatique   Portail de l'humour

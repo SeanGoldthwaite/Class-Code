@@ -1,0 +1,181 @@
+#lang racket
+(require "parenthec.rkt")
+
+(define value-of-cps
+  (lambda (exp env-cps k)
+    (union-case exp expr
+      [(const expr)
+       (apply-k k expr)]
+      [(var y)
+       (apply-env env-cps y k)]
+      [(sub1 x)
+       (value-of-cps x
+                     env-cps
+                     (make-sub1-k k))]
+      [(zero x)
+       (value-of-cps x
+                     env-cps
+                     (make-zero-k k))]
+      [(mult x1 x2)
+       (value-of-cps x1
+                     env-cps
+                     (make-mult-outer-k x2 env-cps k))]
+      [(if test conseq alt)
+       (if (value-of-cps test env-cps (empty-k))
+           (value-of-cps conseq env-cps k)
+           (value-of-cps alt env-cps k))]
+      [(letcc body)
+       (value-of-cps body
+                     (extend-env env-cps k)
+                     k)]
+      [(throw k-exp v-exp)
+       (value-of-cps k-exp
+                     env-cps
+                     (make-throw-k v-exp env-cps))]
+      [(let e body)
+       (value-of-cps body
+                     (extend-env env-cps (value-of-cps e env-cps k))
+                     (empty-k))]
+      [(lambda body)
+       (apply-k k (make-clos body env-cps k))]
+      [(app rator rand)
+       (value-of-cps rator
+                     env-cps
+                     (make-rator-k rand env-cps k))])))
+
+(define-union expr
+  (const cexp)
+  (var n)
+  (sub1 nexp)
+  (zero nexp)
+  (mult nexp1 nexp2)
+  (if test conseq alt)
+  (letcc body)
+  (throw kexp vexp)
+  (let exp body)              
+  (lambda body)
+  (app rator rand))
+
+(define-union envr
+  (empty-env)
+  (extend-env env-cps^ k))
+ 
+(define apply-env
+  (λ (env-cps y k^)
+    (union-case env-cps envr
+      [(empty-env)
+       `(error 'value-of "unbound identifier" ,y)]
+      [(extend-env env-cps^ k)
+       (if (zero? y)
+           (apply-k k^ k)
+           (apply-env env-cps^ (sub1 y) k^))])))
+
+(define empty-env
+  (lambda ()
+    (envr_empty-env)))
+
+(define extend-env
+  (λ (env-cps^ k^)
+    (envr_extend-env env-cps^ k^)))
+
+(define-union clos
+  (make body env-cps k^))
+
+(define apply-clos
+  (λ (rator arg k)
+    (union-case rator clos
+      [(make body env-cps k^)
+       (value-of-cps body
+                     (extend-env env-cps arg)
+                     k)])))
+
+(define make-clos
+  (λ (body env-cps k)
+    (clos_make body env-cps k)))
+
+
+(define apply-k
+  (λ (k v)
+    (match k
+      [`(empty-k)
+       v]
+      [`(make-sub1-k ,k^)
+       (apply-k k^ (sub1 v))]
+      [`(make-zero-k ,k^)
+       (apply-k k^ (zero? v))]
+      [`(make-throw-k ,v-exp^ ,env-cps^)
+       (value-of-cps v-exp^
+                     env-cps^
+                     v)]
+      [`(make-rand-k ,v-rator^ ,k^)
+       (apply-clos v-rator^ v k^)]
+      [`(make-rator-k ,rand^ ,env-cps^ ,k^)
+       (value-of-cps rand^
+                     env-cps^
+                     (make-rand-k v k^))]
+      [`(make-mult-inner-k ,w^ ,k^)
+       (apply-k k^ (* v w^))]
+      [`(make-mult-outer-k ,x2^ ,env-cps^ ,k^)
+       (value-of-cps x2^
+                     env-cps^
+                     (make-mult-inner-k v k^))])))
+
+(define empty-k
+  (lambda ()
+    `(empty-k)))
+
+(define make-sub1-k
+  (λ (k^)
+    `(make-sub1-k ,k^)))
+
+(define make-zero-k
+  (λ (k^)
+    `(make-zero-k ,k^)))
+
+(define make-throw-k
+  (λ (v-exp^ env-cps^)
+    `(make-throw-k ,v-exp^ ,env-cps^)))
+
+(define make-rand-k
+  (λ (v-rator^ k^)
+    `(make-rand-k ,v-rator^ ,k^)))
+
+(define make-rator-k
+  (λ (rand^ env-cps^ k^)
+    `(make-rator-k ,rand^ ,env-cps^ ,k^)))
+
+(define make-mult-inner-k
+  (λ (w^ k^)
+    `(make-mult-inner-k ,w^ ,k^)))
+
+(define make-mult-outer-k
+  (λ (x2^ env-cps^ k^)
+    `(make-mult-outer-k ,x2^ ,env-cps^ ,k^)))
+
+#;(value-of-cps '(mult (const 24)
+                     (letcc
+                      (throw (const 4)
+                             (throw (var 0)
+                                    (const 5)))))
+              (empty-env) (empty-k)) ;15
+
+(define main 
+  (lambda ()
+    (value-of-cps 
+     (expr_let 
+      (expr_lambda
+       (expr_lambda 
+        (expr_if
+         (expr_zero (expr_var 0))
+         (expr_const 1)
+         (expr_mult (expr_var 0) (expr_app (expr_app (expr_var 1) (expr_var 1)) (expr_sub1 (expr_var 0)))))))
+      (expr_mult
+       (expr_letcc
+        (expr_app
+         (expr_app (expr_var 1) (expr_var 1))
+         (expr_throw (expr_var 0) (expr_app (expr_app (expr_var 1) (expr_var 1)) (expr_const 4)))))
+       (expr_const 5)))
+     (empty-env)
+     (empty-k))))
+
+(main)

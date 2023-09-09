@@ -1,0 +1,53 @@
+﻿Das CRC Handbook of Chemistry and Physics von CRC Press ist ein Standardwerk der chemischen Literatur und Physik, das seit 1913 regelmäßig neu aufgelegt wird. Im Jahr 2018 erschien die 99. Auflage. Es enthält Tabellen mit Stoffeigenschaften von chemischen Verbindungen sowie mathematische und physikalische Formeln.
+Die 100. Auflage ist für Juni 2019 angekündigt, hat wieder über 2500 Seiten und kostet wieder etwa 230 US$.
+Eine Ausgabe für Studenten "CRC Handbook of Chemistry and Physics, Student Edition", zuletzt als 84. Auflage im Jahr 2004 erschienen, hat 2576 Seiten und kostet 105 US$. ISBN 978-0-8493-0597-9.
+
+
+== Gliederung in Abschnitte ==
+Die Seitenbezeichnungen bestehen aus jeweils zwei Teilen, getrennt durch einen kurzen waagrechten Trennstrich ("–"). Der erste Teil nennt den Abschnitt, der zweite Teil ist eine bis zu 3-stellige Seitenzahl, extra gezählt innerhalb des jeweiligen Abschnitts.
+Abschnitte:i (ehemals: 0) – Introduction
+1 – Basic Constants, Units, Conversion Factors
+2 – Symbols, Terminology, and Nomenclature
+3 – Physical Constants of Organic Compounds
+4 – Properties of the Elements & Inorganics
+5 – Thermo, Electro & Solution Chemistry
+6 – Fluid Properties
+7 – Biochemistry
+8 – Analytical Chemistry
+9 – Molecular Structure and Spectroscopy
+10 – Atomic, Molecular, and Optical Physics
+11 – Nuclear and Particle Physics
+12 – Properties of Solids
+13 – Polymer Properties
+14 – Geophysics, Astronomy, and Acoustics
+15 – Practical Laboratory Data
+16 – Health and Safety Information
+A – Mathematical Tables
+B – Appendix A: Sources Of Physical And Chemical Data (sic!)
+
+
+== Kurzbezeichnungen ==
+Auch wenn es mittlerweile verschiedene CRC Handbooks gibt, beziehen sich die Jargonausdrücke  CRC, Rubber (CRC ist die Abkürzung der Chemical Rubber Company) oder Handbook immer noch auf dieses Werk.
+
+
+== Online-Ausgabe ==
+Die interaktive Online-Ausgabe ist kostenpflichtig und bietet eine Volltextsuche, linkende Bezeichnungen chemischer Verbindungen, unterstützt beim Erstellen von Grafiken und die Erstellung von Strukturformeln organischer Verbindungen.
+Von den bisherigen Print-Ausgaben zurück bis zur 84. Auflage (2003–2004) sind durchsuchbare PDF-Dateien archiviert.
+Manche Tabellen, die vor der 84. Auflage zuletzt erschienen sind und dann aus dem Werk herausgenommen wurden, sind ebenso archiviert.
+
+
+== Sonstiges ==
+Anlässlich der Ausgabe der 85. Auflage entschied sich der Verlag zur Ausgabe einer Faksimile-Edition der ersten Auflage von 1913. Das Vorwort dazu schrieb der Editor-in-Cief David R. Lide. Die Faksimile-Ausgabe hat 116 Seiten.
+
+
+== Siehe auch ==
+CRC Handbook of Tables for Organic Compound Identification
+
+
+== Weblinks ==
+
+Handbook of Chemistry & Physics Online – kostenpflichtige Online-Version der aktuellen 99. Auflage
+Online Tour – durch die Online-Version der 99. Auflage.
+
+
+== Einzelnachweise ==

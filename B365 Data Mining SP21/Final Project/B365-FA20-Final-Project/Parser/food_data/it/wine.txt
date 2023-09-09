@@ -1,0 +1,109 @@
+﻿Wine (Wine is not an emulator acronimo ricorsivo traducibile in italiano con Wine non è un emulatore, fino 1997 Windows emulator per distinguerlo dai normali emulatori) è un software scritto in C nato originariamente per sistemi operativi GNU/Linux, poi esteso ad altri sistemi operativi,  con lo scopo di permettere il funzionamento dei programmi sviluppati per il sistema operativo Microsoft Windows. 
+
+
+== Storia ==
+Bob Amstadt (il capo progetto iniziale) e Eric Youngdale hanno avviato lo sviluppo di Wine nel 1993 come un modo per eseguire applicazioni Windows su Linux, le prime idee dell'origine del progetto sono rinvenibili nelle discussioni su Usenet in comp.os.linux nel giugno 1993. Il programma era ispirato da due prodotti coordinati da Sun Microsystems: Wabi per il sistema operativo Oracle Solaris e Windows Public Initiative (un tentativo di reimplementare completamente le API di Windows API in forma open source come standard ISO ma respinti a causa della pressione da parte di Microsoft nel 1996) ed aveva come obiettivo originario le applicazioni create per Windows 3.x (16-bit).
+A dirigere oggi lo sviluppo del progetto dal 1994 subentrò Alexandre Julliard, e inizialmente veniva distribuito sotto licenza MIT come il sistema X Window, ma a causa di preoccupazioni per le versioni proprietarie di Wine che in quel modo potevano non distribuire le loro modifiche al progetto di base, a partire da marzo 2002 il progetto ha utilizzato la licenza LGPL per Wine. La prima release candidate per la versione 1.0 venne distribuita il 9 maggio 2008. Dopo altre quattro release candidate, la versione definitiva 1.0 di Wine è stata distribuita il 17 giugno 2008, dopo ben 15 anni di sviluppo. Più recentemente lo sviluppo si è concentrato sulla compatibilità con le applicazioni a 32 e 64 bit realizzate per i sistemi operativi di derivazione NT.
+
+
+== Caratteristiche ==
+
+
+=== Architettura ===
+
+L'architettura del sistema Wine si rifà a quella dei sistemi NT. Al livello più alto della gerarchia si trova l'applicazione da eseguire, la quale si interfaccia con un sottoinsieme di librerie specifiche del programma ed alcune librerie di sistema, le quali non comunicano direttamente con il kernel ma con un sottosistema specifico per la piattaforma Win32, coadiuvato da una libreria di interfaccia (la NTDLL).
+In Windows NT, le applicazioni non effettuano chiamate dirette a funzioni del kernel, bensì ad uno dei sottosistemi realizzati, i quali si prodigano di effettuare le comunicazioni ai livelli più bassi; a questo punto della gerarchia, il ruolo di interfaccia del kernel viene sostituito dal wineserver, un programma attivo come processo demone che gestisce i processi ed i thread delle applicazioni, oltre alla loro sincronizzazione ed intercomunicazione. Parallelamente al wineserver, l'applicazione viene avviata tramite l'incapsulamento in un wine-thread, un programma client visibile come un processo Unix a tutti gli effetti. Le applicazioni e le librerie che si riferiscono direttamente ai driver di sistema di windows vengono reindirizzate verso la rispettiva componente implementata dal wine driver. Nella sua interezza il sistema prevede che vengano poi utilizzati i driver del kernel del sistema operativo utilizzato, in maniera invisibile ai livelli più alti.
+Alla base del sistema, sia il server che i programmi client di Wine fanno riferimento alle librerie standard del sistema Unix, ed in particolare alla libreria di sistema ed a quella del sistema X. Il tutto, nella sua interezza, viene eseguito nello spazio utente del sistema operativo. A oggi nessun tipo di integrazione diretta con i livelli più bassi del sistema (come una integrazione modulare al kernel) sono previsti, specie per evitare limitazioni che eviterebbero il funzionamento di Wine su differenti piattaforme.
+
+
+=== Funzionamento ===
+Invece che agire come un emulatore completo, Wine implementa un layer di compatibilità, offrendo implementazioni alternative e open source delle DLL, chiamate per i programmi di Windows e processi per sostituire il kernel di Windows NT, fornendo il collegamento alle API necessarie per il loro funzionamento.
+Quindi in questo senso,  Wine non emula nessuna architettura o sistema operativo, bensì fornisce ai programmi in esecuzione il supporto necessario per l'utilizzo di specifiche funzioni di Windows eventualmente richieste. Per fare ciò Wine si appoggia al sistema grafico (es. X11), in quanto gran parte delle applicazioni native per Win32 necessitano di primitive grafiche per la gestione di finestre (le applicazioni a riga di comando sono comunque utilizzabili tramite il programma wineconsole).
+Il progetto si è tuttavia rivelato lungo e difficile per gli sviluppatori, soprattutto a causa della documentazione incompleta e non corretta delle API di Windows. Mentre la maggior parte dei documenti Microsoft descrive ampiamente le funzioni Win32, alcune zone, come i formati di file e protocolli non hanno specifiche ufficiali di Microsoft. A volte è stato necessario che Wine replicasse anche oscuri bug per permettere ad alcune applicazioni di funzionare correttamente. Di conseguenza, la squadra di Wine ha fatto uso di una tecnica di reverse engineering detta Clean room design per poter implementare molte chiamate di funzione e poter utilizzare formati di file in alcuni settori.
+
+
+=== Configurazione ed utilizzo ===
+Il programma può usufruire della directory contenente la struttura base di Windows, con le directory "Windows", "Programmi", "Documenti", le DLL, e i file di configurazione (come i file INI e il Registro di sistema). Può essere quella originale o, meglio, una fittizia personalizzata.
+Ci sono molte utility per configurare wine, a parte wine-utils che sono applicazioni base integrate con wine per gestirlo (regedit, pannello di controllo wine ed altre), la più comune e funzionale è winetools ma esiste anche winesetuptk, il cui sviluppo è però fermo da tempo, e Sidenet.
+Una volta configurato Wine per avviare un file eseguibile di Windows basta digitare nel terminale:
+
+wine ./percorso/file.exe
+
+
+=== Strumenti di sistema ===
+Il software offre alcune utilità di sistema, quali:
+
+Winecfg: strumento di configurazione, che consente di aggiungere librerie software, cambiare le impostazioni del programma;
+Wine-Gecko: browser web integrato, utile quando una applicazione installata tramite Wine cerca di visualizzare un sito internet.
+Wine-Mono: implementazione open source di .NET Framework.
+Winetricks: script per scaricare e installare varie librerie di runtime necessarie per eseguire alcune applicazioni in Wine.
+Wine Uninstaller: strumento di rimozione delle applicazioni.
+
+
+=== Piattaforme supportate ===
+Sebbene sviluppato principalmente per Linux, successivamente sono stati distribuiti port per macOS, FreeBSD e Oracle Solaris, che vengono aggiornati più o meno in contemporanea con la versione Linux. Versioni risalenti al 1999 di Wine sono disponibili per OpenBSD e NetBSD.
+Anche se attualmente non regolarmente aggiornato, è  inoltre disponibile un porting delle Dynamic-link library di Wine per Microsoft Windows.
+
+
+== Programmi di utilità ==
+
+
+=== PlayOnLinux ===
+
+Si tratta di una interfaccia grafica che si propone di semplificare l'installazione di applicazioni basate su Windows in ambiente Linux. Sviluppato in Bash e Python, fornisce degli script con estensione .pol che specificano le configurazioni di Wine necessarie per installare ed eseguire una particolare applicazione.
+Permette agli utenti di installare le applicazioni più diffuse nell'ambito Windows, come Apple iTunes e Safari, Microsoft Office, Microsoft Internet Explorer v.6/7, AutoCAD, Mono, .NET Framework 2.0, Fireworks MX, Flash MX, e molti altri.Utilizza un database online di script da applicare alle diverse applicazioni che richiedono una configurazione particolare; se l'applicazione non è nel database, può essere eseguita un'installazione manuale. Oltre ai giochi, qualsiasi altro programma può essere installato ed ognuno viene messo in un contenitore diverso (WINEPREFIX) per evitare interferenze di un programma con un altro. Questo fornisce un "isolamento" più o meno simile a quello fornito dalle "bottles work" di CrossOver.
+Le applicazioni installate rimangono separate le une dalle altre. Possono utilizzare diverse versioni e configurazioni di Wine a seconda dei casi. L'installazione di queste è gestito da Play On Linux su software Linux senza la necessità di installare Wine separatamente.
+
+
+== Progetti correlati ==
+Gran parte del codice di Wine viene tuttora impiegato per lo sviluppo di ReactOS, un sistema operativo libero il cui scopo è sostituire, fornendo piena compatibilità con applicazioni e driver, la piattaforma Windows. Si tratta di un progetto indipendente dai sistemi Unix-like, con kernel e struttura autonomi. L'inclusione in ReactOS del codice di Wine e la continua collaborazione dei gruppi dei due progetti hanno dato una spinta decisiva al sistema operativo che ha beneficiato del lavoro iniziato diverso tempo prima dagli sviluppatori di Wine.
+Il codice di Wine è anche la base sulla quale sono nati due progetti commerciali: CrossOver e Cedega (nato dal progetto WineX, fork dello stesso Wine) che cerca di supportare nel modo più efficiente possibile una gran quantità di videogiochi sviluppati utilizzando sia librerie grafiche OpenGL che DirectX.
+Altri progetti che utilizzano Wine sono:
+
+Darwine, un port delle librerie Wine al sistema operativo Darwin e al Mac OS X. Darwine all'inizio compilava i sorgenti Windows ai binari Mach-O. Con l'avvento dell'architettura Apple-Intel, Darwine iniziò ad eseguire i binari Win32.
+BeWine, un port di Wine per BeOS, Haiku e simili.
+Odin, un progetto per OS/2.
+E/OS, un progetto ambizioso per eseguire un qualsiasi programma progettato per un qualsiasi sistema operativo senza bisogno di installare nessun sistema operativo.
+Rewind, un progetto MIT ora abbandonato.
+
+
+== Rapporti di Microsoft con Wine ==
+Microsoft non ha mai reso dichiarazioni pubbliche su Wine. Comunque Microsoft Windows Update blocca eventuali aggiornamenti delle applicazioni Microsoft che girano in ambienti Wine. Il 16 febbraio 2005, Ivan Leo Puoti scoprì che Microsoft setacciava il registro di Windows alla ricerca di chiavi relative a Wine per impedire l'utilizzo di Windows Update. Poi scrisse:
+
+Il sistema Windows Genuine Advantage (WGA) controlla anch'esso l'esistenza di chiavi Wine nel registro. Le FAQ dichiarano esplicitamente che WGA non funzionerà sotto Wine perché non è un "genuine Windows": "Quando il WGA trova WINE in esecuzione sul sistema, notificherà all'utente che stanno eseguendo un Windows non originale e non permetterà il download in quel sistema". Alcuni sono riusciti a far funzionare il WGA in ambienti Wine.Windows Media Player 11 richiede WGA, quindi non può essere installato su sistemi con Wine. Di contro è stato rimosso il controllo WGA di Internet Explorer 7 ed è possibile installarlo con Wine.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Wine, l'emulatore Windows di Linux, in MCmicrocomputer, n. 188, Roma, Technimedia, ottobre 1998,  pp. 274-277, ISSN 1123-2714.
+
+
+== Voci correlate ==
+GNU General Public License
+Linux
+Microsoft Windows
+Modello OSI
+Open source
+Portabilità
+Win32
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Wine
+
+
+== Collegamenti esterni ==
+
+(DE, EN, ES, FR, KO, PL, PT, TR, UK, cinese semplificato) Sito ufficiale, su winehq.org.  
+ Wine, su packages.debian.org. 
+ Repository sorgenti di Wine, su source.winehq.org. 
+ Sito di segnalazione bug, su bugs.winehq.org. 
+(EN) Wine, su Free Software Directory. 
+(EN) Benchmark con Windows, su wiki.winehq.org. URL consultato il 31 gennaio 2006 (archiviato dall'url originale il 9 dicembre 2010).
+(EN)  appdb.winehq.org Database che fornisce un elenco di applicazioni funzionanti
+(EN)  frankscorner.org Sito contenente informazioni su come installare alcuni software con wine
+(EN) Winetools, su von-thadden.de. URL consultato il 13 settembre 2005 (archiviato dall'url originale il 12 febbraio 2007).
+(EN) Sidenet, su sidenet.ddo.jp.

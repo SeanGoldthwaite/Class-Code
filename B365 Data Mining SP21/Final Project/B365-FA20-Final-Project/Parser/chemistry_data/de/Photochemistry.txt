@@ -1,0 +1,55 @@
+﻿Plattenepithelkarzinome (englisch Squamous cell carcinoma), auch als spinozelluläres Karzinom, Spinaliom, Stachelzellkrebs, Epithelioma spinocellulare oder Plattenepithelkrebs bezeichnet, sind von den Epithelien der Haut und der Schleimhäute ausgehende bösartige (maligne) Tumoren aus der Gruppe der Karzinome. Sie können auch von anderen Geweben ausgehen, die selbst kein Plattenepithel besitzen, aber Epithelien mit der Fähigkeit zur Plattenzellmetaplasie haben. Das Plattenepithelkarzinom ist der zweithäufigste bösartige Hauttumor.
+
+
+== Lokalisationen ==
+Plattenepithelkarzinome kommen vorwiegend in Körperregionen vor, die natürlicherweise von Plattenepithel bedeckt sind. Dazu gehören die äußere Haut und mechanisch stärker beanspruchte Schleimhäute wie Mundhöhle, Rachen, Stimmlippen, Speiseröhre, Vagina, Gebärmutterhals und Analregion. Weiterhin können Plattenepithelkarzinome über die Plattenepithelepithelmetaplasie auch an anderen Stellen auftreten, z. B. in der Lunge.
+
+
+== Ursachen ==
+Plattenepithelkarzinome der Haut entwickeln sich in erster Linie auf dem Boden schwer lichtgeschädigter Haut bei bereits vorhandenen aktinischen Keratosen. In selteneren Fällen entstehen sie aus chronischen Wunden, Verbrennungsnarben oder anderen Hauterkrankungen. Der Sari-Hautkrebs bei indischen Frauen wird zum Beispiel durch ständige Reizung der Haut durch die traditionelle Kleidung ausgelöst. Das Plattenepithelkarzinom der Haut ist das Paradebeispiel für einen durch Sonnenlicht ausgelösten Tumor. Hierbei spielt offensichtlich die kumulative Sonnenexposition („UV-Lebenszeitkonto“) eine entscheidende Rolle. Besonders gefährdet sind Personen, bei denen das Immunsystem etwa infolge einer medikamentösen Therapie nach Organtransplantationen geschwächt ist.
+Antibiotika aus der Gruppe der Fluorchinolone sind photogenotoxische Substanzen mit klastogenen Eigenschaften, welche tierexperimentellen Ergebnissen zufolge in Verbindung mit UVA-Strahlung gut- und bösartige Hauttumoren, insbesondere Plattenepithelkarzinome, verursachen. Klinische Beobachtungen legen nahe, dass Fluorchinolone wie Ciprofloxacin speziell bei langfristiger Behandlung immunsupprimierter Patienten hochaggressive, metastatische und rezidivierende Plattenepithelkarzinome induzieren können. Als pathophysiologische Ursache Fluorchinolon-induzierter Hautläsionen werden Schädigungen der DNA-Reparaturproteine und Mitochondrien diskutiert.Plattenepithelkarzinome der Cervix uteri, aber auch des HNO-Traktes und anderer Körperregionen sind teilweise HPV-assoziiert und entwickeln sich über Krebsvorstufen.
+Plattenepithelkarzinome der Lunge und der oberen Atemwege können durch Rauchen bedingt sein.
+
+
+== Pathologie ==
+
+Plattenepithelkarzinome wachsen warzenartig (verrukös) oder ulzerierend und ahmen das verhornende oder nicht-verhornende Plattenepithel in unterschiedlichem Umfang nach. Typisch für sie ist ein Zytoskelett aus Zytokeratin (CK). Hochdifferenzierte Karzinome dieser Entität verhornen und bilden, da die Hornschuppen im Tumorinneren liegen und nicht abgeschilfert werden können, zwiebelschalenartig geschichtete Hornkugeln (Hornperlen), die mikroskopisch meist eindeutig diagnostizierbar sind. Gering differenzierte Karzinome verlieren die Fähigkeit zur Hornbildung. Sie bilden sehr polymorphe (vielformige), solide Tumoren. Sehr stark entdifferenzierte (anaplastische) Plattenepithelkarzinome können in der spindelzelligen (fusiformen) Variante wie Sarkome aussehen.
+Als invasiv und damit metastasierungsfähig gelten Plattenepithelkarzinome, wenn sie die Basalmembran durchbrochen haben. Meist lässt sich dann auch eine desmoplastische Stromareaktion (reaktives Bindegewebe) nachweisen. Weitere Zeichen der Invasion sind Einbrüche in Blut- und Lymphgefäße, Perineuralscheideninvasion, destruierendes Wachstum und Metastasen.
+Nicht-Invasive Krebsvorstufen werden als Plattenepitheldysplasie, intraepitheliale Neoplasie (IEN) oder squamöse intraepitheliale Läsion (SIL) bezeichnet und in Schweregrade eingeteilt. Carcinoma in situ (Cis) ist gleichbedeutend mit schwerer Dysplasie bzw. high grade IEN / SIL. Leichtgradige Dysplasien können sich spontan zurückbilden, bei schweren Dysplasien ist der Übergang in ein invasives Karzinom jederzeit möglich.
+Immunhistochemisch zeigen Plattenepithelkarzinome meist eine Reaktivität mit Antikörpern gegen die nukleären Marker p40 und p63 sowie gegen die zytoplasmatischen Marker CK 5/6 und CK 14. Eine zytoplasmatische Reaktivität auf p16 ist bei HNO-Tumoren TNM-relevant und hilft diagnostisch bei Krebsvorstufen z. B. an der Cervix uteri (schwere Krebsvorstufen sind meist positiv). Ggf. kann auch p53 aberrant exprimiert sein. Mittels in-situ-Hybridisierung lässt sich bei Bedarf eine HPV Infektion nachweisen.
+Das Plattenepithelkarzinom ist mit mutierter mitochondrialer DNA assoziiert, die als prädiktiver Marker dienen kann und ein mögliches therapeutisches Angriffsziel darstellt.Differentialdiagnostisch kommen bei schlecht differenzierten Plattenepithelkarzinomen z. B. Adenokarzinome, Melanome, Mesotheliome, Sarkome u. a. in Betracht.
+
+
+== Therapie ==
+Standardtherapie ist die vollständige operative Entfernung des Tumors. Bei Karzinomen mit einem sehr hohen Risiko der Bildung von Tochtergeschwülsten (Metastasen) kann eine vorbeugende Operation der angrenzenden Lymphknoten notwendig sein. Ist eine Operation etwa aus medizinischen Gründen nicht möglich oder liegen sehr ausgedehnte Frühformen des Karzinoms vor, gibt es eine Vielzahl von Therapiealternativen. Hierzu zählen in erster Linie oberflächlich zerstörende Maßnahmen wie Kürettage, Elektrodesikkation, Kryotherapie (Vereisung), photodynamische Therapie, eine lokale Chemotherapie (5-Fluorouracil-Creme), eine lokale Immuntherapie (Imiquimod-Creme) und Strahlentherapie.
+Tumoren im fortgeschrittenen Stadium (Lymphknotenbefall und/oder Metastasen in anderen Organen) können neben der Operation mit systemischer, also im ganzen Körper wirkender Chemotherapie sowie Immuntherapie (Interferon-alpha) behandelt werden.
+Plattenepithelkarzinome der Haut sprechen in der Regel zunächst gut auf eine Chemotherapie an, neigen allerdings sehr häufig zu Rückfällen (Rezidiven), so dass eine Heilung zumeist nicht möglich ist.
+In letzter Zeit wird eine therapeutische „off-label“-Anwendung des 9-valenten HPV-Impfstoffs diskutiert. Der Impfstoff wird dabei direkt in verschiedene Hauttumore des Patienten injiziert. Besonders bei älteren Menschen mit aggressiver Form des Plattenepithelkarzinoms kann dies eine Option sein. Im Juli 2018 wurde über die vollständige Heilung einer älteren Frau von über 90 Jahren berichtet. Sie hatte mehrere aggressive inoperable Plattenepithelkarzinome.
+
+
+== Krankheitsverlauf ==
+Je früher Plattenepithelkarzinome der Haut erkannt und behandelt werden, desto besser ist ihre Prognose. Tumoren mit einer Größe unter 2 cm metastasieren selten und haben die besten Heilungschancen. Die meisten Plattenepithelkarzinome werden in diesem Stadium erkannt und können daher gut behandelt werden. Wenn sich Tochtergeschwülste ausgebildet haben, ist die Prognose deutlich ungünstiger.
+Nachsorgeuntersuchungen finden je nach Metastasen- oder Rückfallrisiko alle drei bis sechs Monate statt. Obwohl die meisten Rückfälle und Metastasen innerhalb der ersten zwei Jahre auftreten, sollte die Nachsorge grundsätzlich über fünf Jahre hinweg durchgeführt werden. Die Patienten sollten darüber hinaus den Risikofaktor UV-Licht meiden und ihre Haut regelmäßig selbst kontrollieren. Bei unklaren Hautveränderungen sollte immer ein Hautarzt aufgesucht werden.
+Die Zahl der Hautkrebsfälle in Deutschland hat sich in den letzten zehn Jahren (vor 2013) auf jährlich ca. 235.000 Neuerkrankungen verdoppelt:
+
+An erster Stelle steht das Basaliom (Basalzellenkrebs) mit jährlich ca. 137.000 Fällen.
+An zweiter Stelle folgt das Plattenepithelkarzinom (Spinaliom) mit ca. 70.000 Neuerkrankungen im Jahr.
+An dritter Stelle steht das maligne Melanom (schwarzer Hautkrebs) mit jährlich ca. 28.000 Fällen in Deutschland.Internationale Experten machen insbesondere UV-bedingte Hautschäden, die in der Kindheit und Jugend erworben wurden, für diesen Trend verantwortlich.
+
+
+== Berufserkrankung und Meldepflicht ==
+Seit dem 1. Januar 2015 sind „Plattenepithelkarzinome oder multiple aktinische Keratosen der Haut durch natürliche UV-Strahlung“ als BK Nr. 5103 in Anlage 1 der Berufskrankheiten-Verordnung (BKV) aufgenommen und damit an die zuständige Berufsgenossenschaft zu melden.
+
+
+== Literatur ==
+Ursus-Nikolaus Riede, Hans-Eckart Schaefer: Allgemeine und spezielle Pathologie. Thieme, Stuttgart 1999, ISBN 3-13-683304-X.
+Dr. med. Dirk Hasselmann: Heller Hautkrebs: Erkennen. Behandeln. Sich schützen. 1. Auflage. ISBN 978-3-7450-4315-0
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+Plattenepithelkarzinom auf Website des St. Josef- und St. Elisabeth-Hospital
+Plattenepithelkarzinom der Haut auf Website der Universitätsmedizin Greifswald der Ernst-Moritz-Arndt-Universität Greifswald

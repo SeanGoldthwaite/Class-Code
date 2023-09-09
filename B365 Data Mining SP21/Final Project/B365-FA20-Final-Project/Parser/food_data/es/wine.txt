@@ -1,0 +1,98 @@
+﻿Wine (acrónimo recursivo en inglés para Wine Is Not an Emulator, que significa «Wine no es un emulador») es una reimplementación de la interfaz de programación de aplicaciones de Win16 y Win32 para sistemas operativos basados en Unix. Permite la ejecución de programas diseñados para MS-DOS, y las versiones de Microsoft Windows 3.11, 95, 98, Me, NT, 2000, XP, Vista, 7, 8 y 10.
+El nombre Wine inicialmente fue un acrónimo para WINdows Emulator.[1]​ Este significado fue cambiado posteriormente al acrónimo recursivo actual. El doble significado deriva del hecho de que WINE es un emulador de API de SOs, en contraposición a un entorno de máquina o un emulador de CPU. Algunas personas no aplicarían el término emulador a lo que algunos autores [2]​ [3]​ llaman un emulador de API porque la herramienta es realmente una reimplementación de una API existente, no una forma de emular un entorno de máquina completo. [4]​
+Wine provee de: 
+
+Un conjunto de herramientas de desarrollo para portar código fuente de aplicaciones Windows a Unix.
+Un cargador de programas, el cual permite que muchas aplicaciones para Windows 2.0/3.x/9X/ME/NT/2000/XP/Vista/7 y 8 se ejecuten sin modificarse en varios sistemas operativos Unix como macOS, BSD y Unix-like como GNU/Linux, Solaris
+
+
+== Historia del proyecto ==
+El proyecto Wine comenzó en 1993, época de la versión 3.11 de Windows. El proyecto posiblemente se originó en discusiones en comp.os.linux. Los programadores Eric Youngdale y Bob Amstadt crearon su primera versión. La razón por la cual Wine no es un emulador es que los emuladores tienden a duplicar el entorno completo en el que un programa vive, incluyendo la simulación de una arquitectura de microprocesador determinada. Wine, por el contrario, implementa lo que podría ser llamado una capa de compatibilidad, la cual provee alternativas a las bibliotecas de Microsoft Windows.
+A mediados del año 2002, ya se contaba con una aplicación con más de 1 millón de líneas de código fuente escrito en el lenguaje C y con un grupo de más de 300 programadores. El proyecto tuvo tiempos en los cuales no se avanzó lo suficiente, hasta que en el año 2003, aplicaciones muy extendidas en el entorno Windows como Microsoft Office e Internet Explorer fueron posibles de ser utilizadas en entornos Unix gracias a Wine.
+El proyecto presenta grandes retos para los desarrolladores, al menos en parte debido a la incompleta documentación de la API de Windows. A pesar de que la mayoría de las funciones la API Win32 están correctamente documentadas, existen aún muchas áreas, como formatos de archivos y protocolos, para las cuales no existen especificaciones documentadas por parte de Microsoft.
+Hacia comienzos de 2003, Wine podía ejecutar muchos programas populares, como Lotus Notes y algunas versiones de Microsoft Office, con comportamientos y estabilidad variables. El éxito del funcionamiento de cada aplicación depende del uso de bibliotecas dinámicas (DLL) de Windows.
+La empresa de software Corel ayudó mucho al proyecto, empleando temporalmente a uno de los principales desarrolladores, Alexandre Julliard, junto con muchos otros programadores secundarios. Esta ayuda fue motivada por el porting de la suite ofimática de Corel a GNU/Linux. Sin embargo, debido a dificultades económicas, el apoyo de Corel cesó.
+Otras organizaciones han hecho esfuerzos comerciales para apoyar el proyecto, incluyendo CodeWeavers y Linspire. CodeWeavers ha desarrollado una versión comercial, cerrada y visualmente más atractiva, de Wine y la comercializa bajo el nombre CrossOver Office; además, colabora con el proyecto, ya sea financiándolo o con parches.
+El desarrollo oficial de Wine está orientado hacia la correcta implementación de la API de Windows como un todo y aunque se encuentra un poco atrasado en estas áreas, desde su versión 1.0 de verano de 2008 es capaz de ejecutar con éxito y con pocos o escasos errores una gran variedad de aplicaciones diseñadas para Windows.
+Otros proyectos que han incorporado código fuente de Wine son Rewind, ReactOS y Longene. El último proyecto es un módulo para el kernel linux que sustituye al wineserver, acelerando la ejecución de Wine.
+
+
+== Estado actual de Wine ==
+
+De acuerdo a un estudio realizado en Internet por DesktopLinux.com[5]​ en 2006, la aplicación Wine es bastante usada con relación a las demás con una demanda de 33,5% de los encuestados, mientras que un 16,7% utiliza el VMware y apenas un 7% usa la aplicación CrossOver. En tanto la porción de los encuestados que no utiliza ninguno fue de un 39%.
+El 17 de junio de 2008 el proyecto Wine lanzó la versión 1.0,[6]​ la primera versión estable en quince años de desarrollo. Ésta presenta mejoras con relación a las versiones alpha y beta, de las cuales se puede mencionar un mejor soporte de ratón en los juegos, aplicaciones con uso de bibliotecas OpenGL, manejo de nuevos estados en Direct3D y mejora del sistema de audio, entre mejoras importantes.
+El 16 de julio de 2010 el proyecto Wine lanzó la versión estable 1.2,[7]​ presentando más de 23 000 cambios en el código fuente, más de 3000 bugs arreglados y el soporte para aplicaciones de 64 bits.
+El 7 de marzo de 2012 el proyecto Wine lanzó la versión estable 1.4,[8]​ añadiendo soporte a muchas nuevas aplicaciones como Microsoft Office 2010,[8]​ y juegos de última generación como Skyrim[9]​ o StarCraft II.[10]​
+El 18 de julio de 2013 el proyecto Wine lanzó la versión estable 1.6,[11]​ añadiendo más de 10 000 cambios en el código fuente y añadiendo soporte a aplicaciones .Net y Mono.
+El 19 de diciembre de 2015 el proyecto Wine lanzó la versión estable 1.8,[12]​ después de 17 meses de desarrollo y añadiendo más de 13 000 cambios en el código fuente.  Los puntos a destacar es la implementación de DirectWrite y Direct2D, y el nuevo controlador de audio pulse.
+
+
+== WineHQ ==
+WineHQ significa Wine HeadQuarters, es el nombre del sitio web y del repositorio, mientras que wine a secas es el nombre de la aplicación.
+
+
+== Características ==
+
+
+=== Compatibilidad binaria ===
+Soporte para programas de la familia MS-DOS y Windows (3.x/9x/NT/2000/XP/2003/Vista/2008/7/8).
+Soporte para llamadas de funciones de Windows de 64, 32 y 16 bits.
+Código x86 de 64, 32 y 16 bits.
+Extensas bibliotecas de interrupciones para programas utilizando llamadas de modo real INTxx.
+Capacidades avanzadas de trunking.
+Posibilidad de añadirle más bibliotecas de enlace dinámico (DLL), incluso las nativas de Windows, las cuales están ubicadas en la carpeta C:\Windows\System32, y pueden ser instaladas en wine copiando dichas librerías en la carpeta ~/.wine/drive_c/windows/system32.
+Diseño de ingeniería inversa para mejorar la solución frente a errores.
+Ejecución sobre otras arquitecturas no Intel bajo emulación, con QEMU (Darwine era una bifurcación de Wine hecha para Mac OS X PowerPC, pero el proyecto quedó abandonado).
+
+
+=== Gráficos ===
+Puede dibujar en entornos gráficos basados en X11, SDL texto/ttydrv.
+Pantalla remota para cualquier terminal X.
+Soporte total de GDI y parcial GDI32.
+Soporte de DirectX para juegos.
+Puede utilizar impresoras para sistemas Microsoft Windows de 16 bits de forma nativa.
+Interfaz interna de impresión PostScript.
+Capacidad para metaarchivos.
+Capacidad de ejecución en una o varias ventanas.
+Posibilidad de instalar temas visuales de formato msstyle, los nativos de Windows.
+
+
+=== Otras características ===
+Soporte para sonido y entradas alternativas.
+Soporte para módems o dispositivos por puerto serie.
+Trabajo en red con Winsock TCP/IP.
+Soporte para escáneres ASPI.
+Soporte para controles avanzados típicos de programas para Microsoft Windows de 32 bits.
+
+
+=== Wine API ===
+Diseñado para ser compatible con código para Windows de 32 bits.
+Programas de muestra
+Documentación generada automáticamente de las API
+Compilador fuente de 32 bits
+Capacidad parcial de codificación Unicode
+Internacionalización: Wine está disponible en 16 lenguas
+Depurador integrado y mensajes de rastreo configurables
+
+
+== Véase también ==
+Anbox
+Boot Camp
+Cygwin
+Wine Doors
+PlayOnLinux
+Fink
+Cedega
+DOSBox
+Linux Unified Kernel
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+
+Sitio web oficial
+Programas compatibles (en inglés)
+Wine en Freshmeat
+Wine en Open Hub

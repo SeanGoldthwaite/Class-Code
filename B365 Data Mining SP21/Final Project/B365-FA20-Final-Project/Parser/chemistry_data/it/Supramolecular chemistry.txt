@@ -1,0 +1,497 @@
+﻿I settori ERC (European Research Council) sono raggruppamenti di discipline ai fini di agevolare la ricerca scientifica nell'ordinamento europeo. I settori sono stati stabiliti dal Consiglio europeo della ricerca.
+
+
+== Scienze sociali e umanistiche ==
+
+
+=== SH1 ===
+Individui, istituzioni e mercati: economia, finanza e gestione
+
+SH1_1 Macroeconomia
+SH1_2 Sviluppo, crescita economica
+SH1_3 Microeconomia, economia comportamentale
+SH1_4 Marketing
+SH1_5 Economia politica, economia istituzionale, analisi economica del diritto
+SH1_6 Econometria, metodi statistici
+SH1_7 Mercati finanziari, valutazione, finanza internazionale
+SH1_8 Banking, finanza aziendale, contabilità
+SH1_9 Competitività, innovazione, ricerca e sviluppo
+SH1_10 Organizzazione: teoria e strategia, organizzazione industriale
+SH1_11 Economia del lavoro, distribuzione del reddito e povertà
+SH1_12 Economia pubblica
+SH1_13 Commercio internazionale
+SH1_14 Storia del pensiero economico e storia economica quantitativa
+
+
+=== SH2 ===
+Istituzioni, valori, credenze e comportamenti: sociologia, antropologia sociale, scienze politiche, diritto, comunicazione, studi sociali della scienza e della tecnologia
+
+SH2_1 Struttura sociale, diseguaglianze, mobilità sociale, relazioni interetniche
+SH2_2 Politiche sociali, lavoro e welfare
+SH2_3 Parentela, dimensioni culturali di classificazione e conoscenza, identità, genere
+SH2_4 Mito, rito, rappresentazioni simboliche, studi religiosi
+SH2_5 Democratizzazione, movimenti sociali
+SH2_6 Violenza, conflitto e risoluzione dei conflitti
+SH2_7 Sistemi politici e delle istituzioni, governo d'impresa
+SH2_8 Studi legali, costituzioni, diritto comparato, diritti umani
+SH2_9 Governance globale e transazionale, studi internazionali
+SH2_10 Reti di comunicazione, media, società dell'informazione
+SH2_11 Studi sociali della scienza e della tecnologia
+
+
+=== SH3 ===
+Ambiente, spazio e popolazione: studi ambientali, geografia, demografia, migrazioni, studi regionali e urbani 
+
+SH3_1 Ambiente, risorse e sostenibilità
+SH3_2 Mutamento climatico e della società
+SH3_3 Normative ambientali e negoziati sul clima
+SH3_4 Ecologia sociale industriale
+SH3_5 Dinamiche della popolazione, invecchiamento, salute e società
+SH3_6 Economia domestica, famiglia e fertilità
+SH3_7 Migrazione
+SH3_8 Mobilità, turismo, trasporti e logistica
+SH3_9 Sviluppo e architettura territoriale, uso del suolo, pianificazione regionale
+SH3_10 Studi urbani, studi regionali
+SH3_11 Geografia sociale, infrastrutture
+SH3_12 Geo-informazione e analisi di dati spaziali
+
+
+=== SH4 ===
+La mente umana e la sua complessità: scienze cognitive, psicologia, linguistica, educazione
+
+SH4_1 Evoluzione della mente e funzioni cognitive, comunicazione animale
+SH4_2 Sviluppo psicosociale
+SH4_3 Neuropsicologia
+SH4_4 Psicologia cognitiva e sperimentale: percezione, azione e processi cognitivi superiori
+SH4_5 Psicologia sociale e clinica
+SH4_6 Linguistica: formale, cognitiva, funzionale e computazionale
+SH4_7 Linguistica: tipologica, storica, comparativa
+SH4_8 Psicolinguistica e neurolinguistica: acquisizione e conoscenza della lingua, patologie del linguaggio
+SH4_9 Uso del linguaggio: pragmatica, sociolinguistica, analisi del discorso, insegnamento e apprendimento della seconda lingua, lessicografia, terminologia
+SH4_10 Filosofia della mente, epistemologia e logica
+SH4_11 Educazione: sistemi ed istituzioni, insegnamento e apprendimento
+
+
+=== SH5 ===
+Culture e produzione culturale: letteratura e filosofia, arti visiva e dello spettacolo, musica, studi culturali e comparativi
+
+SH5_1 Arte classica, letteratura greca e latina
+SH5_2 Storia della letteratura
+SH5_3 Teoria letteraria e letteratura comparativa, stili letterari
+SH5_4 Filologia testuale, paleografia ed epigrafia
+SH5_5 Arti visive, arti dello spettacolo, design
+SH5_6 Filosofia, storia della filosofia
+SH5_7 Musei e mostre
+SH5_8 Musica e musicologia, storia della musica
+SH5_9 Storia dell'arte e dell'architettura
+SH5_10 Studi culturali, diversità culturale
+SH5_11 Patrimonio culturale, memoria culturale
+
+
+=== SH6 ===
+Lo studio del passato umano: archeologia, storia e memoria
+
+SH6_1 Archeologia, archeometria, archeologia del paesaggio
+SH6_2 Preistoria e protostoria
+SH6_3 Storia antica
+SH6_4 Storia medievale
+SH6_5 Prima età moderna
+SH6_6 Storia moderna e contemporanea
+SH6_7 Storia coloniale e post-coloniale, globale e transnazionale, comparata
+SH6_8 Storia sociale ed economica
+SH6_9 Storia di genere
+SH6_10 Storia delle idee, storia intellettuale, storia della scienza e della tecnologia
+SH6_11 Storia culturale, storia delle identità e memorie collettive
+SH6_12 Storiografia, teoria e metodi della storia
+
+
+== Matematica, scienze fisiche, informazione e comunicazione, ingegneria, scienze della terra e dell'universo ==
+
+
+=== PE1 ===
+Matematica: tutte le aree della matematica, pura e applicata, fondamenti matematici di informatica, fisica matematica e statistica
+
+PE1_1 Logica e fondamenti
+PE1_2 Algebra
+PE1_3 Teoria dei numeri
+PE1_4 Geometria algebrica e complessa
+PE1_5 Geometria
+PE1_6 Topologia
+PE1_7 Gruppi di Lie, algebra di Lie
+PE1_8 Analisi
+PE1_9 Algebra degli operatori e analisi funzionale
+PE1_10 Equazioni differenziali e sistemi dinamici
+PE1_11 Aspetti teorici di equazioni differenziali alle derivate parziali
+PE1_12 Fisica matematica
+PE1_13 Probabilità
+PE1_14 Statistica
+PE1_15 Matematica discreta e combinatoria
+PE1_16 Aspetti matematici di informatica
+PE1_17 Analisi numerica
+PE1_18 Calcolo scientifico ed elaborazione dati
+PE1_19 Teoria del controllo e ottimizzazione
+PE1_20 Applicazione della matematica nelle scienze
+PE1_21 Applicazione della matematica nell'industria e nella società
+
+
+=== PE2 ===
+Costituenti fondamentali della materia: fisica delle particelle, nucleare, dei plasmi, atomica, molecolare, dei gas e ottica
+
+PE2_1 Fundamental interactions and fields
+PE2_2 Particle physics
+PE2_3 Nuclear physics
+PE2_4 Nuclear astrophysics
+PE2_5 Gas and plasma physics
+PE2_6 Electromagnetism
+PE2_7 Atomic, molecular physics
+PE2_8 Ultra-cold atoms and molecules
+PE2_9 Optics, non-linear optics and nano-optics
+PE2_10 Quantum optics and quantum information
+PE2_11 Lasers, ultra-short lasers and laser physics
+PE2_12 Acoustics
+PE2_13 Relativity
+PE2_14 Thermodynamics
+PE2_15 Non-linear physics
+PE2_16 General physics
+PE2_17 Metrology and measurement
+PE2_18 Statistical physics (gases)
+
+
+=== PE3 ===
+Fisica della material condensata: struttura, proprietà elettroniche, fluidi, nanoscienze
+
+PE3_1 Struttura di solidi e liquidi
+PE3_2 Proprietà meccaniche e acustiche della materia condensata
+PE3_3 Proprietà termiche della materia condensata
+PE3_4 Proprietà di trasporto della materia condensata
+PE3_5 Proprietà elettroniche dei materiali e trasporto
+PE3_6 Dinamica dei reticoli
+PE3_7 Semiconduttori
+PE3_8 Superconduttività
+PE3_9 Superfluidi
+PE3_10 Spintronica
+PE3_11 Magnetismo
+PE3_12 Nanofisica: nanoelettronica, nanofotonica, nanomagnetismo
+PE3_13 Fisica mesoscopica
+PE3_14 Molecular electronics
+PE3_15 Soft condensed matter (liquid crystals…)
+PE3_16 Fluid dynamics (physics)
+PE3_17 Statistical physics (condensed matter)
+PE3_18 Phase transitions, phase equilibria
+PE3_19 Biophysics
+
+
+=== PE4 ===
+Physical and Analytical Chemical sciences: analytical chemistry, chemical theory, physical chemistry/chemical physics
+
+PE4_1 Physical chemistry
+PE4_2 Nanochemistry
+PE4_3 Spectroscopic and spectrometric techniques
+PE4_4 Molecular architecture and Structure
+PE4_5 Surface science
+PE4_6 Analytical chemistry
+PE4_7 Chemical physics
+PE4_8 Chemical instrumentation
+PE4_9 Electrochemistry, electrodialysis, microfluidics
+PE4_10 Combinatorial chemistry
+PE4_11 Method development in chemistry
+PE4_12 Catalysis
+PE4_13 Physical chemistry of biological systems
+PE4_14 Chemical reactions: mechanisms, dynamics, kinetics and catalytic reactions
+PE4_15 Theoretical and computational chemistry
+PE4_16 Radiation chemistry
+PE4_17 Nuclear chemistry
+PE4_18 Photochemistry
+
+
+=== PE5 ===
+Materials and Synthesis: materials synthesis, structure-properties relations, functional and advanced materials, molecular architecture, organic chemistry
+
+PE5_1 Structural properties of materials
+PE5_2 Solid state materials
+PE5_3 Surface modification
+PE5_4 Thin films
+PE5_5 Corrosion
+PE5_6 Porous materials
+PE5_7 Ionic liquids
+PE5_8 New materials: oxides, alloys, composite, organic-inorganic hybrid, superconductors
+PE5_9 Materials for sensors
+PE5_10 Nanomaterials: nanoparticles, nanotubes
+PE5_11 Biomaterials synthesis
+PE5_12 Intelligent materials – self assembled materials
+PE5_13 Environment chemistry
+PE5_14 Coordination chemistry
+PE5_15 Colloid chemistry
+PE5_16 Biological chemistry
+PE5_17 Chemistry of condensed matter
+PE5_18 Homogeneous and heterogeneous catalysis
+PE5_19 Characterization methods of materials
+PE5_20 Macromolecular chemistry
+PE5_21 Polymer chemistry
+PE5_22 Supramolecular chemistry
+PE5_23 Organic chemistry
+PE5_24 Molecular chemistry
+
+
+=== PE6 ===
+Informatica e scienza dei calcolatori: informatica e sistemi informativi, scienza dei calcolatori, calcolo scientifico, sistemi intelligenti
+
+PE6_1 Architettura dei calcolatori, informatica pervasiva, informatica diffusa (ubiquitous)
+PE6_2 Sistemi di calcolo, sistemi distribuiti/paralleli, reti di sensori, sistemi embedded, sistemi cyber-fisici
+PE6_3 Ingegneria del software, sistemi operativi, linguaggi di programmazione
+PE6_4 Informatica teorica, metodi formali, informatica quantistica
+PE6_5 Crittologia, sicurezza, protezione dei dati personali (privacy), crittologia quantistica
+PE6_6 Algoritmi, algoritmi distribuiti/paralleli, algoritmi su reti, teoria dei giochi algoritmica
+PE6_7 Intelligenza artificiale, sistemi intelligenti, sistemi multi-agente
+PE6_8 Grafica col computer (computer graphics), visione col computer (computer vision), multi media, computer games
+PE6_9 Interazione e interfacce persona-computer, visualizzazione ed elaborazione del linguaggio naturale
+PE6_10 Web e sistemi informativi, sistemi di basi di dati, recupero dell'informazione e biblioteche digitali, fusione dei dati (data fusion)
+PE6_11 Apprendimento automatico (machine learning), elaborazione dei dati con metodi statistici ed applicazione che usano l'elaborazione dei segnali (p.es., parlato, immagini, video)
+PE6_12 Calcolo scientifico, strumenti di simulazione e modellamento
+PE6_13 Bioinformatica, computazione biologica, computazione molecolare e col DNA
+
+
+=== PE7 ===
+Ingegneria dei sistemi e delle comunicazioni: ingegneria elettrica, elettronica, delle comunicazioni, ottica e dei sistemi
+
+PE7_1 Ingegneria dei sistemi di controllo
+PE7_2 Ingegneria elettrica: componenti e/o sistemi di potenza
+PE7_3 Ingegneria della simulazione e della modellazione
+PE7_4 (Micro- e nano-) ingegneria dei sistemi
+PE7_5 (Micro- e nano-) componenti elettronici, optoelettronici e fotonici
+PE7_6 Tecnologie della comunicazione, tecnologie ad alta frequenza
+PE7_7 Elaborazione dei segnali
+PE7_8 Reti (di comunicazione, di sensori, di robot, ecc.)
+PE7_9 Interfacce Uomo-Macchina
+PE7_10 Robotica
+PE7_11 Componenti e sistemi per le applicazioni (p.es.: in medicina, biologia, ambiente)
+PE7_12 Produzione, distribuzione e applicazioni dell'energia elettrica
+
+
+=== PE8 ===
+Ingegneria dei prodotti e dei processi: design dei prodotti, design e controllo dei processi, metodi di costruzione, ingegneria civile, sistemi energetici, ingegneria dei materiali
+
+PE8_1 Ingegneria aerospaziale
+PE8_2 Ingegneria chimica, chimica tecnica
+PE8_3 Ingegneria civile, ingegneria marittima/idraulica, geotecnica, trattamento dei rifiuti
+PE8_4 Ingegneria computazionale
+PE8_5 Meccanica dei fluidi, motori idraulici, turbo, pistone
+PE8_6 Sistemi energetici (produzione, distribuzione, applicazione)
+PE8_7 Ingegneria dei microsistemi
+PE8_8 Ingegneria meccanica e produzione (formazione, montaggio, giunzione, separazione)
+PE8_9 Ingegneria dei materiali (biomateriali, metalli, ceramiche, polimeri, composti, ...)
+PE8_10 Tecnologia della produzione, ingegneria dei processi)
+PE8_11 Design industriale (progettazione del prodotto, ergonomia, interfacce uomo-macchina, ...)
+PE8_12 Progettazione sostenibile (per il riciclaggio, per l'ambiente, eco-design)
+PE8_13 Strutture leggere, tecnologia tessile
+PE8_14 Bioingegneria industriale
+PE8_15 Produzione di biocarburanti industriali
+PE8_16 Ingegneria architettonica
+
+
+=== PE9 ===
+Universe sciences: astro-physics/chemistry/biology; solar system; stellar, galactic and extragalactic astronomy, planetary systems, cosmology; space science, instrumentation
+
+PE9_1 Solar and interplanetary physics
+PE9_2 Planetary systems sciences
+PE9_3 Interstellar medium
+PE9_4 Formation of stars and planets
+PE9_5 Astrobiology
+PE9_6 Stars and stellar systems
+PE9_7 The Galaxy
+PE9_8 Formation and evolution of galaxies
+PE9_9 Clusters of galaxies and large scale structures
+PE9_10 High energy and particles astronomy – X-rays, cosmic rays, gamma rays, neutrinos
+PE9_11 Relativistic astrophysics
+PE9_12 Dark matter, dark energy
+PE9_13 Gravitational astronomy
+PE9_14 Cosmology
+PE9_15 Space Sciences
+PE9_16 Very large data bases: archiving, handling and analysis
+PE9_17 Instrumentation - telescopes, detectors and techniques
+PE9_18 Solar planetology
+
+
+=== PE10 ===
+Earth system science: physical geography, geology, geophysics, meteorology, oceanography, climatology, ecology, global environmental change, biogeochemical cycles, natural resources management
+
+PE10_1 Atmospheric chemistry, atmospheric composition, air pollution
+PE10_2 Meteorology, atmospheric physics and dynamics
+PE10_3 Climatology and climate change
+PE10_4 Terrestrial ecology, land cover change,
+PE10_5 Geology, tectonics, volcanology,
+PE10_6 Paleoclimatology, paleoecology
+PE10_7 Physics of earth's interior, seismology, volcanology
+PE10_8 Oceanography (physical, chemical, biological)
+PE10_9 Biogeochemistry, biogeochemical cycles, environmental chemistry
+PE10_10 Mineralogy, petrology, igneous petrology, metamorphic petrology
+PE10_11 Geochemistry, crystal chemistry, isotope geochemistry, thermodynamics,
+PE10_13 Sedimentology, soil science, palaeontology, earth evolution
+PE10_14 Physical geography
+PE10_15 Earth observations from space/remote sensing
+PE10_16 Geomagnetism, paleomagnetism
+PE10_17 Ozone, upper atmosphere, ionosphere
+PE10_18 Hydrology, water and soil pollution
+
+
+== Scienze della vita ==
+
+
+=== LS1 ===
+Biologia molecolare e strutturale e biochimica: sintesi molecolare, modifica e interazione, biochimica, biofisica, biologia strutturale, metabolismo, trasduzione del segnale
+
+LS1_1 Interazioni molecolari
+LS1_2 Biochimica generale e metabolismo
+LS1_3 Sintesi, modifica, riparazione, ricombinazione e degrado
+LS1_4 sintesi, elaborazione, modificazione e degradazione del RNA
+LS1_5 Sintesi proteica, modificazione e turnover
+LS1_6 Sintesi dei lipidi, modificazione e turnover
+LS1_7 Sintesi dei carboidrati, modificazione e turnover
+LS1_8 Biofisica (es. meccanismi di trasporto, bioenergetica, fluorescenza)
+LS1_9 Biologia strutturale (cristallografia e EM)
+LS1_10 Biologia strutturale (NMR)
+LS1_11 Biochimica e meccanismi molecolari della trasduzione del segnale
+
+
+=== LS2 ===
+Genetica, genomica, bioinformatica e biologia dei sistemi: genetica molecolare e delle popolazioni, genomica, trascrittomica, proteomica, metabolomica, bioinformatica, biologia computazionale, biostatistica, modellazione e la simulazione biologica, biologia dei sistemi, epidemiologia genetica
+
+LS2_1 Genomica, genomica comparata, genomica funzionale
+LS2_2 Trascrittomica
+LS2_3 Proteomica
+LS2_4 Metabolomica
+LS2_5 Glicomica
+LS2_6 Genetica molecolare, genetica inversa e RNAi
+LS2_7 Genetica quantitativa
+LS2_8 Epigenetica e regolazione genica
+LS2_9 Epidemiologia genetica
+LS2_10 Bioinformatica
+LS2_11 Biologia computazionale
+LS2_12 Biostatistica
+LS2_13 Biologia dei sistemi
+LS2_14 Analisi dei sistemi biologici, modellazione e simulazione
+
+
+=== LS3 ===
+Biologia cellulare e dello sviluppo: biologia cellulare, fisiologia cellulare, trasduzione del segnale, organogenesi, genetica dello sviluppo, formazione del pattern in piante e animali, biologia delle cellule staminali
+
+LS3_1 Morfologia e imaging funzionale delle cellule
+LS3_2 Biologia cellulare e meccanismi di trasporto molecolari
+LS3_3 Ciclo e divisione cellulare
+LS3_4 Apoptosi
+LS3_5 Differenziazione, fisiologia e dinamica cellulare
+LS3_6 Biologia degli organuli
+LS3_7 Segnalazione e interazioni cellulari
+LS3_8 Trasduzione del segnale
+LS3_9 Sviluppo, genetica dello sviluppo, formazione del pattern ed embriologia negli animali
+LS3_10 Sviluppo, genetica dello sviluppo, formazione del pattern ed embriologia nelle piante
+LS3_11 Genetica cellulare
+LS3_12 Biologia delle cellule staminali
+
+
+=== LS4 ===
+Fisiologia, fisiopatologia ed endocrinologia: fisiologia organica, fisiopatologia, endocrinologia, metabolismo, invecchiamento, tumorigenesi, malattie cardiovascolari, sindrome metabolica
+
+LS4_1 Fisiologia organica e fisiopatologia
+LS4_2 Fisiologia comparata e fisiopatologia
+LS4_3 Endocrinologia
+LS4_4 Invecchiamento
+LS4_5 Metabolismo, basi biologiche dei disturbi legati al metabolismo
+LS4_6 Cancro e sue basi biologiche
+LS4_7 Malattie cardiovascolari
+LS4_8 Malattie non trasmissibili (eccetto nervose/psichiatriche, legate all'immunità, disturbi legati al metabolismo, cancro e malattie cardiovascolari)
+
+
+=== LS5 ===
+Neurosciences and neural disorders: neurobiology, neuroanatomy, neurophysiology, neurochemistry, neuropharmacology, neuroimaging, systems neuroscience, neurological disorders, psychiatry
+
+LS5_1 Neuroanatomy and neurosurgery
+LS5_2 Neurophysiology
+LS5_3 Neurochemistry and neuropharmacology
+LS5_4 Sensory systems (e.g. visual system, auditory system)
+LS5_5 Mechanisms of pain
+LS5_6 Developmental neurobiology
+LS5_7 Cognition (e.g. learning, memory, emotions, speech)
+LS5_8 Behavioral neuroscience (e.g. sleep, consciousness, handedness)
+LS5_9 Systems neuroscience
+LS5_10 Neuroimaging and computational neuroscience
+LS5_11 Neurological disorders (e.g. Alzheimer's disease, Huntington's disease, Parkinson's disease)
+LS5_12 Psychiatric disorders (e.g. schizophrenia, autism, Tourette's syndrome, obsessivecompulsive disorder, depression, bipolar disorder, attention deficit hyperactivity disorder)
+
+
+=== LS6 ===
+Immunity and infection: immunobiology, aetiology of immune disorders, microbiology, virology, parasitology, global and other infectious diseases, population dynamics of infectious diseases, veterinary medicine
+
+LS6_1 Innate immunity
+LS6_2 Adaptive immunity
+LS6_3 Phagocytosis and cellular immunity
+LS6_4 Immunosignalling
+LS6_5 Immunological memory and tolerance
+LS6_6 Immunogenetics
+LS6_7 Microbiology
+LS6_8 Virology
+LS6_9 Bacteriology
+LS6_10 Parasitology
+LS6_11 Prevention and treatment of infection by pathogens (e.g. vaccination, antibiotics, fungicide)
+LS6_12 Biological basis of immunity related disorders
+LS6_13 Veterinary medicine
+
+
+=== LS7 ===
+Diagnostic tools, therapies and public health: aetiology, diagnosis and treatment of disease, public health, epidemiology, pharmacology, clinical medicine, regenerative medicine, medical ethics
+
+LS7_1 Medical engineering and technology
+LS7_2 Diagnostic tools (e.g. genetic, imaging)
+LS7_3 Pharmacology, pharmacogenomics, drug discovery and design, drug therapy
+LS7_4 Analgesia
+LS7_5 Toxicology
+LS7_6 Gene therapy, stem cell therapy, regenerative medicine
+LS7_7 Surgery
+LS7_8 Radiation therapy
+LS7_9 Health services, health care research
+LS7_10 Public health and epidemiology
+LS7_11 Environment and health risks including radiation
+LS7_12 Occupational medicine
+LS7_13 Medical ethics
+
+
+=== LS8 ===
+Evolutionary, population and environmental biology: evolution, ecology, animal behaviour, population biology, biodiversity, biogeography, marine biology, eco-toxicology, prokaryotic biology
+
+LS8_1 Ecology (theoretical, community, population, microbial, evolutionary ecology)
+LS8_2 Population biology, population dynamics, population genetics, plant-animal interactions
+LS8_3 Systems eEvolution, biological adaptation, phylogenetics, systematics
+LS8_4 Biodiversity, comparative biology
+LS8_5 Conservation biology, ecology, genetics
+LS8_6 Biogeography
+LS8_7 Animal behaviour (behavioural ecology, animal communication)
+LS8_8 Environmental and marine biology
+LS8_9 Environmental toxicology
+LS8_10 Prokaryotic biology
+LS8_11 Symbiosis
+
+
+=== LS9 ===
+Scienze della vita applicate e biotecnologia: scienze agricole, animali, della pesca, della selvicoltura e alimentari; biotecnologia, biologia chimica, ingegneria genetica, biologia sintetica, bioscienze industriali; biotecnologie ambientali e di risanamento
+
+LS9_1 Ingegneria genetica applicata, organismi transgenetici, proteine ricombinanti, biosensori
+LS9_2 Biologia sintetica, biologia chimica e nuovi concetti bioingegneristici
+LS9_3 Agricoltura correlata ad allevamento, industria casearia, pastorizia
+LS9_4 Acquacoltura, pesca
+LS9_5 Agricoltura correlata a produzione delle colture, biologia e coltivazione del suolo, biologia vegetale applicata
+LS9_6 Scienze dell'alimentazione
+LS9_7 Selvicoltura, produzione di biomassa (es. biocarburanti)
+LS9_8 Biotecnologia ambientale, biorisanamento, biodegradazione
+LS9_9 Biotecnologie applicate (non mediche), bioreattori, microbiologia applicata
+LS9_10 Biomimetica
+LS9_11 Biorischio, contenimento biologico, prevenzione biologica, biosicurezza
+
+
+== Bibliografia ==
+(EN) European Research Council, ERC Panel Structure 2017 (PDF), su erc.europa.eu. URL consultato il 30 agosto 2017 (archiviato dall'url originale il 30 agosto 2017).
+
+
+== Voci correlate ==
+Consiglio Europeo della Ricerca
+PRIN
+FIRB

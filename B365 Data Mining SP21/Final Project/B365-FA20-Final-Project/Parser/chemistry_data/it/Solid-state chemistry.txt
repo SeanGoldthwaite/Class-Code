@@ -1,0 +1,42 @@
+﻿La chimica dello stato solido e delle superfici è quel "corpus" di conoscenze teoriche e tecniche sperimentali volte all'indagine della materia in fase solida utilizzando l'approccio tipico della chimica, pur nell'ambito di una certa interdisciplinarità con la fisica.
+
+
+== Descrizione ==
+Storicamente, l'origine della chimica dello stato solido può essere fatta risalire all'utilizzo di tecniche sperimentali per la caratterizzazione dei minerali, e dunque alla nascita di discipline come la petrografia e la mineralogia.
+Successivamente, la nascita di nuove tecnologie chimico-fisiche di indagine, a partire dagli anni 40 dello scorso secolo, ha permesso di rendere questa disciplina sempre più dettagliata e articolata, e dunque di raggiungere un livello decisamente più quantitativo nella descrizione dello stato solido. 
+L'attenzione è quindi focalizzata sullo studio dei solidi cristallini e sulla struttura dei metalli descritta sulla base della teoria del gas di elettroni liberi e confinati in un potenziale periodico. La trasformata di Fourier è un potente mezzo matematico di fondamentale importanza in questo ambito. Vengono studiati i diagrammi di fase e gli aspetti termodinamici relativi alla formazione e stabilità dei composti solidi; importante è anche la trattazione delle reazioni chimiche e della catalisi in fase solida. Nello studio delle superfici solide viene prestata attenzione anche alla dinamica dei fenomeni redox che avvengono sulla superficie di un elettrodo, utilizzando l'approccio dal punto di vista microscopico.
+
+
+=== Tecniche di indagine ===
+Le tecniche di indagine principali di questa disciplina che permettono una descrizione a livello atomico della struttura dei solidi sono:
+
+Diffrattometria a raggi X
+Risonanza paramagnetica elettronica (EPR)
+ENDOR
+NMR
+XRF
+Spettroscopia fotoelettronica a raggi X (XPS)Sono inoltre estesamente usate le tecniche di microscopia per lo studio della morfologia. In particolare:
+
+SEM (microscopia elettronica a scansione, per l'analisi della morfologia superficiale)
+TEM (microscopia elettronica in trasmissione, per lo studio della morfologia cristallina a bassa risoluzione)
+AFM (microscopia a forza atomica, per la caratterizzazione dettagliata di superfici)Infine, vengono regolarmente utilizzate, nel campo della ricerca sia di base che applicata, tecniche volte a caratterizzare proprietà macroscopiche di campioni allo stato solido:
+
+Termogravimetria
+Calorimetria a scansione differenziale (DSC)
+Conduttimetria
+Voltammetria
+
+
+== Note ==
+
+
+== Bibliografia ==
+R.C. Ropp, Solid state chemistry, Elsevier, 2003, ISBN 0-444-51436-8
+L.E. Smart, E.A. Moore, Solid State Chemistry: An Introduction (Third Ed.), CRC Press, 2005, ISBN 0748775161
+
+
+== Voci correlate ==
+Fisica dello stato solido
+Scienza delle superfici
+Superficie (fisica)
+Chimica delle interfasi

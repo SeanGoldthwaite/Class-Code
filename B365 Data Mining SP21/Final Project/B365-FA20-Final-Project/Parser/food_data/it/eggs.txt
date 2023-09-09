@@ -1,0 +1,22 @@
+﻿Space Eggs è un videogioco sparatutto a schermata fissa per Apple II e Atari 8-bit, sviluppato inizialmente per Apple da Nasir Gebelli nel 1981.
+La confezione comprendeva una decalcomania stirabile per creare una maglietta con la scritta "I fried the space eggs" (ho fritto le uova spaziali) e disegni di elementi del gioco.
+
+
+== Modalità di gioco ==
+Il giocatore controlla un'astronave che si muove solo orizzontalmente alla base dello schermo tramite la paddle (solo su Atari sono supportati anche joystick o tastiera) e può sparare verso l'alto, nello stile di Space Invaders. Nello spazio sovrastante volteggiano delle enormi uova, di per sé innocue. Quando l'astronave spara a un uovo, ne esce un mostro che volteggia in maniera simile, ma può raggiungere anche la base dello schermo e distruggere l'astronave al contatto. Naturalmente per terminare un livello il giocatore deve eliminare tutte le uova e i relativi mostri. Non c'è limite di tempo e di fatto quando tutte le uova sono chiuse il giocatore può non fare nulla.
+Esistono quattro tipi di mostri, che popolano in successione i primi quattro livelli, dopodiché si hanno infiniti livelli in cui il contenuto di ogni uovo è casuale. Ovviamente i quattro tipi sono sempre più insidiosi (e dà maggior punteggio distruggerli), scendono sempre più spesso all'altezza dell'astronave; il quarto mostro scende addirittura in verticale per poi muoversi in orizzontale, quindi il giocatore è spacciato se non riesce a colpirlo prima che raggiunga la base dello schermo.
+Una rara particolarità del gioco è che le tre vite a disposizione del giocatore consistono in tre astronavi diverse: la prima è piccola e ha un solo cannone, quando perde questa ne riceve un'altra più larga con due cannoni paralleli, infine la terza è ancora più larga ma sempre con 2 cannoni (in realtà è ben peggiore della seconda, è più esposta e i cannoni sono così lontani che i due colpi possono passare intorno ai mostri). Raggiunto un certo punteggio, tra un livello e l'altro possono scendere dall'alto astronavi uguali a quelle perse in precedenza, e se il giocatore riesce ad agganciarle ottiene un'astronave più grande formata da una "piramide" di astronavi, con 3-5 cannoni in totale.
+
+
+== Note ==
+
+
+== Bibliografia ==
+(EN) Delightfully addictive games, in Applesource, n. 22, agosto 1981,  p. 2.
+(EN) Space Eggs, in Video Games, vol. 2, n. 3, dicembre 1983,  pp. 74-75.
+(EN) Space Eggs (manuale originale per Apple II).
+
+
+== Collegamenti esterni ==
+(EN) Space Eggs, su MobyGames, Blue Flame Labs.
+(EN) Space Eggs, su Atarimania.com - 400 800 XL XE.

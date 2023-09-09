@@ -1,0 +1,169 @@
+import numpy as np
+import random as rand
+import math
+
+
+class NeuralNetwork:
+
+    def __init__(self, inputNodes, hiddenPerceptrons, outputPerceptrons,
+                 learningRate=0.1):
+        """
+        Sets the input notes, hidden and output perceptrons to be used
+        in the neural network
+        :param int inputNodes: the number of input nodes that should be used
+        :param int hiddenPerceptrons: the number of hidden perceptrons that
+        should be used
+        :param int outputPerceptrons: the number of output perceptrons that
+        should be used
+        :param float learningRate: the percentage amount used to train the
+        neural network. should be between 0 and 1.
+        """
+
+        self.inputNodes = inputNodes
+        self.hiddenNodes = hiddenPerceptrons
+        self.outputNodes = outputPerceptrons
+        self.learningRate = learningRate
+
+        self.weightsIH = self.determineWeights(self.hiddenNodes,
+                                               self.inputNodes)
+        self.weightsHO = self.determineWeights(self.outputNodes,
+                                               self.hiddenNodes)
+
+        self.biasH = self.matrixFromArray([1] * self.hiddenNodes)
+        self.biasO = self.matrixFromArray([1] * self.outputNodes)
+
+        self.sigFunct = np.vectorize(self.sigmoid)
+        self.dsigFunct = np.vectorize(self.dsigmoid)
+
+    def feedforward(self, inputArray):
+        valueArray = []
+
+        # turns the inputs into a matrix to be used
+        inputs = self.matrixFromArray(inputArray)
+        valueArray.append(inputs)
+
+        # dot product of the weights from inputs to hidden nodes and adds bias
+        hidden = np.dot(self.weightsIH, inputs)
+        hidden = np.add(hidden, self.biasH)
+
+        # activation function
+        hidden = self.sigFunct(hidden)
+        valueArray.append(hidden)
+
+        # dot product of the weights from hidden to ouput nodes and adds bias
+        output = np.dot(self.weightsHO, hidden)
+        output = np.add(output, self.biasO)
+
+        # activation function
+        output = self.sigFunct(output)
+        valueArray.append(output)
+
+        return valueArray
+
+    def guess(self, inputArray):
+        return self.feedforward(inputArray)[2]
+
+    def train(self, inputArray, answerArray):
+        valuesFromFeedforward = self.feedforward(inputArray)
+        inputs = valuesFromFeedforward[0]
+        hidden = valuesFromFeedforward[1]
+        outputs = valuesFromFeedforward[2]
+
+        # get the answers for supervised learning
+        answers = self.matrixFromArray(answerArray)
+
+        # calculates the error
+        outputError = np.subtract(answers, outputs)
+
+        # calculates the gradients
+        gradients = self.dsigFunct(outputs)
+        gradients = self.dot(gradients, outputError)
+        gradients = np.dot(gradients, self.learningRate)
+
+        # calculates the deltas
+        weightHODeltas = np.dot(hidden, gradients)
+
+        # adjust weights by deltas
+        self.weightsHO = np.add(self.weightsHO, weightHODeltas)
+        print('self.weightsHO', self.weightsHO)
+        # adjust biases by deltas
+        self.biasO = np.add(self.biasO, gradients)
+
+        # calculates the hidden layer errors
+        weightshoT = np.transpose(self.weightsHO)
+        hiddenError = self.dot(weightshoT, outputError)
+
+        # calculates hidden gradients
+        hiddenGradient = self.dsigFunct(hiddenT)
+        hiddenGradient = self.dot(hiddenGradient, hiddenError)
+        hiddenGradient = self.dot(hiddenGradient, self.learningRate)
+
+        # calculates IH deltas
+        inputsT = np.transpose(inputs)
+        weightIHDeltas = np.dot(hiddenGradient, inputsT)
+
+        # adjusts weights by deltas
+        self.weightsIH = np.add(self.weightsIH, weightIHDeltas)
+        # adjusts biases
+        self.biasH = np.add(self.biasH, hiddenGradient)
+
+    def determineWeights(self, rows, columns):
+        """
+        Provides a random weight matrix
+        :param int rows: the number rows for the weight matrix
+        :param int columns: the number columns for the weight matrix
+        """
+
+        output = []
+        for i in range(rows):
+            row = []
+            for j in range(columns):
+                row.append(rand.random() * 2 - 1)
+            output.append(row)
+        return np.mat(output)
+
+    def matrixFromArray(self, input):
+        """
+        Creates a Nx1 matrix from a given array
+        :param array input: the inputs to be turned into a matrix
+        """
+
+        output = []
+        for i in input:
+            output.append([i])
+
+        #print('input', input, type(input))
+        #print('output', output, type(output))
+        return np.mat(output)
+
+        '''
+    def mapMatrix(self, matrix, func):
+        """
+        Maps the entire matrix with one function
+        :param matrix matrix: the matrix to map a function to
+        :param function func: the function to map the matrix onto
+        """
+
+        newMatrix = matrix
+        for i in np.nditer(matrix, op_flags=['readwrite']):
+            i[...] = func(i)
+
+        return newMatrix
+        '''
+
+    def sigmoid(self, x):
+        return 1 / (1 + math.exp(-x))
+
+    def dsigmoid(self, y):
+        return y * (1 - y)
+
+    def dot(self, mat_one, mat_two):
+        return np.dot(mat_one, mat_two.transpose()).diagonal()
+
+
+if __name__ == '__main__':
+    nn = NeuralNetwork(2, 2, 1)
+    x = np.mat([[1, 2], [3, 4]])
+    print(x)
+    funct = np.vectorize(nn.testFunction)
+    print(funct(x))

@@ -1,0 +1,41 @@
+﻿Hes Games, scritto anche HES Games, è un videogioco sportivo multievento pubblicato nel 1984 per Apple II e Commodore 64 dall'editrice statunitense HesWare. 
+Per Commodore 64 uscì anche con diversi altri titoli ufficiali:
+
+Go for the Gold, riedizione economica del 1986 della Americana Software, un'etichetta della Mastertronic; questa versione, anche su cassetta mentre l'originale era solo su disco, ottenne diversi buoni giudizi dalla stampa europea, tra cui un 95% di Zzap!;
+World Games (da non confondere con World Games della Epyx), edizione del 1986 della Celery Software, un'etichetta della Cosmi Corporation di Carson;
+Gold Medal Games, riedizione del 1988 sempre della Celery Software;
+S-Games, edizione del 1984/1985 della 3-2-1 Software Inc. di Bellevue, sviluppatrice del gioco originale per Commodore 64. Nonostante il successo di Hes Games, la HesWare stava avendo problemi, perciò Michael Crick della 3-2-1 ricomprò i diritti sul gioco per venderlo in modo indipendente, e in questa edizione aggiunse anche alcune migliorie al programma.
+
+
+== Modalità di gioco ==
+Sono disponibili sei discipline, liberamente selezionabili e caricate separatamente. Possono competere più giocatori, ciascuno con un proprio colore di divisa a scelta, e nelle discipline di corsa possono anche gareggiare due giocatori in contemporanea. Le discipline sono:
+
+100 metri piani - la gara è mostrata con scorrimento verso destra ed è basata unicamente sullo "smanettamento" continuo dei controlli a destra e sinistra per aumentare la velocità. Nelle edizioni successive alla prima è presente la sintesi vocale dello starter.
+110 metri ostacoli - analoga ai 100 metri piani, con in più il controllo del salto.
+Salto in lungo - mostrata sempre con scorrimento verso destra, ma con la pista leggermente inclinata in diagonale. Si prende velocità come nelle corse, poi vanno comandati al momento giusto il salto e, mentre l'atleta è in volo, il colpo di reni per atterrare più avanti.
+Tiro con l'arco - unica gara con visuale in prima persona, che mostra la mano dell'atleta che impugna l'arco e sullo sfondo quattro bersagli a diverse distanze. L'arco, dotato di mirino, si può muovere per lo schermo, ma una volta tesa la corda diventa sempre più difficile da controllare. La forza del tiro è automaticamente adattata alla distanza del bersaglio e si deve regolare solo la mira, tenendo conto del vento.
+Tuffi - in questa disciplina l'atleta è una donna, mostrata su un trampolino basso con i giudici sullo sfondo. Il giocatore sceglie prima il tipo di tuffo e quindi deve temporizzare il salto, che avviene in due tempi, e il momento in cui l'atleta raddrizza il corpo per l'entata in acqua.
+Sollevamento pesi - sono presenti due varianti della disciplina, strappo e slancio. L'atleta è visto frontalmente e la riuscita del sollevamento dipende dal giusto tempismo di movimenti dei controlli su e giù (in tutto 3 o 5 mosse secondo la variante) e pause.In tutte le discipline tranne l'arco è possibile visualizzare il replay della propria prestazione e anche di una simulazione dei record mondiali dell'epoca. Solo nella versione disco i record del giocatore vengono salvati.
+
+
+== Note ==
+
+
+== Bibliografia ==
+ Go for the Gold (JPG), in Zzap!, anno 1, n. 5, Milano, Edizioni Hobby, ottobre 1986,  pp. 16-17, OCLC 955306919.
+ Tutti pronti per il podio (JPG), in Radio Elettronica & Computer, anno 16, n. 2, Milano, Editronica, febbraio 1987,  pp. 25-26.
+(EN) Hes Games (JPG), in Personal Computer Games, n. 13, Londra, VNU, dicembre 1984,  p. 61, ISSN 0265-3486.
+(EN) Go for the Gold (JPG), in Computer and Video Games, n. 61, Peterborough, EMAP, novembre 1986,  p. 24, ISSN 0261-3697.
+(EN) Go for the Gold (JPG), in Commodore User, n. 38, Londra, EMAP, novembre 1986,  p. 55, ISSN 0265-721X.
+(EN) Go for the Gold (JPG), in Your Commodore, n. 27, Londra, Argus Specialist Publications, dicembre 1986,  p. 52, ISSN 0269-8277.
+
+
+== Collegamenti esterni ==
+(EN) Hes Games, su MobyGames, Blue Flame Labs.
+(EN) Kim Lemon, Hes Games, su Lemon64.com.
+(EN) Kim Lemon, Go for the Gold, su Lemon64.com.
+ Roberto Nicoletti, Hes Games, su Ready64.org.
+ Roberto Nicoletti, Go for the Gold, su Ready64.org.
+(EN) HES Games, su stadium64.com.
+(DE, EN) Go for the Gold, su thelegacy.de.
+(EN) HES Games (Pacific Pirates Guild crack) Side 1 (Apple II), su archive.org.

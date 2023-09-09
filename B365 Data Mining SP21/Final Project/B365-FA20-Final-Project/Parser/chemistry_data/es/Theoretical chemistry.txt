@@ -1,0 +1,39 @@
+﻿Parte de esta disciplina puede ser clasificada como química computacional, aunque la química computada normalmente indica la aplicación de la química teórica con una configuración específica, usualmente con algún modelo aproximado del estilo post Hartree-Fock, teoría del funcional de la densidad, métodos semiempíricos (como los métodos PM3 (Química) o de campo de fuerza). Algunos químicos teóricos aplican mecánica estadística
+Las aproximaciones teóricas a los problemas químicos empiezan en los viejos tiempos, pero hasta la formulación de la ecuación de Schrödinger por el físico austríaco Erwin Schrödinger, las técnicas disponibles eran a la vez toscas y especulativas. Actualmente, aproximaciones teóricas mucho más sofisticadas, basadas en la teoría cuántica de campos y la teoría de la función de Green de no-equilibrio (Nonequilibrium Green Function Theory) están en boga..
+
+
+== Ramas de la química teórica ==
+Química cuántica
+La aplicación de mecánica cuántica a la química.
+Química computacional
+La aplicación de código fuente a la química.
+Modelado molecular
+Métodos para modelar estructuras moleculares sin recurrir necesariamente a la mecánica cuántica. Por ejemplo: enlazado molecular, enlazado proteína-proteína, diseño de fármacos, química combinatoria.
+Dinámica molecular
+La aplicación de mecánica clásica para simular el movimiento del centro de una formación de átomos y moléculas.
+Mecánica molecular
+Es el modelado de las interacciones de superficie de energía potencial intra e intermoleculares por medio de una suma de fuerzas de interacción.
+Química matemática
+La discusión y predicción de la estructura molecular usando métodos matemáticos sin recurrir necesariamente a la mecánica cuántica.
+Cinética química teórica
+El estudio teórico de los sistemas dinámicos asociados a químicos reactivos y sus correspondientes ecuaciones diferenciales.
+
+
+== Disciplinas altamente relacionadas ==
+Históricamente, el mayor campo de aplicación de la química teórica ha sido en los siguientes campos de investigación:
+
+Física atómica: La disciplina que trata con los electrones y el núcleo atómico.
+Física molecular: La disciplina abocada a los electrones que rodean el núcleo molecular, y al mo
+
+
+== Bibliografía ==
+Attila Szabo and Neil S. Ostlund, Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory, Dover Publications; New Ed edition (1996) ISBN 0486691861, ISBN 978-0486691862
+
+
+== Enlaces externos ==
+[1] Universidad de Cambridge, Centro de Química Computacional (inglés)
+[2] Universidad de Groningen, Grupo de Química Teórica] (inglés)
+[3] Universidad de Lund, Grupo de Química Teórica] (inglés)
+Universidad Vrije de Ámsterdam, Ciencias Químicas y Farmacéuticas (inglés)
+VCCLAB: Laboratorio Virtual de Química Computacional (inglés)
+[4] Base de Datos NIST de Pruebas y Comparaciones en Química Computacional (inglés)La versión inicial de este artículo ha sido una traducción de http://en.wikipedia.org/wiki/Theoretical_chemistry.

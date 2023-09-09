@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="972a1c32-3b30-406c-b3ba-175c4f8adc07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A1/A1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/src/DequeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/src/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/src/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/src/QueueList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/src/QueueTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/src/SetList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/src/StackList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/tests/DequeListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/tests/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/tests/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/tests/QueueListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/tests/QueueTwoStacksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/tests/SetListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A2/tests/StackListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A6/board.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A6/board1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A7/.idea/dictionaries/Sean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A10/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A10/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A10/src/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A10/src/WeakHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A10/src/WeakHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A10/tests/WeakHeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A10/tests/WeakHeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/A2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DequeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DequeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QueueList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueueTwoStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QueueTwoStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SetList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SetList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/DequeListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/DequeListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/QueueListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/QueueListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/StackListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/StackListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3/src/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A3/src/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3/tests/DynamicArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A3/tests/DynamicArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4/src/HashFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A4/src/HashFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4/src/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A4/src/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4/tests/HashFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A4/tests/HashFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4/tests/HashTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A4/tests/HashTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5/src/LineWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A5/src/LineWrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5/tests/LineWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A5/tests/LineWrapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6/balloon-sky-cut.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../A6/balloon-sky-cut.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6/src/SeamCarving.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A6/src/SeamCarving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6/tests/SeamCarvingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A6/tests/SeamCarvingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6/winter-sun-cut.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../A6/winter-sun-cut.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6/winter-sun-cut2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../A6/winter-sun-cut2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7/src/AVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A7/src/AVL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A7/src/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7/test/AVLTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A7/test/AVLTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A7/test/BSTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A7/test/BSTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9/src/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A9/src/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A9/src/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A9/test/HeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A9/test/HeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3/src/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/../L3/src/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../L3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4/src/HashFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../L4/src/HashFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../L5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../L5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L6/src/minDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../L6/src/minDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L7/src/Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../L7/src/Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L7/tests/TraversalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../L7/tests/TraversalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8/.idea/libraries/junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/A2/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/A2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/A2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8/L8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/A2/A2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../L8/src/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8/src/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8/src/TreePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L8/tests/BSTTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1X5zRO53tqsaaAfUTax85m6f59b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.DequeListTest">
+    <configuration name="DequeListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DequeListTest.clear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeListTest" />
+      <option name="METHOD_NAME" value="clear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DequeListTest.size" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeListTest" />
+      <option name="METHOD_NAME" value="size" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueueListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DequeListTest" />
+        <item itemvalue="JUnit.DequeListTest.size" />
+        <item itemvalue="JUnit.DequeListTest.clear" />
+        <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.QueueListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="972a1c32-3b30-406c-b3ba-175c4f8adc07" name="Default Changelist" comment="" />
+      <created>1580350734526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580350734526</updated>
+      <workItem from="1580350736491" duration="5449000" />
+      <workItem from="1581021364673" duration="8000" />
+      <workItem from="1588179431589" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580353016122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1580353016122" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1580353858988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580353858988" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1580356193229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580356193229" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1580356193228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580356193228" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1580356193228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580356193228" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1580356193229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580356193229" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1580350926243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580350926243" />
+    <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580350922727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1580350922727" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1580355123271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580355123271" />
+  </component>
+</project>

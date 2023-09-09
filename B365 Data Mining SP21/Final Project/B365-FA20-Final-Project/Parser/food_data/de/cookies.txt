@@ -1,0 +1,198 @@
+﻿Ein Cookie ([ˈkʊki]; englisch „Keks“) ist eine Textinformation, die im Browser auf dem Endgerät des Betrachters (Computer, Laptop, Smartphone, Tablet usw.) jeweils zu einer besuchten Website (Webserver, Server) gespeichert werden kann. Der Cookie wird entweder vom Webserver an den Browser gesendet oder im Browser von einem Skript (JavaScript) erzeugt. Der Webserver kann bei späteren, erneuten Besuchen dieser Seite diese Cookie-Information direkt vom Server aus auslesen oder über ein Skript der Website die Cookie-Information an den Server übertragen. Aufgabe dieser Cookies ist beispielsweise die Identifizierung des Surfers (Session ID), das Abspeichern eines Logins bei einer Webanwendung wie Wikipedia, Facebook usw. oder das Abspeichern eines Warenkorbs bei einem Online-Händler. Ein häufiger Einsatzzweck ist das Webtracking von Nutzern mit speziell präparierten Seiten.
+Der Begriff Cookie wird im Datenschutz auch als Synonym für Datenentnahme, Datenspeicherung, Datennutzung, Datenverwertung, Datenweitergabe wie auch Datenmissbrauch verwendet, unabhängig davon, ob dazu tatsächlich ein physischer Cookie verwendet wird oder andere Techniken eingesetzt werden.
+
+
+== Aufbau ==
+Ein Cookie besteht aus einem Namen und einem Wert. Bei der Definition eines Cookies können bzw. müssen zusätzlich ein oder mehrere Attribute angegeben werden.
+
+"Set-Cookie:" Name "=" Wert *( ";" Attribut)
+"Cookie:" Name "=" Wert *( ";" Name "=" Wert)
+
+Name und Wert sind Folgen von druckbaren US-ASCII-Zeichen, wobei einige Zeichen ausgeschlossen sind. Die Syntax von Name verwendet einen eingeschränkten Zeichensatz, wie er auch bei anderen HTTP-Kopfzeilen in RFC 2616 verwendet wird. Für Wert sind Semikolon, Komma, Leerraum-Zeichen und Backslash ausgeschlossen. Um beliebige Daten als Cookie-Wert zu speichern, kann eine Kodierung wie Base64 oder die URL-Kodierung mit %xx verwendet werden.
+Das HttpOnly-Attribut soll den Zugriff auf Cookies mittels JavaScript verhindern. Auf Cookies, welche das Attribut HttpOnly besitzen, kann nicht per JavaScript zugegriffen werden. Dies stellt einen möglichen Schutz gegenüber Cross-Site-Scripting dar, sofern der jeweils genutzte Browser dieses Attribut unterstützt.
+
+
+== Spezifikation ==
+Nach RFC 6265 soll ein Browser die folgenden Mindestgrößen unterstützen:
+
+Ein Cookie soll mindestens 4096 Bytes enthalten können.
+Es sollen pro Domain mindestens 50 Cookies gespeichert werden können.
+Es sollen insgesamt mindestens 3000 Cookies gespeichert werden können.Die Mindestgrößen müssen von allen beteiligten Browsern und Servern garantiert werden. Größere Cookies oder eine größere Cookieanzahl lässt die Spezifikation aber durchaus zu.
+
+
+== Funktionsweise ==
+Es gibt zwei Möglichkeiten für die Übertragung, Zuweisung und Auswertung von Cookies durch eine Website:
+
+Übertragung in den Kopfzeilen (dem Header) von Anfragen und Antworten via HTTP. Cookies im Client entstehen, wenn bei dessen Zugriff auf einen Webserver neben anderen HTTP-Kopfzeilen in der Antwort des Servers zusätzlich eine Cookie-Zeile übertragen wird (siehe Aufbau).
+Außerdem kann ein Cookie lokal durch JavaScript oder weitere Skriptsprachen erzeugt werden. Das Skript befindet sich in der vom Server übermittelten Webseite.Die lokalen Cookies derselben Domain – also nicht anderer Websites – können ausgelesen, verwertet und geändert werden. Damit können beispielsweise durch JavaScript Informationen über die lokalen Benutzeraktivitäten eingearbeitet werden, die in der Sitzung ohne weiteren Serverkontakt angefallen waren. Mit dem nächsten Kontakt zur Website werden sie in den HTTP-Kopfzeilen auch dorthin übertragen.
+Cookie-Informationen werden lokal im Browser gespeichert, üblicherweise in einer Cookie-Textdatei. Bei nachfolgenden weiteren Zugriffen auf den Webserver sucht der Client-Browser alle Cookies dieser Domain heraus, die zum Webserver und dem Verzeichnispfad des aktuellen Aufrufs passen. Diese Cookie-Daten werden im Header des HTTP-Zugriffs mit übertragen, sodass die Cookies nur an jenen Webserver zurückgehen dürfen, von dem sie einst auch stammten.
+Ein Cookie kann beliebigen Text enthalten, kann also neben einer reinen Identifikation auch beliebige Einstellungen lokal speichern, jedoch sollte seine Länge 4 Kilobyte (4·1024 Byte) nicht überschreiten, um mit allen Browsern kompatibel zu bleiben. Die Cookies werden mit jeder übermittelten Datei übertragen, also auch mit Bilddateien oder jedem anderen Dateityp; dies gilt insbesondere für eingebettete Elemente wie Werbebanner, die von anderen Servern eingebunden werden als dem Ursprung einer angezeigten HTML-Datei. So kann eine einzelne Webseite zu mehreren Cookies führen, die von verschiedenen Servern kommen und an diese jeweils wieder zurückgeschickt werden.
+Cookies werden ausschließlich vom Client verwaltet. Somit entscheidet der Client, ob beispielsweise ein Cookie gespeichert oder nach der vom Webserver gewünschten Lebensdauer wieder gelöscht wird. Allerdings können auch auf dem Server entsprechende Informationen gespeichert werden, um beispielsweise Statistiken über die Zahl der Aufrufe von Webseiten zu erzeugen.
+
+
+== Beispiel ==
+Szenario: Eine Webseite bietet eine Suchfunktion an, die sich an den zuletzt eingegebenen Suchbegriff erinnern kann, selbst wenn der Benutzer zwischenzeitlich den Browser beendet. Dieser Suchbegriff kann nicht auf dem Server gespeichert werden, da der Server dazu den Besucher eindeutig identifizieren müsste, und das geht mit reinem HTTP nicht. Deshalb soll der zuletzt eingegebene Suchbegriff vom Browser des Besuchers (in einem Cookie) gespeichert werden.
+Wenn der Besucher die Suchfunktion zum ersten Mal aufruft (hier mit dem Suchbegriff „cookie aufbau“), schickt er folgende Anfrage an den Server:
+
+GET /cgi/suche.py?q=cookie+aufbau HTTP/1.0
+
+Der Server antwortet mit dem Suchergebnis und bittet den Browser mittels des „Set-Cookie“ Feldes, sich den letzten Suchbegriff zu merken:
+
+(Normalerweise stehen alle Bestandteile des Cookies in einer einzigen Zeile. Zur besseren Lesbarkeit steht hier jedoch nur ein Attribut pro Zeile.)
+Der Cookie hat die folgenden Bestandteile:
+
+Nutzdaten (letzteSuche): Da die Nutzdaten nicht erlaubte Zeichen enthalten können (Leerzeichen in „cookie aufbau“), gibt der Server sie hier mit Base64 kodiert zurück.
+Ablaufdatum (expires): Der Cookie wird nur in Anfragen mitgeschickt, die vor dem 29. März 2014 passieren.
+Maximalalter (Max-Age): Der Cookie wird nur in den folgenden 30 Tagen mitgeschickt, später nicht mehr.
+Teilbereich der Webseite (Path): Der Cookie wird nur an die Suchmaschine (/cgi/suche.py) geschickt, da alle anderen Teile der Webseite die Information nicht brauchen.
+
+
+== Anwendungen ==
+HTTP ist ein zustandsloses Protokoll, daher sind für den Webserver die Seitenaufrufe voneinander unabhängig. Eine Webanwendung, deren Interaktion mit dem Benutzer über mehrere Seitenaufrufe andauert, muss mit Tricks arbeiten, um den Teilnehmer über mehrere Zugriffe hinweg identifizieren zu können. Dazu kann in einem Cookie vom Server ein eindeutiger Sitzungsbezeichner gespeichert werden, um genau diesen Client bei weiteren Aufrufen wiederzuerkennen. Aus Sicherheitsgründen wird beim Electronic Banking eher ein Einmal-Token pro Seitenaufruf eingesetzt.
+Onlineshops können Cookies verwenden, um Waren in virtuellen Einkaufskörben zu sammeln. Der Kunde kann damit Artikel in den Einkaufskorb legen und sich weiter auf der Website umschauen, um danach die Artikel zusammen zu kaufen. Die Identifikation des Warenkorbs bzw. der Session des Benutzers wird im Cookie abgelegt, die Artikel-Kennungen werden auf dem Webserver diesem Warenkorb bzw. der Session des Benutzers zugeordnet. Erst bei der Bestellung werden diese Informationen serverseitig ausgewertet.
+Damit bei Webanwendungen Benutzeraktionen und -eingaben, die für den Server bestimmt sind, bei Abbrüchen der Verbindung zum Server (zum Beispiel in Mobilfunknetzen) nicht verlorengehen, können Cookies zur Zwischenspeicherung eingesetzt werden. Bei Wiederherstellung der Verbindung werden sie vom Server abgefragt. Die Webanwendung erkennt dabei die Reihenfolge, in der die Cookies erzeugt wurden, und markiert bereits verarbeitete Cookies oder löscht deren Inhalt. Weil bei dieser Verwendung unter Umständen viele Cookies erzeugt werden, die frühestens beim Schließen des Browsers gelöscht werden, der Speicherplatz des Browsers für Cookies aber beschränkt ist, muss die Webanwendung Vorkehrungen gegen einen Cookie-Überlauf treffen.
+
+
+== Sicherheit und Gefahren ==
+
+
+=== Tracking ===
+
+Die Möglichkeit der eindeutigen Erkennung kann missbraucht werden. Cookies werden unter anderem dafür verwendet, Benutzerprofile über das Surfverhalten eines Benutzers zu erstellen. Zum Beispiel kann ein Online-Shop diese Daten mit dem Namen des Kunden verknüpfen und zielgruppenorientierte Werbemails schicken.
+Jedoch kann der Online-Shop nur das Surfverhalten innerhalb seiner eigenen Webseite verfolgen. Um Informationen über das Surfverhalten seiner Kunden zu erhalten, muss sich der Online-Shop eines Dritten, eines Tracking-Anbieters, bedienen. Der Tracking-Anbieter bietet dem Online-Shop wie auch anderen Online-Shops Tracking-Komponenten an, die diese in ihre Webseiten integrieren. Das sind Skripte, verlinkte Skripte oder verlinkte Komponenten (Webseiten, Bilder, Banner, Zählpixel, Schriften), die mit dem Aufrufen der Online-Shops mitgeladen werden und Serveranfragen an den Tracking-Anbieter generieren, die wiederum Cookies mit den erhaltenen Informationen im Browser setzen. Diese durch Dritte erstellen Cookies nennt man Third-Party-Cookies (englisch für Cookies von Dritten). Haben diese Cookies den Zweck des Trackings, werden diese auch als „tracking cookies“ (englisch für Verfolgen) bezeichnet. Der Tracking-Anbieter registriert die Besuche der mit ihm verbundenen Online-Shops und kann diese Besuche somit den einzelnen Benutzern zuordnen. Stellt der Tracking-Anbieter diese Informationen dem Online-Shop zur Verfügung, kann dieser auf die Interessen des Besuchers schließen und seinen Online-Shop entsprechend anpassen („personalisieren“).
+Es gibt auch seriöse Drittanbieter-Dienste, die technisch bedingt Tracking-Informationen mitsammeln. Für das erfolgreiche Tracking sind Drittanbietercookies hilfreich, aber nicht zwingend erforderlich. Die durch andere Identitätsermittlungsverfahren gesammelten Identitätsinformationen, wie zum Beispiel durch Fingerprinting, benötigen keine Cookies. Noch perfider, die zu übertragenden Informationen werden per Parameter mit den verlinkten Komponenten übertragen. Gemeinsam ist aber allen Tracking-Techniken das Einbinden von Tracking-Komponenten in den Code der Webseite. Ein Abschalten der Cookies im Browser unterbindet also das Tracking nicht zwangsläufig, es werden dann nur andere Techniken eingesetzt. Der wirkungsvollste Schutz gegen Tracking ist es, nur auf Webseiten zuzugreifen, die keine Tracking-Techniken einsetzen.
+Es ist nicht ungewöhnlich, dass populäre Webseiten mehrere Datensammler einbinden. Eine Studie der Universität Berkeley hat 2011 beim Surfen auf den TOP100 Webseiten 5675 Cookies gefunden (ohne Logins oder Bestellungen). Davon wurden 4914 Cookies von Dritten gesetzt, also nicht von der aufgerufenen Webseite. Die Daten wurden an mehr als 600 Server übermittelt. Spitzenreiter unter den Datensammlern ist Google. 97 % der populären Webseiten setzen Google-Cookies.Immer mehr Tracking Dienste gehen dazu über, die Cookies im First-Party Context zu setzen, da Cookies von Drittseiten recht einfach blockiert werden können.
+
+Eine empirische Studie der Universität Leuven von 2014 zeigte, dass damals bereits 44 Tracking Dienste mehr als 40 % des Surfverhaltens verfolgen konnten, auch wenn man Cookies für Drittseiten blockiert und nur First-Party Cookies erlaubt.
+Ein Beispiel ist der Trackingdienst WebTrekk, der sich auf Webseiten wie heise.de, zeit.de oder zalando.de mit DNS-Aliases als Subdomain der überwachten Webseite First-Party Status erschleicht, um seine Tracking Cookies zu setzen (2013).
+Google kombiniert seit 2017 den Dienst Analytics mit dem AdWords Tracking. Für Google Analytics bindet der Webmaster Trackingcode direkt auf der Webseite ein, der damit First-Party Status erhält und auch die Cookies für das AdWord Tracking setzt.
+Microsofts folgte im Januar 2018 und hat eine Lösung umgesetzt, die das Cookie mit der Microsoft Click ID für das Conversation Tracking im First-Party Context setzt. Die Microsoft Tracking ID wird als URL-Parameter übertragen und dann mit Javascript in ein Cookie geschrieben.
+Facebook folgte den Beispielen von Google und Microsoft im Herbst 2018, nachdem Mozilla angekündigt hat, nach dem Vorbild von Safari das Tracking via Third-Party Cookies in Firefox zu erschweren. Wie bei Microsoft wird die Tracking ID in einem URL-Parameter übertragen und dann mit Javascript in ein First-Party Cookie geschrieben.Die Tracking-Cookies werden auch von der NSA und GCHQ im Rahmen der globalen Überwachung genutzt. Die Geheimdienste beobachten den Datenstrom im Internet und identifizieren Surfer anhand langlebiger Tracking-Cookies. Zielpersonen werden anhand dieser Cookies verfolgt und bei Bedarf mit Foxit Acid gezielt angegriffen, wenn die Identifikation über zwei Wochen stabil möglich ist.
+
+
+=== Gefahr bei öffentlichen Internetzugängen ===
+In Umgebungen, in denen sich mehrere Nutzer denselben Rechner teilen, etwa in Schulen oder Internet-Cafés, besteht die Gefahr, dass ein noch gültiger Sitzungs-Cookie vom nächsten Nutzer des Rechners verwendet wird. Um zu verhindern, dass eine fremde Person die eigene Sitzung fortsetzt, sollte man grundsätzlich vor dem Beenden des Browsers alle Cookies löschen oder eine entsprechende Browser-Einstellung nutzen.
+
+
+=== Entscheidung des Bundesgerichtshofs ===
+Im Mai 2020 berichtet die Süddeutsche Zeitung über eine Entscheidung des Bundesgerichtshofs, dass Nutzer ihre Einwilligung zu Cookies aktiv geben müssen. Damit seien viele aktuelle Cookie-Banner in Deutschland unzulässig. Die BGH-Richter folgten in ihrer Entscheidung damit weitgehend der Argumentation eines Urteils des Europäischen Gerichtshofs (EuGH) vom Oktober 2019. Das hatte geurteilt, dass vorausgefüllte Cookie-Banner nicht mit europäischem Recht vereinbar seien. Viele deutsche Internetseiten hatten sich bislang auf das deutsche Telemediengesetz (TMG) berufen, nachdem Nutzer dem Cookie-Tracking aktiv widersprechen mussten.
+
+
+=== Sicherheitseinstellungen im Browser ===
+
+Gängige Browser erlauben dem Nutzer, den Umgang mit Cookies mehr oder weniger festzulegen, z. B.:
+
+Keine Cookies annehmen, mit der Möglichkeit eine Whitelist für Ausnahmen anzulegen.
+Cookies des Servers der aufgerufenen Seite annehmen, mit der Möglichkeit eine Blacklist für Ausnahmen anzulegen.
+Cookies von Drittservern wie z. B. bei Werbebannern:
+Hier kann zwischen Immer erlauben, Nur von besuchten Drittanbietern oder Nie erlauben gewählt werden.
+Benutzer bei jedem Cookie fragen:
+Hier kann dann meist zwischen erlauben (bleibt), für diese Sitzung erlauben (wird immer angenommen, aber nach dem Schließen des Browsers gelöscht) und ablehnen (nicht akzeptieren) gewählt werden, wobei die gewählte Option gespeichert wird.
+Cookies behalten:
+Hier kann gewählt werden zwischen bis sie nicht mehr gültig sind oder bis der Browser geschlossen wird („Sitzungs-Cookie“).Zusätzlich erlauben die Browser verwaltende Aktionen während einer Sitzung wie:
+
+Daten im Cookie ansehen.
+Einzelne oder alle Cookies löschen.
+Inhalte von Cookies verändern, leeren oder löschen.Ob ein Cookie angenommen oder abgelehnt wurde, kann die Server-Anwendung nur mit weiteren HTTP-Anfragen erkennen, da die Speicherung von Cookies vom Client nicht zurückgemeldet wird.
+Angesichts der Vor- und Nachteile von Cookies empfiehlt es sich, seinen Browser so zu konfigurieren, dass persistente Cookies nicht (oder nur gegen Rückfrage) zugelassen werden (was etwa die Erstellung von Benutzerprofilen erschwert) und nur Sitzungs-Cookies automatisch zugelassen werden (beispielsweise für Web-Einkäufe oder Passwörter). Außerdem bieten die meisten Browser die Möglichkeit, Cookies selektiv für bestimmte Domains zu erlauben bzw. zu sperren oder nach dem Surfen automatisch zu löschen (wie es automatisch bei Sitzungs-Cookies geschieht). Serverfremde Cookies (durch die ein Dritter, etwa ein Werbepartner der Internet-Seite, das eigene Verhalten über mehrere Server hinweg aufzeichnen könnte) kann man automatisch abweisen lassen.
+Webbrowser bieten oft die Möglichkeit, Funktionen über Browser-Erweiterungen nachzurüsten. So ist es etwa bei Firefox mit einer bestimmten Erweiterung möglich, per Klick auf eine Schaltfläche Webseiten zu erlauben, Cookies zu speichern bzw. sogar selbst den Inhalt der Cookies zu manipulieren. Damit lassen sich Cookies generell deaktivieren sowie ausnahmsweise erlauben, falls die Website ohne Cookies nicht richtig funktioniert oder man sich bei einem Onlinedienst anmelden möchte. Andere Erweiterungen bieten einen Kompromiss zwischen der Browser-Option, alle Cookies beim Beenden des Browsers zu löschen bzw. sie nicht zu löschen, indem nur Cookies von bestimmten Internet-Domains per Whitelist behalten, alle anderen aber beim Schließen eines Browser-Tabs oder -Fensters bzw. beim kompletten Beenden des Webbrowsers gelöscht werden. So kann einerseits ungewünschte Verfolgung, andererseits aber das Verlorengehen von Informationen, welche dauerhaft gespeichert werden sollen, verhindert werden.
+
+
+== Entwicklungsgeschichte ==
+Das Konzept wurde ursprünglich von Netscape Communications entwickelt und im 1994 veröffentlichten Netscape Navigator implementiert. Netscape veröffentlichte eine vorläufige Spezifikation auf ihrer Website. 1995 begann die IETF die Arbeit an einer Spezifikation, die als RFC standardisiert werden sollte. 1997 wurde die Spezifikation als RFC 2109 veröffentlicht; sie unterscheidet sich in einigen Details von der Netscape-Spezifikation. Die neue Spezifikation sollte sich inkrementell verbreiten, da der Netscape Navigator zu den Neuerungen aufwärtskompatibel war. Als bekannt wurde, dass die Cookie-Implementierung des Internet Explorers zur neuen Spezifikation inkompatibel war, begann die Arbeit an einer neuen Version. Diese wurde im Jahr 2000 als RFC 2965 veröffentlicht und verwendet neue HTTP-Kopfzeilen wie „Set-Cookie2“, um Inkompatibilitäten mit bestehenden Implementierungen zu vermeiden.Während die IETF RFC 2109 als „obsolete“ (veraltet) einstufte, fand RFC 2965 keine durchgehende Verbreitung. Opera unterstützte zusätzlich zum alten Format auch „Set-Cookie2“, Mozilla Firefox jedoch nicht. Im Jahr 2011 ersetzte RFC 6265 die beiden bisherigen RFCs. In RFC 6265 wurde die gängigste Funktionsweise spezifiziert und „Set-Cookie2“ als veraltet gekennzeichnet. Zusätzlich wurde das „HttpOnly“-Attribut spezifiziert, das im Jahr 2002 von Microsoft im Internet Explorer 6 eingeführt und von einigen Webbrowsern übernommen wurde.
+
+
+=== Cookies nach Netscape-Spezifikation ===
+"Set-Cookie:" Name "=" Wert *(";" Attribut)
+"Cookie:" Name "=" Wert *(";" Name "=" Wert)
+
+Name=Wert ist eine Folge von druckbaren US-ASCII-Zeichen ohne Semikolon, Komma und Leerraum-Zeichen. Falls eines dieser Zeichen in Name oder Wert vorkommen soll, muss es mit der URL-Kodierung %xx kodiert werden.
+Folgende Attribute sind in der Spezifikation von Netscape definiert:
+EXPIRES=dateValue (optional)
+Verfallsdatum des Cookies im Format Wdy, DD-Mon-YY HH:MM:SS GMT.
+Wenn kein Verfallsdatum angegeben wird, wird das Cookie beim Schließen des Browser gelöscht.
+DOMAIN=domainName (optional)
+Domainname, um die Gültigkeit des Cookies auf einen bestimmten Domainnamen zu beschränken. Hierbei muss der angegebene Domainname nur ein Suffix des Domainnamens sein, das heißt ein für DOMAIN=example.com bestimmtes Cookie ist gültig für example.com als auch darunterliegende Domains wie foo.example.com oder bar.quux.example.com. Falls dieses Attribut nicht angegeben wird, wird der aktuelle Domainname verwendet.
+PATH=pathName (optional)
+Pfadpräfix, um die Gültigkeit des Cookies auf einen bestimmten Pfad oder Pfadpräfix zu beschränken. Falls dieses Attribut nicht angegeben wird, wird der aktuelle Pfad verwendet.
+SECURE (optional)
+Cookie darf nur über eine sichere Verbindung (sprich HTTPS) an den Server gesendet werden.
+
+
+=== Cookies nach RFC 2109 ===
+Der Unterschied der Spezifikation von RFC 2109 zu der von Netscape besteht insbesondere darin, dass als Wert nun auch Semikola, Kommata und Leerraum-Zeichen enthalten sein dürfen, die dann aber in Anführungszeichen gefasst werden müssen. Name darf aber nicht mehr mit einem $ beginnen, da diese für die Kennzeichnung von Attributen von Cookies in HTTP-Anfragen verwendet werden.
+
+"Set-Cookie:" Name "=" Wert *(";" Attribut)
+"Cookie:" "$Version" "=" value 1*((";" | ",") Cookie)
+
+Cookie ist hierbei ein Cookie, das neben dem Name-Wert-Paar auch noch die in Set-Cookie angegebenen und durch ein Semikolon voneinander getrennten Wertepaare für Path und Domain enthalten kann:
+
+Name "=" Wert [";" "Path=" Pfad] [";" "Domain=" Domain]Zusätzlich wurde das Expire-Attribut durch das Max-Age-Attribut ersetzt, das im Gegensatz zum Expire-Attributwert statt eines fixen Zeitpunkts die Gültigkeitsdauer nun in Sekunden angibt. Die Semantik von Domain wurde erweitert. Neu hinzugekommen sind die Attribute Comment und Version.
+
+"Comment" "=" value (optional)
+Kommentar zur näheren Beschreibung des Cookies
+"Domain" "=" value (optional)
+Domain oder Bestandteil des Domainnamens, für den der Cookie gilt. Falls diese Attribut nicht angegeben wird, wird der aktuelle Domainname verwendet. Falls diese Attribut jedoch angegeben wird, muss der Wert mit einem Punkt beginnen; falls nicht, wird der Punkt vom Client hinzugefügt.
+"Max-Age" "=" value (optional)
+Ablaufzeit in Sekunden – 0 für sofortige Löschung. Der Client darf den Cookie auch nach dieser Zeit benutzen, der Server kann sich also nicht darauf verlassen, dass der Cookie nach dieser Ablaufzeit gelöscht wird.
+"Path" "=" value (optional)
+wie in Netscapes Spezifikation
+"Secure" (optional)
+wie in Netscapes Spezifikation
+"Version" "=" 1*DIGIT (notwendig)
+Gibt die Cookie-Management-Spezifikation in einer Dezimalzahl an (immer 1 in dieser Spezifikation)
+
+
+=== Cookies nach RFC 2965 ===
+Cookies nach RFC 2965 unterscheiden sich von denen nach Netscapes Spezifikation und nach RFC 2109 insbesondere dadurch, dass das Header-Feld Set-Cookie2 statt Set-Cookie heißt.
+
+"Set-Cookie2:" Name "=" Wert *(";" Attribute)
+"Cookie:" "$Version" "=" value 1*((";" | ",") Cookie)
+
+Daneben gibt es auch noch einige zusätzliche Attribute:
+
+"Comment" "=" value (optional)
+wie in RFC 2109
+"CommentURL" "=" <"> http_URL <"> (optional)
+URL unter welcher eine Beschreibung zur Funktionsweise zu finden ist (spezifiziert in RFC 2965)
+"Discard" (optional)
+Unbedingte Löschung des Cookies bei Beendigung des Webbrowsers (spezifiziert in RFC 2965, komplementiert Expires=0, Max-Age=0).
+"Domain" "=" value (optional)
+wie in RFC 2109
+"Max-Age" "=" value (optional)
+wie in RFC 2109
+"Path" "=" value (optional)
+wie in Netscapes Spezifikation
+"Port" [ "=" <"> portlist <"> ] (optional)
+Beschränkung des Ports auf den aktuell verwendeten oder auf eine Liste von Ports
+"Secure" (optional)
+wie in Netscapes Spezifikation
+"Version" "=" 1*DIGIT (notwendig)
+Gibt die Cookie-Management-Spezifikation in einer Dezimalzahl an (immer 1 in dieser Spezifikation)Folgendes Beispiel zeigt eine Serverantwort nach RFC 2965. Der Server antwortet mit dem Suchergebnis und bittet den Browser mittels des „Set-Cookie2“ Feldes, sich den letzten Suchbegriff zu merken:
+
+
+== Datenschutz ==
+Von Anwendungsprogrammen oder Teilen oder Erweiterungen des Betriebssystems eines Computers, die einen Dienst zur Verfügung stellen, kann ein Cookie zum Beispiel beim Start des Programmes „gesetzt“ werden. Hierzu ist normalerweise keine direkte Zustimmung des Anwenders notwendig. Die gesetzten Cookies können später vom Nutzer über den Browser oder das Betriebssystem gefunden und wieder gelöscht werden. Sicherheitsexperten raten zu einem bewussten Umgang mit Cookies. Dazu gehört, dass man sich beim Surfen bewusst ist, welche Cookies eine besuchte Seite setzen möchte. Nur die wenigsten Webseiten schreiben Cookies zwingend vor (wie etwa die Seite zum Einloggen in Wikipedia). Meistens werden Cookies willkürlich gesetzt, um das Surfverhalten zu protokollieren. Dies zu unterbinden, ist lästig, sorgt aber für Informationelle Selbstbestimmung und Datenschutz. Nicht selten versucht eine einzige kommerzielle Webseite, ein Dutzend und mehr Cookies zu setzen. Um das zu verhindern, muss man in den Browser-Einstellungen das automatische Akzeptieren von Cookies deaktivieren.
+Der Wert des Cookies enthält dabei typischerweise eine Speicheradresse, über die Funktionen des Dienstes zugänglich sind. Datenbanken dieses Typs werden auch Cookie Jar genannt. Webbrowser stellen in der Regel eine Cookie-Datenbank zur Verfügung, welche auch Cookie Cache genannt wird. In dieser Datenbank kann der Webserver einer besuchten Webseite Informationen in Form von HTTP-Cookies hinterlegen und bei einem Wiederbesuch der Seite auslesen.
+Google-Cookies und ihre „PREFID“ können den Browser eindeutig identifizieren. Im Zuge der Enthüllungen von Edward Snowden wurde bekannt, dass diese von der NSA missbraucht werden, um zielgerichtet Spionagesoftware auf einzelnen Rechnern zu platzieren und diese automatisiert zu überwachen und „per Fernsteuerung auszubeuten“.Seit dem 19. Dezember 2009 gilt die als „Cookie-Richtlinie“ bezeichnete Richtlinie 2009/136/EG. Darin wird eine Einwilligung des Webseitenbenutzers in die Nutzung seiner personengebundenen Daten durch den Websitebetreiber verlangt. Die EU-Länder haben auf diese Richtlinie aber unterschiedlich reagiert.Der Bundestag beschäftigte sich mit dem Thema. Der von der Opposition unterstützte Gesetzesentwurf der SPD zur Änderung des Telemediengesetzes (17/8814) wurde am 18. Oktober 2012 abgelehnt.2012 folgten auch detaillierte Empfehlungen der sog. Artikel-29-Gruppe 2014 herrschte weiterhin „Unsicherheit in Deutschland“ zur Umsetzung während „in Spanien die Aufsichtsbehörden bereits Bußgeldbescheide verschicken“. Fachanwälte empfehlen trotz der unübersichtlichen Rechtslage 2014 bereits eine ausdrückliche Zustimmung (Opt-in) in Form eines Popups für jeden Benutzer einer Webseite.In Österreich erfolgte die Umsetzung der Richtlinie in § 96 Abs. 3 Telekommunikationsgesetz (TKG).Mit der im Mai 2018 in Kraft getretenen Datenschutz-Grundverordnung (DSGVO) sollte ursprünglich auch die sogenannte e-Privacy-Verordnung, deren Entwurf die EU bereits am 10. Januar 2017 offiziell vorgestellt hat, rechtskräftig werden. Sie stellt speziell im Anwendungsbereich von Cookies eine detaillierte Ergänzung der DSGVO dar. Derzeit durchläuft der Entwurf der e-Privacy-Verordnung das europäische Parlament (Stand September 2018) und soll frühestens im Mai 2019 zu geltendem Recht werden. Damit würde sie die EU-Cookie-Richtlinie ersetzen und neue Regelungen bezüglich der Verwendung schaffen.Am 1. Oktober 2019 entschied der Europäische Gerichtshof, dass das Setzen und Abrufen von Cookies durch Internetseiten eine aktive Einwilligung des Besuchers der Webseite benötigt.
+
+
+== Siehe auch ==
+Cross-Site-Cooking
+Logdateianalyse
+Web Storage (= „Super-Cookie“)
+Flash-Cookie
+
+
+== Weblinks ==
+cookiecentral.com – umfangreiche Seite über Cookies (englisch)
+Aktuelle Spezifikation: RFC 6265 HTTP State Management Mechanism
+Ursprüngliche Spezifikation: Persistent Client State HTTP Cookies. Netscape Communications, archiviert vom Original am 27. Oktober 1996; abgerufen am 6. April 2014. 
+Cookie als Schwerpunktthema im Deutschlandfunk:
+Maximilian Schönherr: Cookies erlauben, ja oder nein? 12. April 2012, abgerufen am 10. Februar 2014. 
+Maximilian Schönherr: Die Cookie-Bäcker: Internetanbieter tricksen mit Profildateien der Webbrowser. 14. April 2012, abgerufen am 10. Februar 2014. 
+Daniel Blum: Einmal geklickt und schon durchschaut: Kundendaten helfen der Werbewirtschaft. 20. September 2012, abgerufen am 10. Februar 2014. 
+Fritz Jörn: Cookies – was können sie, was nicht … In: blog a bissl. 23. September 2012, abgerufen am 10. Februar 2014. 
+
+
+== Einzelnachweise ==

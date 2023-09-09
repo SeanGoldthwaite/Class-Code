@@ -1,0 +1,770 @@
+﻿Die Säurekonstante KS ist eine Stoffkonstante und gibt Aufschluss darüber, in welchem Maße ein Stoff in einer Gleichgewichtsreaktion mit Wasser unter Protolyse reagiert:
+
+  
+    
+      
+        
+          H
+          A
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          
+            A
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HA+H_{2}O\ \rightleftharpoons \ H_{3}O^{+}+A^{-}} }
+  .Dabei steht HA für eine Brønsted-Säure (nach Johannes Nicolaus Brønsted), die ein Proton H+ an ein Lösungsmittel wie Wasser abgeben kann, wobei ein Anion A− zurückbleibt. Allgemeiner gilt die Brønsted'sche Definition auch für nichtwässrige Systeme, hier gilt für ein beliebiges, protonierbares Lösungsmittel Y:
+
+  
+    
+      
+        
+          H
+          A
+          +
+          Y
+           
+          ⇌
+           
+          H
+          
+            Y
+            
+              +
+            
+          
+          +
+          
+            A
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HA+Y\ \rightleftharpoons \ HY^{+}+A^{-}} }
+  .KS ist die mit [Y] multiplizierte Gleichgewichtskonstante dieser Reaktion und damit ein Maß für die Stärke einer Säure. Je stärker die Säure, desto mehr ist die Reaktion auf die rechte Seite verschoben; d. h., umso höher sind die Konzentrationen von HY+ und A−. Die Gleichgewichtskonstante wird meist als ihr negativer dekadischer Logarithmus, dem pKS-Wert angegeben (auch pKa, von engl. acid = Säure). Das bedeutet: Je kleiner der pKS-Wert ist, desto stärker ist die Säure.
+
+
+== Herleitung der Säurekonstanten ==
+Die Säurekonstante leitet sich als Gleichgewichtskonstante einer chemischen Reaktion aus der Gibbs-Energie 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   (auch Freie Enthalpie) her. Ist diese bekannt, so gilt für die Gleichgewichtskonstante 
+  
+    
+      
+        
+          K
+          
+            th
+          
+        
+      
+    
+    {\displaystyle K_{\text{th}}}
+   einer beliebigen chemischen Reaktion:
+
+  
+    
+      
+        
+          K
+          
+            th
+          
+        
+        =
+        
+          e
+          
+            −
+            
+              
+                
+                  Δ
+                  G
+                
+                
+                  R
+                  ⋅
+                  T
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle K_{\text{th}}=e^{-{\frac {\Delta G}{R\cdot T}}}}
+  ,wobei 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   die Universelle Gaskonstante, 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   die Temperatur und 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   die eulersche Zahl ist. Die Formel beschreibt so auch die beobachtbare Temperaturabhängigkeit der Säurekonstanten.
+
+  
+    
+      
+        
+          K
+          
+            th
+          
+        
+      
+    
+    {\displaystyle K_{\text{th}}}
+   ist dabei als Produkt der Aktivitäten definiert und ist eine dimensionslose Größe. Werden Mischungseffekte vernachlässigt, gilt 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+        =
+        
+          c
+          
+            i
+          
+        
+        
+          /
+        
+        
+          c
+          
+            i
+            ,
+            
+              ref
+            
+          
+        
+      
+    
+    {\displaystyle a_{i}=c_{i}/c_{i,{\text{ref}}}}
+  . Dies ist in Lösungen bis 1 mmol/l ohne größere Fehler möglich. Konstanten können daher mit den Aktivitäten wie auch mit den Konzentrationen aufgestellt werden. Sie besitzen jedoch einen anderen Zahlenwert. Bedingt durch die historische Entwicklung der Chemie aus einer praktischen Wissenschaft werden meist die konzentrationsbezogenen Konstanten angegeben, da diese experimentell vor der thermodynamischen Begründung gefunden wurden.
+
+
+== Säurestärke ==
+Die Eigenschaft eines bestimmten Stoffes, als Säure zu reagieren, ist untrennbar verknüpft mit seiner potentiellen Fähigkeit, ein Proton (H+) an einen Reaktionspartner zu übertragen. Man nennt eine solche Reaktion Protolyse. Die Stärke einer Säure beschreibt das Ausmaß dieser Fähigkeit. Diese ist jedoch abhängig von der Fähigkeit eines Reaktionspartners, das Proton aufzunehmen. Soll die Säurenstärke verschiedener Säuren verglichen werden, ist es sinnvoll, die Wechselwirkung mit einem Standardreaktionspartner zu betrachten. Dieser ist in der Regel das Wasser, das auch in vielen Vorgängen in der Natur die bedeutsamste Verbindung und Lösemittel ist. Die Reaktionsgleichung einer Säure HA in und mit Wasser kann so dargestellt werden:
+
+  
+    
+      
+        
+          1
+          )
+           
+          H
+          A
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          
+            A
+            
+              −
+            
+          
+        
+        
+      
+    
+    {\displaystyle \mathrm {1)\ HA+H_{2}O\ \rightleftharpoons \ H_{3}O^{+}+A^{-}} \,}
+  In dieser Reaktion stellt sich schnell ein Gleichgewicht ein. Hier verfügt neben HA auch H3O+ über die Fähigkeit, ein Proton an einen Reaktionspartner zu übertragen: Sie sind beide Säuren. H2O und auch A− haben hingegen die Fähigkeit, ein Proton aufzunehmen, weswegen man sie beide als Basen bezeichnet. Trennt man gedanklich die Standardreaktionspartner Wasser und H3O+ ab, bleiben HA und A− übrig. Da die Konzentrationen dieser Komponenten an ein Gleichgewicht gebunden sind, ist das Ausmaß der Fähigkeit von HA, eine Säure zu sein, gekoppelt an das Ausmaß der Fähigkeit von A−, eine Base zu sein. Hat beispielsweise HA ein großes Potenzial, ein Proton abzugeben und A− ein kleines Potenzial, ein Proton anzunehmen, nennt man HA eine starke Säure. Das Gleichgewicht (1) würde auf der rechten Seite stehen. Wenn die Säure HA ein großes Potential hat, ein Proton abzugeben (also einen niedrigen pKS-Wert), dann hat dessen korrespondierende Base A− ein in dem Maße geringes Potential (also einen hohen pKB-Wert), ein Proton aufzunehmen. Für Wasser z. B. gilt:
+pKB + pKS = pKW = 14
+Die Säurekonstante (bzw. der pKS-Wert) ist ein Maß für die Stärke einer Säure. Die Acidität ist umso größer, je geringer ihr pKS-Wert ist. Der pKS-Wert ist numerisch gleich dem pH-Wert einer Lösung, wenn HA und A− nach Gleichgewicht (1) in gleicher Konzentration vorliegen.
+In wässrigen Lösungen protolysieren sehr starke Säuren und sehr starke Basen vollständig zu H3O+- bzw. OH−-Ionen. So lassen sich die unterschiedlichen Säurestärken von Chlorwasserstoff und Perchlorsäure in Wasser nicht mehr anhand des pH-Wertes unterscheiden. Hier spricht man vom nivellierenden Effekt (v. frz.: niveler = gleichmachen) des Wassers. Um auch sehr starke Säuren bezüglich der Säurestärke unterscheiden zu können, bestimmt man Gleichgewichtskonstanten in nichtwässrigen Lösungen und überträgt diese annäherungsweise auf das Lösungsmittel Wasser.
+Der Standardreaktionspartner Wasser hat die besondere Eigenschaft, als Säure und Base reagieren zu können:
+
+  
+    
+      
+        
+          2
+          )
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          O
+          
+            H
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2)\ H_{2}O+H_{2}O\ \rightleftharpoons \ H_{3}O^{+}+OH^{-}} }
+  Diese sogenannte Autoprotolyse erlaubt die Bestimmung des Ausmaßes der Fähigkeit einer Base, ein Proton vom Wasser zu übernehmen, und wird unter Basenkonstante näher erläutert.
+
+
+=== Ursachen der verschiedenen Säurestärken ===
+Die Säurestärke eines Moleküls kann an verschiedenen Faktoren abgeschätzt werden.
+Eine Säure ist umso stärker bzw. gibt umso leichter ein Proton ab,
+
+wenn ein induktiver Elektronenzug vorhanden ist (-I-Effekt).
+je stabiler die korrespondierende Base ist, das heißt je schwächer die korrespondierende Base ist.
+wenn das elektronegativere Atom das dissoziierbare Wasserstoffatom trägt (bei Atomen gleicher Größe).
+wenn das größere Atom das Wasserstoffatom trägt (bei Atomen verschiedener Größe).
+je niedriger die Standardbildungsenthalpie ist.
+je instabiler das Säure-Molekül ist.
+
+
+== Säure-Base-Reaktion ==
+Zwischen einer Säure HA und ihrer Base A− liegt in wässriger Lösung folgende Gleichgewichtsreaktion vor:
+
+  
+    
+      
+        
+          H
+          A
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+          +
+          
+            A
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HA+H_{2}O\ \rightleftharpoons \ H_{3}O^{+}+A^{-}} }
+  
+Nach dem Massenwirkungsgesetz wird die Lage des Gleichgewichtes durch die Gleichgewichtskonstante K beschrieben:
+
+  
+    
+      
+        
+          
+            
+              c
+              (
+              
+                
+                  H
+                
+                
+                  3
+                
+              
+              
+                
+                  O
+                
+                
+                  +
+                
+              
+              )
+              ⋅
+              c
+              (
+              
+                
+                  A
+                
+                
+                  −
+                
+              
+              )
+            
+            
+              c
+              (
+              
+                H
+                A
+              
+              )
+              ⋅
+              c
+              (
+              
+                
+                  H
+                
+                
+                  2
+                
+              
+              
+                O
+              
+              )
+            
+          
+        
+        =
+        K
+      
+    
+    {\displaystyle {\frac {c(\mathrm {H} _{3}\mathrm {O} ^{+})\cdot c(\mathrm {A} ^{-})}{c(\mathrm {HA} )\cdot c(\mathrm {H} _{2}\mathrm {O} )}}=K}
+  Da die Konzentration von Wasser (c(H2O)) bei der Reaktion praktisch konstant bleibt, lässt sich c(H2O) in die Konstante K einbeziehen. Damit ergibt sich schließlich die Säurekonstante KS mit der Einheit mol/l:
+
+  
+    
+      
+        
+          K
+          
+            S
+          
+        
+        =
+        
+          
+            
+              c
+              (
+              
+                
+                  H
+                
+                
+                  3
+                
+              
+              
+                
+                  O
+                
+                
+                  +
+                
+              
+              )
+              ⋅
+              c
+              (
+              
+                
+                  A
+                
+                
+                  −
+                
+              
+              )
+            
+            
+              c
+              (
+              
+                H
+                A
+              
+              )
+            
+          
+        
+        =
+        K
+        ⋅
+        c
+        (
+        
+          
+            H
+            
+              2
+            
+          
+          O
+        
+        )
+      
+    
+    {\displaystyle K_{\text{S}}={\frac {c(\mathrm {H} _{3}\mathrm {O} ^{+})\cdot c(\mathrm {A} ^{-})}{c(\mathrm {HA} )}}=K\cdot c(\mathrm {H_{2}O} )}
+  Häufig wird der negative dekadische Logarithmus von KS, der so genannte pKS-Wert, angegeben:
+
+  
+    
+      
+        
+          p
+        
+        
+          K
+          
+            S
+          
+        
+        =
+        −
+        lg
+        ⁡
+        
+          (
+          
+            
+              K
+              
+                S
+              
+            
+            ⋅
+            1
+            
+              
+                l
+                
+                  m
+                  o
+                  l
+                
+              
+            
+          
+          )
+        
+        =
+        −
+        lg
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  c
+                  (
+                  
+                    
+                      H
+                    
+                    
+                      3
+                    
+                  
+                  
+                    
+                      O
+                    
+                    
+                      +
+                    
+                  
+                  )
+                  ⋅
+                  c
+                  (
+                  
+                    
+                      A
+                    
+                    
+                      −
+                    
+                  
+                  )
+                
+                
+                  c
+                  (
+                  
+                    H
+                    A
+                  
+                  )
+                
+              
+            
+            ⋅
+            1
+            
+              
+                l
+                
+                  m
+                  o
+                  l
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \mathrm {p} K_{\text{S}}=-\lg \left(K_{\text{S}}\cdot 1\mathrm {\frac {l}{mol}} \right)=-\lg \left({\frac {c(\mathrm {H} _{3}\mathrm {O} ^{+})\cdot c(\mathrm {A} ^{-})}{c(\mathrm {HA} )}}\cdot 1\mathrm {\frac {l}{mol}} \right)}
+  Je kleiner der pKS-Wert, desto stärker ist die Säure. So hat zum Beispiel Salpetersäure (HNO3, Dissoziationsgrad von 96 % bei einer Konzentration von 1 mol/l) den pKS-Wert −1,32, Essigsäure (Dissoziationsgrad von 0,4 % bei einer Konzentration von 1 mol/l) einen pKS-Wert von 4,75.
+Entsprechend gibt es eine Basenkonstante (pKB-Wert). Je kleiner der pKB-Wert, desto stärker das Bestreben der Base, Protonen aufzunehmen. Den pKS-Wert kann man auf die Basenkonstante der korrespondierenden Base umrechnen:
+
+  
+    
+      
+        
+          p
+        
+        
+          K
+          
+            S
+          
+        
+        +
+        
+          p
+        
+        
+          K
+          
+            B
+          
+        
+        =
+        14
+        
+        ⇔
+        
+        
+          p
+        
+        
+          K
+          
+            B
+          
+        
+        =
+        14
+        −
+        
+          p
+        
+        
+          K
+          
+            S
+          
+        
+      
+    
+    {\displaystyle \mathrm {p} K_{\text{S}}+\mathrm {p} K_{\text{B}}=14\quad \Leftrightarrow \quad \mathrm {p} K_{\text{B}}=14-\mathrm {p} K_{\text{S}}}
+  .Säure- und Basenkonstanten sind temperaturabhängig. In der Regel werden die Konstanten bei Temperaturen im Bereich von 23 bis 25 Grad Celsius bestimmt. In diesem Bereich ergibt das Ionenprodukt des Wassers ausreichend genau
+
+  
+    
+      
+        
+          p
+        
+        
+          K
+          
+            S
+          
+        
+        +
+        
+          p
+        
+        
+          K
+          
+            B
+          
+        
+        =
+        
+          p
+        
+        
+          K
+          
+            W
+          
+        
+        =
+        14
+      
+    
+    {\displaystyle \mathrm {p} K_{\text{S}}+\mathrm {p} K_{\text{B}}=\mathrm {p} K_{\text{W}}=14}
+  .
+
+
+== Mehrprotonige Säuren ==
+
+Bei einer mehrprotonigen Säure besteht eine schrittweise Protolyse. Für jede Protolysationsstufe liegt eine eigene Säurekonstante bzw. pKS-Wert vor. Für die einzelnen Protolyseschritte gilt im Allgemeinen: KS1 > KS2 > KS3 (bzw. pKS1 < pKS2 < pKS3), da aus der steigenden Ionenladung des entstehenden Säurerestanions die weiterführende Protolyse weniger energetisch begünstigt ist.
+Als Beispiel gilt für die Phosphorsäure:
+
+Beim pH-Wert 7,20 liegen näherungsweise gleich große Konzentrationen an Dihydrogen- und Hydrogenphosphat-Ionen vor, die Konzentrationen an undissoziierter Phosphorsäure und Phosphationen sind millionenfach kleiner. Diese Zusammenhänge macht man sich in Phosphatpuffern zu Nutze.
+Schwefelsäure ist um fünf Größenordnungen acider als Phosphorsäure:
+
+Konzentrierte Schwefelsäure wird in Blei-Akkumulatoren als Elektrolyt verwendet. Unter diesen Gleichgewichtsbedingungen existieren keine freien Sulfat-Ionen mehr.
+
+
+== Bestimmung von pKS-Werten ==
+Die pKS-Werte von Säuren mit Werten im Bereich von 4 bis etwa 10 lassen sich über Säure-Base-Titrationen und die Bestimmung des pH-Werts am Halbäquivalenzpunkt bestimmen. Hier liegen die Säure und ihre korrespondierende Base in gleicher Konzentration vor. An diesem Punkt folgt aus der Henderson-Hasselbalch-Gleichung: pH = pKS.
+
+
+== Acidität organischer Säuren ==
+Bei organischen Säuren entscheiden vor allem drei Struktureigenschaften über die Säurestärke:
+
+Stabilisierung des entstehenden Anions durch Mesomerie: So sind z. B. Carbonsäuren saurer als Alkohole. Mesomere Effekte spielen hierbei eine entscheidende Rolle: Ein −M-Effekt (etwa einer Nitrogruppe -NO2) erhöht die Säurestärke, ein +M-Effekt verringert sie.
+Hybridisierung des Kohlenstoffatoms: Mit steigendem s-Gehalt nimmt die Stärke zu. So hat Ethin (sp-Hybridorbital) einen niedrigeren pKS-Wert als Ethen (sp2-Hybridorbital) und dieses einen niedrigeren als Ethan (sp3-Hybridorbital), es gilt also für den pKS-Wert: sp < sp2 < sp3; die Werte betragen für Ethin 25, für Ethen 44 und für Ethan 50.
+Induktive Effekte: Die Säurestärke steigt, wenn elektronenziehende Gruppen vorhanden sind, z. B. Halogene wie Fluor und Chlor oder Sauerstoff. Trichloressigsäure ist beispielsweise eine stärkere Säure als Essigsäure.Einige Substituenten besitzen sowohl mesomere als auch induktive Effekte, etwa die Halogene oder Nitrogruppen. Halogene weisen einen starken –I-, aber einen schwachen +M-Effekt auf; die Nitrogruppe wirkt sowohl elektronenanziehend (–I-Effekt) als auch über einen –M-Effekt, d. h. beide Effekte wirken in dieselbe Richtung.
+
+
+== pKS- und pKB-Werte einiger Verbindungen ==
+Die folgende Tabelle listet pKS- und pKB-Werte einiger Säuren und Basen bei Standardbedingungen:
+
+
+== Weblinks ==
+
+Bordwell pKS Tabelle in DMSO
+pKS Data (PDF; 78 kB), Compiled by R. Williams, auf chem.wisc.edu.
+Harvard University: Evans Group pKS Tabelle (PDF; 240 kB).
+Eintrag zu Acidity constant. In: IUPAC Compendium of Chemical Terminology (the “Gold Book”). doi:10.1351/goldbook.A00080 Version: 2.3.1.
+pKS Tabelle CCI ETH
+pKS Tabelle mit sehr vielen Substanzen
+Umfangreiche Tabellen mit Säuren und Basen (MS Excel; 1,2 MB)
+Interaktiv sortierbare, sehr umfangreiche Liste mit pKS-Werten organischer und anorganischer Säuren und Basen
+
+
+== Siehe auch ==
+Basenkonstante
+Massenwirkungsgesetz
+Dissoziationskonstante
+Hammettsche Aciditätsfunktion
+
+
+== Einzelnachweise ==

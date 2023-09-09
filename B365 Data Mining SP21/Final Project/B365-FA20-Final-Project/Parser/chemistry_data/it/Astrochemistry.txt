@@ -1,0 +1,44 @@
+﻿Gli idrocarburi policiclici aromatici, noti anche con l'acronimo IPA o PAH (dall'inglese, polycyclic aromatic hydrocarbons), sono idrocarburi costituiti da due o più anelli aromatici quali quello del benzene fusi fra loro in un'unica struttura generalmente planare; in quanto idrocarburi non contengono eteroatomi nel ciclo o nei sostituenti. Il naftalene è il più semplice esempio di IPA.
+Si ritrovano naturalmente nel carbon fossile e nel petrolio, da cui si estraggono, particolarmente dalle qualità ricche in aromatici.Sono potenti inquinanti atmosferici e la loro formazione per cause antropiche avviene nel corso di combustioni incomplete di combustibili fossili, legname, grassi, fogliame, incenso e composti organici in generale, quali quelli provenienti dai rifiuti urbani, ritrovandosi quindi nei loro fumi, da quelli da biomasse al fumo di tabacco, ritrovandosi anche nei cibi cotti, particolarmente nei processi di carbonizzazione ad alta temperatura, come le cotture alla griglia delle carni o nel pesce affumicato. Sono inquinanti che generano allerta perché alcuni composti sono stati identificati come cancerogeni, mutageni e teratogeni. Gli IPA ad alto peso molecolare, come il benzo[e]pirene e il benzo[a]pirene, sono presenti in elevate quantità in catrami, bitumi, pece e carboni nonché nei prodotti correlati come gli asfalti. Inoltre possono derivare da nerofumo e fuliggine di legna o comunque si ricollegano a fonti pirogeniche. Gli IPA leggeri come naftalene e fluorene sono inquinanti ubiquitari che, per la loro, relativa, maggiore solubilità in acqua, possono giungere ad inquinare le falde sotterranee.Sono stati trovati nel mezzo interstellare, in comete e in meteoriti e sono tra le molecole ipoteticamente candidate a fungere da stampo base per la catalisi di reazioni coinvolte nella genesi delle prime forme di vita.
+
+
+== Struttura ==
+Le molecole degli IPA sono generalmente planari a meno di impedimenti sterici e sono costituite da un gruppo di atomi di carbonio ibridati sp2 legati tra loro in anelli condensati, che hanno in comune almeno due atomi di carbonio adiacenti, ciascuno con il proprio orbitale pz occupato da un elettrone spaiato.
+Tali orbitali pz vanno a formare un sistema aromatico in cui vengono condivisi, se il numero di anelli è n, 4n+2 elettroni, non disposti a formare doppi legami definiti, bensì delocalizzati sull'intera parte della molecola interessata dal fenomeno (regola di Hückel).
+
+
+== Proprietà chimico-fisiche e comportamento ambientale ==
+In condizioni normali gli IPA si presentano tutti allo stato solido. La tensione di vapore di tali composti è generalmente bassa, ed inversamente proporzionale al numero di anelli contenuti. I composti a peso molecolare basso generalmente sublimano a temperatura ambiente, fenomeno particolarmente rilevante nei naftaleni.
+Gli IPA sono o relativamente poco solubili o del tutto insolubili in acqua; la solubilità per sommi capi diminuisce all'aumentare del loro peso molecolare. Sono altamente lipofili e questa loro caratteristica ne influenza fortemente il bioaccumulo. La struttura molecolare ne determina la stabilità, in atmosfera fortemente correlata all'irragiamento ultravioletto solare.  I composti più grandi, meno solubili in acqua e meno volatili, a causa di queste proprietà si trovano, nell'ambiente principalmente nel suolo, nei sedimenti oleosi, in acqua o in aria; purtuttavia sono anche una componente preoccupante del particolato atmosferico, adesi superficialmente alle particelle sospese nell'aria.
+
+
+== Aspetti relativi alla salute ==
+Gli IPA hanno noti effetti negativi sull'ambiente, sulla salute umana ed animale, come tossicità evidente per alcuni organismi acquatici ed uccelli, alta tossicità cronica per la vita acquatica, contaminazione dei raccolti agricoli.
+Diversi IPA sono stati classificati dalla IARC (1987) come "probabili" o "possibili cancerogeni per l'uomo", mentre il benzo(a)pirene è stato recentemente (2008) riclassificato nel gruppo 1 come "cancerogeno per l'uomo". Tra i cancerogeni certi per l'uomo, oltre ad esso, sono evidenti agenti ad alto contenuto di IPA come il fumo di tabacco, i processi per la gasificazione dei carboni, la produzione di coke e la distillazione dei catrami minerali. Tra gli IPA comunemente presenti nelle matrici ambientali, vi sono il benzo(a)pirene, il benzo(b)fluorantene, il benzo(k)fluorantene, l'indeno(1,2,3-c,d)pirene, il benzo(a)antracene, il benzo(j)fluorantene ed il dibenzo(a,h)antracene.
+Anche se esistono più di cento diversi IPA, quelli più imputati nel causare dei danni per la salute dell'uomo e degli animali sono: l'acenaftene, l'acenaftilene, l'antracene, il benzo(a)antracene, il dibenzo(a,h)antracene, il crisene, il pirene, il benzo(a)pirene, l'indeno(1,2,3-c,d)pirene, il fenantrene, il fluorantene, il benzo(b)fluorantene, il benzo(k)fluorantene, il benzo(g,h,i)perilene e il fluorene.
+Pur essendo lo studio di queste miscele particolarmente complesso, è stato comunque dimostrato che l'esposizione alle miscele IPA comporta per fenomeni di azione sinergica, un aumento dell'insorgenza del cancro, soprattutto in presenza di benzo(a)pirene, composto presente in miscela con altri anche nel fumo di sigaretta.
+L'attività cancerogena è dovuta ai prodotti del metabolismo di queste sostanze, quindi sono sostanze pre-mutagene. Difatti nel fegato vengono ossidate e ad un doppio legame viene sostituito un gruppo epossidico.
+
+
+== Analisi chimica ==
+Gli IPA possiedono caratteristici spettri di assorbanza UV. Le bande di assorbanza, molteplici e uniche per ogni struttura ad anello, permettono, per un insieme di isomeri con ciascun isomero ad un differente spettro di assorbimento UV rispetto agli altri, l'identificazione in miscele. La maggior parte degli IPA sono anche fluorescenti, emettendo lunghezze d'onda caratteristiche quando eccitati.
+L'analisi chimica di miscele complesse di IPA può convenientemente essere effettuata tramite HPLC, utilizzando un rivelatore di tipo fluorimetrico o di tipo UV a 254 nm.
+Altra tecnica analitica molto usata è la gascromatografia, usando come rivelatore un FID, efficiente ed a basso costo (gli IPA sono idrocarburi e quindi combustibili), oppure combinata con la spettrometria di massa (gas-massa).
+
+
+== Note ==
+
+
+== Voci correlate ==
+Polycyclic Aromatic Compounds
+ Theoretical Database of PAHs, su astrochemistry.ca.astro.it.
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Idrocarburi policiclici aromatici
+
+
+== Collegamenti esterni ==
+
+(EN) Idrocarburi policiclici aromatici, su Enciclopedia Britannica, Encyclopædia Britannica, Inc.

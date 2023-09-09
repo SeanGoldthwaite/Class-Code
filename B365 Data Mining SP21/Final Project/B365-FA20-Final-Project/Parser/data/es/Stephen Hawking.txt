@@ -1,0 +1,232 @@
+﻿Stephen William Hawking (pronunciación en inglés: /stiːvən_ˈhɔːkɪŋ/ ( escuchar); Oxford, 8 de enero de 1942-Cambridge, 14 de marzo de 2018)[3]​[4]​fue un físico teórico, astrofísico, cosmólogo y divulgador científico británico. Sus trabajos más importantes consistieron en aportar, junto con Roger Penrose, teoremas respecto a las singularidades espaciotemporales en el marco de la relatividad general y la predicción teórica de que los agujeros negros emitirían radiación,[5]​ lo que se conoce hoy en día como radiación de Hawking (o a veces radiación Bekenstein-Hawking). Uno de los principales características de su personalidad fue su contribución al debate científico, a veces apostando públicamente con otros científicos, el caso más conocido es su participación en la discusión sobre la conservación de la información en los agujeros negros.[6]​
+Era miembro de la Real Sociedad de Londres, de la Academia Pontificia de las Ciencias y de la Academia Nacional de Ciencias de Estados Unidos. Fue titular de la Cátedra Lucasiana de Matemáticas (Lucasian Chair of Mathematics) de la Universidad de Cambridge desde 1979 hasta su jubilación en 2009.[7]​
+Entre las numerosas distinciones que le fueron concedidas, recibió doce doctorados honoris causa y fue galardonado con la Orden del Imperio Británico (grado CBE) en 1982, el Premio Príncipe de Asturias de la Concordia en 1989, la Medalla Copley en 2006, la Medalla de la Libertad en 2009[8]​ y el Premio Fundación BBVA Fronteras del Conocimiento en 2015.
+Estuvo casado en dos ocasiones y tuvo tres hijos. Justo antes de su primer matrimonio, con 21 años, se le diagnósticó esclerosis lateral amiotrófica (ELA), que fue agravando su estado con el paso de los años, hasta dejarlo casi completamente paralizado[9]​[5]​ y le forzó a comunicarse a través de un aparato generador de voz. Cuando su enfermedad le afectó a la capacidad de tragar y se ahogaba al comer, Hawking comenzó una dieta especial, que se basaba principalmente en la retirada del gluten, el azúcar y los alimentos procesados, y complementación con diversos suplementos.[9]​ Ha sido la persona más longeva con esta enfermedad, a la que sobrevivió 55 años cuando la esperanza media de vida es de aproximadamente 14 meses.[9]​[10]​ Su caso resulta «fascinante» y desconcertante para los neurólogos.[9]​
+Como autor de libros divulgativos sobre ciencia alcanzó enormes éxitos de ventas, en los que discute sobre sus propias teorías y la cosmología en general, como Breve historia del tiempo: del Big Bang a los agujeros negros (A Brief History of Time: From the Big Bang to Black Holes), de 1988, y que estuvo en la lista de bestsellers del The Sunday Times británico durante 237 semanas, Brevísima historia del tiempo (A Briefer History of Time), de 2005, en colaboración con Leonard Mlodinow, en la que trató de explicar de la manera más sencilla posible la Historia del Universo, motivo por el cual se le conoció como El historiador del tiempo[11]​[12]​ o El historiador del universo,[13]​ y El universo en una cáscara de nuez (The Universe in a Nutshell), de 2001.
+
+
+== Biografía ==
+
+
+=== Primeros años y educación ===
+
+Nació el 8 de enero de 1942 en Oxford, lugar al que expresamente se desplazaron sus padres, Isobel Hawking y Frank Hawking, investigador biológico, buscando una mayor seguridad para la gestación de su primer hijo, ya que Londres estaba siendo atacada por la Luftwaffe.[14]​ Tiene además dos hermanas menores, Philippa y Mary, y un hermano adoptado, Edward.
+Después del nacimiento de Stephen, la familia volvió a Londres, donde su padre encabezaba la división de parasitología del National Institute for Medical Research. En 1950 se mudaron a St Albans, donde acudió al instituto para chicas de St Albans (que admitía chicos hasta la edad de diez años)[14]​ y a los once años cambió al colegio homónimo, donde fue un buen estudiante aunque no brillante.[15]​
+En un primer momento, Hawking quiso estudiar matemáticas en la Universidad, inspirado por su profesor, pero su progenitor quería que estudiara en el University College de Oxford, como él había hecho. Al no existir un profesor de matemáticas en aquel momento, en el college no aceptaban estudiantes de esa disciplina, por lo que Hawking se matriculó en ciencias naturales y consiguió una beca. Una vez en el University College, se especializó en física.[14]​ Su interés en esa época se centraba en la termodinámica, la relatividad y la mecánica cuántica. Durante su estancia en Oxford, estuvo en un equipo de remo, deporte que según él mismo le ayudaba a aliviar su tremendo aburrimiento en la universidad.[16]​ Su tutor de física, Robert Berman, dijo posteriormente en The New York Times Magazine: «Solo le bastaba saber que se podía hacer algo y él era capaz de hacerlo sin mirar cómo otros lo hacían... Por supuesto, su mente era completamente diferente de las de sus coetáneos».[15]​
+Los hábitos académicos de Hawking estaban lejos de impresionar,[17]​ lo que se puso de manifiesto en el resultado de su examen final, en la frontera entre los honores de primera y segunda clase, lo que hacía necesario un «examen oral». Berman dijo de la prueba oral:
+
+ 
+
+Después de recibir su título de grado en Oxford en 1962, hizo sus estudios de posgrado en el Trinity Hall de Cambridge. Obtuvo su doctorado en física en Cambridge en 1966 y tiene más de una docena de títulos honorarios.[18]​
+
+
+=== Carrera ===
+
+
+==== De 1962 a 1975 ====
+
+Al poco de llegar a Cambridge, comenzó a desarrollar síntomas de esclerosis lateral amiotrófica (ELA), un tipo de enfermedad motoneuronal que le haría perder la mayor parte de su control neuromuscular. Durante sus primeros dos años en Cambridge no se reconocía a sí mismo, pero después de que la enfermedad se estabilizara y con la ayuda de su tutor doctoral, Dennis William Sciama, volvió a trabajar en su doctorado de física.[15]​
+A finales de la década de 1960, él y su colega de Cambridge, Roger Penrose, aplicaron un nuevo y complejo modelo matemático creado a partir de la teoría de la relatividad general de Albert Einstein.[19]​ Esto llevó a Hawking, en 1970, a probar el primero de sus varios teoremas de singularidad, que proveen una serie de condiciones suficientes para la existencia de una singularidad espaciotemporal en el espacio-tiempo. Este trabajo mostró que, lejos de ser curiosidades matemáticas que solo aparecen en casos especiales, las singularidades son una característica bastante genérica de la relatividad general.[20]​
+Hawking fue uno de los más jóvenes en ser elegido miembro de la Royal Society, en 1974. Ese mismo año, visitó el Instituto de Tecnología de California (Caltech) para trabajar con su amigo, Kip Thorne, que impartía clases allí. Hawking seguiría teniendo relación con Caltech, pasando allí un mes al año desde 1992,[21]​ hasta su muerte.
+
+
+==== De 1975 a 2018 ====
+Su trabajo con Brandon Carter, Werner Israel y D. Robinson fue un espaldarazo para el teorema de no pelo de John Archibald Wheeler, que postula que todo agujero negro se describe completamente con sus propiedades de masa, momento angular y carga eléctrica.[22]​ Luego de analizar emisiones de rayos gamma, Hawking sugirió que después del big bang se formaron diminutos agujeros negros primitivos. Junto con Bardeen y Carter, propuso las cuatro leyes de la termodinámica de los agujeros negros, trazando una analogía con la termodinámica. En 1974, calculó que los agujeros negros debían de crear y emitir térmicamente partículas subatómicas, lo que actualmente se conoce como radiación de Hawking, hasta que gastan su energía y se evaporan.[23]​
+Hawking desarrolló en colaboración con James Hartle un modelo topológico en el que el universo no tenía fronteras en el espacio-tiempo, reemplazando la singularidad inicial de los modelos clásicos del big bang por una región similar, el Polo Norte: no se puede viajar al norte del Polo Norte al no haber un límite.[24]​ Aunque en un principio la propuesta sin fronteras predecía un universo cerrado, los debates con Neil Turok le hicieron darse cuenta de que la ausencia de fronteras es coherente con un universo no cerrado.[25]​
+En 2006, junto con Thomas Hertog de la CERN, Hawking propuso una teoría basada en la top-down cosmology, según la cual el universo no tenía un único estado inicial y, por tanto, los físicos no deben pretender formular una teoría que explique la configuración actual del universo sobre la base de un estado inicial en concreto.[26]​
+Hawking fue el profesor Lucasiano de la Universidad de Cambridge durante treinta años, desde 1979 hasta su jubilación el 1 de octubre de 2009.[27]​[28]​ Después se convertiría en director de investigación en el Centro para Cosmología Teórica de la Universidad de Cambridge. Era también miembro del Gonville y Caius College y ostentó la distinguida cátedra de investigación en el Instituto Perimeter de Física Teórica de Waterloo, Ontario.[29]​
+En 2009 participó en un homenaje a Carl Sagan auspiciado por la discográfica de Jack White, Third Man Records. A la venta el 6 de noviembre, el setenta y cinco aniversario del nacimiento del astrónomo, «A Glorious Dawn» parte de fragmentos del programa divulgador de Sagan Cosmos: un viaje personal, musicalizados por John Boswell y a los que se ha añadido la voz de Hawking.[30]​
+
+
+=== Fallecimiento ===
+El 14 de marzo de 2018, a los 76 años de edad, falleció en su casa de Cambridge, Reino Unido, según un comunicado divulgado por su familia, cuyo contenido recogen varios medios ingleses.[31]​[32]​ No revelaron la causa del fallecimiento, simplemente mencionaron que «expiró en paz».[33]​[34]​
+
+
+== Obra ==
+
+Hawking ha trabajado en las leyes básicas que gobiernan el universo. Junto con Roger Penrose mostró que la teoría general de la relatividad de Einstein implica que el espacio y el tiempo han de tener un principio en el big bang y un final dentro de agujeros negros. Semejantes resultados señalan la necesidad de unificar la Relatividad General con la teoría cuántica, el otro gran desarrollo científico de la primera mitad del siglo XX. Una consecuencia de tal unificación que él descubrió era que los agujeros negros no eran totalmente negros, sino que podían emitir radiación y eventualmente evaporarse y desaparecer. Otra conjetura es que el universo no tiene bordes o límites en el tiempo imaginario. Esto implicaría que el modo en que el universo empezó queda completamente determinado por las leyes de la ciencia.
+Sus numerosas publicaciones incluyen La estructura a gran escala del espacio-tiempo con G. F. R. Ellis, Relatividad general: Revisión en el Centenario de Einstein con W. Israel, y 300 Años de gravedad, con W. Israel. Stephen Hawking ha publicado tres libros de divulgación: su éxito de ventas Breve historia del tiempo: del Big Bang a los agujeros negros, Agujeros negros y pequeños universos y otros ensayos, en 2001 El universo en una cáscara de nuez, en 2005 Brevísima historia del tiempo, una versión de su libro homónimo adaptada para un público más amplio.
+
+
+=== Investigación del universo ===
+
+
+==== Investigación sobre el origen del universo ====
+En su libro Agujeros negros y pequeños universos y otros ensayos, editado en 1993, afirmó:
+
+ 
+
+ 
+
+Alrededor del año 2004 propuso su nueva teoría acerca de las simas o agujeros negros, un término que por lo general se aplica a los restos de estrellas que sufrieron un colapso gravitacional después de agotar todo su combustible nuclear. Según Hawking, el universo está prácticamente lleno de «pequeños agujeros negros» y considera que estos se formaron del material original del universo.
+Ha declarado también acerca del origen del universo:
+
+ 
+
+
+==== Conjetura de protección de la cronología ====
+Hawking afirmó que debería haber una ley que hacía imposible el viaje en el tiempo. Propuso una conjetura de protección de la cronología que excluía el viaje en el tiempo de las leyes de la física, para «hacer la historia segura para los historiadores». Incapaz de encontrar una ley física que haga imposible el viaje en el tiempo, Hawking cambió de opinión:
+
+ 
+
+
+=== Pensamiento filosófico ===
+Adopta el realismo dependiente del modelo, la idea de que una teoría física o una imagen del mundo es un modelo y un conjunto de reglas que relacionan los elementos del modelo con las observaciones, basándose en que lo que se sabe de la física moderna hace difícil defender al realismo[nota 1]​ y el punto de vista de Hume de que no queda otra opción que actuar como si la realidad fuera verdadera, por lo que «carece de sentido preguntar si un modelo es real o no; solo tiene sentido preguntar si concuerda o no con las observaciones», derivándose de que si hay dos modelos que concuerden con las observaciones «no se puede decir que uno sea más real que otro»[nota 2]​ y que se podría usar el modelo más conveniente de acuerdo a la situación considerada. En cuanto al término modelo se consideraría satisfactorio si: a) es elegante,[nota 3]​ b) contiene pocos elementos arbitrarios o ajustables, c) concuerda con las observaciones existentes y proporciona una explicación de ellas, y d) realiza predicciones detalladas sobre observaciones futuras que permitirán refutar o falsar el modelo si no son confirmadas.[36]​
+
+
+=== Creencias religiosas ===
+
+En el libro Una Breve Historia del Tiempo, de 1988, el astrofísico señalaba que «si llegamos a descubrir una teoría completa, sería el triunfo definitivo de la razón humana, porque entonces conoceríamos la mente de Dios». Sin embargo, con el pasar de las décadas estas ideas fueron cambiando, reinterpretándose e incluso recibiendo acusaciones de ser solo publicidad, según señalaba la primera esposa de Hawking, Jane Wilde, tras su divorcio en 1991.[37]​[38]​
+En efecto, Stephen Hawking utiliza repetidamente la palabra «Dios»[39]​[40]​ en su discurso público de divulgación científica, pero ha explicado que lo hace en sentido meramente metafórico. «No soy religioso en el sentido normal de la palabra. Creo que el Universo está gobernado por las leyes de la ciencia. Esas leyes pudieron haber sido creadas por Dios; pero Dios no interviene para romper las leyes».[41]​
+Ya en 2010, el científico aseguró en su libro El gran diseño, que la física moderna descarta a Dios como creador del universo, tal como en el pasado lo hizo el darwinismo, que echó por tierra las ideas de Dios como creador de los seres vivos. Según extractos de su libro El gran diseño, Hawking dice que una nueva serie de teorías torna superfluo pensar en la existencia de un creador del Universo, que Dios no creó el Universo y que el big bang fue la consecuencia inevitable de las leyes de la física.
+
+ 
+
+La publicación de los extractos del libro escrito junto a Leonard Mlodinow El gran diseño,[43]​[44]​ en los que manifiesta básicamente que Dios no creó el Universo, causó una fuerte polémica y críticas por parte de los representantes de numerosas religiones.[45]​[46]​[47]​
+Fue en este contexto que, durante el año 2014, en una entrevista realizada por el diario El Mundo, aclaró su postura con respecto a la religión y despejó cualquier duda sobre su ateísmo. Fue claro en señalar que era ateo y considera incompatibles ciencia y religión:
+
+ 
+
+
+== Lucha personal contra la esclerosis lateral amiotrófica ==
+
+En 1963, a la edad de 21 años, le diagnosticaron un tipo de enfermedad motoneuronal denominada esclerosis lateral amiotrófica (ELA).[9]​[10]​ Los primeros síntomas aparecieron durante su estancia en Oxford, justo antes de su primer matrimonio. Stephen Hawking quedó en una situación de discapacidad a causa de esta enfermedad, que fue agravando su estado con el paso de los años, hasta dejarlo casi completamente paralizado, pero no le impidió mantener su alta actividad científica y pública.
+Hawking sobrevivió 55 años con esta enfermedad, aunque los médicos le habían pronosticado dos años de vida.[9]​ A partir del momento del diagnóstico de la ELA, la esperanza media de vida es de aproximadamente 14 meses y por lo general, la mayoría de los pacientes no supera los cinco años.[9]​
+En 1985 se le practicó una traqueotomía, utilizando desde entonces un sintetizador de voz para comunicarse. Paulatinamente fue perdiendo el uso de sus extremidades, así como el resto de la musculatura voluntaria, incluyendo la fuerza del cuello para mantenerse con la cabeza erguida; con todo esto su movilidad se tornó prácticamente nula. La silla de ruedas que utilizaba en público estaba controlada por un ordenador que manejaba a través de leves movimientos de cabeza y ojos. Con la contracción voluntaria de una de sus mejillas, componía palabras y frases en su sintetizador de voz; el deterioro de su estado le llevó a solo poder comunicarse al ritmo de una palabra por minuto. A este respecto, a finales de 2011 solicitó ayuda técnica a la compañía Intel para la mejora del sistema de predicción de palabras.[49]​
+
+ 
+
+El 20 de abril de 2009 se informó de que Hawking había sido internado «muy enfermo» en un hospital de Cambridge. Unas pocas horas después de conocerse la noticia, su web personal mostraba un mensaje que hacía referencia a la avalancha de visitas que había sufrido, con lo que se habían visto obligados a omitir sus contenidos temporalmente para evitar una caída del servidor.[50]​
+Al día siguiente, 21 de abril de 2009, se informó de su mejoría y la posibilidad de su pronta recuperación total.[51]​
+Hawking fue un caso excepcional, no solo por ser la persona que más años sobrevivió con la ELA, rompiendo todas las estadísticas, sino también porque su enfermedad parecía haberse «quemado» y su progreso frenado, llegando a ser relativamente estable.[9]​ Por todo ello, se ha convertido en un «caso fascinante» y desconcertante para los neurólogos.[9]​
+
+Hawking opinaba que la variedad de ELA que padecía había sido causada probablemente por una deficiente absorción de vitaminas.[9]​ Cuando su enfermedad había progresado hasta el punto en el que le impedía tragar y había empezado a ahogarse al comer, comenzó una dieta sin gluten, sin lácteos, sin azúcar, sin aceites vegetales y sin alimentos procesados.[9]​[10]​ Complementaba su alimentación con suplementos diarios de vitaminas y minerales, incluyendo ácido fólico, vitamina B12 y otras vitaminas del grupo B, vitamina C, vitamina E, zinc y cápsulas de aceite de hígado de bacalao.[9]​ Tras un tiempo de iniciada la dieta, empezó a incluir pequeñas cantidades de productos lácteos.[9]​ 
+
+
+== Reconocimientos ==
+
+El 19 de diciembre de 2007 se develó una estatua de Hawking, obra de Ian Walters, en el Centre for Theoretical Cosmology de la Universidad de Cambridge.[52]​ Entre los edificios nombrados en su honor se encuentran el Museo de Ciencia Stephen W. Hawking en San Salvador,[53]​ el Stephen Hawking Building en Cambridge,[54]​ y el Stephen Hawking Centre en el Instituto Perimeter de Física Teórica en Canadá.[55]​ En 2002, después de una votación abierta a todo el Reino Unido, la BBC lo incluyó en su lista de 100 Greatest Britons.[56]​
+
+
+=== Principales premios y distinciones ===
+1966: Premio Adams concedido por la Universidad de Cambridge, compartido con Roger Penrose.
+1974: Elegido miembro de la Royal Society de Londres.
+1975: Medalla Eddington.
+1976: Medalla Hughes, concedida por la Royal Society «por sus distinguidas contribuciones a la aplicación de la relatividad general a la astrofísica, especialmente al comportamiento de la materia altamente condensada».[57]​
+1979: Medalla Albert Einstein.
+1981: Medalla Franklin.
+1982: Comendador de la Orden del Imperio Británico
+1985: Medalla de oro de la Real Sociedad Astronómica.
+1986: Miembro de la Academia Pontificia de las Ciencias.
+1987: Premio Dirac por sus contribuciones a la Física teórica.
+1988: Premio Wolf en Física
+1989: Miembro de la Orden de los Compañeros de Honor de la Commonwealth realms o Reinos de la Mancomunidad de Naciones.
+1989: Premio Príncipe de Asturias de la Concordia.
+1998: Premio Andrew Gemant otorgado por el Instituto Americano de Física.
+1999: Premio Naylor concedido por la Sociedad Matemática de Londres.
+1999: Premio Julius Edgar Lilienfeld de la American Physical Society[58]​
+1999: Premio Alberto, concedido por la Real Sociedad para el fomento de las Artes, Manufacturas y Comercio de Londres.
+2003: Premio Michelson Morley de la Universidad Case Western Reserve
+2006: Medalla Copley de la Real Sociedad de Londres[59]​
+2008: Premio Fonseca de la Universidad de Santiago de Compostela[60]​
+2009: Medalla Presidencial de la Libertad, la más alta condecoración civil de Estados Unidos.[61]​
+2012: Premio Especial de Física Fundamental, es el galardón científico con mayor dotación económica del mundo.[62]​
+2015: Premio Fundación BBVA Fronteras del Conocimiento en Ciencias Básicas junto con Viatcheslav Mukhanov, por descubrir que las galaxias tienen su origen en fluctuaciones cuánticas.[63]​
+2016: Profesor honorario del Instituto de Astrofísica de Canarias.[64]​[65]​
+
+
+== Publicaciones ==
+
+
+=== Selección de obras de Stephen Hawking ===
+
+
+==== Científicas y divulgativas ====
+1969: Singularities in Collapsing Stars and Expanding Universes with Dennis William Sciama, Comments on Astrophysics and Space Physics Vol 1 - 1
+1973: The Large Scale Structure of Spacetime con George Ellis, ISBN 0-521-09906-4
+1988: Breve historia del tiempo: del Big Bang a los agujeros negros (A Brief History of Time: From the Big Bang to Black Holes), Bantam Press, ISBN 0-553-05340-X)[66]​
+1993: Agujeros negros y pequeños universos y otros ensayos (Black Holes and Baby Universes and Other Essays), Bantam Books, ISBN 0-553-37411-7)
+1996: La naturaleza del espacio y el tiempo (The Nature of Space and Time) con Roger Penrose, Michael Atiyah, Nueva Jersey: Princeton University Press, ISBN 0-691-05084-8)
+1997: The Large, the Small, and the Human Mind (with Abner Shimony, Nancy Cartwright, and Roger Penrose), Cambridge University Press, ISBN 0-521-56330-5 (hardback), ISBN 0-521-65538-2 (paperback), Canto edition: ISBN 0-521-78572-3
+2001: El universo en una cáscara de nuez (The Universe in a Nutshell), (Bantam Press 2001) ISBN 0-553-80202-X)
+2002: A hombros de gigantes, los grandes textos de la física y la astronomía (On The Shoulders of Giants. The Great Works of Physics and Astronomy), (Running Press) ISBN 0-7624-1698-X)
+2003: El futuro del espaciotiempo, Editorial crítica.
+2005: Information Loss in Black Holes, Cambridge University Press.
+2005: Brevísima historia del tiempo (A Briefer History of Time), Bantam Books, ISBN 0-553-80436-7)
+2005: Dios creó los números: los descubrimientos matemáticos que cambiaron la historia (God Created the Integers: The Mathematical Breakthroughs That Changed History), Running Press, ISBN 0-7624-1922-9)
+2007: La teoría del todo: el origen y el destino del universo[67]​
+2008: La gran ilusión: las grandes obras de Albert Einstein
+2009: El tesoro cósmico
+2010: El gran diseño (The Grand Design) con Leonard Mlodinow[68]​[46]​[69]​[70]​
+2018: Breves respuestas a las grandes preguntas[71]​[72]​
+
+
+==== Ficción infantil ====
+Estas obras están escritas junto con su hija Lucy Hawking.
+
+2007: La clave secreta del universo - (George's Secret Key to the Universe, Random House ISBN 978-0-385-61270-8)
+2009: El tesoro cósmico - (George's Cosmic Treasure Hunt, Simon & Schuster, ISBN 978-1-4169-8671-3)
+
+
+==== Películas, documentales y series ====
+Los Secretos del Universo (BBC)
+Una breve historia del tiempo (A Brief History of Time)
+El universo de Stephen Hawking (Stephen Hawking's Universe)
+La paradoja de Hawking - (Horizon (BBC TV series): The Hawking Paradox)[73]​
+Maestros de la ciencia ficción - Masters of Science Fiction)
+Stephen Hawking: Master of the Universe
+Superhero Movie le realiza una parodia en donde es interpretado por Robert Joy.
+En el universo con Stephen Hawking - (Into The Universe with Stephen Hawking)[74]​
+Hawking (BBC) donde Stephen es interpretado por Benedict Cumberbatch (2004)
+¿Dios creó realmente el universo? (Did God Create The Universe?) que fue el primer episodio de la serie de documentales de TV de la cadena Discovery Channel llamado Curiosity, siendo Stephen, presentador principal del episodio, y en el que explica las razones del porque, creer en la existencia de un dios creador del universo es un ejercicio inútil.[75]​
+The Big Bang Theory donde se interpreta brevemente a sí mismo en un capítulo (quinta temporada) y en otro solo se oye su voz (sexta temporada) 2012.
+La teoría del todo Película basada en la vida de Stephen Hawking, centrándose en su amor, su vida personal y sobre todo la superación de su enfermedad. (2014)Una lista de las publicaciones de Hawking del año 2002 puede encontrarse en su página web.
+
+Los Padrinos Mágicos es contratado por Remy para ayudar a Timmy y así comprobar que 2+2=5 es correcto.
+Los Simpson se interpreta a sí mismo.
+Futurama se interpreta a sí mismo.
+
+
+=== Vídeos musicales ===
+Hawking aparece en algunos de los vídeos musicales que componen la obra Symphony of Science de John Boswell: «A Glorious Dawn»,[76]​ «The Poetry of Reality (An Anthem for Science)»,[77]​ «The Big Beginning»[78]​ y «The Quantum World»[79]​
+
+
+=== Literatura sobre Stephen Hawking ===
+Kitty Ferguson (1992). Stephen Hawking: su vida y su obra: hacía una teoría de todo. Crítica. ISBN 978-84-7423-557-9. 
+David Filkin (1998). El universo de Stephen Hawking. Gedisa. ISBN 978-84-7432-668-0. 
+Peter Coles (2004). Hawking y la mente de Dios. Gedisa. ISBN 978-84-9784-033-0. 
+Francisco J. Soler Gil (2008). Lo divino y lo humano en el universo de Stephen Hawking. Ediciones Cristiandad. ISBN 9788470575365. 
+Jane Wilde Hawking (2008). Travelling to Infinity – My Life with Stephen. Alma Books. ISBN 1-84688-065-3. 
+Clifford A. Pickover (2009). De Arquímedes a Hawking: las leyes de la ciencia y sus descubridores. Crítica. ISBN 978-84-9892-003-1. 
+John C. Lennox (2011). God and Stephen Hawking: Whose Design is it Anyway?. Lion Books. ISBN 9780745955490. 
+
+
+== Véase también ==
+
+
+== Notas ==
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Ferguson, Kitty (10 de noviembre de 2011). Stephen Hawking: His Life and Work. Transworld. ISBN 978-1-4481-1047-6. Consultado el 26 de marzo de 2012. 
+Hawking, Stephen W. (1 de septiembre de 1994). Black holes and baby universes and other essays. Bantam Books. ISBN 978-0-553-37411-7. Consultado el 4 de marzo de 2012. 
+Larsen, Kristine (30 de junio de 2005). Stephen Hawking: a biography. Greenwood Publishing Group. ISBN 978-0-313-32392-8. Consultado el 4 de marzo de 2012. 
+Okuda, Michael; Okuda, Denise (1 de octubre de 1999). The Star trek encyclopedia: a reference guide to the future. Pocket Books. ISBN 978-0-671-53609-1. Consultado el 4 de marzo de 2012. 
+
+
+== Enlaces externos ==
+
+ Wikimedia Commons alberga una categoría multimedia sobre Stephen Hawking.
+ Wikiquote alberga frases célebres de o sobre Stephen Hawking.
+ Wikinoticias tiene noticias relacionadas con Stephen Hawking.
+
+Sitio web oficial  (en inglés)
+Premio Príncipe de Asturias de la Concordia 1989
+Historia del tiempo de Stephen Hawking.
+Stephen Hawking en Lecturalia
+Cinco conferencias sobre el espacio y el tiempo
+Serie documental El Universo de Stephen Hawking (ver en línea)
+Presentación del homenaje en el Museo de Ciencia de Londres con motivo de sus 70 años

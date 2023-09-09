@@ -1,0 +1,253 @@
+﻿Albert Einstein (pronuncia italiana [ˈalbert ˈainstain]; tedesca [ˈalbɛɐ̯t ˈaɪnʃtaɪn]; inglese [ˈæɫbəɹt ˈaɪnˌstaɪn]; Ulma, 14 marzo 1879 – Princeton, 18 aprile 1955) è stato un fisico tedesco naturalizzato svizzero e statunitense.
+
+Generalmente considerato il più importante fisico del XX secolo, conosciuto al grande pubblico anche per la formula dell'equivalenza massa-energia, E = mc2, riconosciuta come l'"equazione più famosa al mondo", e per tutti i suoi lavori che ebbero una forte influenza anche sulla filosofia della scienza, nel 1921 ricevette il premio Nobel per la fisica «per i contributi alla fisica teorica, in particolare per la scoperta della legge dell'effetto fotoelettrico», un passo avanti cruciale per lo sviluppo della teoria dei quanti, sviluppando a partire dal 1905 la teoria della relatività, uno dei due pilastri della fisica moderna insieme alla meccanica quantistica.
+Eccetto che per un anno a Praga, Einstein visse in Svizzera tra il 1895 e il 1914, periodo durante il quale rinunciò alla cittadinanza tedesca (nel 1896). Poi, nel 1900, ricevette il diploma al Politecnico federale di Zurigo (Eidgenössische Technische Hochschule, ETH). Dopo essere stato apolide per più di cinque anni, assunse la cittadinanza svizzera nel 1901, che tenne per il resto della sua vita. Nel 1905, conseguì un PhD all'Università di Zurigo. Quello stesso anno, ricordato come annus mirabilis, all'età di 26 anni, pubblicò quattro articoli dal contenuto fortemente innovativo, che attirarono l'attenzione del mondo accademico. Dal 1912 al 1914, Einstein insegnò fisica teorica a Zurigo, prima di partire per Berlino, dove fu eletto all'Accademia Reale Prussiana delle Scienze.
+All'inizio della sua carriera credeva che la meccanica newtoniana non fosse più sufficiente a conciliare le leggi della meccanica classica con le leggi dell'elettromagnetismo e ciò lo portò a sviluppare la teoria della relatività ristretta mentre era all'istituto federale della proprietà intellettuale di Berna (1902–1909). Tuttavia successivamente si rese conto che il principio di relatività poteva essere esteso ai campi gravitazionali, quindi nel 1916 pubblicò un articolo sulla relatività generale con la sua teoria della gravitazione. Continuò a trattare problemi di meccanica statistica e teoria dei quanti, che lo portò a dare una spiegazione della teoria delle particelle e del moto browniano. Indagò anche le proprietà termiche della luce e gettò le basi per la teoria del fotone. Nel 1917, applicò la teoria della relatività generale per modellizzare la struttura dell'universo.Nel 1933, mentre Einstein stava visitando gli Stati Uniti, Adolf Hitler salì al potere. A causa delle sue origini ebraiche, Einstein non fece ritorno in Germania. Si stabilì negli Stati Uniti e diventò un cittadino statunitense nel 1940. Alla vigilia della seconda guerra mondiale, inviò una lettera al presidente Roosevelt la quale avvisava del possibile sviluppo da parte della Germania di "bombe di un nuovo tipo estremamente potenti" e suggeriva agli Stati Uniti di cominciare delle simili ricerche. Ciò portò infine al progetto Manhattan. Einstein sostenne gli alleati, ma criticò l'idea di usare la fissione nucleare come arma. Firmò, con il filosofo britannico Bertrand Russell, il Manifesto Russell-Einstein, nel quale si evidenziava il pericolo delle armi nucleari. Fu affiliato con l'Institute for Advanced Study a Princeton, in New Jersey, fino alla sua morte nel 1955.
+Oltre a essere uno dei più celebri fisici della storia della scienza, che mutò in maniera radicale il paradigma di interpretazione del mondo fisico, fu attivo in diversi altri ambiti, dalla filosofia alla politica. Per il suo apporto alla cultura in generale è considerato uno dei più importanti studiosi e pensatori del XX secolo. Einstein pubblicò più di 300 articoli scientifici e più di 150 articoli non scientifici. I suoi traguardi intellettuali e la sua originalità hanno reso il termine "Einstein" sinonimo di  "genio". Eugene Wigner scrisse di Einstein in confronto ai suoi contemporanei:
+
+
+== Biografia ==
+
+
+=== Gioventù e studi liceali ===
+
+Albert Einstein nacque a Ulma il 14 marzo del 1879 da una benestante famiglia ebraica, figlio di Hermann Einstein, proprietario di una piccola azienda che produceva macchinari elettrici, e di Pauline Koch. Frequentò una scuola elementare cattolica e, su insistenza della madre, gli furono impartite lezioni di violino. All'età di cinque anni il padre gli mostrò una bussola tascabile ed Einstein si rese conto che qualcosa nello spazio "vuoto" agiva sull'ago spostandolo in direzione del nord; avrebbe descritto in seguito quest'esperienza come una delle più rivelatrici della sua vita.
+
+La supposizione che il suo profitto in matematica fosse scarso è sbagliata, basata anche sul fatto che nel sistema scolastico svizzero in quel periodo le votazioni adottavano una scala da 1 a 6. Nell'agosto del 1886 Albert riferì alla madre l'ottimo profitto scolastico: «Ieri Albert ha ricevuto la pagella, è nuovamente il primo della classe». Einstein cominciò a studiare matematica insieme con Max Talmud, un amico di famiglia che gli procurò testi scientifici come gli Elementi di Euclide e anche filosofici come la Critica della ragion pura di Kant. All'età di dieci anni iniziò a frequentare il Luitpold Gymnasium, ma si rivelò ben presto insofferente al rigido ambiente scolastico, seppur riportando comunque buoni voti in matematica e in latino. Inoltre suo zio Jakob lo metteva spesso alla prova con problemi matematici che risolveva brillantemente « [...] provando un profondo senso di felicità».
+
+A causa di diversi dissesti economici (nel 1894 gli Einstein avevano fondato, con un socio italiano, le officine elettrotecniche Nazionali Einstein-Garrone a Pavia, poi fallite) la famiglia Einstein dovette trasferirsi di frequente: dapprima a Monaco di Baviera, poi nel 1894 a Pavia, a Palazzo Cornazzani (dove, curiosamente, aveva già abitato Ugo Foscolo) dove Albert scrisse il suo primo articolo scientifico, e due anni dopo a Berna in Svizzera. Quando la famiglia si trasferì a Milano Einstein, allora diciassettenne, restò in Svizzera per proseguire gli studi, che presto abbandonò per ricongiungersi con la famiglia.
+Il fallimento all'esame d'ingresso al Politecnico di Zurigo nel 1895, tentato nonostante non avesse l'età minima richiesta e non superato per un'insufficienza nel test di francese, fu una dura battuta d'arresto. Pertanto per concludere gli studi superiori fu mandato dalla famiglia ad Aarau dove riuscì a conseguire il diploma nel 1896. Nell'ottobre dello stesso anno ritentò l'esame di ammissione al politecnico, superandolo. Durante il primo anno di studi al politecnico, nel 1896, conobbe Mileva Marić, sua compagna di studi, di cui s'innamorò. Mileva era l'unica donna ammessa a frequentare il politecnico federale svizzero.
+Einstein concluse gli studi al politecnico nel luglio del 1900, superando gli esami finali con la votazione di 4,9/6 e classificandosi quarto su cinque promossi. Egli fu l'unico dei laureati a non ottenere un posto come assistente. Nel 1900 gli venne garantito un diploma da insegnante dall'Eidgenössische Technische Hochschule e nel 1901 fu naturalizzato svizzero. In quel periodo Einstein discuteva dei suoi interessi scientifici con un ristretto gruppo di amici, inclusa Mileva.
+
+Nel gennaio 1902 Mileva ebbe una figlia, Lieserl, che morì presumibilmente di scarlattina. Quel parto illegittimo compromise gli studi della giovane che decise di sacrificarsi per la famiglia e la carriera accademica di Albert. Nel 1903 Albert e Mileva si sposarono in municipio. In seguito Mileva avrebbe dato alla luce altri due figli: Hans Albert (1904), che sarebbe diventato ingegnere ed Eduard (1910), con ottime capacità nella musica e negli studi, che poi fu travolto dalla malattia mentale e trascorse gran parte della sua vita tra la casa materna di Zurigo e l'ospedale psichiatrico Burghölzli.
+Dopo la laurea Einstein trovò lavoro presso l'ufficio brevetti di Berna. Insieme con l'amico e collega di lavoro Michele Besso fondò un gruppo di discussione chiamato "Accademia Olimpia", dove si discuteva di scienza e filosofia.
+
+
+=== 1905: l'annus mirabilis ===
+
+Il 1905 fu un anno di svolta nella vita di Einstein e nella storia della fisica. Nel giro di sette mesi pubblicò sei lavori:
+
+un articolo, ultimato il 17 marzo, che spiegava l'effetto fotoelettrico in base alla composizione della radiazione elettromagnetica di quanti discreti di energia (poi denominati fotoni), secondo il concetto di quanto ipotizzato nel 1900 da Max Planck. Questo studio gli avrebbe valso il Premio Nobel per la fisica nel 1921 e avrebbe contribuito allo sviluppo della meccanica quantistica;
+la tesi di dottorato sul tema "Nuova determinazione delle dimensioni molecolari", pubblicata il 30 aprile. Sarebbe diventato lo scritto di Einstein più citato nella letteratura scientifica degli anni settanta;
+un articolo, datato 11 maggio, sul moto browniano, che costituiva uno sviluppo della sua tesi di dottorato;
+una prima memoria, in data 30 giugno, dal titolo Zur Elektrodynamik bewegter Körper (Sull'elettrodinamica dei corpi in movimento) che aveva come oggetto l'interazione fra corpi carichi in movimento e il campo elettromagnetico vista da diversi osservatori in stati di moto differenti. La teoria esposta nell'articolo, nota successivamente con il nome di Relatività ristretta (o speciale), risolveva i contrasti tra teoria meccanica e teoria elettromagnetica della luce, che avevano caratterizzato la fisica dell'Ottocento, con una revisione dei concetti di spazio e di tempo assoluti;
+un'altra memoria sulla relatività ristretta, datata 27 settembre, che conteneva la nota formula E=mc²;
+un altro articolo sul moto browniano, pubblicato il 19 dicembre.
+
+
+=== L'insegnamento e la vita privata ===
+
+Einstein ottenne il dottorato il 15 gennaio del 1906 e insegnò a Berna a partire dal 1908. Nel 1909 pubblicò Über die Entwicklung unserer Anschauungen über das Wesen und die Konstitution der Strahlung, sulla quantizzazione della luce. In questo e in un precedente scritto dello stesso anno dimostrò che l'energia dei quanti di Max Planck deve avere una quantità di moto ben definita. Questo scritto introdusse il concetto di fotone (anche se il termine "fotone" fu usato come tale da Gilbert Lewis nel 1926) e ispirò la nozione di dualismo onda-particella nella meccanica quantistica.
+Nel 1911 si trasferì a Praga e nel 1914 fu nominato direttore dell'Istituto di Fisica dell'Università di Berlino, dove rimase fino al 1933. In quegli anni effettuò alcune ricerche sulla meccanica statistica e sulla teoria della radiazione.
+
+Sin dal marzo 1912 aveva iniziato una relazione con la cugina trentaseienne divorziata Elsa Löwenthal e della moglie diceva che era come una dipendente che non poteva licenziare. Per incontrare Elsa spariva per giorni finché andò via da casa, dettando poi condizioni incredibili alla moglie: 
+che i suoi vestiti e la biancheria fossero mantenuti in ordine e in buono stato;
+che egli ricevesse i suoi tre pasti regolarmente nella sua stanza;
+che la sua camera da letto e lo studio fossero sempre puliti e, in particolare, che sulla sua scrivania potesse mettere le mani solo lui.Mileva avrebbe anche dovuto rinunciare a ogni rapporto personale, astenersi dal criticarlo sia a parole sia con azioni davanti ai figli. Inoltre Einstein aggiunse altri punti:
+
+Non doveva aspettarsi intimità.
+Doveva smettere immediatamente di rivolgersi a lui se lo richiedeva.
+Doveva uscire all'istante dalla stanza e senza protestare se egli lo richiedeva.Mileva accettò ed egli tornò a casa, ma dopo pochi mesi lei tornò con i figli a Zurigo e nel 1919 i due divorziarono, a fronte di un accordo economico (pensione di reversibilità, aumentare i versamenti e ricevere tutto il denaro del futuro premio Nobel). Nello stesso anno Einstein sposò in seconde nozze la cugina, a cui restò legato fino alla morte di lei nel 1936.
+
+
+=== Teoria della relatività generale ===
+
+Nel 1915 Einstein propose una teoria relativistica della gravitazione, denominata relatività generale, che descriveva le proprietà dello spaziotempo a quattro dimensioni: secondo tale teoria la gravità non è altro che la manifestazione della curvatura dello spaziotempo.
+Einstein dedusse le equazioni del moto da quelle della relatività speciale valide localmente nei sistemi inerziali; dedusse inoltre il modo in cui la materia curva lo spaziotempo imponendo l'equivalenza di ogni possibile sistema di riferimento (da cui il nome di "relatività generale").
+In particolare, il potenziale gravitazionale newtoniano viene reinterpretato come l'approssimazione, per campo debole, della componente temporale del tensore metrico: da questo discende il fatto che il tempo scorre più lentamente in un campo gravitazionale più intenso. Alla pubblicazione, la teoria venne accolta con scetticismo da parte della comunità scientifica, perché derivata unicamente da ragionamenti matematici e analisi razionali, e non da esperimenti e osservazioni.Nel 1917 mostrò il legame tra la legge di Bohr e la formula di Planck dell'irraggiamento del corpo nero. Nello stesso anno introdusse la nozione di emissione stimolata, che sarebbe poi stata applicata alla concezione del laser.
+Nel 1919 le predizioni della relatività generale furono confermate dalle misurazioni dell'astrofisico Arthur Eddington effettuate durante un'eclissi solare, che verificarono che la luce emanata da una stella era deviata dalla gravità del sole. Le osservazioni ebbero luogo il 29 maggio del 1919 a Sobral, in Brasile, e nell'isola di Príncipe, nello Stato di São Tomé e Príncipe.
+Da allora esperimenti sempre più precisi hanno confermato le predizioni della teoria, prevalentemente nell'ambito dell'astronomia (precessione del perielio di Mercurio e lenti gravitazionali).
+
+
+=== L’antisemitismo colpisce Einstein ===
+Le posizioni antimilitariste assunte da Einstein durante la prima guerra mondiale, nonché il crescente clima antisemita in Germania crearono un ambiente particolarmente scomodo. Presto cominciò a ricevere lettere minatorie e ingiurie mentre usciva dal suo appartamento o dall’ufficio. Nel febbraio 1920 un gruppo di studenti interruppe una sua lezione e uno di essi gridò: «Taglierò la gola a quello sporco ebreo!». Fu poi lo stesso Ministro dell’Istruzione a scrivergli una lettera di stima da parte del governo tedesco.L’antisemitismo divenne anche la molla per attacchi sul campo scientifico, tanto che, per reazione, scrisse un articolo per il Berliner Tageblatt dal titolo La mia risposta, in cui denunciava il fatto che se non fosse stato un ebreo le sue teorie non sarebbero state attaccate in maniera così veemente. Ma quella sua reazione scomposta lo fece pentire di essersi lasciato trascinare dall’ira.Il clima divenne ancor più pericoloso quando il 24 giugno 1922 fu assassinato il ministro degli esteri tedesco Walther Rathenau, che era ebreo. Era la 350ª vittima per mano della destra dalla fine della guerra.
+
+
+=== Il Nobel, la maturità e gli ultimi anni ===
+
+Il 27 aprile 1920 Bohr giunse a Berlino su invito di Max Planck. Essendo presente a Berlino anche Einstein, si colse l’occasione per un incontro a tre dei più importanti fisici dell’epoca. L’incontro fu estremamente cordiale: seppur diversi caratterialmente si trovarono a loro agio parlando per tutto il tempo di fisica, confrontando le loro idee. «Poche volte, nella vita, una persona mi ha dato tanta gioia con la sua sola presenza come stato nel suo caso», scrisse successivamente Einstein a Bohr.Nel 1921 ottenne il Premio Nobel per la Fisica per il suo lavoro del 1905 sulla spiegazione dell'effetto fotoelettrico (il premio fu effettivamente assegnato nel 1922). In quegli anni cominciò a dedicarsi alla ricerca di teorie di campo unificate, argomento che lo appassionò fino alla fine, assieme ai tentativi di spiegazioni alternative dei fenomeni quantistici; infatti la sua concezione del mondo fisico mal si conciliava con le interpretazioni probabilistiche della meccanica quantistica. Il più famoso tentativo in questo senso fu il paradosso EPR (Einstein-Podolsky-Rosen) elaborato con Boris Podolsky e Nathan Rosen.
+Nel 1927 Einstein venne invitato dal governo italiano a partecipare al Congresso internazionale dei Fisici, che si svolgeva quell'anno a Como in occasione del centenario dalla morte di Alessandro Volta. Egli fu il solo a declinare l'invito per la sua opposizione al regime di Mussolini.
+
+Nel gennaio del 1933, quando Adolf Hitler salì al potere, Einstein si trovava momentaneamente all'università di Princeton come professore ospite. Il 7 aprile dello stesso anno venne promulgata la "Legge della Restaurazione del Servizio Civile", a causa della quale tutti i professori universitari di origine ebraica furono licenziati. Nell'ottobre del 1933, con l'intensificarsi delle persecuzioni anti-semitiche, decise di trasferirsi negli Stati Uniti. Durante gli anni trenta, con i nazisti al potere, i premi Nobel Philipp von Lenard e Johannes Stark condussero una strenua campagna atta a screditare i suoi lavori, etichettandoli come "fisica ebraica", in contrasto con la "fisica tedesca" o "ariana". Nel 1944, a Rignano sull'Arno, la moglie e le figlie di suo cugino Robert furono uccise da un reparto delle SS, verosimilmente come rappresaglia nei suoi confronti; la strage, a cui si aggiunse l'anno seguente la perdita del cugino, morto suicida, colpì molto Einstein, che aveva acquisito la cittadinanza statunitense nel 1940 e che non rientrò più in Europa, rimanendo negli USA fino alla morte.
+
+Oltre all'insegnamento e alle apparizioni in pubblico, presso l'Institute for Advanced Study di Princeton proseguì le sue ricerche, studiando anche alcuni problemi cosmologici e le probabilità delle transizioni atomiche. Negli ultimi anni di vita tentò di unificare la gravità e l'elettromagnetismo, le due forze fondamentali allora conosciute, sebbene si può notare fosse già iniziato lo studio della forza nucleare forte e della forza nucleare debole, quest'ultima per opera di Enrico Fermi. Nel 1950 descrisse la sua teoria di unificazione, rivelatasi poi parzialmente errata, in un articolo sulla rivista Scientific American.
+Vi è anche una parte della sua personalità collegata a un senso più pratico della scienza. Nel 1929 infatti lavorò insieme con Leó Szilárd a un prototipo di macchina frigorifera ad assorbimento diffusione, realizzando un brevetto innovativo di un refrigeratore funzionante solo con una miscela di acqua, ammoniaca e butano, senza parti in movimento e con consumi elettrici bassissimi. Il brevetto, registrato negli Stati Uniti nel 1930, non fu mai commercializzato perché fu soppiantato commercialmente dal brevetto Servel-Electrolux per gli attuali frigoriferi con ciclo ad assorbimento, oggi noti principalmente per motocaravan e roulotte. Recentemente però sono stati fatti studi volti a un eventuale utilizzo pratico dell'idea alla base del brevetto Einstein-Szilard.Nel 1952, quando il Presidente d'Israele Chaim Weizmann morì, l'allora Primo Ministro gli offrì l'incarico, ma rifiutò, spiegando di mancare sia dell'inclinazione sia dell'esperienze necessarie.
+
+
+=== La morte ===
+Il 17 aprile del 1955 fu colpito da una improvvisa emorragia causata dalla rottura di un aneurisma dell'aorta addominale, arteria che era stata già rinforzata precauzionalmente con un'operazione chirurgica nel 1948. Fu ricoverato all'ospedale di Princeton, dove morì nelle prime ore del mattino del giorno dopo (ore 1:15 del 18 aprile 1955) a 76 anni.
+Aveva espresso verbalmente il desiderio di mettere il proprio corpo a disposizione della scienza e Thomas Stoltz Harvey, il patologo che effettuò l'autopsia, di propria iniziativa rimosse il cervello e lo conservò a casa propria immerso nella formalina in un barattolo sottovuoto per circa 30 anni. Il resto del corpo fu cremato e le ceneri furono disperse in un luogo segreto. Quando i parenti di Einstein furono messi al corrente, acconsentirono al sezionamento del cervello in 240 parti da consegnare ad altrettanti ricercatori; la parte più grossa è custodita nell'ospedale di Princeton.
+
+
+== Pensiero ==
+
+
+=== Einstein filosofo ===
+
+Sebbene i contributi principali di Einstein siano relativi alla fisica, è indubbio che egli nutrisse un sincero interesse per la filosofia: nella sua vita studiò scritti di carattere filosofico fin dagli anni del liceo (da quando per la prima volta lesse un libro di Kant). Tuttavia egli non si considerò mai un filosofo nel senso stretto del termine: il suo, più che un sistema filosofico, venne definito da Reichenbach un «atteggiamento filosofico».
+Come pensatore e filosofo, era mosso da una profonda ammirazione per i sistemi di Spinoza e Schopenhauer. Del primo era particolarmente affascinato dalla concezione olistica, cioè dall'idea del cosmo come di un tutto ordinato secondo le leggi di un'entità panica impersonale, mentre del secondo condivideva la visione disincantata dell'umanità; inoltre, in tutta la produzione saggistica si può notare come lo stile einsteiniano, lineare e al contempo vibrante e ricco di passi altamente suggestivi, sia avvicinabile a quello di alcuni testi del filosofo tedesco (come dimostrano i caustici aforismi). Nell'ambito della filosofia della scienza, egli affermò l'importanza nei suoi studi dell'opera di David Hume e dell'epistemologia di Ernst Mach, da cui tuttavia si distaccò nella maturità. Smentì invece una sua presunta adesione al positivismo: Einstein sostenne in più occasioni l'importanza dell'epistemologia nella scienza contemporanea (tanto che negli ultimi anni di vita affermò «La scienza senza epistemologia, se pure si può concepire, è primitiva e informe») ed egli stesso accompagnò il suo lavoro scientifico con una chiara posizione epistemologica, fino ad arrivare a parlare nella sua Autobiografia scientifica di un «credo epistemologico». In esso egli distingue la totalità delle esperienze sensibili (ovvero i dati offerti dalla natura) dall'insieme dei concetti e delle proposizioni di cui fa uso la scienza (cioè la costruzione teorica); il compito del pensiero logico riguarda solo la parte della costruzione teorica, che però a sua volta assume significato solo dalla connessione, puramente intuitiva e non di carattere logico, con le esperienze sensibili. In altre parole, per Einstein il sistema dei concetti e delle preposizioni di cui fa uso la scienza è una semplice creazione umana che però assume valore e contenuto solo nel momento in cui permette il più possibile di collegare e connettere tra loro i dati sperimentali con la maggiore "economia" (o semplicità) di termini e proposizioni stesse.
+Alcuni autori hanno evidenziato la rilevanza del pensiero epistemologico di Einstein, come elemento che avrebbe favorito lo scienziato nel formulare un'immagine robusta e coerente della realtà fisica. La sua fiducia nell'intelligibilità dell'universo lo portò a una concezione rigorosamente deterministica, convincendolo che «Dio non gioca ai dadi» in opposizione ai risultati intrinsecamente probabilistici della meccanica quantistica, cui diede comunque indirettamente importanti contributi.
+Celebre inoltre è il carteggio che Einstein intrattenne con Sigmund Freud negli anni trenta, in cui si interroga sul Perché la guerra, in un periodo così disastroso per l'umanità compreso tra le due guerre mondiali, ottenendo come risposta dal fondatore della psicoanalisi la natura intrinsecamente aggressiva dell'animo umano. Altrettanto celebre è la raccolta di saggi su varie tematiche Come io vedo il mondo.
+
+
+=== Visione politica ===
+Einstein era intransigente come scienziato, così come persona; nel 1913 rifiutò di firmare un manifesto a favore della guerra che gli veniva proposto da un buon numero di scienziati tedeschi.
+L'autorevolezza di Einstein si fece sentire inoltre non solo nel campo della fisica, ma anche in ambito sociale, politico e culturale, in particolare sul tema della non violenza di Gandhi:
+
+Einstein si considerò sempre un pacifista e un umanista, e negli ultimi anni della sua vita, anche socialista, e da molti venne considerato comunista. Descrivendo il Mahatma Gandhi, Albert Einstein disse «Le future generazioni difficilmente potranno credere che qualcuno come lui sia stato sulla terra in carne e ossa».
+«Gandhi, il più grande genio politico del nostro tempo, ci ha indicato la strada da percorrere. Egli ci ha mostrato di quali sacrifici l'uomo sia capace una volta che abbia scoperto il cammino giusto».
+«Dovremmo sforzarci di fare le cose allo stesso modo: non utilizzando la violenza per combattere per la nostra causa, ma non-partecipando a qualcosa che crediamo sia sbagliato».
+Come Gandhi, inoltre, Einstein si fece assertore del valore etico e salutistico del vegetarianismo, abbracciando egli stesso questo stile alimentare.Le opinioni di Einstein su altri argomenti, come il socialismo, il maccartismo e il razzismo, furono male interpretate e la sua figura risultò molto controversa negli Stati Uniti di quegli anni (vedi il paragrafo Einstein e il socialismo). Einstein fu inoltre cofondatore del liberale Partito Democratico Tedesco.
+L'FBI raccolse un fascicolo di 1427 pagine sulla sua attività e raccomandò che gli fosse impedito di emigrare negli Stati Uniti secondo lo Alien Exclusion Act, aggiungendo che, insieme con altri addebiti, Einstein credeva, consigliava, difendeva o insegnava una dottrina che, in senso legale, era stata ritenuta dai tribunali, in altri casi, « [...] capace di permettere all'anarchia di progredire indisturbata» e che portava a « [...] un governo solo di nome». Aggiunse anche che Einstein « [...] era stato membro, sostenitore o affiliato a 34 movimenti comunisti tra il 1937 e il 1954» e che « [...] inoltre lavorò come presidente onorario in tre organizzazioni comuniste».
+
+Einstein si oppose ai governi dittatoriali e per questo motivo (e per le sue origini ebraiche) abbandonò la Germania subito dopo la presa del potere da parte del partito nazista. Il 30 gennaio 1933 lo scienziato era in viaggio di ritorno in Germania dopo un soggiorno negli Stati Uniti; appresa la notizia dell'ascesa di Adolf Hitler mentre si trovava in Belgio, dopo qualche esitazione decise di interrompere il viaggio e ritornare oltre Atlantico su invito del Institute for Advanced Study a Princeton.In principio fu favorevole alla realizzazione della bomba atomica al fine di prevenirne la costruzione da parte di Hitler e per questo scrisse anche una lettera (del 2 agosto del 1939 probabilmente scritta da Leó Szilárd) al presidente Roosevelt, incoraggiandolo a iniziare un programma di ricerca scientifico-tecnologica per sfruttare l'energia nucleare a scopi civili, dichiarando nella lettera per il presidente che essa poteva essere utilizzata anche per creare delle bombe molto potenti. Roosevelt rispose creando un comitato per studiare la possibilità di usare l'uranio come arma nucleare. Successivamente il Progetto Manhattan assorbì tale comitato.
+Einstein, insieme con Albert Schweitzer e Bertrand Russell, combatté contro i test e le sperimentazioni militari della bomba atomica. Successivamente invece non fu ascoltato quando, nel 1945, si oppose al lancio della stessa bomba sul Giappone.
+Insieme con Russell firmò il Manifesto Russell-Einstein, che dette vita alla Pugwash Conferences on Science and World Affairs.
+Tuttavia, dopo la guerra, Einstein fece pressioni per il disarmo nucleare e per l'istituzione di un governo mondiale. Affermò: «Non so con quali armi verrà combattuta la Terza guerra mondiale, ma la Quarta verrà combattuta con clave e pietre».
+Non fu un sostenitore del sionismo, anche se sostenne l'insediamento ebraico nell'antica sede del giudaismo, e fu attivo nell'istituzione dell'Università Ebraica di Gerusalemme, in cui pubblicò (1930) un volume intitolato About Zionism: Discorsi e Conferenze del Professor Albert Einstein e a cui donò i suoi scritti. D'altra parte si oppose al nazionalismo ed espresse scetticismo rispetto alla soluzione di uno Stato-nazione ebraico, preferendo la soluzione "binazionale" (binational solution), ovvero la creazione di un unico Stato, ma con il riconoscimento di cittadinanza e pari diritti per tutti gli abitanti, a prescindere da etnia o religione. Insieme con altri intellettuali ebrei (tra cui Hannah Arendt) il 4 dicembre 1948 scrisse una lettera al New York Times in cui veniva fortemente criticata la visita negli Stati Uniti di Menachem Begin, definendo i metodi e l'ideologia del suo partito "Tnuat Haherut" (formato dopo lo scioglimento ufficiale dell'Irgun) come ispirati a quelli dei partiti nazisti. Nel 1950, con altre illustri personalità, s'impegnò inutilmente per la salvezza di Milada Horáková, condannata a morte dal regime comunista cecoslovacco. In tarda età (1952) gli fu offerto il posto di secondo capo di Stato del nuovo Stato di Israele, ma declinò l'invito con la giustificazione di non avere le capacità necessarie.
+
+
+==== Einstein e il socialismo ====
+Scrisse nel 1929:
+«Rendo omaggio a Lenin come a colui che ha dedicato tutte le sue forze alla realizzazione della giustizia sociale, sacrificando a questo fine la propria individualità. Non credo però che il suo metodo sia giusto».Nell'articolo del 1949 Perché il socialismo?, Albert Einstein descrisse il disordine economico della società capitalistica moderna come fonte di un male da superare. Egli era contrario ai regimi totalitari dell'Unione Sovietica e di altri paesi, ma era favorevole a un socialismo democratico che combinasse un'economia pianificata con un profondo rispetto per i diritti umani. Difatti per Einstein il vero scopo del socialismo era precisamente di superare e andare al di là della "fase predatoria dello sviluppo umano" per anticipare un modello di società nuovo che conciliasse il benessere del singolo individuo con quello della comunità intera.
+
+
+=== La visione religiosa ===
+Benché di famiglia ebraica, Einstein non credeva negli aspetti strettamente religiosi dell'ebraismo, ma considerava sé stesso ebreo da un punto di vista culturale. Einstein fu socio onorario della Rationalist Press Association sin dal 1934.
+Einstein in età adulta rifiutava nel complesso l'idea di un Dio personale (ritenendola una forma di antropomorfismo) tipica della concezione ebraico-cristiana, come testimonia una lettera personale nel 1954, dove scriveva:
+
+E ancora, sulla morte:
+In una sua lettera manoscritta datata 3 gennaio 1954 (quindici mesi prima della morte) indirizzata al filosofo Eric Gutkind, che gli aveva inviato una copia di un suo libro sulla Bibbia, Einstein ribadisce ancora le sue concezioni scrivendo:
+
+Questa importante missiva, acquistata all'asta nel 1955 da un privato e rimasta per molto tempo sconosciuta, è stata venduta a Londra il 15 maggio 2008 per 214.000 Euro dalla casa d'aste 'Bloomsbury'.
+Era affascinato dal panteismo di Spinoza («Io credo nel Dio di Spinoza che si rivela nella ordinaria armonia di ciò che esiste, non in un Dio che si preoccupa del fato e delle azioni degli esseri umani»), ma rifiutava l'etichetta di panteista. Una volta in risposta alla domanda: «Lei crede nel Dio di Spinoza?», Einstein rispose così:
+
+La posizione di Einstein verso la religione ammette una 'attitudine religiosa' dinanzi al mistero e alla bellezza della natura, un'attitudine che però, come sopra accennato, appare piuttosto differente da un'impostazione tradizionale di tipo ebraico-cristiana. Albert Einstein sembra infatti rigettare, pur rifiutando esplicitamente l'ateismo, una concezione di Dio personale, come testimoniato dal seguente passaggio tratto da Il Mondo come io lo vedo (1934): 
+
+Fu accusato di ateismo dal vescovo di Boston O'Connell, che lo accusò altresì di corrompere la morale attraverso queste sue idee, e di questo Einstein soffrì molto. In realtà Einstein non aveva nemmeno una grande opinione dell'ateismo militante:
+E ancora:
+
+In una lettera del 24 gennaio 1936 che egli scrisse in risposta a un bambino, che gli aveva chiesto se anche gli scienziati pregassero e per che cosa, dopo aver detto che per uno scienziato ogni evento è riconducibile alle leggi di natura e quindi non risulta influenzabile dalla preghiera, aggiunse: "Però, chiunque sia seriamente impegnato nella ricerca della scienza si convince che un qualche spirito, molto superiore a quello dell‘uomo, è manifesto nelle leggi dell`universo." (Albert Einstein, Dear Professor Einstein. Albert Einstein`s letters to and from Children, ed. by Robert Schulmann, Prometheus Book, New York 2002, p. 129).
+Sebbene fosse ebreo, Einstein ammirava molto la figura storica di Gesù:
+
+Riguardo alla relazione tra scienza e religione egli nel 1950 in Out of My Later Years, scrive: «La scienza senza la religione è zoppa, la religione senza la scienza è cieca». E ancora: «La scienza, contrariamente a un'opinione diffusa, non elimina Dio. La fisica deve proporsi non solo di sapere com'è la natura, ma anche di sapere perché la natura è così e non in un'altra maniera, con l'intento di arrivare a capire se Dio avesse davanti a sé altre scelte quando creò il mondo».
+Circa la chiesa cattolica durante la seconda guerra mondiale, a Einstein è stata attribuita questa posizione riportata a pagina 38 del numero del Time del dicembre 1940:
+
+Einstein sapeva dell'articolo del Time Magazine in cui era citata la sua affermazione e sulla quale alcuni chiedevano maggiori dettagli, ma non scrisse mai alla rivista per farla rettificare, anzi c'è una sua lettera del 1943, autenticata dall'esperta Catherine Williamson, in cui lui stesso dice che l'affermazione riportata dal Time Magazine è riconducibile a una sua dichiarazione, anche se lui era stato un po' più moderato. In una lettera successiva rifiuta tuttavia la paternità di questa frase, sostenendo che la sua dichiarazione fu travisata e modificata a tal punto da non poterla più riconoscere come sua. Inoltre specifica che la citazione non riflette il suo pensiero generale riguardo alla chiesa.
+Il diplomatico e studioso ebreo Pinchas Lapide riporta nei suoi testi un'altra versione della frase pubblicata sul Time, comunque molto simile:
+
+Nel complesso Einstein aveva una concezione religiosa sui generis, il cui carattere è ancora oggetto di discussione tra gli studiosi, incentrata sull'idea che l'universo è determinato da leggi che il pensiero umano può scoprire e comprendere. In questo senso la sua concezione religiosa aveva anche aspetti fideistici, perché riconosceva che non si danno argomenti razionali che possano giustificare incontrovertibilmente come l'universo sia, a priori, governato da leggi scientifiche e comprensibile alla mente umana.
+La posizione di Einstein su Dio è stata largamente strumentalizzata dagli opposti partiti della disputa teismo/ateismo. Certo è che Einstein rifuggiva da qualunque facile definizione. Senz'altro espresse rispetto per i valori religiosi adottati dalle tradizioni ebraiche e cristiane, pur non condividendone la concezione del divino.
+
+
+== Riconoscimenti ==
+Nel 1926 gli fu assegnata la Medaglia d'Oro della Royal Astronomical Society.A Einstein sono stati dedicati:
+
+l'elemento chimico einsteinio.
+la Medaglia Albert Einstein, che dal 1979 viene consegnata al fisico che si sia particolarmente distinto nel suo ambito di ricerca.
+il Premio Einstein.
+l'asteroide: 2001 Einstein.
+il cratere Einstein sulla Luna.
+l'unità di misura Einstein per l'energia raggiante
+l'osservatorio astronomico Torre Einstein
+
+
+== Curiosità ==
+Durante la sua permanenza a Princeton negli anni cinquanta Einstein strinse amicizia con il matematico austriaco Kurt Gödel, pur avendo un temperamento estremamente diverso da lui, mentre ebbe come vicino di stanza in Dipartimento il fisico-matematico ungherese John Von Neumann dal carattere guascone ed estroverso.
+Tra i vari aneddoti su Einstein ricorre spesso quello secondo cui quando espatriò negli Stati Uniti, sulla richiesta di dichiarare la sua razza d'appartenenza, avrebbe risposto "umana". Nessun dato reale sembra supportarlo, nell'unico documento sul suo passaggio per Ellis Island risulta invece registrato come ebreo.
+Una targa, sulla facciata della casa, in via Bigli 21 a Milano, ricorda la residenza degli Einstein dal 1894 al 1900. Il padre, Hermann, che aveva una fabbrica di prodotti elettrotecnici in via Lecchi 160, é sepolto al Cimitero Monumentale di Milano.
+Albert allora sedicenne trascorse a Pavia un'estate dove la sua famiglia si traferí nel 1895 nel palazzo Cornazzani in via Ugo Foscolo 11, proprio dove, nel 1808, aveva abitato il Foscolo.
+A Berna in Kramgasse 49 si trova la casa dove lo scienziato abitò dal 1903 al 1905, con la moglie Mileva e il figlio Hans Albert nel periodo in cui egli elaborò la teoria della relatività ristretta. L'appartamento al secondo piano ospita oggi un museo.
+
+
+== Opere ==
+Relatività. Esposizione divulgativa (Über die spezielle und allgemeine Relativitätstheorie (gemeinverständlich)), 1916
+Il significato della relatività, Torino, Bollati Boringhieri, 2014, ISBN 978-88-339-2555-4.
+Il mondo come io lo vedo (scritti fino al 1933), Roma, Newton Compton Editori, 2015, ISBN 978-88-541-7172-5.
+Pensieri degli anni difficili (scritti dal 1933 al 1950), Torino, Bollati Boringhieri, 2014, ISBN 978-88-339-2531-8.
+Pensieri, idee, opinioni (ulteriori scritti dal 1933 al 1950), Roma, Newton Compton Editori, 2006, ISBN 978-88-541-8150-2.
+Autobiografia scientifica, Torino, Bollati Boringhieri, 1979, ISBN 978-88-339-2582-0.
+Pensieri di un uomo curioso (raccolta miscellanea di scritti), Mondadori, 1999, ISBN 978-88-04-47479-1
+Leggendo Lucrezio (prefazione all'edizione tedesca del De rerum natura del 1924 curata da Hermann Diels), a cura di Gherardo Ugolini, La Scuola di Pitagora, Napoli, 2012, ISBN 978-88-65-42069-0
+Perché il socialismo?  (Why Socialism?), in Monthly Review, Vol. 1, No. 1: maggio 1949, DOI 10.14452/MR-061-01-2009-05_7
+Perché la guerra? (Warum Krieg?), raccolta degli scambi epistolari con Sigmund Freud, Bollati Boringhieri, Torino, 1997, ISBN 978-88-339-1058-1
+
+
+== Filmografia ==
+Albert Einstein, fiction del 1975 regia di Massimo Scaglione produzione Rai, con Giancarlo Zanetti nelle vesti di Einstein, Raoul Grassilli, Gianni Mantesi.
+Vita di Einstein, fiction del 1990 regia di Lazar Iglesias coproduzione internazionale fra Rai1, Tele France1 e l'inglese, Tele Chip.
+Genio per amore (I.Q.), film del 1994 diretto da Fred Schepisi con Tim Robbins, Meg Ryan e Walter Matthau nella parte di Albert Einstein.
+Einstein, fiction del 2008 di Liliana Cavani con l'attore italiano Vincenzo Amato nelle vesti del grande scienziato.
+Il mio amico Einstein (Einstein and Eddington), film TV del 2008 trasmesso dalla BBC, con David Tennant nel ruolo di Arthur Eddington e Andy Serkis in quello di Albert Einstein.
+Genius - Einstein, serie TV del 2017 produzione National Geographic con protagonista Geoffrey Rush nel ruolo di Einstein.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Jeremy Bernstein, Einstein, Bologna, Il Mulino, 2004, ISBN 978-88-15-09676-0
+Denis Brian, Einstein: a life, Wiley, New York, 1997, ISBN 978-0-471-19362-3
+Leopold Infeld, Albert Einstein, Torino, Einaudi, 1962, ISBN 88-06-04416-8
+L. Fregonese, Gioventù felice in terra pavese. Le lettere di Albert Einstein al Museo per la Storia dell'Università di Pavia, Milano, Cisalpino, 2005
+Pietro Greco, Einstein, Milano, Alpha Test, 2004, ISBN 884830494X
+Michael Guillen, Le 5 equazioni che hanno cambiato il mondo, TEA, ISBN 88-502-0439-6
+ Manjit Kumar, Quantum, Mondadori, 2017, ISBN 978-88-04-60893-6.
+Bertrand Russell, L'ABC della relatività, Longanesi, 2005, ISBN 978-88-304-2248-3
+Dennis Overbye, Einstein innamorato, Milano, Bompiani, 2005, ISBN 978-88-452-3474-3
+Abraham Pais, «Sottile è il Signore...». La scienza e la vita di Albert Einstein, Torino, Bollati Boringhieri, 1986, ISBN 978-88-339-1927-0
+Abraham Pais, Einstein è vissuto qui, Torino, Bollati Boringhieri, 1994, ISBN 978-88-339-0954-7
+W. Pauli, Teoria della relatività, Torino, Bollati Boringhieri, 2008, ISBN 978-88-339-1864-8
+H. Dukas, B. Hoffmann, Albert Einstein, il lato umano. Spunti per un ritratto, Torino, Einaudi, 2005, ISBN 978-88-06-17465-1
+Walter Isaacson, Einstein. La sua vita, il suo universo, Mondadori, 2010, ISBN 978-88-04-59573-1
+Julian Schwinger, L'eredità di Einstein: l'unità di spazio e tempo, Zanichelli, 1988, ISBN 978-88-08-05340-4
+Kip Thorne, Buchi neri e salti temporali. L'eredità di Einstein, Castelvecchi, 2015, ISBN 978-88-6944-112-7
+Gerald Holton, Einstein e la cultura scientifica del XX secolo, Il Mulino, 1991
+ Einstein. Dalla relatività alle onde gravitazionali, in collana Grandangolo Scienza del «Corriere della Sera».
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikisource contiene una pagina dedicata a Albert Einstein
+ Wikisource contiene una pagina in lingua inglese dedicata a Albert Einstein
+ Wikiquote contiene citazioni di o su Albert Einstein
+ Wikimedia Commons contiene immagini o altri file su Albert Einstein
+
+
+== Collegamenti esterni ==
+
+(EN) Sito ufficiale, su einstein.biz. 
+ Albert Einstein, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+ Albert Einstein / Albert Einstein (altra versione), in Enciclopedia Italiana, Istituto dell'Enciclopedia Italiana. 
+(IT, DE, FR) Albert Einstein, su hls-dhs-dss.ch, Dizionario storico della Svizzera. 
+(EN) Albert Einstein, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Albert Einstein, su nobelprize.org, Nobel Media AB. 
+(EN) Albert Einstein, su Find a Grave. 
+(EN) Albert Einstein, su MacTutor, University of St Andrews, Scotland. 
+(EN) Albert Einstein, su Mathematics Genealogy Project, North Dakota State University. 
+ Opere di Albert Einstein, su openMLOL, Horizons Unlimited srl. 
+(EN) Opere di Albert Einstein, su Open Library, Internet Archive. 
+(EN) Opere di Albert Einstein, su Progetto Gutenberg. 
+(EN) Audiolibri di Albert Einstein, su LibriVox. 
+(EN) Bibliografia di Albert Einstein, su Internet Speculative Fiction Database, Al von Ruff. 
+(EN) Albert Einstein, su Goodreads. 
+ Albert Einstein, su FilmTv.it, Arnoldo Mondadori Editore. 
+(EN) Albert Einstein, su Internet Movie Database, IMDb.com. 
+(EN) Albert Einstein, su Rotten Tomatoes, Flixster Inc. 
+(EN) Albert Einstein, su TV.com, CBS Interactive Inc. 
+(EN) Albert Einstein, su AFI Catalog of Feature Films, American Film Institute. 
+(EN) Albert Einstein, su BFI Film & TV Database, British Film Institute. 
+(DE, EN) Albert Einstein, su filmportal.de. 
+(EN)  Einstein Papers Project - The Collected papers of Albert Einstein progetto di pubblicazione dell'intero corpus di scritti di Einstein
+(EN)  The Collected Papers of Albert Einstein versione digitale dell'Einstein Papers Project
+(EN)  Einstein Archives Online digitalizzazione dell'archivio Einstein dell'Università Ebraica di Gerusalemme
+ Annus Mirabilis, su lorentz.phl.jhu.edu. URL consultato l'8 aprile 2008 (archiviato dall'url originale il 19 dicembre 2008).
+(DE, EN) Museo Einstein Berna, su einstein-bern.ch. URL consultato il 3 gennaio 2010 (archiviato dall'url originale l'8 settembre 2007).
+(DE)  Albert Einstein, "Zum Relativitaets-Problem", Scientia: rivista internazionale di sintesi scientifica, 15, 1914, pp. 337–348.
+Ciao Einstein, mi piace la tua calligrafia Speciale swissinfo.ch - Svizzera, crocevia di grandi storie
+(EN) FBI Freedom of Information Act Documents on Einstein, su foia.fbi.gov (archiviato dall'url originale il 10 agosto 2004).
+ Albert Einstein - Il lato umano (PDF), su ulisse.sissa.it. URL consultato il 27 aprile 2008 (archiviato dall'url originale il 29 maggio 2009).
+Einstein una biografia curata da Thomas F. Torrance

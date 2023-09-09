@@ -1,0 +1,225 @@
+﻿La science des matériaux repose sur la relation entre les propriétés, la morphologie structurale et la mise en œuvre des matériaux qui constituent les objets qui nous entourent (métaux, polymères, semi-conducteurs, céramiques, composites, etc.). 
+Elle se focalise sur l'étude des principales caractéristiques des matériaux, ainsi que leurs propriétés mécaniques chimiques, électriques, thermiques, optiques et magnétiques.
+
+La science des matériaux est au cœur de beaucoup des grandes révolutions techniques. Particulièrement depuis un siècle : électronique (ordinateurs, lecteurs de CD et DVD…), automobile (moteurs, carrosserie, phares, etc.), aéronautique, énergies renouvelables (panneaux solaires…), nanosciences, nanotechnologies, etc.
+La connaissance et la maîtrise des phénomènes microscopiques (diffusion, arrangement des atomes, recristallisation, apparition de phases, etc.) confèrent aux scientifiques et aux industriels la possibilité d'élaborer des matériaux aux propriétés et aux performances voulues. 
+De ce fait, un grand nombre de formations en école d'ingénieur (ex. : EEIGM, ECPM) ou bien à l'université sont tournées vers la science des matériaux (ex. : Grenoble, Marseille, Orsay, Poitiers, Strasbourg, Limoges).
+La conception d'un cristal parfait est physiquement impossible, mais ce sont souvent ses défauts structurels qui rendent intéressant un matériau. On utilise donc les défauts dans les matériaux cristallins (tels que précipités, joints de grains, atomes interstitiels, lacunes, dislocations, etc.) pour créer des matériaux avec les propriétés désirées.
+
+
+== Historique ==
+Jusqu'au XIXe siècle l'utilisation des matériaux était essentiellement empirique. Une évolution majeure a eu lieu quand Josiah Willard Gibbs (1839-1903), physico-chimiste américain, réussit à démontrer que les propriétés thermodynamiques reliées à la structure atomique avaient un lien direct avec les propriétés physiques d'un matériau. À la suite de cela, la science des matériaux ne s'est plus limitée aux métaux ou aux céramiques et s'est considérablement diversifiée, notamment avec le développement des plastiques, des semi-conducteurs après la Seconde Guerre mondiale[réf. nécessaire]. Aujourd'hui, le principal moteur de l'innovation de cette science est constitué par le développement de nouvelles technologies destinées à des domaines de pointe tels que les nanotechnologies (l'infiniment petit) ou l'aérospatial.
+
+
+== Les grandes classes de matériaux ==
+
+
+=== Métaux ===
+
+Les métaux sont des matériaux dont les éléments chimiques ont la particularité de pouvoir former des liaisons métalliques et perdre des électrons pour former des cations (exemple : 
+  
+    
+      
+        
+          Fe
+          ⟶
+          
+            Fe
+            
+              2
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Fe -> Fe^2+}}}
+  ou 
+  
+    
+      
+        
+          
+            Fe
+            
+              3
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Fe^3+}}}
+  ). Ils peuvent être caractérisés aussi bien de manière physico-chimique que de manière électronique (cf. section caractérisation). Les métaux se caractérisent par plusieurs particularités physiques. Ils sont de bons conducteurs électriques, cette caractéristique se mesure soit grâce à la conductivité soit grâce à son inverse, la résistivité. Ils sont aussi de bons conducteurs thermiques et possèdent un éclat lumineux. Du point de vue mécanique, ils se caractérisent par des propriétés telles que leur module d'élasticité (généralement élevé, de l'ordre de plusieurs GPa), leur dureté, leur ductilité, etc.
+Sur Terre, on ne trouve quasiment les métaux que sous forme d'oxydes. Cependant, ils sont peu utilisés sous cette forme (excepté dans le domaine de la microélectronique). On préfère les utiliser purifiés (exemples du cuivre et de l'aluminium) ou sous forme d'alliages. L'aluminium est le métal le plus abondant dans la croûte terrestre. Il faut également noter l'importance du fer, qui est très souvent utilisé sous forme d'acier ou de fonte après ajout de carbone.
+Du point de vue économique, on note deux secteurs extrêmement importants, celui de l'acier et celui de l'aluminium. En 2007, la production mondiale d'acier s'élevait à 1,3 milliard de tonnes soit une augmentation de 5,4 % par rapport à 2006. Ce secteur est actuellement dominé par l'entreprise Mittal Steel. Le secteur de l'aluminium est quant à lui dominé par Rio Tinto Alcan. En 2008, la production d'aluminium s'est élevée à 3,1 millions de tonnes soit une augmentation de 11,5 % par rapport à 2006.
+
+
+=== Polymères ===
+
+Un polymère est une substance composée de macromolécules organiques (ou parfois minérales). Les macromolécules sont constituées d'un enchaînement répétitif d'au moins un type de monomère. Les monomères sont reliés entre eux par des liaisons covalentes. Les chaînes de polymères interagissent entre elles avec des forces plus faibles comme les liaisons de Van der Waals.
+Les propriétés des polymères dépendent notamment du type de monomère(s), de la nature de leur assemblage et du degré de polymérisation.
+On distingue les polymères naturels, les modifiés (polymères artificiels) et les synthétiques.
+On peut aussi les classer selon leur architecture. On distingue par exemple les polymères linéaires, branchés (avec des ramifications) ou non, les dendritiques (ramifications dans les trois dimensions) et les réticulés ou tridimensionnels qui forment un réseau.
+Les polymères peuvent être fabriqués de diverses façons. On peut citer :
+
+les homopolymères, qui sont fabriqués avec le même monomère ;
+les copolymères, qui sont fabriqués avec des monomères différents.Un autre type de classification des polymères est aussi selon leurs propriétés thermomécaniques. On distingue :
+
+les polymères thermoplastiques, qui deviennent malléables quand ils sont chauffés, ce qui permet leur mise en œuvre ;
+les polymères thermodurcissables, qui durcissent à chaud et/ou par ajout d'un durcisseur en faible proportion. Ce durcissement est en général irréversible ;
+les élastomères, qui présentent en général un allongement réversible très important et une température de transition vitreuse inférieure à l'ambiante.On peut classer les polymères en deux types, en fonction de leur comportement à la chaleur et sous pression :
+
+portés à une température suffisante, les polymères thermoplastiques se trouvent à l'état « fondu » (état fluide ou déformable) et sont donc susceptibles de s'écouler sous l'action d'une contrainte. Cela permet leur mise en forme par les techniques d'extrusion, d'injection, de thermoformage, etc. C'est le cas des polyoléfines (PE, PP, PMP, etc.), du PVC, du polystyrène, etc. ;
+les polymères thermodurcissables durcissent par réaction chimique. On peut citer les résines phénoplastes, polyépoxydes, certains polyuréthanes.Du fait de leurs propriétés intéressantes, les polymères ont peu à peu envahi les industries et la vie quotidienne en remplaçant les matériaux traditionnels.
+
+
+=== Céramiques ===
+
+Les céramiques sont composées d'éléments métalliques et non métalliques. Elles sont généralement des oxydes, des nitrures, ou des carbures. Le groupe des céramiques englobe une vaste gamme de matériaux, comme les ciments, les verres, les céramiques traditionnelles faites d'argile.
+La structure cristalline des céramiques est plus complexe que celle des métaux, car au moins deux éléments chimiques différents sont présents. Il existe des céramiques ioniques, composées d'un métal et d'un non-métal (par exemple : NaCl, MgO) et les céramiques covalentes, composées de deux non métaux ou d'éléments purs (diamant, carbure de silicium, etc.). La structure des joints de grain est également plus complexe car des interactions électrostatiques entraînent des contraintes d'équilibre supplémentaires. Les ions de même signes ne doivent donc pas se toucher. C'est pourquoi la céramique présente une certaine porosité (environ 20 % en volume).
+Les céramiques ont de nombreux avantages :
+
+propriétés mécaniques : elles présentent, comme les métaux, un module de Young bien défini, c'est-à-dire que le module reste constant pendant l'application d'une charge (contrairement au polymère dont l'élasticité n'est pas linéaire). De plus, elles ont la plus grande dureté de tous les matériaux, et sont d'ailleurs utilisées comme abrasifs pour couper (ou polir) les autres matériaux ;
+résistance aux chocs thermiques en raison d'un faible coefficient de dilatation ;
+bonne résistance chimique ;
+résistance à la corrosion ;
+isolations thermique et électrique.Par contre, leur principale faiblesse est d'être prédisposées à rompre brutalement, sans déformation plastique en traction (caractère fragile) ; les porosités « affaiblissent » le matériau en entraînant des concentrations de contrainte à leur voisinage. La fragilité des céramiques rend impossible les méthodes de laminage ou de forgeage utilisées en métallurgie.
+
+
+==== Céramiques techniques ====
+La céramique technique est une branche de la céramique dédiée aux applications industrielles, par opposition aux créations artisanales (poterie) ou artistiques (céramique d'art) ou porcelaine. L'objectif de cette industrie est la création et l'optimisation de céramiques à propriétés physiques spécifiques : mécaniques, électriques, magnétiques, optiques, piézoélectriques, ferroélectriques, supraconductrices, etc.
+La plupart des céramiques techniques sont mises en forme à partir d'une poudre compactée puis chauffée à haute température (procédé du frittage). On utilise surtout des poudres de granulométrie très faible afin de réduire la porosité.
+
+
+==== Verres ====
+Les verres sont essentiellement des solides obtenus par figeage de liquide surfondu. Les quatre principales méthodes de fabrication du verre sont le pressage, le soufflage, l'étirage et le fibrage.
+Les verres sont des silicates non cristallins qui contiennent d'autres oxydes (CaO, par exemple) qui en modifient les propriétés. La transparence du verre est l'une de ses propriétés les plus importantes. Ceci est dû à sa structure amorphe et à l'absence de défauts de taille supérieure à la fraction de micromètre. L'indice de réfraction d'un verre est d'environ 1,5. Pour ce qui est de leurs propriétés mécaniques, les verres sont des matériaux fragiles, mais des traitements thermiques ou chimiques peuvent y remédier.
+
+
+==== Semi-conducteurs ====
+
+
+===== Structure des semi-conducteurs =====
+Les semi-conducteurs sont réalisés à partir d'un disque assez fin de silicium, d'arséniure de gallium ou de phosphure d'indium, appelé wafer.
+Ce wafer sert de support à la fabrication de micro-structures par des techniques telles que le dopage, la gravure, la déposition d'autres matériaux (épitaxie, sputtering, dépôt chimique en phase vapeur...) et la photolithographie. Ces micro-structures sont une composante majeure dans la fabrication des circuits intégrés, des transistors, des semi-conducteurs de puissance ou des MEMS.
+
+
+===== Semi-conducteurs dopés =====
+Le dopage se fait par introduction dans la matrice du semi-conducteurs des atomes d'impureté. Chacun de ses atomes apporte soit un électron de valence supplémentaire (dopage N) pour les impuretés pentavalentes, soit un "trou", ou déficit d'électron de valence (dopage P) pour les impuretés trivalentes.
+
+
+=== Matériaux composites ===
+
+ 
+Un matériau composite est un mélange de deux matériaux de base, distincts à l'échelle macroscopique, ayant des propriétés physiques et mécaniques différentes. Le mélange est effectué de manière à avoir des propriétés optimales, différentes et en général supérieures à celles de chacun des constituants. Un composite est constitué au moins d'une matrice (liant) et d'un renfort.
+Les constituants sélectionnés (certains sont multi-fonctions) peuvent améliorer les propriétés suivantes : rigidité, résistance thermomécanique, tenue à la fatigue, résistance à la corrosion, étanchéité, tenue aux chocs, au feu, isolations thermique et électrique, allègement des structures, conception de formes complexes.
+Rôle(s) joué(s) par chaque constituant :
+
+la matrice est un liant, protège les fibres et transmet également les sollicitations aux fibres ;
+les fibres apportent la tenue mécanique et supportent les sollicitations ;
+les charges et additifs améliorent les caractéristiques du matériau. Les charges abaissent souvent le coût de la matière (effet de dilution). Exemples d'additifs : ignifugeants, anti-UV, fongicides, antioxydants.La mise en œuvre des composites est soit automatisée (moulage sous vide, RTM…), soit artisanale pour des pièces à hautes performances (moulage au contact…).
+Les matériaux composites à base de fibres et de polymères en constituent la classe la plus importante (90 % de l'ensemble des composites fabriqués actuellement).
+Les matériaux composites sont très utilisés dans les domaines aéronautique, automobile, ferroviaire, etc.
+
+
+==== Matrice ====
+Les matrices peuvent être d'origine :
+
+organique : polymères thermoplastiques ou thermodurcissables (polyesters, polyépoxydes, phénoplastes, polyimides, silicones, etc.) ;
+minérale : carbone, céramique, béton ;
+métallique : Al, Mg.Des charges (minérales, organiques ou métalliques) et additifs sont presque toujours incorporés à la matrice.
+
+
+==== Renfort ====
+Les renforts (verre, carbone, fibres aramides, de bore ou métalliques, etc.) peuvent être sous forme :
+
+de fibres (courtes, longues ou continues), de mat ou de tissu ; les fibres longues (cas de certaines fibres de verre) peuvent être orientées dans le sens des sollicitations ;
+de charges renforçantes : gravier (additionné au ciment pour fabriquer le béton), sable, billes de verre, etc. ;
+d'acier (cas du béton armé).Le renfort peut être seul au sein d'une matrice (composite homogène) ou associé à un renfort de nature différente (composite hybride).
+
+
+== Comparaison des grandes classes de matériaux ==
+Le tableau suivant compare les grandes classes de matériaux selon leur origine, leur cristallinité, leur conductivité et leur thermostabilité.
+
+
+== Caractérisation des matériaux ==
+
+Il est indispensable pour étudier et comprendre un matériau de le caractériser à l'aide des techniques de caractérisation appropriées. Soit, destructives, c'est-à-dire qui endommagent le matériau. Soit, non destructives, qui n'endommagent pas le matériau et donc l'objet étudié. 
+Les principales techniques de caractérisation peuvent se classer par catégorie :
+
+les essais mécaniques dont le but est de caractériser les comportements mécaniques des matériaux, par mesure du module de young, de la résilience, du coefficient de Poisson, de la limite d'élasticité, de la dureté, etc. ;
+les essais non destructifs qui permettent de caractériser l'état d'intégrité de structures ou de matériaux, sans les dégrader. ce qui peut être intéressant dans le cadre d'un contrôle qualité ;
+les analyses physico-chimiques qui permettent d'avoir par des méthodes telles la métallographie, la radiocristallographie et la spectrométrie d'étincelage, une analyse de la chimie et de la structure du matériau. Ce qui est intéressant de corréler avec les propriétés mécaniques et la résistance à la corrosion.Ces techniques de caractérisation bénéficient des apports de la science des matériaux et réciproquement aident à son développement.
+
+
+== L'industrie des matériaux ==
+Toutes les industries qui produisent des biens matériels font appel à des matériaux, la science des matériaux y trouve donc naturellement sa place.
+
+
+=== Mise en forme des matériaux ===
+
+Les techniques de forme des matériaux ont pour objectif de donner une forme déterminée au matériau tout en lui imposant une certaine microstructure, afin d'obtenir un objet ayant les propriétés souhaitées. C'est un travail qui nécessite de maîtriser au mieux les paramètres expérimentaux (composition, température, vitesse de refroidissement, etc.). Les techniques diffèrent selon les matériaux et les objets à fabriquer. Toutes ces techniques bénéficient de la compréhension apportée par la science des matériaux.
+
+
+=== Applications ===
+Voici quelques applications des grandes classes de matériaux :
+
+les polymères : bouteilles d'eau en polytéréphtalate d'éthylène (PET), CD en polycarbonate (PC), vêtements en polyéthylène (PE), Rilsan, Gore-tex, bouteilles de lait, canalisations en polyéthylène haute densité (PEHD), pièces mécaniques en polyamide, mousses d'isolation en polyuréthane (PUR), sacs biodégradables en acide polylactique (PLA), etc. ;
+les matériaux de la micro-électronique : AsGa, InP, Si, SiC, Ge, AlInP sont utilisés dans la conception des diodes, transistors, diodes lasers, photodétecteurs, etc. ;
+les céramiques et les verres : vitres, disques de frein en carbone-céramique, outils de machine-outil en carbure de tungstène, pot catalytique en zircone, etc. ;
+les composites : coques de bateaux, pales d'hélicoptères, aubes de turbine, casques de moto, skis, surfs, planches à voile, arbres de transmission, etc. ;
+les métaux et alliages : mobilier urbain en acier galvanisé, tôles en acier, filtres, électrodes de batterie, coupe-flammes en mousse métallique, etc.Le développement de la protection de l'environnement et du recyclage encourage les entreprises à rechercher de nouveaux matériaux, comme les matériaux biodégradables. L'acide polylactique, extrait de végétaux comme la betterave ou le maïs, en est un bon exemple. Il est actuellement utilisé pour les fils de suture résorbables, pour remplacer les sacs plastiques, ou encore pour les boîtes plastiques.
+
+
+=== Aspects économiques ===
+
+
+=== Aspects environnementaux ===
+Certains aspects environnementaux nous amènent à revoir notre façon d'utiliser les matériaux. Le recyclage des matériaux est amené à se développer. Par exemple, dans le domaine de la microélectronique, les fabricants d'écrans plats ont été confrontés à la flambée du cours de l'indium et il devient intéressant de le recycler. Autre exemple, l'épuisement progressif des ressources pétrolières pose problème pour la production future de polymères. Il faut donc chercher des solutions alternatives (bioplastiques).
+Mais certains matériaux très couramment utilisés ne sont toujours pas recyclables et constituent un vrai problème environnemental. On pense notamment au caoutchouc naturel, à certains élastomères (styrène-butadiène…) qui sont aujourd'hui encore les principaux constituants des pneus, et aux polymères thermodurcissables. Il faut donc soit mettre au point de nouveaux procédés de recyclage, soit mettre au point des matériaux alternatifs plus écologiques, tels les élastomères thermoplastiques.
+
+
+== Prix Nobel ==
+Un certain nombre de prix Nobel de physique et chimie sont relatifs à la science des matériaux :
+
+Albert Fert et Peter Grünberg qui ont obtenu le prix Nobel de physique 2007 pour leur découverte simultanée du phénomène de magnétorésistance géante, très utilisée dans les têtes de lecture des disques durs modernes ;
+Pierre-Gilles de Gennes, prix Nobel de physique 1991 pour ses travaux sur les cristaux liquides et les polymères ;
+les prix Nobel de physique 2003 (supraconducteurs, superfluides), 2000 (hétérostructures semi-conductrices), 1998 (effet Hall quantique fractionnaire), 1994 (cristaux), 1987, 1986, 1985, 1982[précision nécessaire] ;
+les prix Nobel de chimie 2000 (polymères conducteurs), 1996 (fullerène).
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+
+Liste de propriétés d'un matériau
+Vieillissement d'un matériau
+Métal
+Céramique
+Polymère
+Caractérisation d'un matériau
+Contrôle non destructif
+Essai mécanique
+Portail:Matériaux
+Liste des revues scientifiques de science des matériaux
+Catégorie de science des matériaux
+
+
+=== Bibliographie ===
+Didier Bellet et Jean-Jacques Barrau, Cours d'élasticité, Toulouse, Cepadues Éditions, coll. « La Chevêche », 1990, 370 p. (ISBN 2-85428-245-0)
+Jacques Bénard (préf. Georges Chaudron), Métallurgie générale, Paris, Masson, 1991, 651 p. (ISBN 2225823472)
+Gilbert Chrétien et Daniel Hatat (préf. L. Bourgeois-Lamy), Initiation aux plastiques et aux composites, Paris, GIE des producteurs de matières plastiques, 1990, 174 p. (ISBN 2-85206-594-0)
+Pablo Jensen, Entrer en matière, les atomes expliquent-ils le monde ?, Paris, Éditions du Seuil, coll. « Science ouverte », 2001, 257 p. (ISBN 2-020-39604-1)
+Charles Kittel (trad. Nathalie Bardou, Évelyne Kolb), Physique de l’état solide [« Solid state physics »], 1998 [détail des éditions]
+Jean-Pierre Mercier et Ernst Maréchal, Traité des matériaux, vol. 13 : Chimie des polymères : synthèses, réactions, dégradations, Lausanne, Presses polytechniques et universitaires romandes, 1996 (réimpr. 1993), 448 p. (ISBN 2-88074-240-4)
+(en) Alan Windle, A first course in Crystallography, Londres, G. Bell, 1977, 172 p. (ISBN 0713518863)
+
+
+=== Liens externes ===
+(en) « MatNavi (NIMS Materials Database) », une base de données gratuite sur les matériaux
+ Portail des sciences des matériaux   Portail de la chimie   Portail de la physique

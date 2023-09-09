@@ -1,0 +1,43 @@
+﻿En bioquímica, una ruta metabólica o vía metabólica es una sucesión de reacciones químicas donde un sustrato inicial se transforma y da lugar a productos finales, a través de una serie de metabolitos intermediarios.[1]​ Por ejemplo, en la ruta metabólica que incluye la secuencia de reacciones: 
+
+A     →     B     →    C     →     D     →    E
+A es el sustrato inicial, E es el producto final, y B, C, D son los metabolitos intermediarios de la ruta metabólica.
+Las diferentes reacciones de todas las rutas metabólicas están catalizadas por enzimas y ocurren en el interior de las células. Muchas de estas rutas son muy complejas e involucran una modificación paso a paso de la sustancia inicial para darle la forma del producto con la estructura química deseada. Podemos decir que en campos mayores también el citoplasma influye mucho.
+Todas las rutas metabólicas están interconectadas y muchas no tienen sentido aisladamente; no obstante, dada la enorme complejidad del metabolismo, su subdivisión en series relativamente cortas de reacciones facilita mucho su comprensión. Muchas rutas metabólicas se entrecruzan y existen algunos metabolitos que son importantes encrucijadas metabólicas, como el acetil coenzima-A.
+
+
+== Tipos de rutas metabólicas ==
+Una ruta metabólica es un conjunto de reacciones químicas consecutivas catalizadas por enzimas programadas por la célula.
+Normalmente se distinguen tres tipos de rutas metabólicas de acuerdo a un criterio bioenergético:
+
+Rutas catabólicas. Son rutas en las cuales los nutrientes orgánicos se degradan oxidativamente en productos finales simples con el propósito de obtener energía química y poder reductor para ser transformados en otras formas de energía útil para la célula. La energía química normalmente se convierte en un equivalente biológico durante la síntesis del ATP, y el poder reductor en la síntesis del NADPH. Por ejemplo, la glucólisis y la beta-oxidación. En conjunto, estas rutas constituyen al catabolismo.[2]​
+Rutas anabólicas. Son rutas que convierten moléculas precursoras de bajo peso molecular, tales como dióxido de carbono, acetato o piruvato, en moléculas progresivamente más grandes y complejas como proteínas, polisacáridos, lípidos de membrana y ácidos nucleicos. Tales rutas invariablemente requieren el consumo de energía (ATP) y poder reductor (NADPH). Se denominan colectivamente como anabolismo. Por ejemplo, el ciclo de Calvin y la biosíntesis de ácidos grasos.[3]​
+Rutas anfibólicas. Son rutas mixtas, tanto catabólicas como anabólicas. Por ejemplo, el ciclo de Krebs cumple un papel crucial en el catabolismo de carbohidratos, ácidos grasos y aminoácidos, pero también proporciona precursores para muchas rutas biosintéticas a través de reacciones que cumplieron el mismo propósito en antepasados ​​anaeróbicos. Diez de los veinte aminoácidos proteínicos provienen del 2-oxoglutarato y el oxaloacetato. A partir del aspartato y el glutamato se forman otros aminoácidos proteínicos, así como los nucleótidos de pirimidina, diversos alcaloides y los tetrapirroles que constituyen las clorofilas.[4]​Existe de manera alterna el llamado metabolismo antibiótico o xenobiótico. Los xenobióticos se han definido como sustancias químicas a las que se expone un organismo las cuales son extrínsecas al metabolismo normal de ese organismo.[5]​ Varios autores declaran que este tipo de rutas no deberían denominarse como parte del metabolismo, sino como una biotransformación.[6]​ Un ejemplo es la conjugación glucurónica de diversos fármacos y toxinas.
+
+
+== Rutas metabólicas principales ==
+
+
+== Véase también ==
+Red metabólica
+Ingeniería metabólica
+Glucólisis
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Ruta metabólica.
+BioCyc: Metabolic network models for thousands of sequenced organisms
+KEGG: Kyoto Encyclopedia of Genes and Genomes
+Reactome, a database of reactions, pathways and biological processes
+MetaCyc: A database of experimentally elucidated metabolic pathways (2,200+ pathways from more than 2,500 organisms).
+The Pathway Localization database (PathLocdb)
+Metabolism, Cellular Respiration and Photosynthesis - The Virtual Library of Biochemistry and Cell Biology
+Interactive Flow Chart of the Major Metabolic Pathways
+A novel visualization for a Metabolic Pathway
+DAVID: Visualize genes on pathway maps
+Wikipathways: pathways for the people
+ConsensusPathDB
+metpath: Integrated interactive metabolic chart

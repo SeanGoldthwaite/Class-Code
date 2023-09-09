@@ -1,0 +1,18 @@
+D:\Classes\A290\Projects\Homework Project 1\bin\Debug\netcoreapp3.1\Homework Project 1.exe
+D:\Classes\A290\Projects\Homework Project 1\bin\Debug\netcoreapp3.1\Homework Project 1.deps.json
+D:\Classes\A290\Projects\Homework Project 1\bin\Debug\netcoreapp3.1\Homework Project 1.runtimeconfig.json
+D:\Classes\A290\Projects\Homework Project 1\bin\Debug\netcoreapp3.1\Homework Project 1.runtimeconfig.dev.json
+D:\Classes\A290\Projects\Homework Project 1\bin\Debug\netcoreapp3.1\Homework Project 1.dll
+D:\Classes\A290\Projects\Homework Project 1\bin\Debug\netcoreapp3.1\Homework Project 1.pdb
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework Project 1.csprojAssemblyReference.cache
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework_Project_1.FrmBuffetMain.resources
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework_Project_1.Properties.Resources.resources
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework Project 1.csproj.GenerateResource.cache
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework Project 1.AssemblyInfoInputs.cache
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework Project 1.AssemblyInfo.cs
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework Project 1.csproj.CoreCompileInputs.cache
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework Project 1.dll
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework Project 1.pdb
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework Project 1.genruntimeconfig.cache
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework_Project_1.FrmBuffetOptions.resources
+D:\Classes\A290\Projects\Homework Project 1\obj\Debug\netcoreapp3.1\Homework_Project_1.FrmBuffetCollections.resources

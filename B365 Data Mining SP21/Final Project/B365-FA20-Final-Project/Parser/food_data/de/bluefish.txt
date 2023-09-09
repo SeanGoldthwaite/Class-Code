@@ -1,0 +1,18 @@
+﻿Bluefish () ist ein freier Quelltext-Editor, der sich zur Programmierung und zur Erstellung von HTML-Dokumenten für Webseiten eignet.
+Bluefish wird von einer wechselnden Gruppe um Olivier Sessink entwickelt und als freie Software unter den Bedingungen der GNU General Public License (GPL) verbreitet.
+Er ist in der Programmiersprache C geschrieben, hat eine GTK+-basierte graphische Benutzeroberfläche und läuft auf einem Großteil der POSIX-kompatiblen Betriebssysteme wie beispielsweise Linux, FreeBSD, Solaris, macOS und ab Version 2.0.0 RC 3 auch auf Windows.Er bietet Syntaxhervorhebung für HTML, PHP und diverse andere Sprachen wie Java, Perl, Python, Ruby, C und Pascal und dateiübergreifendes Suchen/Ersetzen an. Da er vor allem für HTML entwickelt wurde, beinhaltet er für die üblichen HTML-Tags eine Symbolleiste und Dialoge für die Attribute solcher Tags. Zusätzlich lassen sich externe Programme sehr leicht einbinden und der Funktionsumfang somit erweitern.
+Außerdem verfügt Bluefish über eine Art Generator für Cascading Style Sheets.
+
+
+== Geschichte ==
+Die Entwicklung begann 1997 in zwei getrennten Projekten von Chris Mazuc und Olivier Sessink (ProSite), die später unter dem Namen Thtml editor zusammengeführt wurden. Der jetzige Name kam, nachdem von Neil Millar auf der Entwickler-Mailingliste eine Handzeichnung eines blauen Fisches als Logo vorgeschlagen und angenommen wurde.
+Anfang 2005 erschien die auf LaTeX spezialisierte Abspaltung Winefish.
+
+
+== Weblinks ==
+
+Website des Projekts (englisch)
+Feature-List
+
+
+== Einzelnachweise ==

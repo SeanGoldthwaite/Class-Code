@@ -1,0 +1,525 @@
+﻿Otto Emil Hahn, OBE (* 8. März 1879 in Frankfurt am Main; † 28. Juli 1968 in Göttingen) war ein deutscher Chemiker und ein Pionier der Radiochemie. Zwischen 1905 und 1921 entdeckte er zahlreiche Isotope (heute Nuklide genannt), 1909 den radioaktiven Rückstoß, 1917 das Element Protactinium und 1921 die Kernisomerie beim „Uran Z“. Für die Entdeckung und den radiochemischen Nachweis der Kernspaltung des Urans (Ende 1938) und des Thoriums (Anfang 1939) wurde ihm 1945 der Nobelpreis für Chemie des Jahres 1944 verliehen.
+Hahn gilt als „Vater der Kernchemie“ und zählt zu den bedeutendsten Naturwissenschaftlern des 20. Jahrhunderts.Seit 1912 war Hahn wissenschaftliches Mitglied und von 1928 bis 1946 Direktor des Kaiser-Wilhelm-Instituts für Chemie (KWI) in Berlin, außerdem von 1928 bis 1936 Senator der Kaiser-Wilhelm-Gesellschaft (KWG). In der Zeit des Nationalsozialismus gehörte Hahn nach Einsteins Urteil zu den „Wenigen, die aufrecht geblieben sind und ihr Bestes taten während dieser bösen Jahre“. Anfang 1934 erklärte Hahn aus Solidarität mit entlassenen jüdischen Kollegen seinen Austritt aus dem Lehrkörper der Universität Berlin. Von 1946 bis 1948 war Hahn der letzte Präsident der KWG sowie Gründer und von 1948 bis 1960 erster Präsident der aus der KWG hervorgegangenen Max-Planck-Gesellschaft zur Förderung der Wissenschaften. Seit den Atombombenabwürfen auf Hiroshima und Nagasaki im August 1945 gehörte er zu den schärfsten Kritikern der nuklearen Aufrüstung der Großmächte und der durch unkontrollierte Atomtests fortschreitenden radioaktiven Verseuchung der Erde. Dagegen setzte er sich wiederholt für die friedliche Nutzung der Kernenergie ein. Otto Hahn wurde nach dem Zweiten Weltkrieg eine der angesehensten Persönlichkeiten in Europa und zudem einer der einflussreichsten Vorkämpfer für globale Völkerverständigung und internationale Entspannungspolitik, der für seinen aktiven Pazifismus ab 1957 mehrfach für den Friedensnobelpreis vorgeschlagen wurde.
+
+
+== Leben ==
+
+
+=== Kindheit ===
+Otto Hahn wurde am 8. März 1879 als jüngster Sohn des Glasermeisters und Unternehmers Heinrich Hahn (1845–1922, „Glasbau Hahn“) und dessen Frau Charlotte Hahn geb. Giese (1845–1906) in Frankfurt am Main geboren. Er verlebte zusammen mit seinen Brüdern Karl, Heiner und Julius eine behütete Kindheit. Walther Gerlach schreibt in seiner biographischen Analyse:
+
+Mit etwa 15 Jahren begann Hahn sich in besonderer Weise für Chemie zu interessieren und unternahm zusammen mit einem Schulkameraden in der Waschküche seiner Mutter einfache chemische Experimente.
+
+Der Vater, durch innovative Ideen, Fleiß und Sparsamkeit zu Wohlstand gekommen, hätte Otto Hahn gern als Architekten gesehen, da er mehrere Wohn- und Geschäftshäuser gebaut oder erworben hatte. Aber er ließ sich überzeugen, dass sein Sohn Otto beabsichtigte, die Laufbahn eines Industriechemikers einzuschlagen.
+
+
+=== Studium in Marburg und München ===
+Nach dem Abitur an der Klinger-Oberrealschule in Frankfurt am Main begann Hahn 1897 bei Theodor Zincke an der Philipps-Universität Marburg sein Studium der Chemie und Mineralogie, als Nebenfächer belegte er Physik bei Franz Melde und Philosophie bei den Neukantianern Hermann Cohen und Paul Natorp, die einen entscheidenden Einfluss auf sein bereits empirisch geprägtes wissenschaftliches Denken und Handeln haben sollten. Da sein Vater den Beitritt zu einer schlagenden Verbindung ablehnte, wurde Hahn Mitglied im ‚Naturwissenschaftlich-Medizinischen Verein Studierender‘ zu Marburg, einer damals nicht schlagenden Studentenverbindung und Vorläuferin der heutigen Landsmannschaft Nibelungia.
+
+Das dritte und vierte Semester verbrachte Hahn bei Adolf von Baeyer an der Universität München, wo er sich, angeregt durch Besuche der Alten Pinakothek, nebenher auch mit wachsendem Interesse der Kunstgeschichte widmete. Im Juli 1901 promovierte er in Marburg magna cum laude bei Theodor Zincke mit einer Dissertation über „Bromderivate des Isoeugenols“, ein Thema aus der klassischen organischen Chemie. Nach Ende seines einjährigen Militärdienstes im Infanterie-Regiment Landgraf Friedrich I. von Hessen-Cassel (1. Kurhessisches) Nr. 81 in Frankfurt am Main entschloss sich der junge Chemiker, für zwei Jahre als Assistent seines Doktorvaters, Geheimrat Theodor Zincke, an die Universität Marburg zurückzukehren.
+
+
+=== Frühe Erfolge in London und Montreal (1904–1906) ===
+
+Hahn strebte eine Tätigkeit in der Industrie an. Aus diesem Grund und zur Verbesserung seiner Sprachkenntnisse wechselte er 1904 auf Empfehlung Zinckes an das University College London und wurde Mitarbeiter von Sir William Ramsay, dem berühmten Entdecker der Edelgase. Hier beschäftigte sich Hahn mit dem seinerzeit noch jungen Gebiet der Radiochemie. Bei der Arbeit mit Salzen des Elements Radium entdeckte Hahn 1905 das „Radiothorium“, nach damaligen Vorstellungen ein neues radioaktives chemisches Element. Ramsay war begeistert und führte Hahn in die wissenschaftlichen Kreise Londons und der Royal Society ein, wo er seine Entdeckung in einem Vortrag erklären und anschließend in den Proceedings of the Royal Society publizieren konnte. Es ist – abgesehen von der Dissertation – die erste von über 250 wissenschaftlichen Veröffentlichungen. Am 8. März erschien bereits ein zusammenfassender Bericht über ‚A new Element‘ in einer Londoner Tageszeitung, dem Daily Telegraph. Tatsächlich war das Radiothorium aber ein damals noch unbekanntes Isotop des schon bekannten Elements Thorium, 228Th. Die Begriffe Isotopie und Isotop wurden aber erst 1913 von Frederick Soddy geprägt und setzten sich international durch.
+
+Im Herbst 1905 wechselte Hahn auf Empfehlung von Ramsay an das McDonald Physics Building der McGill University in Montreal, Kanada, um bei Ernest Rutherford seine Kenntnisse zu vertiefen. Hier erlernte Hahn unter anderem die Analyse der Alphastrahlen, die Messung der Gasionisation, der Reichweite und der elektromagnetischen Ablenkung, und konnte mit diesen neuen Methoden die (nach damaliger Terminologie) radioaktiven chemischen Elemente Thorium C (heute: das Poloniumisotop 212Po), Radium D (das Bleiisotop 210Pb) und Radioactinium (das Thoriumisotop 227Th) entdecken, was Rutherford zu der Bemerkung veranlasste: „Hahn has a special nose for discovering new elements.“Gemeinsam mit Ernest Rutherford publizierte Otto Hahn zwei Arbeiten über die Alphastrahlen des Radiothoriums und über die Masse der Alphapartikel des Thoriums im Philosophical Magazine, der damals – zusammen mit der britischen Nature – führenden wissenschaftlichen Zeitschrift.
+
+
+=== Forschung in Berlin (1906–1944) ===
+
+
+==== Entdeckung des Mesothoriums (Radium 228) ====
+Im Sommer 1906 kehrte er nach Deutschland zurück und wurde Mitarbeiter am I. Chemischen Institut der Friedrich-Wilhelms-Universität Berlin bei Emil Fischer, der Hahn eine „Holzwerkstatt“ im Chemischen Institut als eigenes Labor zur Verfügung stellte. Dort entdeckte Hahn in wenigen Monaten – mit äußerst primitiven Apparaturen – das Mesothorium I, das Mesothorium II und – unabhängig von Boltwood – die Muttersubstanz des Radiums, das Ionium. Das Mesothorium I (das Radiumisotop 228Ra) erlangte in den folgenden Jahren große Bedeutung, da es sich – ähnlich dem Curieschen Radiumisotop 226Ra – hervorragend für die medizinische Strahlentherapie eignete, mit dem großen Vorteil, dass es in der Herstellung nur die Hälfte kostete. Für die Entdeckung des Mesothoriums I, das seinerzeit auch als „deutsches Radium“ bekannt war, wurde Otto Hahn 1914 erstmals von Adolf von Baeyer für den Chemie-Nobelpreis vorgeschlagen.
+
+
+==== Entdeckung des radioaktiven Rückstoßes ====
+Im Juni 1907 habilitierte sich Hahn an der Friedrich-Wilhelms-Universität Berlin. Am 28. September 1907 lernte er im Physikalischen Institut bei Heinrich Rubens die fast gleichaltrige Physikerin Lise Meitner kennen, die von Wien nach Berlin gewechselt war. Hier begann die 30 Jahre lang dauernde Zusammenarbeit und lebenslange innige Freundschaft der beiden Wissenschaftler. Die im Mai 1908 in der Physikalischen Zeitschrift erschienene Abhandlung Über die Absorption der Beta-Strahlen einiger Radioelemente ist die erste gemeinsame Publikation (von insgesamt 50), und bereits kurze Zeit später veröffentlichten Hahn und Meitner die Entdeckung eines neuen kurzlebigen Produktes des Actiniums, des Actinium C.
+Nachdem die Physikerin Harriet Brooks 1904 zum ersten Mal den radioaktiven Rückstoß beobachtet, aber falsch gedeutet hatte, gelang es erst Otto Hahn 1908/09, den Rückstoß bei der 
+  
+    
+      
+        α
+        −
+      
+    
+    {\displaystyle \alpha -}
+  Umwandlung nachzuweisen und richtig zu interpretieren. Otto Hahn formuliert das so:
+
+Der Physiker Walther Gerlach kommentierte hierzu rückblickend:
+
+In der Folgezeit wurden von Hahn und Meitner mit der von ihnen neu entwickelten „Rückstoßmethode“ mehrere neue radioaktive Substanzen entdeckt, unter anderem die Isotope 214Po, 207Tl, 208Tl und 210Tl.
+Vom 13. bis 15. September 1910 nahm Hahn als Vertreter Deutschlands am „1. Internationalen Radium-Kongress“ in Brüssel teil und wurde Mitglied der dort neugegründeten „Radiumstandard-Kommission“, zusammen mit Bertram B. Boltwood, Marie Curie, Stefan Meyer, Ernest Rutherford und Frederick Soddy. Ende März 1912 tagte die Kommission erneut, diesmal in Paris, im Institut und in der Wohnung von Marie Curie, die ein Radiumstandardpräparat aus reinstem wasserfreien Chlorid hergestellt hatte. Lise Meitner schrieb an Hahn, der sich anschließend noch in der Schweiz aufhielt:
+
+Am 10. Oktober 1910 wurde Otto Hahn von der Preußischen Staatsregierung „in Rücksicht auf seine anerkennenswerten wissenschaftlichen Leistungen“ der Titel „Professor“ verliehen, aber erst 1919 erhielt Hahn den Lehrauftrag für Radioaktivität an der Berliner Universität.1912 wurde Hahn die Leitung der radiochemischen Abteilung im neugeschaffenen Kaiser-Wilhelm-Institut (KWI) für Chemie in Berlin-Dahlem übertragen (heute „Hahn-Meitner-Bau“ der Freien Universität Berlin, Thielallee 63). Als Nachfolger von Alfred Stock war er von 1928 bis 1946 Direktor des Kaiser-Wilhelm-Instituts für Chemie, das er schon seit 1926 kommissarisch geleitet hatte. Bereits 1924 erfolgte Hahns Ernennung zum Ordentlichen Mitglied der Preußischen Akademie der Wissenschaften in Berlin (auf Vorschlag von Albert Einstein, Fritz Haber, Max Planck, Wilhelm Schlenk und Max von Laue).
+
+
+==== Hochzeit mit Edith Junghans ====
+Nachdem Otto Hahn anlässlich einer Tagung des Vereins Deutscher Chemiker in Stettin im Juni 1911 auf einer Dampferfahrt zur Ostsee die 23-jährige Kunststudentin Edith Junghans kennengelernt hatte, heiratete das Paar am 22. März 1913 in Ediths Geburtsstadt Stettin, wo der Vater, Justizrat Paul Ferdinand Junghans (1859–1915), bis zu seinem frühen Tode 1915 Präsident des Stadtparlamentes war. Die Hochzeitsreise führte das junge Paar zunächst nach Südtirol und Bozen. Otto Hahn schreibt in Mein Leben:
+
+Aus der Ehe ging 1922 als einziger Sohn der spätere Kunsthistoriker und Architekturforscher (an der Hertziana in Rom) Hanno Hahn hervor, der 1960 zusammen mit seiner Frau und Assistentin Ilse Hahn auf einer Studienreise in Frankreich tödlich verunglückte. Sie hinterließen einen 14-jährigen Sohn, Dietrich Hahn. Zum Gedächtnis an Hanno und Ilse Hahn und zur Förderung junger begabter Kunsthistoriker(innen) wurde im Jahre 1990 der inzwischen international angesehene Hanno-und-Ilse-Hahn-Preis für hervorragende Verdienste um die italienische Kunstgeschichte geschaffen, der alle zwei Jahre vom Kuratorium der Bibliotheca Hertziana in Rom verliehen wird.
+
+
+==== Erster Weltkrieg und Entdeckung des Protactiniums ====
+Zu Beginn des Ersten Weltkrieges wurde Otto Hahn zum Militärdienst einberufen. Zunächst diente er von August bis Dezember 1914 als Offiziersstellvertreter in zwei Regimentern an der Westfront, danach wurde er Offizier (Leutnant) und Mitglied der von Fritz Haber geleiteten Spezialeinheit für chemische Kriegsführung (u. a. mit James Franck, Gustav Hertz, Erwin Madelung, Wilhelm Westphal und Heinrich Wieland). Diese entwickelte, testete und produzierte Giftgas für Kriegszwecke, schulte das Militär für den Umgang mit Giftgas, bereitete den Einsatz an der Front vor und überwachte die Gasangriffe. Hahn war neben Franck der einzige, der die vom Haberschen Institut entwickelten Gasmasken und Filter im Jahre 1917 prüfte, indem er sich mit Gasmaske in einer mit Phosgen gefüllten Hütte aufhielt, bis das Gas durch die Gasmaske drang.
+
+Hahn diente dem Gasregiment (Pionierregiment 35) vom Januar 1915 bis Kriegsende mit nur wenigen längeren Unterbrechungen. Er pendelte dabei ständig zwischen Ost-, West- und Süd-Front, Habers Institut für Physikalische Chemie in Berlin und den Bayer-Werken in Leverkusen.
+Für seine militärischen Verdienste erhielt Hahn die Hessische Tapferkeitsmedaille, beide Klassen des Eisernen Kreuzes, den Albrechts-Orden mit Schwertern und das Ritterkreuz des Königlichen Hausordens von Hohenzollern.
+Ab Dezember 1916 wurde Hahn Mitglied des ‚Hauptquartiers Seiner Majestät‘ in Berlin und konnte sich daher zwischen Januar und September 1917 an seinem Institut wieder verstärkt der Radiumforschung widmen. 1917 isolierte er mit Lise Meitner eine langlebige Aktivität, sie nannten das Element „Proto-Actinium“ und veröffentlichten ihre Arbeit 1918 unter dem Titel Die Muttersubstanz des Actiniums; ein neues radioaktives Element von langer Lebensdauer in der Physikalischen Zeitschrift. 1913 hatten Fajans und Göhring eine kurzlebige Aktivität aus Uran isoliert (UX2) und das Element Brevium genannt. Die beiden Aktivitäten sind unterschiedliche Isotope des gleichen Elements Nr. 91, das 1949 von der IUPAC endgültig Protactinium genannt wurde und Hahn und Meitner als alleinige Entdecker bestätigte. Bereits in den Jahren 1924 und 1925 wurden sie für ihre Entdeckung von mehreren Kollegen für den Chemie-Nobelpreis vorgeschlagen, unter anderem von Max Bergmann, Viktor Moritz Goldschmidt und sogar von Kasimir Fajans selbst, der die entscheidende Veröffentlichung von Hahn und Meitner neidlos anerkannte.
+
+
+==== Entdeckung der Kernisomerie ====
+Im Februar 1921 veröffentlichte Otto Hahn die erste Mitteilung über seine Entdeckung des Uran Z (234Pa). Es ist die Entdeckung der Kernisomerie, die Walther Gerlach rückblickend so beschrieb:
+
+Erst 15 Jahre später, 1936, gelang es dem jungen Carl Friedrich von Weizsäcker, das Phänomen der Kernisomerie als „metastabile Zustände der Atomkerne“ theoretisch zu erklären. Auch für diese Entdeckung, deren volle Bedeutung doch einige wenige erkannten, wurde Otto Hahn mehrfach von 1923 bis 1929, unter anderem von Bernhard Naunyn, Heinrich Goldschmidt und Max Planck, für den Chemie-Nobelpreis vorgeschlagen.
+Weithin bekannt wurde Hahns 1926 im Springer-Verlag publizierte erste Monographie Was lehrt uns die Radioaktivität über die Geschichte der Erde?, die nach ihrer Veröffentlichung rasch zu einem Standardwerk wurde, und in der Hahn die seinerzeit noch nicht allgemein anerkannte und umstrittene Theorie der Kontinentalverschiebung von Alfred Wegener voll bestätigte. Eine Rezension in den Naturwissenschaften vermerkt:
+
+Aufgrund gemeinsamer geologischer Interessen entwickelte sich zwischen Hahn und Fridtjof Nansen, der ihm seine Untersuchung Klima-Veränderungen in geschichtlicher Zeit und Nacheiszeit (Oslo 1926) gewidmet hatte, eine umfangreiche wissenschaftliche, sehr freundschaftliche Korrespondenz bis zu dessen Tode im Jahre 1930.
+
+
+==== Angewandte Radiochemie ====
+In den 1920er Jahren schuf sich Otto Hahn ein neues Arbeitsgebiet: Mit der von ihm neuentwickelten „Emaniermethode“ und dem „Emaniervermögen“ begründete er die „Angewandte Radiochemie“ zur Erforschung allgemeiner chemischer und physikalisch-chemischer Fragen. Applied Radiochemistry ist der Titel seines 1936 in englischer (und später in russischer) Sprache erschienenen Lehrbuches, das die 1933 von Hahn während seiner Gastprofessur an der Cornell University in Ithaca, New York (USA), gehaltenen Vorlesungen enthält. Diese Publikation hatte einen bedeutenden Einfluss auf praktisch alle Nuklearwissenschaftler in den 1930er und 1940er Jahren, vor allem in den USA, Großbritannien, Frankreich und der Sowjetunion.
+Glenn T. Seaborg, der Mitentdecker zahlreicher Transuran-Elemente und damalige Präsident der United States Atomic Energy Commission, schrieb 1966 im Vorwort der amerikanischen Ausgabe von Hahns wissenschaftlicher Autobiographie:
+
+
+=== Die Entdeckung der Kernspaltung (1938) ===
+
+Gemeinsam mit Lise Meitner und seinem Assistenten Fritz Straßmann setzte Hahn die Forschungsarbeiten fort, die der italienische Physiker Enrico Fermi durch den Beschuss von Uran mit Neutronen 1934 begonnen hatte. Bis Ende 1938 glaubten alle Wissenschaftler, dass die Elemente mit Ordnungszahlen größer als 92 (die sogenannten Transurane) entstehen, wenn man Uranatome mit Neutronen beschießt. Eine Ausnahme stellte die Chemikerin Ida Noddack dar. Sie nahm den Paradigmenwechsel von 1938/39 vorweg, indem sie in Angewandte Chemie (Nr. 47, Jg. 1934) mutmaßte:
+
+Aber kein Physiker griff die noddacksche Hypothese auf und überprüfte sie, auch Ida Noddack selbst nicht. Der Zerfall schwerer Atomkerne in leichtere Elemente galt als ausgeschlossen.
+
+Hahn hatte seinen verehrten Lehrer und Freund Ernest Rutherford über den Verlauf der sogenannten Transuran-Arbeiten von Beginn an auf dem Laufenden gehalten und ihn über alle Fortschritte informiert. Ende April 1935 schrieb ihm Rutherford:
+
+Es ist eine Tragik, dass Ernest Rutherford, der immer der Überzeugung war, die Nutzbarmachung der Kernenergie würde niemals Realität werden, den großen Durchbruch seines Schülers Otto Hahn nicht mehr erleben konnte. Rutherford starb am 19. Oktober 1937 in Cambridge, 66 Jahre alt, an den Folgen einer Operation, nur vierzehn Monate vor der Entdeckung der Kernspaltung.
+Am 13. Juli 1938 emigrierte Lise Meitner nach Hahns vorbereitender Hilfe und in Begleitung des holländischen Chemikers Dirk Coster von Berlin illegal über die Niederlande nach Schweden, da sie durch den Anschluss Österreichs an Deutschland im März 1938 ihre österreichische Staatsbürgerschaft verloren hatte und wegen ihrer jüdischen Abstammung in besonderer Weise gefährdet war. Sie selbst war sich in der Zeit zuvor der drohenden Gefahr weit weniger bewusst als Hahn, der fürchtete, Lise Meitner könne sehr bald ein Opfer der NS-Rassenideologie werden. Die letzte Nacht vor ihrer Abreise aus Berlin verbrachte sie im Dahlemer Haus von Edith und Otto Hahn, der ihr für dringende Notfälle einen wertvollen Brillantring, ein Erbstück seiner Mutter, schenkte. Im Rückblick schrieb Hahn:
+
+Ebenfalls im Juli 1938 veröffentlichten Irène Joliot-Curie und Paul Savitch die Ergebnisse ihrer seit 1937 durchgeführten Forschungen zu Transuranen. Wie Fermi bestrahlten sie Uran mit Neutronen; dabei registrierten sie einen 
+  
+    
+      
+        
+          β
+          
+            −
+          
+        
+        −
+      
+    
+    {\displaystyle \beta ^{-}-}
+  Strahler mit einer Halbwertszeit von 3,5 Stunden, dessen chemische Identifizierung sich jedoch als außerordentlich schwierig erwies. Joliot-Curie und Savitch vertraten schließlich die Interpretation, „dass dieser Körper die Kernladungszahl 93 hat und es sich bei den von Hahn, Meitner und Straßmann bisher gefundenen Transuranen um die Elemente 94 bis 97 handelt.“Als Otto Hahn und Fritz Straßmann im Dezember 1938 in einer mit Neutronen bestrahlten Uranprobe nach Transuranen suchten, fanden sie Spuren des Elements Barium. Zum Nachweis diente ein organisches Bariumsalz des jüdischen Chemikers Wilhelm Traube, dessen spätere Verhaftung und Ermordung Hahn vergeblich zu verhindern suchte. Aufgrund des entscheidenden Experiments am 17. Dezember 1938 – der berühmten „Radium-Barium-Mesothorium-Fraktionierung“ – schloss Otto Hahn auf ein „Zerplatzen“ des Urankerns in mittelschwere Atomkerne. Dies war die Entdeckung der Kernspaltung.
+
+Hahns und Straßmanns radiochemische Ergebnisse wurden am 6. Januar 1939 in der Zeitschrift Die Naturwissenschaften veröffentlicht und waren der unwiderlegbare Beweis (der durch Berechnungen der bei der Reaktion beteiligten Energien bestätigt wurde), dass das Uran in kleinere, aus leichteren Elementen bestehende Bruchstücke gespalten worden war.
+In ihrer zweiten Veröffentlichung vom 10. Februar 1939, in der sie erstmals den Begriff „Uranspaltung“ verwendeten, sagten Hahn und Straßmann voraus, dass bei dem Spaltungsvorgang „mehrere zusätzliche Neutronen freigesetzt werden könnten“ – ein Vorgang, der später von Frédéric Joliot, Hans von Halban und Lew Kowarski experimentell bestätigt und als „Kettenreaktion“ verifiziert wurde. Am 11. Februar 1939 – Otto Hahn hatte, ohne die Physiker in seinem Institut zu informieren, Lise Meitner als einzige über die Ergebnisse der radiochemischen Experimente brieflich vorab in Kenntnis gesetzt – lieferten Lise Meitner und ihr inzwischen ebenfalls nach Schweden emigrierter Neffe Otto Robert Frisch eine erste theoretisch-physikalische Erklärung der Kernspaltung in der englischen Zeitschrift Nature. Frisch schätzte darin die entstehende Energie auf ca. 200 Millionen Elektronenvolt und prägte dabei den Begriff „nuclear fission“ (Kernspaltung), der in der Folgezeit international anerkannt wurde.
+In einer späteren Würdigung schrieb Lise Meitner:
+
+In einem ARD-Interview (am 8. März 1959) ergänzte sie:
+
+Fritz Straßmann erwiderte in demselben Interview präzisierend:
+
+Und in ihrem Artikel Otto Hahn – der Entdecker der Uranspaltung (1955) hob Lise Meitner explizit hervor:
+
+Auch die Chemie-Professoren Hans-Joachim Born (München) und Fritz Straßmann (Mainz) bestätigten nach Otto Hahns Tod 1968 nochmals übereinstimmend:
+
+Dennoch wird von einigen der theoretischen Physik nahestehenden Historikern in neuester Zeit gelegentlich kontrovers diskutiert, welchen Anteil Lise Meitner an dem experimentell-radiochemischen Nachweis der Kernspaltung hatte. Zum Beispiel bezeichnete Ernst Peter Fischer, Physiker und Wissenschaftshistoriker der Universität Konstanz, die Tatsache, dass Lise Meitner keinen Nobelpreis erhielt, sogar drastisch als „Dummheit der schwedischen Akademie“. Sowohl Fritz Strassmann als auch Lise Meitner höchstpersönlich hätten dieser simplifizierenden Einschätzung entschieden widersprochen.
+
+Ein deutliches Urteil vertrat auch die Leiterin des Instituts für Radiumforschung in Wien, Berta Karlik, die an ihre Kollegin Erika Cremer schrieb:
+
+Und Otto Robert Frisch betonte gelegentlich, um Missverständnissen vorzubeugen:
+
+Während des Krieges arbeitete Otto Hahn – zusammen mit den Mitarbeitern Hans Joachim Born, Siegfried Flügge, Hans Götte, Walter Seelmann-Eggebert und Fritz Straßmann – an den Spaltreaktionen des Urans und stellte bis 1945 eine Liste von nachgewiesenen 25 Elementen und 100 Isotopen auf – eine erstaunliche Leistung unter den durch den Krieg stark eingeschränkten Arbeitsbedingungen.
+
+
+=== Tailfingen (1944–1945) ===
+
+In der Nacht vom 11. zum 12. Februar 1944 wurde das Kaiser-Wilhelm-Institut für Chemie von einer schweren Bombe getroffen, sodass eine konstruktive Forschungsarbeit kaum mehr weitergeführt werden konnte. An seinen Bruder Heiner in Frankfurt am Main schrieb Otto Hahn:
+
+Hahn entschloss sich daher, sein Institut nach Süddeutschland auszulagern, das von alliierten Bombenangriffen noch weitgehend verschont blieb. In Tailfingen (Württemberg) konnten drei leerstehende Textilfabriken gefunden werden und in diese die noch intakten Reste des Instituts, insbesondere die stark aktiven Präparate und die Beryllium-Neutronenquellen, integriert werden. Otto Hahn und seine Frau bezogen zwei Zimmer in der Villa des Textil-Fabrikanten Julius Hakenmüller in der Panoramastraße 20, in denen sie bis zum Kriegsende untergebracht waren.
+
+
+=== Zeit des Nationalsozialismus (1933–1945) ===
+Durch sein energisches und konsequentes Auftreten gegenüber den NS-Behörden konnte Otto Hahn, der von Anbeginn ein Gegner der Nazi-Diktatur war und sich immer wieder erfolgreich der Aufforderung zur Mitgliedschaft in der NSDAP widersetzte, zusammen mit seiner couragierten Frau Edith vielen gefährdeten oder verfolgten Institutsangehörigen und Privatpersonen beistehen und sie vor Fronteinsatz oder gar der Deportation in ein Konzentrationslager bewahren.
+
+Auch praktische humanitäre Überlebenshilfe für untergetauchte Mitbürger hat das Ehepaar Hahn geleistet, insbesondere Edith Hahn, wie aus einem Bericht hervorgeht:
+
+Im November 1933 weigerte sich Hahn, das Bekenntnis der deutschen Professoren zu Adolf Hitler zu unterzeichnen und trat Anfang 1934 aus Protest gegen die Entlassung jüdischer Kollegen, darunter Lise Meitner, James Franck und Fritz Haber, aus dem Lehrkörper der Berliner Universität aus. In einem Brief an James Franck und seine Frau Ingrid schrieb Edith Hahn:
+
+Max von Laue erinnert sich in einem Brief an seinen Freund Otto Hahn:
+
+Der Chemiker Hans Götte, seit 1935 einer von Hahns Mitarbeitern im KWI für Chemie, der sich insbesondere bei der Institutsverlagerung nach Tailfingen 1944 bleibende Verdienste erworben hatte, schrieb in einem Rückblick:
+
+Im November 1944 intervenierte Otto Hahn „im Falle der Jüdin Maria Sara von Traubenberg, geborene Rosenfeld“, wie es in der damaligen Nazi-Terminologie hieß. In einem Brief an den SS-Hauptscharführer Dobberke schrieb Hahn, dass „Frau Dr. von Traubenberg als Physikerin und Mitarbeiterin ihres Mannes an den ‚Geheimarbeiten über das Uran‘ beteiligt gewesen sei. Nur sie könne die wichtigen Forschungsergebnisse ihres verstorbenen Mannes übersehen.“ Die Gestapo ließ sich von Hahns übertriebenen, aber wirkungsvollen Worten täuschen und deportierte Maria von Traubenberg nicht nach Auschwitz, sondern nach Theresienstadt, wo sie ein eigenes Zimmer bekam, um den Nachlass ihres Mannes zu bearbeiten. Sie war damit gerettet und überlebte. Ende 1945 verließ sie Deutschland und zog zu Verwandten nach England.
+
+
+=== Internierung in England (1945) ===
+Bei Kriegsende, im April 1945, wurde Otto Hahn von alliierten Spezialeinheiten der Alsos-III-Mission in Tailfingen (heute: Albstadt) festgenommen und nach kürzeren Zwischenaufenthalten in Reims, Versailles und Huy mit neun deutschen Physikern (darunter Max von Laue, Walther Gerlach, Werner Heisenberg und Carl Friedrich von Weizsäcker) im Rahmen der Operation Epsilon in dem Landhaus Farm Hall, in Godmanchester nahe Cambridge (England), interniert. Walther Gerlach schreibt:
+
+Eine Beurteilung der britischen Bewachungsoffiziere charakterisiert Hahn als wohlwollend und kooperativ:
+
+In Farm Hall erfuhren die deutschen Wissenschaftler am 6. und 9. August vom Abwurf der amerikanischen Atombomben auf Hiroshima und Nagasaki. Otto Hahn, der von dem diensthabenden Major Terence H. Rittner zuerst informiert wurde, war am Rande der Verzweiflung und, wie seine Gefährten berichteten, dem Suizid nahe, da er sich als Entdecker der Kernspaltung mitverantwortlich fühlte für den Tod und das Leiden hunderttausender japanischer Zivilisten.
+Carl Friedrich von Weizsäcker erinnert sich:
+
+Und Werner Heisenberg schreibt in seinen Erinnerungen:
+
+In diesen schweren Stunden erwuchs Hahns aktiver Pazifismus, der ihn in den nachfolgenden Jahren zu einem der engagiertesten und bedeutendsten Vorkämpfer für Frieden, Abrüstung und Völkerverständigung werden ließ.Der Wissenschaftshistoriker Friedrich Herneck fasst in einer historischen Analyse die wesentlichen Punkte zusammen:
+
+Anfang Januar 1946 durfte die Gruppe der zehn Internierten wieder nach Deutschland zurückkehren, und nach einem Aufenthalt in Alswede (Westfalen) wurden Hahn, Heisenberg und von Laue nach Göttingen in die britische Zone entlassen.
+
+
+=== Der Nobelpreis für Chemie 1944 ===
+
+Nachdem Hahn 1943 als auswärtiges Mitglied von der Königlich Schwedischen Akademie aufgenommen worden war, zeichnete sie ihn im Jahre 1944 mit dem Nobelpreis für Chemie aus – „für seine Entdeckung der Spaltung schwerer Atomkerne“, so die offizielle Begründung. Mit der Bekanntgabe wartete die Akademie jedoch bis nach dem Zusammenbruch der Hitler-Diktatur, denn sonst wäre Hahn gezwungen gewesen, den Nobelpreis abzulehnen. Daher wurde Hahns Wahl erst am 16. November 1945 veröffentlicht. Der Preis konnte ihm allerdings, da er sich im Dezember 1945 noch in englischer Internierung befand, erst ein Jahr später am 10. Dezember 1946 von König Gustav V. von Schweden in Stockholm überreicht werden.Lise Meitner schrieb Ende November 1945 an ihre Freundin Birgit Broomé Aminoff:
+
+Carl Friedrich von Weizsäcker, Lise Meitners ehemaliger Assistent, ergänzte später:
+
+Otto Robert Frisch schrieb 1956:
+
+Walther Gerlach, Experimentalphysiker, langjähriger Augenzeuge und einer der besten Kenner der historischen Zusammenhänge, hob in einer späteren Analyse hervor:
+
+Und Elizabeth Rona, die ab 1919 bei Hahn am KWI für Chemie gearbeitet hatte und 1938 emigrieren musste, schrieb in ihren Erinnerungen:
+
+Erstmals wurde Otto Hahn für den Chemie-Nobelpreis 1914 von Adolf von Baeyer vorgeschlagen. Bis 1945 wurde er weitere 21 Mal nominiert (u. a. von Walther Nernst, Adolf Deismann, The Svedberg, Frans Jaeger, Wilhelm Palmaer und Arne Westgren). Ferner wurde Hahn von 1937 bis 1947 16-mal, meist zusammen mit Lise Meitner, aber auch mit Fermi, Yukawa, Stern, Pauli und Bethe, für den Physik-Nobelpreis vorgeschlagen (u. a. von Werner Heisenberg, Max von Laue, Dirk Coster, Arthur H. Compton, James Franck, Samuel Goudsmit, Manne Siegbahn, Boris Iliin, Hendrik Kramers, Cyrias Quellet, Felix Bloch, Jean Thibaud und Louis de Broglie).
+
+
+=== Göttingen: Die Gründung der Max-Planck-Gesellschaft (1948) ===
+Anfang 1947 gelang es dem neuen Nachrichtenmagazin Der Spiegel und seinem Redakteur Rudolf Augstein einige Verdächtigungen und Gerüchte über Otto Hahn zu zerstreuen. In dem Artikel heißt es unter anderem:
+
+Eine Woche später wurde von Erika Weisenborn, der Schwester des Schriftstellers Günther Weisenborn ein Leserbrief im „Spiegel“ veröffentlicht:
+
+Von 1948 bis 1960 amtierte Otto Hahn als Gründungspräsident der neugeschaffenen Max-Planck-Gesellschaft (MPG) zur Förderung der Wissenschaften, die durch sein Wirken und seine weltweit geachtete Persönlichkeit das frühere Ansehen der Kaiser-Wilhelm-Gesellschaft zurückgewinnen konnte.
+
+
+=== Frankfurt am Main: Eröffnungsrede auf der ACHEMA IX (1950) ===
+Auf der ersten „Ausstellung für Chemisches Apparatewesen“ nach dem Zweiten Weltkrieg, der ACHEMA IX im Juli 1950 in Frankfurt am Main war Otto Hahn eingeladen worden, die Eröffnungsrede zu halten. Seine Ansprache mit zahlreichen historischen Beispielen und Bezügen, der er den Titel „Forschung und Technik – Freiheit und Verantwortlichkeit“ gab, gipfelte in den mahnenden Worten:
+
+
+=== Kampf gegen Kernwaffen und Atomversuche ===
+Schon unmittelbar nach dem Zweiten Weltkrieg trat Hahn unter dem Eindruck der amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki entschieden gegen den Einsatz der Kernenergie für militärische Zwecke auf. Er sah diese Art der Nutzung seiner wissenschaftlichen Erkenntnisse als Missbrauch, ja sogar als Verbrechen an. So verstärkte er in den 1950er und 1960er Jahren sein Engagement in zahlreichen Aufrufen für Abrüstung, Frieden und Völkerverständigung, ohne sich allerdings von kommunistisch gesteuerten Initiativen vereinnahmen zu lassen. Eine an ihn mehrfach herangetragene Mitgliedschaft in dem von Frédéric Joliot-Curie gegründeten Weltfriedensrat lehnte Hahn ebenso strikt ab wie die Teilnahme an dessen diversen Kongressen oder die Unterzeichnung von prosowjetisch orientierten Manifesten, wie z. B. in Warschau 1950, Stockholm 1951, oder in Wien und Ost-Berlin 1952. In mehreren Schreiben an Frédéric Joliot-Curie erklärte Hahn seinen Standpunkt, so auch Anfang Februar 1951, nachdem er von Joliot-Curie zur nächsten Tagung des Weltfriedensrates nach Ost-Berlin eingeladen worden war.
+
+
+==== Rundfunk-Appell: Cobalt 60 – Gefahr oder Segen für die Menschheit? (1955) ====
+Weithin bekannt wurden Hahns Ausführungen in seiner Rundfunk-Rede vom 13. Februar 1955 „Cobalt 60 – Gefahr oder Segen für die Menschheit?“, die zeitgleich in Deutschland, Dänemark, Österreich und Norwegen, wenige Tage später auch in englischer Übersetzung über die BBC in London weltweit übertragen wurde. Darin sagte er unter anderem:
+
+Die international große positive Resonanz auf diesen Appell, sogar seitens der Ostblock-Staaten, nutzte Otto Hahn zu zahlreichen weiteren Aktionen mit vergleichbarem friedenspolitischem Inhalt.
+
+
+==== Mainauer Kundgebung (1955 und 1956) ====
+So war er, unter anderem, der Initiator der Mainauer Kundgebung vom 15. Juli 1955, in der zunächst 18 und ein Jahr später dann 52 Nobelpreisträger auf die Gefahren der Atombombe aufmerksam machten und die Staaten der Welt eindringlich vor der Anwendung von Kernwaffen jeglicher Art warnten. Darin heißt es unter anderem:
+
+Einige Wochen zuvor hatte Bertrand Russell bei Otto Hahn angefragt, ob er bereit sei, ein von ihm, Russell, vorbereitetes Manifest zu unterzeichnen, in dem auf die Auswirkungen von Atomwaffen hingewiesen werden sollte. Dieses sogenannte Russell-Einstein-Manifest wurde am 9. Juli, wenige Tage vor der Mainauer Kundgebung veröffentlicht und später weithin bekannt. Dazu schrieb Otto Hahn in seinem Notizbuch am 12. Juli 1955:
+
+Im selben Jahr appellierte Otto Hahn in seiner Rede auf der Hauptversammlung der Max-Planck-Gesellschaft an das gegenseitige Verständnis der Völker:
+
+
+==== Göttinger Erklärung der 18 Atomforscher (1957) ====
+Ein Jahr später gehörte Otto Hahn zu den Verfassern der Göttinger Erklärung, in der er sich am 12. April 1957 zusammen mit 17 führenden westdeutschen Atomwissenschaftlern gegen die nukleare Aufrüstung der deutschen Bundeswehr wandte. Der damalige Bundesverteidigungsminister Franz Josef Strauß, der die nukleare Bewaffnung energisch vorantrieb, äußerte sich daraufhin vor Journalisten abfällig und beleidigend über Hahn („Ein alter Trottel, der die Tränen nicht halten und nachts nicht schlafen kann, wenn er an Hiroshima denkt!“). Bundeskanzler Konrad Adenauer entschärfte die Situation einige Tage später bei einer Aussprache mit Otto Hahn und vier führenden Wissenschaftlern der Göttinger Achtzehn im Kanzleramt.
+Die Göttinger Erklärung fand in der öffentlichen Meinung, nicht nur in Deutschland, ein unerwartetes Echo, vor allem aber bei den Gewerkschaften und an Universitäten, wo sich eine starke studentische Opposition daran anlehnte. Bereits ein Jahr später gründete die SPD, die den Standpunkt der Göttinger 18 auch im Bundestag vertrat, das Komitee Kampf dem Atomtod, das ebenfalls vom Deutschen Gewerkschaftsbund unterstützt wurde.
+Die Londoner Wochenzeitung Observer kam Anfang Juni zu folgender Einschätzung:
+
+Am 28. Juni, während der Hauptversammlung der Max-Planck-Gesellschaft, hob Hahn in seiner Rede nochmals alle ihn bewegenden wesentlichen Punkte hervor:
+
+Die Göttinger Erklärung und alle von ihr angeregten und beeinflussten Kampagnen waren letztendlich erfolgreich, denn die deutsche Bundeswehr verblieb bis zum heutigen Tage atomwaffenfrei, und es ist wohl kaum anzunehmen, dass sich an diesem Zustand etwas ändern dürfte. Mit weiteren Mitgliedern der Göttinger Achtzehn gründete er am 1. Oktober 1959 während der Tagung der Deutschen Physikalischen Gesellschaft die Vereinigung Deutscher Wissenschaftler (VDW e.V.)
+
+
+==== Wiener Appell gegen A- und H-Bomben-Experimente (1957) ====
+Am 13. November 1957 folgte Otto Hahns „Wiener Appell gegen die A- und H-Bomben-Experimente“ und am 28. Dezember 1957 sein Aufruf über den bulgarischen Rundfunk in Sofia für eine „dringende internationale Entspannungspolitik und allgemeine atomare Abrüstung“. Beide Appelle schloss Hahn mit den beschwörenden Worten:
+
+Unter Hahns Zuhörern in Wien befand sich auch der Schriftsteller Reinhold Schneider, der darüber in seinen Tagebuchaufzeichnungen Winter in Wien berichtete:
+
+Am 6. Dezember 1957 brachte die DDR-Tageszeitung Neues Deutschland die folgende Meldung:
+
+
+==== Petition der Naturforscher an die Vereinten Nationen (UN) in New York (1958) ====
+Im Januar 1958 unterzeichnete Otto Hahn gemeinsam mit Albert Schweitzer die von Linus Pauling vorbereitete und später von über 9.000 Wissenschaftlern aus 44 Staaten unterstützte „Petition der Naturforscher an die Vereinten Nationen“ in New York zum „sofortigen Abschluß eines internationalen Abkommens zur weltweiten Einstellung der Kernwaffenversuche“ und im Oktober, zusammen mit dem amtierenden pakistanischen Präsidenten Ayub Khan, den früheren Premierministern Lord Clement Attlee, Edgar Faure, Tetsu Katayama und dem Bürgermeister von Hiroshima Shinzo Hamai u. a. das „Abkommen, eine Versammlung zur Ausarbeitung einer Weltverfassung“ einzuberufen. In der Petition heißt es unter anderem:
+
+Am 31. Mai 1958 veröffentlichte die New York Times auf ihrer Titelseite eine Mitteilung ihres Korrespondenten Harry Gilroy mit der Schlagzeile „HAHN SEES ATOM SHORN OF TERROR – Pioneer Predicts Hydrogen Fusion Will Serve Peace Without Bomb’s Peril“, in der Hahn „meine eigenen Ansichten über die Zukunft der Fusionsreaktoren“ erläuterte. Diese Ansichten präzisierte er später noch in einem kurzen biographischen Beitrag:
+
+Noch im selben Jahr wurde Hahn für „herausragende Verdienste um die Verbreitung des Völkerrechts“ die „Hugo-Grotius-Medaille mit dem Ölzweig“ der Internationalen Grotius-Stiftung in Den Haag verliehen.
+
+
+==== Botschaft an den ‚Japanischen Rat gegen A- und H-Bomben‘ in Tokyo (1960) ====
+Ende Januar 1958 wurde Otto Hahn gebeten, dem ‚Japan Council Against A and H Bombs‘ beizutreten und diesem als Ehrenmitglied anzugehören. Er sagte zu, musste aber seine Teilnahme an der ersten Tagung des Rates absagen. An den Ratspräsidenten Koshiro Okakura telegrafierte Hahn:
+
+Auch zu der Tagung des Japan Council im Februar 1959 sandte Hahn eine entsprechende Botschaft, die er für die Tagung im September 1960 in Tokyo nochmals präzisierte und die auf der Hauptversammlung vom Vorsitzenden in seiner Eröffnungsrede verlesen wurde. Anschließend wurden Hahns Worte in mehreren japanischen Tageszeitungen veröffentlicht:
+
+
+==== Moskauer Vertrag zur Einstellung von Atomtests (1963) ====
+Am 5. August 1963, nach Inkrafttreten des in Moskau beschlossenen Atomversuchstopps, des sogenannten „Moskauer Vertrages“ zwischen der Sowjetunion, den USA und Großbritannien, begrüßte Otto Hahn in einem Brief an den ADN das Abkommen und plädierte für den baldigen Beitritt der Bundesrepublik Deutschland:In einem Interview mit CTK, Prag, ergänzte er:
+
+Bereits zwei Wochen später, am 19. August 1963, trat die Bundesrepublik Deutschland dem Moskauer Vertrag bei und setzte somit umgehend Hahns Empfehlung in die Tat um.
+Bis zu seinem Tode wurde er nicht müde, eindringlich in Wort und Schrift vor den Gefahren des nuklearen Wettrüstens der Großmächte und einer radioaktiven Verseuchung der Erde zu warnen.
+Seit 1957 wurde Otto Hahn von internationalen Organisationen mehrfach für den Friedensnobelpreis vorgeschlagen (u. a. von der größten französischen Gewerkschaft CGT, der Confédération générale du travail). Der Friedensnobelpreisträger von 1962 Linus Pauling, bezeichnete einmal Otto Hahn als „eines meiner Vorbilder“.
+
+
+=== Die 1. UN-Konferenz „Atome für den Frieden“ in Genf (1955) ===
+Am 17. Dezember 1954 schrieb Otto Hahn in einem Brief an den Präsidenten der UN-Generalversammlung, den früheren niederländischen Außenminister Eelco van Kleffens:
+
+Im Juni 1955 wurde Otto Hahn von Außenminister Heinrich von Brentano gebeten, die Bundesrepublik Deutschland auf der ersten UN-Konferenz „Atome für den Frieden“ in Genf zu vertreten und die Leitung der deutschen Delegation zu übernehmen. Am 8. August wurde die zwölftägige Konferenz in Anwesenheit der Abordnungen aus 73 Nationen unter dem Vorsitz von Homi Jehangir Bhabha eröffnet.
+
+
+=== Begegnung mit Jawaharlal Nehru (1956) ===
+Auf der Hauptversammlung der MPG im Juni 1956 in Stuttgart beklagte Otto Hahn erneut, dass die staatlichen Zuschüsse für die Max-Planck-Gesellschaft immer wieder hinter den Erwartungen zurückblieben. In seinem Manuskript, das der Presse vorab übermittelt wurde, und die Hahns Ansprache in Auszügen veröffentlichte, finden sich die beschwörenden Worte:
+
+Bundespräsident Theodor Heuss hatte zuvor in seiner Ansprache hervorgehoben:
+
+Anlässlich des Staatsbesuchs des indischen Ministerpräsidenten Jawaharlal Nehru Mitte Juli 1956 wurde Hahn von Heuss und Bundeskanzler Konrad Adenauer nach Bonn eingeladen. In seinem Notizbuch vermerkte Hahn:
+
+
+=== „Atomium-Rede“ in Brüssel (1958) ===
+Im März 1958 erhielt Otto Hahn die Einladung der belgischen Regierung, auf der ersten Weltausstellung nach dem Zweiten Weltkrieg, der Expo 58 in Brüssel, einen Vortrag über Atomenergie zu halten. Er sagte zu. – Zuvor hatte er ein „Gespräch mit Hübinger, Innenministerium, über Vortrag in Brüssel. Ich verspreche, nicht politisch zu werden, also nicht über unsere Ablehnung von Atomwaffen zu sprechen, nur über die friedliche internationale Zusammenarbeit.“Das Motto der Brüsseler Expo lautete „Fortschritt der Menschheit durch Fortschritt der Technik“, dazu passend wurden die neuen Zukunftstechnologien Atomkraft und Raumfahrt erstmals einer breiteren Öffentlichkeit vorgestellt.
+Am 18. Juni hielt Otto Hahn vor großem Auditorium seine sogenannte „Atomium-Rede“ (Originaltitel: Atomium – Symbol internationaler Zusammenarbeit in der Wissenschaft). Darin führte er unter anderem aus:
+
+Für seine sachlich-neutralen, unpolitischen Worte erhielt Hahn allgemeine Zustimmung, unter anderem auch von König Baudouin, der ihm zu Ehren einen Empfang und ein Abendessen gab, bei dem Hahn in einer kurzen Ansprache dann doch politisch wurde und seiner Hoffnung Ausdruck verlieh, die „internationale Atomforschung möge sich ausschließlich auf friedfertige Anwendungen beschränken und auf jegliche Mitarbeit an militärischen Entwicklungen verzichten“.
+
+
+=== Reise nach Israel (1959) ===
+
+Im November 1959 besuchte Otto Hahn mit einer Delegation der Max-Planck-Gesellschaft, der der Biochemiker Feodor Lynen, der Kernphysiker Wolfgang Gentner und Hahns Sohn Hanno als Vertreter der Geisteswissenschaften angehörten, in offizieller Mission erstmals Israel, vornehmlich das Weizmann Institute of Science, um die ersten wissenschaftlichen Kontakte zu israelischen Kollegen zu knüpfen – u. a. mit Abba Eban, dem damaligen Präsidenten des Instituts und späteren Außenminister, als auch mit den Professoren Yigael Yadin, Giulio Racah und Yehuda Hirshberg von der Hebrew University in Jerusalem. Auch Vera Weizmann, die Witwe des Staatsgründers und ersten israelischen Präsidenten Chaim Weizmann, gab in Rehovot ein Essen und einen Empfang zu Ehren Otto Hahns, auf dem dieser eine weithin beachtete Ansprache hielt. Das Auftreten Otto Hahns und seiner Delegation, sechs Jahre vor der Aufnahme diplomatischer Beziehungen, markierte einen Wendepunkt im Verhältnis zwischen Israel und Deutschland und konnte wesentlich zur Überwindung der durch den Holocaust und die Nazi-Verbrechen verursachten tiefen Gräben zwischen beiden Staaten beitragen. Seit 1989 wurde diese Reise in mehreren Gedenkveranstaltungen in Israel und Deutschland als historisches Ereignis gewürdigt – jeweils in Anwesenheit des damaligen Bundespräsidenten Richard von Weizsäcker und des Präsidenten des Weizmann-Instituts Haim Harari.
+
+
+=== Südafrika (1965) ===
+1965 lehnte Otto Hahn die Einladung der südafrikanischen Regierung Verwoerd ab, das erste Kernforschungszentrum des Landes und den ersten Atomreaktor des afrikanischen Kontinents (SAFARI 1) in Pelindaba nahe der Hauptstadt Pretoria einzuweihen. Er begründete diese Entscheidung mit dem Hinweis, es sei für ihn „unmöglich das rassistische Apartheids-Regime und die Diskriminierung und Unterdrückung der schwarzen Bevölkerung in irgendeiner Weise zu unterstützen“. Als Miriam Makeba, die 2001 für ihren Kampf gegen die Apartheid und für ihre Verdienste um die Menschenrechte in Südafrika mit der Otto-Hahn-Friedensmedaille ausgezeichnet wurde, davon erfuhr, reagierte sie spontan mit emotionaler Anerkennung: „Oh, I would have loved him! A great man! He was really my brother!“
+
+
+=== Reise in die ČSSR (1966) ===
+Im Juli 1966 besuchte Otto Hahn auf Einladung der dortigen Stadtverwaltung die tschechische Stadt Jáchymov, das frühere St. Joachimsthal, um an der Enthüllung eines Denkmals zu Ehren des Ehepaares Marie und Pierre Curie teilzunehmen und eine Ansprache zu halten. Es wurde seine letzte Auslandsreise. In Jáchymov traf er auch mit František Běhounek, einem Schüler von Marie Curie, zusammen, der seinerzeit Experimente mit Hahns Mesothorium I (Radium 228) unternommen hatte.
+
+Bei einem Essen wurde Hahn von Oberbürgermeister Ludvík Cerný der „Ehrenschlüssel der Stadt Prag“ überreicht, zum Dank und als Anerkennung seiner unermüdlichen internationalen Friedensarbeit.
+Walther Ottendorff-Simrock, der Urenkel des Dichters und Philologen Karl Simrock, hatte Hahn in Jáchymov kennengelernt und begleitete ihn anschließend nach Prag. In seinem Buch Begegnungen erinnert er sich:
+
+
+=== Tod ===
+Im März 1968 fragte der belgische Friedensnobelpreisträger Dominique Pire bei Hahn an, ob er bereit wäre, das Protektorat für den bei der Weltausstellung 1970 in Osaka geplanten Pavillon de la Paix zu übernehmen. Hahn hatte zunächst Bedenken wegen seines hohen Alters, aber da er Père Pire außerordentlich schätzte, und dieser ihm zusicherte, ihm würden keinerlei administrative Verpflichtungen entstehen, sagte er schließlich zu. Seinen Brief an Pire vom 18. März 1968 – dem letzten offiziellen Schreiben – beendete Hahn mit den Worten:
+
+Drei Tage später wurde Hahn infolge einer Verletzung der Halswirbelsäule, die er sich durch einen Sturz beim Aussteigen aus seinem Dienstwagen zugezogen hatte, in die Göttinger Klinik „Neu Mariahilf“ verlegt, wo er nach einem viermonatigen Aufenthalt am 28. Juli 1968 an akutem Herzversagen verstarb. Bundespräsident Heinrich Lübke schrieb in seiner Kondolenz an Hahns Witwe Edith Hahn:
+
+Am 29. Juli veröffentlichte die Max-Planck-Gesellschaft in allen großen Zeitungen eine Todesanzeige:
+
+Hahns Tod war von weltweiter Würdigung und Anteilnahme begleitet. Die Städte Frankfurt am Main und Göttingen, sowie die Bundesländer Niedersachsen und Berlin flaggten drei Tage halbmast an allen öffentlichen Gebäuden.
+Am 1. August fand in der Göttinger Universitätskirche, St. Nikolai, die Trauerfeier statt, an der rund 600 Persönlichkeiten aus Politik, Wissenschaft, Wirtschaft und Kultur teilnahmen, darunter der Bundespräsident, der Bundesratspräsident, der niedersächsische Ministerpräsident und mehrere Bundesminister als Vertreter der Bundesregierung der großen Koalition unter Bundeskanzler Kurt Georg Kiesinger und Außenminister Willy Brandt, die Bürgermeister von Frankfurt am Main, Göttingen und Berlin, die Präsidenten zahlreicher Akademien und Universitäten, die Botschafter von Belgien, Frankreich, Griechenland, Großbritannien, Schweden und den USA, zwei Gesandte der israelischen Regierung und des Weizmann-Instituts, sowie der Apostolische Nuntius Erzbischof Corrado Bafile als Vertreter von Papst Paul VI., ferner Max Born, Manfred Eigen, Walther Gerlach, Werner Heisenberg, Fritz Strassmann, Carl Friedrich von Weizsäcker und zahlreiche mit Hahn befreundete Wissenschaftler, Bankiers und Industrielle, unter ihnen Hermann Josef Abs, Clemens Plassmann und Karl Winnacker. Das Zweite Deutsche Fernsehen übertrug die Feier ungekürzt in seinem Abendprogramm.
+Landesbischof Hanns Lilje hielt die Trauerpredigt und MPG-Präsident Adolf Butenandt würdigte Hahn in seiner Gedenkrede als „Großen im Geiste“, „Genius der Wissenschaft“ und „Unsterblichen der Menschheit“.
+
+Walther Gerlach, Otto Hahns Freund, erinnert sich: „Am 1. August geleiteten ihn Freunde und Wissenschaftler aus aller Welt, der Bundespräsident, der Landesbischof und die ganze Bevölkerung Göttingens zum Ehrengrab auf dem Göttinger Friedhof neben Max Planck und Max von Laue. Der einfache Grabstein trägt nur seinen Namen und die Formel der Uranspaltung.“In einem Nachruf in der Süddeutschen Zeitung schrieb Werner Heisenberg:
+
+Sein Grab, in dem auch Hahns Witwe Edith bestattet wurde, die nur kurze Zeit später am 14. August verstorben war, befindet sich am sogenannten Nobelpreisträger-Rondell auf dem Stadtfriedhof Göttingen, auf dem auch Max Born, Walther Nernst, Max von Laue, Max Planck, Otto Wallach, Adolf Windaus und Richard Zsigmondy bestattet sind.
+Zwei Wochen nach Hahns Tod veröffentlichte der Münchner Bruckmann Verlag seine Erinnerungen unter dem Titel „Mein Leben“, die in zahlreichen Rezensionen überaus positiv beurteilt wurden, in nur wenigen Monaten fünf Auflagen erreichten, und zwei Jahre später auch in England, den britischen Commonwealth-Ländern, den USA und Japan in Lizenzausgaben erschienen. Arndt Rühle schrieb zum Beispiel im Münchner Merkur:
+
+Und Ernst H. Haux kommentierte im Berliner Tagesspiegel:
+
+
+== Private Interessen ==
+
+
+=== Bergsteigen ===
+
+1898 hatte Otto Hahn erstmals alpine Luft geschnuppert, und zwar beim Aufstieg zum höchsten Berg Deutschlands, der Zugspitze, was seine Liebe zu den Bergen begründen sollte. Danach gab es zunächst eine mehrjährige Pause infolge seines Studiums und der Aufenthalte in London und Montreal.
+
+1966 schrieb der Dramatiker Carl Zuckmayer, der sich seit 1958 in Saas Fee niedergelassen hatte, an Hahn:
+
+Seit 1980 befindet sich die Bergsteiger-Ausrüstung des Alpinisten Otto Hahn, eine Schenkung seines Enkels Dietrich, in den Sammlungen des Alpenverein-Museums in Innsbruck.
+
+
+=== Haustiere ===
+Otto und Edith Hahn hatten in ihrer Dahlemer Villa in der Altensteinstraße 48 immer mehrere Katzen, darunter ‚Muzie‘, über die Sohn Hanno 1939 eine Erzählung im Fachblatt „Unsere Katze“ veröffentlichte, und einen französischen Schäferhund, einen Briard namens ‚Tommy‘. Ferner gab es im Hause ein Terrarium mit einem Laubfrosch, ‚Möppi‘ genannt, für den Hahn in seiner Freizeit gerne Fliegen fing, was er als wohltuende Entspannung empfand. Auch im KWI wurden jüngere Mitarbeiter gelegentlich gebeten, „frische Fliegen“ einzufangen, wie eine authentische Anekdote belegt:
+
+
+=== Musik ===
+Zeit seines Lebens war Hahn ein „großer Musikliebhaber“, wie er sich selbst bezeichnete, der gerne, wann immer es irgendwie möglich war, Konzerte und Opernaufführungen besuchte. Während er sich in seiner Jugend noch an Richard Wagner begeistern konnte, wurde sein musikalisches Interesse mit zunehmendem Alter wählerischer und vielfältiger. So bevorzugte er später vornehmlich die Werke von Beethoven, Brahms und Tschaikowski und gehörte vor dem Ersten Weltkrieg mit seiner Tenorstimme sogar einem Berliner Chor an, der gelegentlich auch an den Hausmusikabenden bei den Familien Planck und Harnack teilnahm. Lise Meitner erinnerte sich insbesondere an das gemeinsame Singen in den Laborräumen des KWI:
+
+
+=== Literatur ===
+Hahn, der bereits in seiner Studentenzeit ein wachsendes Interesse an Literatur, vor allem an Lyrik, entwickelt hatte (zum Beispiel an den Gedichten Christian Morgensterns, von denen er zahlreiche bis ins hohe Alter auswendig rezitieren konnte), stand in späten Jahren mit mehreren Dichtern und Schriftstellern in näherer Beziehung, u. a. mit Reinhold Schneider, Carl Zuckmayer, Alice von Herdan, Irmgard Keun, Joseph Breitbach und Eugen Roth, der ihm einmal den folgenden Schüttelreim schrieb:
+
+Auch mit einigen Theatermenschen pflegte Hahn engere Kontakte, so zum Beispiel mit dem Intendanten Heinz Hilpert und dem Schauspieler Klaus Behrendt, zumal er in den 1960er Jahren keine Gelegenheit versäumte, die Aufführungen des Deutschen Theaters in Göttingen zu besuchen. Alice von Herdan, Carl Zuckmayers Frau, schrieb dazu in ihren Erinnerungen:
+
+Eine besondere Freundschaft verband Hahn mit dem Bankier Clemens Plassmann, der unter dem Anagramm seines Namens C. Palm-Nesselmanns einer der bekanntesten Schüttelreim-Dichter war und Hahn einige seiner wunderbaren (Hahn-) Gedichtbände widmete, so zum Beispiel die bei der DVA erschienene Sammlung Schüttelreime:
+
+
+== Ehrungen ==
+
+
+=== Auszeichnungen zu Lebzeiten ===
+Otto Hahn, seit 1960 Ehrenpräsident der Max-Planck-Gesellschaft, war einer der meistgeehrten und höchstdekorierten Wissenschaftler aller Zeiten. Er erhielt viele bedeutende akademische, städtische und staatliche Auszeichnungen auf der ganzen Welt.
+
+Hahn war Ehrendoktor zahlreicher Universitäten und Mitglied oder Ehrenmitglied von 45 Akademien und Wissenschaftlichen Gesellschaften – darunter die University of Cambridge, die Physical Society (heute Institute of Physics), die Royal Society und das University College in London, die Rumänische Physikalische Gesellschaft in Bukarest, die Königlich Spanische Gesellschaft für Physik und Chemie und das Consejo Superior de Investigaciones Científicas (CSIC) in Madrid, die Akademie der Wissenschaften zu Göttingen (seit 1924), die Deutsche Akademie der Naturforscher Leopoldina in Halle (1926 Mitglied, 1956 Ehrenmitglied) sowie die Akademien in Allahabad (Indien), Bangalore (Indien), Berlin, Boston (USA), Bukarest, Göttingen, Helsinki, Kopenhagen, Lissabon, Madrid, Mainz, München, Rom, Stockholm, Vatikan und Wien. Außerdem war Hahn Ehrenmitglied der Deutschen Physikalischen Gesellschaft (DPG), der Gesellschaft Deutscher Chemiker (GDCh), der Deutschen Bunsen-Gesellschaft für Physikalische Chemie sowie des Japanischen Rates gegen Atom- und Wasserstoff-Bomben in Tokyo. Von 1959 bis 1960 war er Mitglied des Beirats der Friedrich-Naumann-Stiftung.
+Im Laufe seines Lebens erhielt er 37 höchste nationale und internationale Orden und Medaillen, u. a. die Emil-Fischer-Medaille in Gold, die Cannizzaro-Medaille, die Kopernikus-Medaille, die Cothenius-Medaille in Gold der Leopoldina, die Goethe-Plakette, die Paracelsus-Medaille in Gold der Schweizerischen Chemischen Gesellschaft, die Fritz-Haber-Medaille, die Max-Planck-Medaille, die Faraday-Medaille der Royal Society of Chemistry, die Wilhelm-Exner-Medaille, die Ernst-Reuter-Plakette, die Theodor-Goldschmidt-Medaille in Gold, die Helmholtz-Medaille, die Heraeus-Medaille in Gold, die Becquerel-Medaille, die Harnack-Medaille in Bronze 1954, in Gold 1959, die Marie-Curie-Medaille, die Goldmedaille des Massachusetts General Hospital in Boston, die Medaille bene merenti und den rumänischen Kultur-Verdienst-Orden, die Friedensklasse des Ordens Pour le Mérite, den griechischen Erlöser-Orden, den belgischen Leopoldsorden, den Order of the British Empire und von Frankreichs Präsident Charles de Gaulle den Rang eines Offiziers der Ehrenlegion.
+Im Jahr 1954 erhielt Otto Hahn von Bundespräsident Theodor Heuss das Große Verdienstkreuz mit Stern und Schulterband und 1959 das Großkreuz des Verdienstordens der Bundesrepublik Deutschland. 1961 überreichte ihm Papst Johannes XXIII. in Rom die Goldmedaille der Päpstlichen Akademie der Wissenschaften, und 1966 verliehen ihm US-Präsident Lyndon B. Johnson und die United States Atomic Energy Commission in Washington, D.C. den Enrico-Fermi-Preis, zusammen mit Lise Meitner und Fritz Straßmann. Sie waren die ersten Ausländer, die mit dem Fermi-Preis ausgezeichnet wurden.
+Bereits 1957 wurde Hahn die Ehrenbürgerschaft der Stadt Magdeburg (damals DDR) angetragen und 1958 die Ehrenmitgliedschaft der Sowjetischen Akademie der Wissenschaften in Moskau. Beide Ehrungen lehnte Hahn ab.
+Am 8. März 1959, anlässlich seines 80. Geburtstages, wurde Otto Hahn zum Ehrenbürger von Frankfurt am Main und seiner langjährigen Wirkungsstätte Göttingen ernannt. Die erstere von beiden Urkunden fasst zusammen:
+
+Lise Meitner, die eigens aus Stockholm angereist war, um ihrem Freund Otto Hahn zu gratulieren, schrieb in einer öffentlichen Glückwunschadresse:
+
+Bevor Theodor Heuss 1959 seine zehnjährige Amtszeit beendet hatte, wurde Otto Hahn von mehreren Persönlichkeiten des öffentlichen Lebens, denen sich auch die Freie Demokratische Partei (FDP) anschloss, als Nachfolger von Heuss für das Amt des Bundespräsidenten vorgeschlagen. Aber er lehnte aus Altersgründen ab – mit den berühmten ironischen Worten: „Das käme sowieso nie in Frage. Zwei Achtziger in Bonn? Einer reicht schon voll und janz …“ (Bundeskanzler Adenauer war damals bereits 83.)
+Am 17. Juni 1968, dem „Tag der Deutschen Einheit“, ernannten Senat und Abgeordnetenhaus Otto Hahn zum Ehrenbürger des Landes und der Stadt Berlin. Senator Werner Stein erklärte zur Begründung:
+
+
+=== Nachruhm ===
+
+Zwei Jahre nach seinem Tod schlugen amerikanische Forscher vor, das neu synthetisierte Element Nr. 105 ihm zu Ehren Hahnium zu nennen, 1997 wurde es jedoch von der IUPAC nach dem russischen Forschungszentrum in Dubna endgültig Dubnium genannt. Auch für das Element Nr. 108 hatte die IUPAC 1994 den Namen Hahnium vorgeschlagen, das Element trägt aber seit 1997 den Namen Hassium. Ferner wurde 1964 das einzige nuklear angetriebene europäische Schiff, der Atomfrachter NS Otto Hahn, nach ihm benannt, ebenso wie 1971 zwei Intercity-Züge der Deutschen Bundesbahn (Strecke Hamburg-Altona – Basel SBB). Ihm zu Ehren und zu seinem Gedächtnis wurden folgende Auszeichnungen geschaffen: Otto-Hahn-Preis, Otto Hahn Award, Otto-Hahn-Medaille und Otto-Hahn-Friedensmedaille.
+
+Zahlreiche Städte und Gemeinden im deutschsprachigen Raum benannten Gesamtschulen, Realschulen und Gymnasien nach ihm, und unzählige Straßen, Plätze, Brücken und Wege in Europa tragen seinen Namen. Mehrere Staaten ehrten Otto Hahn mit Medaillen-, Münzen- und Briefmarken-Editionen (u. a. die Bundesrepublik Deutschland, die DDR, die USA, Portugal, Österreich, Angola, Ungarn, Ghana, Guinea-Bissau, Madagaskar, Somalia, Rumänien, Moldawien, der Tschad, Kuba, Dominica, St. Vincent und die Grenadinen).
+Otto Hahn ist auf der Frankfurter Treppe verewigt. An der Stätte seines Geburtshauses neben dem westlichen Eingang der Kleinmarkthalle Frankfurt befindet sich heute ein Denkmal. Eine Insel in der Antarktis (Hahn Island, nahe dem Mount Discovery) wurde ebenso auf seinen Namen getauft wie die Otto-Hahn-Bibliothek in Göttingen und das Otto-Hahn-Institut in Mainz. Im März 1959 wurde in Berlin – in Anwesenheit der Namensgeber – das Hahn-Meitner-Institut für Kernforschung (HMI) vom Regierenden Bürgermeister Willy Brandt eingeweiht. 1974 erhielt – in Würdigung der besonderen Verdienste Otto Hahns um die deutsch-israelischen Beziehungen – ein Flügel des Weizmann Institute of Science in Rehovot (Israel) den Namen Otto Hahn Wing. Ferner benannte die Saint Louis Universität in Baguio City (Philippinen) eines ihrer Forschungsgebäude als Otto Hahn Building, zudem gibt es Otto-Hahn-Hörsäle in verschiedenen Universitäten und Instituten (zum Beispiel in Berlin, Heidelberg und Kiel).
+In mehreren Städten und Gemeinden wurden ihm zu Ehren Büsten, Denkmäler und Gedenktafeln enthüllt, unter anderem in Albstadt-Tailfingen, Ankara, Berlin (Ost und West), Boston (USA), Frankfurt am Main, Göttingen, Gundersheim (Rheinhessen), Mainz, Marburg, München (im Ehrensaal des Deutschen Museums), Punta San Vigilio (Gardasee), Rehovot (Israel) und Wien (im Foyer der IAEA). In der Stadt Göttingen und der Gemeinde Ottobrunn (bei München) wurden öffentliche Otto-Hahn-Zentren geschaffen. Auch in Frankfurt am Main ist ein Otto-Hahn-Zentrum geplant, das unter anderem eine Dauerausstellung über Hahns Leben und Wirken beherbergen soll. Seit 2011 befindet sich außerdem in Albstadt-Tailfingen eine Otto-Hahn-Gedenkstätte in der dort ansässigen Akademie der IHK Reutlingen, die insbesondere an Hahns Arbeit in Tailfingen von 1944 bis 1945 erinnert. Anfang 2014 wurden in der Universitätsbibliothek Dortmund zwei neue Otto-Hahn-Bibliotheken als Bereichsbibliotheken für Naturwissenschaften eröffnet.
+Die Internationale Astronomische Union (IAU) ehrte Hahn durch die Benennung eines Mondkraters (zusammen mit Graf Friedrich II. von Hahn) und – auf Vorschlag des Astronomen Freimut Börngen – des Kleinplaneten (19126) Ottohahn. Eine besondere Ehrung wurde Otto Hahn in den Niederlanden zuteil: Nachdem bereits eine Azalee (Rhododendron luteum Otto Hahn) und ein Kaktus (Trichocereus echinopsis hybride Otto Hahn) seinen Namen trugen, wurde von holländischen Rosenzüchtern eine neue Rose auf seinen Namen getauft, die Rosa ottohahniana. Sogar ein vor allem in den 1950er und 1960er Jahren populärer Cocktail wurde nach ihm benannt: Der „Otto Hahn“ besteht aus zwei gleichen Teilen Whisky (z. B. Balvenie, oder Macallan) und Rich Golden Sherry (z. B. Osborne oder Sandeman) und wird in vorher angewärmten Cognac-Gläsern serviert. Im Stadtzentrum von Rotterdam (Ommoord) gibt es ferner seit Jahren ein vielbesuchtes Restaurant und Musiklokal, das seinen Namen trägt: das Café Otto Hahn.
+
+
+== Schriften ==
+Veröffentlichungen (Auswahl)Die Muttersubstanz des Actiniums, ein neues radioaktives Element von langer Lebensdauer. (gemeinsam mit Lise Meitner). In: Physikalische Zeitschrift, Nr. 19, 1918.
+Was lehrt uns die Radioaktivität über die Geschichte der Erde? Springer Verlag, Berlin 1926.
+Applied Radiochemistry. Cornell University Press, Ithaca, New York. Humphrey Milford, London. Oxford University Press 1936. (Auch russische Ausgabe).
+Die chemischen Elemente und natürlichen Atomarten. Springer Verlag, Berlin 1938.
+Natürliche und künstliche Umwandlungen der Atomkerne. Verlag Schroll, Wien 1941.
+Künstliche Atomumwandlungen und die Spaltung schwerer Kerne. (Veröffentlichungen des Deutschen Wissenschaftlichen Instituts, Stockholm, Reihe 3: Naturwissenschaften, Nr. 1), Almquist & Wiksells, Stockholm 1944.
+Von der natürlichen Umwandlung des Urans zu seiner künstlichen Zerspaltung. 1948.
+Die Kettenreaktion des Urans und ihre Bedeutung. 1948 (auch spanische Ausgabe).
+Künstliche neue Elemente. Verlag Chemie, Weinheim 1948.
+New Atoms. (Edited by W. Gaade), Elsevier, Amsterdam–London–New York–Bruxelles 1950. (Englische und holländische Ausgaben).
+Die Nutzbarmachung der Energie der Atomkerne. Oldenbourg Verlag, München 1950.
+Cobalt 60 – Gefahr oder Segen für die Menschheit? Musterschmidt Verlag, Göttingen 1955.
+Moderne Alchemie. Wuppertal 1960 (Veröffentlichungen der Vereinigten Glanzstoff Fabriken A.G.).
+Vom Radiothor zur Uranspaltung. Eine wissenschaftliche Selbstbiographie. Friedr. Vieweg Verlag, Braunschweig 1962 (auch amerikanische, englische und italienische Ausgaben).
+Mein Leben. Bruckmann Verlag, München 1968 (5. Auflage 1969, auch englische, amerikanische und japanische Ausgaben).NachlassDer dienstliche Nachlass Otto Hahns befindet sich im Archiv zur Geschichte der Max-Planck-Gesellschaft.
+
+
+== Sekundärliteratur ==
+Hans Hartmann: Otto Hahn. Der Entdecker der Atomspaltung. Lux, Murnau–München–Innsbruck–Basel 1961.
+Laura Fermi: The Story of Atomic Energy. Random House, New York 1962.
+Eckart Heimendahl: Wegbereiter unserer Zukunft. Wunderlich, Tübingen 1968.
+Ernst H. Berninger: Otto Hahn – Eine Bilddokumentation. Moos, München 1969.
+Friedrich Herneck: Bahnbrecher des Atomzeitalters. Verlag der Morgen, Berlin 1970.
+Robert Spence: Otto Hahn. (= Biographical Memoirs of Fellows of the Royal Society. Volume 16). London 1970.
+Ernst H. Berninger: Otto Hahn 1879–1968. (Englische und spanische Ausgaben). Inter Nationes, Bonn–Bad Godesberg 1970.
+Hans D. Graetzer, David L. Anderson: The Discovery of Nuclear Fission. Nostrand–Reinhold, New York 1971.
+Ernst H. Berninger: Otto Hahn in Selbstzeugnissen und Bilddokumenten. Rowohlt, Reinbek bei Hamburg 1974.
+Franz Baumer: Otto Hahn. (= Köpfe des XX. Jahrhunderts). Colloquium, Berlin 1974.
+Dietrich Hahn (Hrsg.): Otto Hahn – Erlebnisse und Erkenntnisse. Mit einer Einführung von Karl-Erik Zimen. Econ, Düsseldorf/ Wien 1975, ISBN 3-430-13732-2.
+Klaus Hoffmann: Otto Hahn – Stationen aus dem Leben eines Atomforschers. Vorwort von Manfred von Ardenne. Neues Leben, Berlin 1978.
+Anthony Feldman, Peter Ford: Otto Hahn. In: Scientists and Inventors. Aldus Books, London 1979.
+Dietrich Hahn (Hrsg.): Otto Hahn – Begründer des Atomzeitalters. Eine Biographie in Bildern und Dokumenten. Mit einem Geleitwort von Reimar Lüst, einem Vorwort von Paul Matussek und einer Einführung von Walther Gerlach. List, München 1979, ISBN 3-471-77841-1.
+Horst Wohlfahrt (Hrsg.): 40 Jahre Kernspaltung. Eine Einführung in die Originalliteratur. Wissenschaftliche Buchgesellschaft, Darmstadt 1979.
+Ronald W. Clark: The Greatest Power on Earth: The Story of Nuclear Fission. Sidgwick & Jackson, London 1980, ISBN 0-283-98715-4.
+Dietrich Hahn (Hrsg.): Otto Hahn in der Kritik. Moos, München 1981.
+Cornelius Keller: Die Geschichte der Radioaktivität. Wissenschaftliche Verlagsgesellschaft, Stuttgart 1982.
+William R. Shea (Hrsg.): Otto Hahn and the Rise of Nuclear Physics. Reidel, Dordrecht / Boston / Lancaster 1983.
+Pierre Radványi, Monique Bordry: La Radioactivité artificielle et son histoire. Seuil CNRS, Paris 1984.
+Walther Gerlach, Dietrich Hahn: Otto Hahn – Ein Forscherleben unserer Zeit. (= Große Naturforscher. Band 45). Wissenschaftliche Verlagsgesellschaft, Stuttgart 1984, ISBN 3-8047-0757-2.
+Alwyn McKay: The Making of The Atomic Age. Oxford University Press, Oxford / New York 1984.
+Dietrich Hahn (Hrsg.): Otto Hahn – Mein Leben. Die Erinnerungen des großen Atomforschers und Humanisten. Erweiterte Neuausgabe. Piper, München 1986, ISBN 3-492-00838-0.
+Karl-Erik Zimen: Strahlende Materie. Radioaktivität – ein Stück Zeitgeschichte. Bechtle, Esslingen/München 1987.
+Dietrich Hahn (Hrsg.): Otto Hahn. Leben und Werk in Texten und Bildern. Vorwort Carl Friedrich von Weizsäcker. Insel, Frankfurt am Main 1988, ISBN 3-458-32789-4.
+Richard Rhodes: The Making of the Atomic Bomb. Simon and Schuster, New York 1988.
+Dietrich Hahn (Hrsg.): Otto Hahn – Vom Radiothor zur Uranspaltung. Erweiterte Neuausgabe. Mit einem Vorwort von Kurt Starke. Vieweg, Braunschweig/Wiesbaden 1989, ISBN 3-528-08413-8.
+Jost Lemmerich: Die Geschichte der Entdeckung der Kernspaltung. Ausstellungskatalog. Technische Universität Berlin 1989.
+Klaus Hoffmann: Otto Hahn. Schuld und Verantwortung. Springer, Heidelberg 1993.
+J. A. Revill, Sir Charles Frank (Hrsg.): Operation Epsilon. The Farm Hall Transcripts. IOP Publishing, Bristol/Philadelphia 1993.
+Michael Salewski (Hrsg.): Das Zeitalter der Bombe. Die Geschichte der atomaren Bedrohung von Hiroshima bis heute. Beck, München 1995.
+Elisabeth Kraus: Von der Uranspaltung zur Göttinger Erklärung. Otto Hahn, Werner Heisenberg, Carl Friedrich von Weizsäcker und die Verantwortung des Wissenschaftlers. Königshausen & Neumann, Würzburg 2001.
+Klaus Hoffmann: Otto Hahn. Achievement and Responsibility. Springer, New York 2001.
+Horst Kant: Otto Hahn and the Declarations of Mainau and Göttingen. Berlin 2002.
+Jim Whiting: Otto Hahn and the Discovery of Nuclear Fission. Mitchell Lane, Hockessin 2004.
+Klaus Hoffmann: Otto Hahn – Forschung und Verantwortung. Kramer, Frankfurt am Main 2005.
+Dietrich Hahn (Hrsg.): Lise Meitner: Erinnerungen an Otto Hahn. Hirzel, Stuttgart 2005, ISBN 3-7776-1380-0.
+Angelika Sauer: The Diasporic Moment: Elise von Koerber, Dr. Otto Hahn, and the attempt to create a German diaspora in Canada. In: German Diasporic Experiences: Identity, Migration, and Loss. Hrsg. Mathias Schulze et al., Wilfrid Laurier University Press, Waterloo 2008, S. 205–216.
+Volker Lässing: „Den Teufel holt keiner!“ – Otto Hahn und das Kaiser-Wilhelm-Institut für Chemie in Tailfingen. Vorwort Dietrich Hahn. CM-Verlag, Albstadt 2010, ISBN 978-3-939219-00-2.
+Hubert Mania: Kettenreaktion – Die Geschichte der Atombombe. Rowohlt, Reinbek 2010, ISBN 978-3-498-00664-8.
+Robert Lorenz: Otto Hahn. Der atomare Fluch und Segen. In: Stine Marg, Franz Walter (Hrsg.): Göttinger Köpfe und ihr Wirken in die Welt. Göttingen 2012, ISBN 978-3-525-30036-7, S. 89–93.
+Uli Suckert: Anno 1938 – Als sich die Welt veränderte – Otto Hahn und Manfred von Ardenne im Rad der Geschichte. Weltbuch Verlag, Dresden 2012, ISBN 978-3-938706-32-9.
+Richard von Schirach: Die Nacht der Physiker. Heisenberg, Hahn, Weizsäcker und die deutsche Bombe. Berenberg, Berlin 2012, ISBN 978-3-937834-54-2.
+Horst Kant, Carsten Reinhardt: 100 Jahre Kaiser-Wilhelm-/Max-Planck-Institut für Chemie (Otto-Hahn-Institut). MPG, Berlin 2012, ISBN 978-3-927579-26-2.
+Volker Lässing: Forschung im Schatten der Zollernburg. Die Kaiser-Wilhelm-Institute und ihre Nobelpreisträger in Hechingen, Haigerloch und Tailfingen. CM-Verlag, Albstadt 2013. ISBN 978-3-939219-02-6.
+Vera Keiser (Hrsg.): Radiochemie, Fleiß und Intuition. Neue Forschungen zu Otto Hahn. GNT-Verlag, Diepholz und Berlin 2018, ISBN 978-3-86225-113-1.
+
+
+== Filme ==
+Dokumentarfilme
+
+Otto Hahn. (Reihe: Träume, die keine blieben.) Regie: Ernst von Khuon. SDR/ARD 1983 (30 Min.).
+Lise Meitner. (Reihe: Träume, die keine blieben.) Regie: Ernst von Khuon. SDR/ARD 1984 (30 Min.).
+Otto Hahn. Regie: Wilfried Viebahn. WDR/ARD 1988 (45 Min.).
+Otto Hahn. Regie: Wilfried Viebahn. WDR 1988 (15 Min.).
+Otto Hahn. Regie: Klaus Dexel. SDR 1988 (45 Min.).
+Otto Hahn 1879–1968. Regie: Peter Regenyi. Transtel/Deutsche Welle 1989 (30 Min.). In fünf Synchronfassungen – englisch, spanisch, französisch, portugiesisch und arabisch – weltweit gesendet.
+Otto Hahn und die Kernspaltung. (Reihe: Meilensteine der Naturwissenschaft und Technik.) Regie: Werner Kiefer. Target/ARD 1992 (15 Min.).
+Otto Hahn – 25. Todestag. (Reihe: Das historische Stichwort.) Regie: Joachim G. Schmidt. BR 1993 (5 Min.).
+Otto Hahn und Lise Meitner – Von der Kernspaltung zur Atombombe. Regie: Rhan Gunderlach. Zebra/Deutsche Welle 1995 (30 Min.).
+Lise Meitner und Otto Hahn. Regie: Rosemary Reed. BBC 2005. Deutsche Fassung: ZDF 2006 (45 Min.).
+Otto Hahn – Aus dem Leben eines Nobelpreisträgers in Göttingen 1946–1968. Regie: Matthias Heinzel. Göttinger Tageblatt 2007 (45 Min.).Spielfilm
+
+Ende der Unschuld. Deutschland 1991 (ARD, 2 Teile, 180 Min.). Regie: Frank Beyer. Buch: Wolfgang Menge. Mit Rolf Hoppe (Otto Hahn), Hanne Hiob (Lise Meitner) u. a.
+
+
+== Zeugnisse über Otto Hahn ==
+Alle folgenden Zitate sind entnommen aus Dietrich Hahn (Hrsg.): Lise Meitner: Erinnerungen an Otto Hahn.Albert Einstein, Princeton (USA), 1949, über Hahns Wirken von 1933 bis 1945:
+„Einer der Wenigen, die aufrecht geblieben sind und ihr Bestes taten während dieser bösen Jahre.“
+Lise Meitner, Stockholm, 1949:
+„Otto Hahn verstand es, mit den einfachsten Hilfsmitteln an die schwierigsten Probleme heranzugehen, geleitet von seiner ungewöhnlichen intuitiven Begabung und seinen ebenso ungewöhnlichen, vielseitigen chemischen Kenntnissen. Wie oft habe ich nicht in den langen Jahren unserer Zusammenarbeit gesehen, daß er Probleme, die der Physiker sich durch mathematische Formeln klar macht, rein intuitiv und anschaulich erfaßt hat.“
+Lise Meitner im persönlichen Gespräch zu Otto Hahn:
+„Hähnchen, von Physik verstehst du nichts, geh nach oben!“
+Max Born, Bad Pyrmont, 1955:
+„Einer der nobelsten und feinsten Menschen, denen ich je begegnet bin.“
+Lise Meitner, Stockholm, 1959:
+„Die große Zuverlässigkeit seines Charakters, seine natürliche Liebenswürdigkeit und Freude am Scherzen haben ihn auch bei etwaigen schwierigen Diskussionen, wissenschaftlicher oder menschlicher Art, nie verlassen.“
+Manfred Eigen, Göttingen, 1968:
+„Obwohl Otto Hahn einer der wenigen Wissenschaftler war, die Geschichte gemacht und eine ganze Ära der Weltpolitik bestimmt haben, hat er sich doch nie als eine Persönlichkeit der Weltpolitik gefühlt.“
+Fritz Straßmann, Mainz, 1968:
+„Die Zahl derer, die sich neben Otto Hahn stellen könnten, ist klein. Für ihn war seine eigene Handlungsweise zwar selbstverständlich, aber für die kommenden Generationen kann sie Vorbild sein, gleichgültig, ob man in der Haltung Otto Hahns sein menschliches und wissenschaftliches Verantwortungsbewußtsein oder seinen persönlichen Mut bewundert. Beides zusammen war selten in einer Person vereinigt anzutreffen, und so hat diese seltene Gabe Otto Hahn die Liebe und die Verehrung seiner Freunde und Schüler erworben und gesichert, und sie wird über seinen Tod hinaus hoffentlich das erstrebte Ziel vieler junger Menschen werden.“
+Berta Karlik, Wien, 1969:
+„Otto Hahn hat sein so schweres menschliches Schicksal mit unvergleichlicher Haltung getragen. Stets blieb er äußerlich heiter, den Mitmenschen zugewandt in nie versiegender Herzensgüte, ein wunderbares Vorbild an sittlicher Kraft. Alle, die ihm begegnen durften, werden die Erinnerung an seine einzigartige Persönlichkeit als unverlierbaren inneren Besitz empfinden.“
+Manfred von Ardenne, Dresden, 1978:
+„Jeder, der Otto Hahn kannte, mußte ihn als Forscher in seiner Arbeit sowie als Mensch in seinem Tun und Denken verehren. Er war Vorbild in seiner Gewissenhaftigkeit, zugleich die Herzen gewinnend in seiner Güte und Bescheidenheit.“
+Elizabeth Rona, Miami (USA), 1978:
+„Ich habe oft gedacht, daß er einen zweiten Nobelpreis verdient hätte – den Friedensnobelpreis.“
+Wolfgang Gentner, Heidelberg, 1979:
+„So wie er nie die Verfolgung der Juden im Dritten Reich vergessen konnte, benutzte er auch die erste Gelegenheit, Beziehungen zum neuen Staate Israel aufzunehmen. Es war seine letzte große Reise, die unvergeßlichen Eindruck auf ihn machte.“
+Otto Haxel, Heidelberg, 1987:
+„Ich muß einfach sagen, daß er der bewundernswerteste Mensch ist, der mir unter den Wissenschaftlern bekannt ist. Seine charakterliche Größe, seine Schärfe des Verstandes und diese absolute Redlichkeit und Zurücksetzung seiner Person findet man so rasch nicht wieder.“
+Carl Friedrich von Weizsäcker, Starnberg, 1988:
+„Die Menschheit kann nicht auf die Dauer zugleich mit der Kenntnis der Kernspaltung und der Institution des Krieges leben. Dieses Wissen beschattete die letzten Lebensjahrzehnte Otto Hahns. Es bewußt getragen zu haben, war sein Beitrag zum unerläßlichen Bewußtseinswandel unserer Zeit. Es war sein Geschenk an die Menschheit.“
+
+
+== Siehe auch ==
+Atomkeller-Museum in Haigerloch (Württemberg)
+Deutsche Atomkommission
+
+
+== Weblinks ==
+
+Literatur von und über Otto Hahn im Katalog der Deutschen Nationalbibliothek
+Werke von und über Otto Hahn in der Deutschen Digitalen Bibliothek
+Zeitungsartikel über Otto Hahn in der Pressemappe 20. Jahrhundert der ZBW – Leibniz-Informationszentrum Wirtschaft.
+Informationen der Nobelstiftung zur Preisverleihung 1944 an Otto Hahn (englisch)
+Nobel-Laudatio auf Otto Hahn von Prof. Arne Westgren. (EN)
+Otto Hahn – die 10 größten Wissenschaftler. (EN)
+Otto Hahn – die 100 größten Deutschen. (EN)
+Otto Hahn – Entdecker der Kernspaltung. (NDR Geschichte)
+Die Entdeckung der Kernspaltung. (NDR Geschichte)
+Zum Tode von Otto Hahn: „Eine Entdeckung ist weder gut noch böse!“ Gespräch mit Fritz Strassmann – DIE ZEIT, 31. Juli 1968.
+Biographie Otto Hahn. (PDF; 2,13 MB).
+Kernspaltung: „Fabeln aus dem Kellerloch.“ (Focus Magazin, Nr. 24, 1996).
+Gerd Brosowski: Otto Hahn und Lise Meitner. (PDF; 72,3 kB). Vortrag – Rotary Club Saarbrücken, 8. Mai 2008.
+Otto Hahn – Entdecker der Kernspaltung. (Focus online, 21. Januar 2009).
+Edmund Neubauer: Otto Hahn – Begründer des Atomzeitalters. Webseite des OHG, 2007.
+Otto Hahn – Präsident der Max-Planck-Gesellschaft. (MPG, München, 2011).
+Anne Hardy: Otto Hahn – Entdecker der Kernspaltung. In: Pro-Physik.de. 4. März 2004.
+Otto Hahn (1879–1968) – Ein wunderbares Vorbild. Webseite des Otto-Hahn-Gymnasiums Göttingen, 10. März 2007.
+Die Entdeckung der Kernspaltung. MPIC (Otto-Hahn-Institut) Mainz, 2013.
+Otto Hahn und die Kernspaltung. Bayerischer Rundfunk, Meilensteine.
+Otto Hahn – Leben und Werk. Auf: wissen.de.
+Otto Hahn – Träger des Enrico Fermi Preises 1966. U.S. Government, Department of Energy (EN).
+Otto Hahn (1879–1968) Radiochemiker. Helmholtz-Zentrum Berlin, 2011.
+Die Historie des Hahn-Meitner-Instituts (HMI). Helmholtz-Zentrum Berlin, 2011.
+Otto Hahn – Zeittafel 1879–1968.
+Vera Keiser-Morgenweck (Chemikerin und Historikerin): Neueste Forschungen und Analysen über das Verhältnis Lise Meitner / Otto Hahn. 2013.
+Otto Hahn (Große Deutsche). Biographie.
+Otto Hahn heads a delegation to Israel, 1959. Webseite der Max-Planck-Gesellschaft, 2010 (EN).
+Otto Hahn – A Life for Science, Humanity and Peace. Hiroshima University Peace Lecture, delivered by Mr Dietrich Hahn, October 2, 2013 (EN).
+Marinus Brandl: Otto Hahn – Entdecker der Kernspaltung, Grossvater der Atombombe. GMX, Schweiz, 17. Dezember 2013.
+Petra Wilken (Santiago): Otto Hahn – Im Bann der Kernspaltung. CONDOR, Periódico Chileno-Aleman, 20. Dezember 2013.
+Reimar Paul: Otto Hahn: Die dunkle Seite des Genies. Der Tagesspiegel, Berlin, 2. August 2014. (Siehe auch: taz, Berlin, 1. August 2014).
+Initiative: Otto Hahn soll Ehrenbürgerschaft verlieren. Hessisch-Niedersächsische Allgemeine (HNA), 2. August 2014.
+Matthias Heinzel: Hahn verteidigt Hahn: Aberkennung der Ehrenbürgerwürde – Otto Hahns Enkel kritisiert Forderung. GT, Göttingen, 6. August 2014.
+Martin Trömel: Otto Hahn im Spannungsfeld von Wissenschaft und Politik. (PDF; 660,7 kB). Forschung Frankfurt, 1, 70–76. 2004.
+Video: Otto Hahn spricht zur Geschichte der Uranspaltung, Göttingen, 1956. Institut für den Wissenschaftlichen Film (IWF) 1960, zur Verfügung gestellt von der Technischen Informationsbibliothek (TIB), doi:10.3203/IWF/G-27.
+
+
+== Einzelnachweise ==

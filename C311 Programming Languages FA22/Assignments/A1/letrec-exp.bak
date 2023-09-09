@@ -1,0 +1,13 @@
+#lang racket
+
+(define matcher
+  (λ (str)
+    (match str
+      [`(letrec ,1/2-closure ,body)
+       (println 1/2-closure)
+       (println body)])))
+
+(matcher '(letrec ([x 22]
+                         [y 20]
+                         [z (+ x y)])
+            z))

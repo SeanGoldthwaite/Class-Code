@@ -1,0 +1,57 @@
+﻿La química del estado sólido es el estudio de los materiales sólidos, sean de base molecular, metálica, cristalina o cerámica del estado sólido inorgánico, y ha sido impulsada fuertemente por la tecnología. Los avances en el campo se han visto alimentados con frecuencia por las exigencias de la industria, muy por delante de la simple curiosidad académica. Aplicaciones descubiertas en el siglo XX incluyen zeolita y catalizadores para el procesamiento de petróleo, basados en platino en la década de 1950, silicio de alta pureza como un componente básico de los dispositivos de microelectrónica en la década de 1960 y la superconductividad de alta temperatura en la década de 1980. La invención de la cristalografía de rayos X en 1900 por parte de William Lawrence Bragg permitió futuras innovaciones. La comprensión de cómo proceden las reacciones a nivel atómico en el estado sólido evolucionó considerablemente gracias al trabajo de Carl Wagner en la teoría de la tasa de oxidación y la contradifusión de iones, entre otros, por lo que a este investigador se le considera el padre de la química del estado sólido.[1]​
+
+
+== Métodos sintéticos ==
+Dada la diversidad de compuestos en estado sólido, una serie igualmente diversa de métodos[2]​ se utilizan para su preparación. Para los materiales orgánicos, tales como sales de transferencia de carga, los métodos operan cerca de la temperatura ambiente y con frecuencia son similares a las técnicas de síntesis orgánica. Las reacciones redox a veces son conducidas por electrocristalización, como se ilustra en la preparación de las sales de Bechgaard de tetratiafulvaleno.
+
+
+=== Técnicas de horno ===
+Para materiales térmicamente robustos, los métodos de alta temperatura son los que se emplean a menudo. Por ejemplo, los sólidos a granel se preparan usando hornos de tubo, lo que permite llevar a cabo reacciones de hasta aprox. 1100 °C. Equipos especiales, como por ejemplo hornos consistentes en un tubo de tántalo a través del cual se hace pasar una corriente eléctrica, pueden ser utilizados para temperaturas incluso más altas de hasta 2000 °C. Tales altas temperaturas son a veces necesarias para inducir la difusión de los reactivos, pero esto depende en gran medida del sistema estudiado. Algunas reacciones en estado sólido ya proceden a temperaturas tan bajas como 100 °C.
+
+
+==== Métodos de fusión ====
+Un método frecuentemente empleado es el de fundir los reactantes en conjunto y luego recocer la masa fundida solidificada. Si los reactivos volátiles están involucrados, los reactivos se ponen a menudo en una ampolla que es regularmente evacuada mientras se mantiene la mezcla fría, por ejemplo manteniendo el fondo de la ampolla en nitrógeno líquido y posteriormente sellándola. La ampolla sellada se pone entonces en un horno y se somete a un determinado tratamiento térmico.
+
+
+==== Métodos de solución ====
+Es posible utilizar disolventes para preparar los sólidos por precipitación o por evaporación. A veces, el disolvente se utiliza hidrotérmicamente, es decir, bajo presión a temperaturas superiores al punto de ebullición normal. Una variación de este tema es el uso de métodos de flujo, donde se añade a la mezcla una sal con punto de fusión relativamente bajo para actuar como un disolvente de alta temperatura en el que la reacción deseada pueda tener lugar.
+
+
+==== Reacciones de gas ====
+Muchos sólidos reaccionan fácilmente con tipos de gases reactivos como el cloro, el yodo, el oxígeno, etc. Otros forman aductos con otros gases, por ejemplo el CO o el etileno. Tales reacciones se realizan a menudo en un tubo abierto por ambos lados y a través del cual se hace pasar el gas. Una variante de esto es permitir que la reacción tenga lugar dentro de un dispositivo de medición, como el ATG. En ese caso la información estequiométrica puede obtenerse durante la reacción, lo que ayuda a identificar los productos.
+Un caso especial de una reacción de gas es una reacción de transporte químico. Estos son a menudo llevados a cabo en una ampolla sellada a la cual una pequeña cantidad de un agente de transporte, por ejemplo yodo, se añade. La ampolla se coloca entonces en un horno de zona. Se trata esencialmente de dos hornos de tubos unidos entre sí que permiten imponer un gradiente de temperatura. Tal método puede ser utilizado para obtener el producto en forma de cristales simples adecuados para la determinación estructural por difracción de rayos X.
+La deposición química de vapor es un método de alta temperatura que es ampliamente empleado para la preparación de revestimientos y semiconductores a partir de precursores moleculares.
+
+
+=== Materiales sensibles al aire y a la humedad ===
+Muchos sólidos son higroscópicos y/o sensibles al oxígeno. Muchos haluros por ejemplo, son muy 'sedientos' y sólo pueden ser estudiados en su forma anhidra si se manejan en una guantera llena de gas seco (y/o libre de oxígeno), por lo general nitrógeno.
+
+
+== Caracterización ==
+
+
+=== Nuevas fases, diagramas de fase, estructuras ===
+La metodología sintética y la caracterización del producto a menudo van de la mano en el sentido de que no una, sino una serie de mezclas de reacción son preparadas y sometidas a un tratamiento térmico. La estequiometría es normalmente variada de una manera sistemática para encontrar qué estequiometrías darán lugar a nuevos compuestos sólidos o soluciones sólidas entre las ya conocidas. Un primer método para caracterizar los productos de reacción es la difracción de polvo, porque muchas reacciones en estado sólido producirán lingotes policristalinos o polvos. La difracción de polvo facilitará la identificación de las fases conocidas en la mezcla. Si un patrón encontrado no se conoce en las bibliotecas de datos de difracción, se puede hacer un intento para indexar dicho patrón, es decir, para identificar la simetría y el tamaño de la celda unitaria. (Si el producto no es cristalino la caracterización es típicamente mucho más difícil.)
+Una vez que se conoce la celda unitaria de una nueva fase, el siguiente paso es establecer la estequiometría de la fase. Esto puede hacerse en un determinado número de maneras. 
+A menudo se requiere un esfuerzo considerable en el perfeccionamiento de la metodología sintética para obtener una muestra pura del nuevo material.
+Si es posible separar el producto del resto de la mezcla de reacción, se puede utilizar un análisis elemental. Otras formas implican el SEM y la generación de rayos X característicos en el haz de electrones. La forma más sencilla para resolver la estructura es mediante el uso de difracción de rayos X de cristal único.
+Esta última requiere a menudo revisar y perfeccionar los procedimientos de preparación y está vinculado a la cuestión de qué fases son estables a qué composición y qué estequiometría. En otras palabras, cómo luce el diagrama de fase.[3]​ Una herramienta importante para establecer esto son las técnicas de análisis térmico como la DSC o el DTA, y también cada vez más , gracias a la llegada de la difracción de polvo dependiente de la temperatura del sincrotrón. Un mayor conocimiento de las relaciones de fase a menudo conduce a un mayor refinamiento de los procedimientos sintéticos de forma iterativa. Así pues, nuevas fases son caracterizadas mediante sus puntos de fusión y sus dominios estequiométricos. Esto último es importante para los sólidos que son compuestos no estequiométricos. Los parámetros de las celdas obtenidas a partir de difracción de rayos X (DRX) son particularmente útiles para caracterizar los rangos de homogeneidad de este último.
+
+
+=== Otras caracterizaciones ===
+En muchos -pero ciertamente no todos- los casos, los nuevos compuestos sólidos se caracterizan además por una variedad de técnicas que se sitúan en la fina línea que (casi) separa la química del estado sólido de la física del estado sólido.
+
+
+==== Propiedades ópticas ====
+Para materiales no metálicos a menudo es posible obtener espectros UV/VIS. En el caso de los semiconductores, esto dará una idea de la banda prohibida.
+
+
+==== Propiedades eléctricas ====
+Los métodos de sonda de cuatro puntos (o de cinco puntos) se aplican a menudo ya sea a lingotes, cristales o gránulos presionados para medir la resistividad y el tamaño del efecto Hall. Esto da información sobre si el compuesto es un aislante, semiconductor, semimetal o metal y del tipo de dopaje y la movilidad en las bandas deslocalizadas (si existe). Así, la información importante se obtiene en la unión química en el material.
+
+
+==== Propiedades magnéticas ====
+La susceptibilidad magnética se puede medir como función de la temperatura para establecer si el material es un imán para magnético, ferromagnético o anti ferromagnético. De nuevo la información obtenida se refiere a la unión en el material. Esto es particularmente importante para loS ZHECOS compuestos de metales de transición. En el caso del orden magnético, la difracción de neutrones se puede utilizar para determinar la estructura magnética.
+
+
+== Bibliografía ==

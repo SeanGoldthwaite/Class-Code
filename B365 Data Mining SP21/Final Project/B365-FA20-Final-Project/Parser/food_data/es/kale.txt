@@ -1,0 +1,36 @@
+﻿En informática, Kate es un editor de textos para el entorno de escritorio KDE. Kate significa KDE Advanced Text Editor, es decir Editor de textos avanzado para KDE.
+
+
+== Historia ==
+El proyecto Kate comenzó en diciembre de 2000 en sourceforge.net. En el primer mes, Kate era conocida como "KCEdit", con C representando a Cullmann, el apellido del autor. Con el tiempo, otras personas se unieron al proyecto, por lo que el nombre cambió de KCEdit a Kant. Este nombre fue motivado por el filósofo Immanuel Kant y se suponía que era más neutral y distinto en comparación con KEdit. El tiempo pasó, y Kant se hizo cada vez más popular entre los nuevos desarrolladores que se unieron al proyecto. Como la pronunciación de Kant suena engañosa en inglés para algunas personas, se decidió cambiar el nombre nuevamente por Kate.[2]​
+Kate ha sido parte del paquete kdebase desde loa versión 2.2 de Kde del 15 de agosto del 2002. A causa de la tecnología KParts que es parte de KDE es posible colocar Kate como un componente de edición en cualquier otra aplicación de KDE. El entorno de desarrollo integrado, KDevelop, y la herramienta de desarrollo de páginas web, Quanta Plus, son dos de las más importantes aplicaciones para KDE que usan Kate como componente de edición.
+
+
+== Características ==
+Resaltado de sintaxis para más de 300 lenguajes[3]​, extensibles mediante archivos XML.
+Búsqueda y remplazo de texto usando expresiones regulares.
+Seguimiento de código para C++, C, PHP y otros.
+Mantener múltiples documentos abiertos en una ventana.
+Soporte de sesiones
+Manejador de archivos
+Emulador de terminal basado en Konsole.
+Numeración de líneas
+
+
+== Véase también ==
+KWrite
+KDevelop
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Sitio web oficial del proyecto KDE (en inglés)
+Sitio web oficial de Kate (en inglés)
+Repositorios:
+Kate: GitLab, cgit y GitHub (espejo)
+KTextEditor framework: GitLab, cgit y GitHub (espejo)
+KSyntaxHighlighting framework: GitLab, cgit y GitHub (espejo)
+Reportar y seguir bugs: en Kate, en KTextEditor framework y en KSyntaxHighlighting framework
+Kate en Microsoft Store

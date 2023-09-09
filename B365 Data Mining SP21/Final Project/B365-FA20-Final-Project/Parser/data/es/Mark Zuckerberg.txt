@@ -1,0 +1,77 @@
+﻿Mark Elliot Zuckerberg (White Plains, Estados Unidos; 14 de mayo de 1984) es un programador y empresario estadounidense, uno de los creadores y fundadores de Facebook. Para desarrollar la red, Zuckerberg contó con el apoyo de sus compañeros de la Universidad de Harvard, el coordinador de ciencias de la computación y sus compañeros de habitación Eduardo Saverin, Dustin Moskovitz y Chris Hughes. A abril de 2018, es el personaje más joven que aparece en la lista de multimillonarios de la revista Forbes, con una fortuna valorada en 73.200 millones de dólares, lo que lo clasifica como la octava persona más rica del mundo.[1]​
+Desde el 2010, la revista Time ha nombrado a Zuckerberg entre las 100 personas más ricas e influyentes del mundo como parte de su Persona del Año. A mediados del 2018, Forbes lo colocó como la quinta persona más rica del mundo.[2]​
+
+
+== Inicios ==
+Zuckerberg nació en 1984 en White Plains, Nueva York. Es hijo de Karen Kempner, psiquiatra, y de Edward Zuckerberg, dentista. Sus antepasados provenían de Alemania, Austria y Polonia. Él y sus tres hermanas, Randi, Donna y Arielle, se criaron en Dobbs Ferry, Nueva York, pequeña aldea del condado de Westchester, aproximadamente 21 millas al norte de Midtown Manhattan. Zuckerberg creció dentro de la comunidad judía, y tuvo su Bar Mitzvah cuando cumplió 13 años.[cita requerida]En el Colegio Ardsley, Zuckerberg sobresalía en las clases. Se trasladó a la Phillips Exeter Academy, una escuela privada en Nueva Hampshire, en su tercer año, donde obtuvo premios en ciencias (matemáticas, astronomía y física) y en estudios clásicos. En su juventud, también asistió al campamento de verano Johns Hopkins Center for Talented Youth. En su solicitud universitaria, Zuckerberg afirmó que podía leer y escribir francés, hebreo, latín y griego antiguo. Era capitán del equipo de esgrima.[cita requerida]En el 2002, con 18 años, lanzó con su amigo Adam D'Angelo, exjefe técnico de Facebook, la aplicación Synapse Media Player. El éxito fue notable, debido a la habilidad del programa de reproducir canciones basándose en las preferencias y selecciones previas de los usuarios. Diferentes compañías de software, como Microsoft y Apple, quisieron obtener los derechos, pero finalmente no se firmó ningún contrato al respecto. Por el contrario, Mark subió su aplicación a la red, donde los usuarios la podían descargar de forma gratuita.[3]​
+
+
+== Estudios ==
+
+Ingresó en la Universidad de Harvard en 2003 y formó parte de la fraternidad Alpha Epsilon Pi. Empezó a desarrollar programas como el Coursematch, que permitía a los estudiantes ver la lista de otros compañeros de clase o una web en la que se podía calificar a las estudiantes de la universidad, Facemash.com. Por ello, el Departamento de Servicios Informáticos de Harvard llevó a Zuckerberg ante la administración con cargos de infracción de la seguridad informática y violación de las políticas de privacidad y de propiedad intelectual.[4]​
+La Universidad de Harvard insistió en que Zuckerberg había hackeado el internet de la universidad para alterar imágenes de los estudiantes sin autorización y para su propio beneficio,[cita requerida] algo que era falso.[cita requerida] En una biografía no autorizada sobre él, se sugiere que Zuckerberg, al sentirse rechazado como estudiante, hizo pública la lista completa de las imágenes de sus compañeras universitarias, las cuales extrajo del Directorio de estudiantes.
+Zuckerberg declaró que pensaba que la información debía ser libre y abierta al público. Las acciones tomadas por el Consejo Administrativo de Harvard en este asunto no se hicieron públicas. En 2004 Zuckerberg creó Facebook y se ausentó un año de la Universidad, hasta que un año después abandonó la carrera.
+
+
+== Facebook ==
+
+
+=== Venta parcial ===
+El 24 de octubre de 2007, Facebook y Microsoft anunciaron que este último había comprado el 1,6 % de las acciones de la red social. Algunos han mencionado que dicho contrato revalorizó a Facebook en 1500 millones de dólares, aproximadamente.[cita requerida] Sin embargo, una extensión de las relaciones entre ambos hasta 2011 incrementaría el precio.
+
+
+=== Feed de noticias ===
+El 5 de septiembre de 2006 Facebook lanzó un feed de noticias, una lista de lo que hacen los amigos en el sitio. Zuckerberg llegó a ser blanco de críticas porque algunos dicen que Feed noticias es innecesaria y una herramienta para conversaciones en línea. Tres días después, Zuckerberg respondió en una carta abierta a la comunidad de Facebook pidiendo disculpas por la indeseada herramienta y ofreciendo nuevas opciones de privacidad, pero defendiéndola, así como su convicción en el flujo libre de la información. Mark sostuvo que la herramienta es útil para ser utilizada entre amigos y que en las opciones de privacidad se puede encontrar la manera de bloquear lo que el usuario no quiere que sea conocido por otros.
+
+
+=== Plataforma Facebook ===
+El 24 de mayo de 2007 Zuckerberg, durante la Conferencia G8, anunció el lanzamiento de la plataforma de Facebook, un ambiente de desarrollo para construir aplicaciones sociales dentro de Facebook. Después del lanzamiento de la Plataforma de Facebook, tanto él como la red social comenzaron a ser ampliamente populares en la prensa, incluida una historia escrita por Newsweek[5]​ en agosto.
+
+
+== Controversias ==
+
+
+=== Robo de idea ===
+Los hermanos Tyler y Cameron Winklevoss, dos campeones de remo, y su amigo Divya Narendra estudiaron en Harvard, tal como narra la película The Social Network (2010). Ellos le pidieron a Zuckerberg que los ayudara a crear una red social para los estudiantes de la referida universidad. El trío, que fundó una compañía llamada ConnectU, asegura que Zuckerberg les robó la idea y que deliberadamente retrasó el proyecto mientras trabajaba con las ideas robadas para su propio proyecto, Facebook. Una denuncia legal fue hecha en 2004 alegando una violación del contrato, apropiación de secretos comerciales y robo de los derechos intelectuales, así como robo de códigos. Mark declaró que no había sido firmado ningún contrato y que por lo tanto él no era un socio. Dijo además que lo que estaban buscando era un daño económico.[6]​ En febrero del 2010 hubo una alianza entre ConnectU y MySpace para superar el número de usuarios y así catalogarse como la red social de mayor demanda.
+Desde su presentación original en Massachusetts, la demanda fue desestimada sin ningún perjuicio el 28 de marzo de 2007, pero nunca se dictó una sentencia. Fue retomada muy pronto ante la Corte Distrital de los EE. UU. en Boston y una audiencia preliminar fue programada para el 25 de julio de 2007.[7]​ En la audiencia, el juez dijo al demandante de ConnectU que la demanda no era suficiente y les dio la opción de volverla a hacer.
+
+
+== Vida personal ==
+Tiene una relación desde el año 2005 con Priscilla Chan, una estudiante de origen chino que estudiaba medicina en la Universidad Harvard y se habrían conocido en esta. La pareja contrajo matrimonio el 19 de mayo de 2012, en una ceremonia celebrada en su casa ubicada en Palo Alto, California.[8]​
+Mark se confiesa vegetariano y declara que de esta manera come de forma mucho más saludable:
+
+ 
+
+
+== Reconocimientos ==
+Según la revista Vanity Fair, el famoso fundador de Facebook se mostró en el primer puesto de las personas más influyentes del mundo de la tecnología en el año, y superó a Steve Jobs, fundador de Apple Inc., ya fallecido, y a Serguéi Brin y Larry Page, fundadores de Google.[cita requerida]
+Mark Zuckerberg también fue elegido como Personaje del Año, en 2010.[cita requerida]
+
+
+== Aparición en medios ==
+
+
+=== Zuckerberg en Los Simpson ===
+Zuckerberg apareció en el 2º episodio de la vigésimo segunda temporada de Los Simpson. El episodio se llama Loan-a-Lisa y fue transmitido el 3 de octubre de 2010 en los Estados Unidos. En el episodio, Lisa invierte en la nueva aventura empresarial de Nelson, pero se da cuenta de que el éxito instantáneo de su amigo hace que este abandone la escuela. Lisa le presenta a Mark Zuckerberg, solo para descubrir que él también abandonó la Universidad.
+
+
+=== The Social Network ===
+
+Es una película dirigida por David Fincher que fue estrenada el 1 de octubre de 2010 en Estados Unidos. Está basada en el libro Multimillonarios por accidente, de Ben Mezrich, y narra la historia de Facebook. Jesse Eisenberg interpreta a Mark Zuckerberg. La primera exhibición de la película se realizó al comenzar la cuadragésima octava edición del Festival de Cine de Nueva York el 24 de septiembre de 2010.[10]​
+
+
+=== Zuckerberg en South Park ===
+Zuckerberg aparece en el episodio 14 - temporada 21, en el episodio llamado Precuela de la franquicia. En el episodio Mark es invitado por los padres del pueblo para advertir sobre los peligro en las redes lo cual no realiza y solo da una charla hablando de sus habilidades. Mark no quiere salir del pueblo y termina fastidiando a los pobladores. Coon y Amigos descubren que es socio del Profesor Caos el cual lo convenció para destruirlos.[11]​
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Grynbaum, Michael M. (10 de junio de 2004). «Mark E. Zuckerberg ’06: The whiz behind thefacebook.com». The Harvard Crimson. Archivado desde el original el 18 de agosto de 2007. Consultado el 4 de noviembre de 2007. 
+Mezrich, Ben. (25 de marzo de 2010). «Multimillonarios por accidente: Entrevista con Ben Mezrich, autor del libro no autorizado sobre el origen de Facebook». El Pais.com. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Mark Zuckerberg.Mark Zuckerberg en Facebook
+Mark Zuckerberg - Forbes

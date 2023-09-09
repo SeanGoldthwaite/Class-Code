@@ -1,0 +1,21 @@
+﻿Bluefish est un éditeur de texte libre destiné à la programmation. Il comporte une fonction de coloration syntaxique qui reconnait 25 langages de programmation (Ada, ASP-VBScript, ASP, C, C++, CSS, D, Diff, HTML, Java, JavaScript, JSP, NSIS, Perl, PHP, po Gettext, Python, Ruby, Bash, Smarty, SQL, VBScript, XHTML, XML, XSLT).
+La version 2.0.0 apporte de nouvelles fonctionnalités : gestion des bouts de code (snippets), pliage des blocs de code, nouvelle gestion des fichiers de documentation, nouvelles fonctions de recherche et remplacement, possibilité de visualiser les espaces et la table de caractères UTF8. La syntaxe MediaWiki est à présent (assez bien) supportée.
+
+
+== Historique ==
+Bluefish a été démarré par Chris Mazuc et Olivier Sessink en 1997 pour faciliter le développement web professionnel sur Linux.
+Depuis, Bluefish est programmé par un groupe évolutif de développeurs web sous la direction de Olivier Sessink.
+Le projet a eu différents noms. Le nom initial Thtml editor a été abandonné car il était trop cryptique.
+Le suivant, Prosite, a été abandonné pour éviter les conflits avec de multiples entreprises de développement web qui utilisaient ce nom dans des contextes commerciaux.
+Le nom Bluefish a été choisi après que le logo (un dessin d'enfant de poisson bleu) fut proposé sur la  liste de diffusion.
+Depuis la version 1.0 le logo original a été remplacé par un nouveau logo, plus soigné.
+
+
+== Notes et références ==
+
+
+== Liens externes ==
+(en) Site officiel
+Installation d'un environnement de compilation Windows
+(en) Installing Bluefish
+Bluefish éditeur externe pour Wikipédia et autres Mediawiki Portail des logiciels libres   Portail de la programmation informatique

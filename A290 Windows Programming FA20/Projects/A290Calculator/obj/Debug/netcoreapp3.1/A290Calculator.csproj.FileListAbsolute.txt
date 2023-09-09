@@ -1,0 +1,15 @@
+D:\Classes\A290\Projects\A290Calculator\bin\Debug\netcoreapp3.1\A290Calculator.exe
+D:\Classes\A290\Projects\A290Calculator\bin\Debug\netcoreapp3.1\A290Calculator.deps.json
+D:\Classes\A290\Projects\A290Calculator\bin\Debug\netcoreapp3.1\A290Calculator.runtimeconfig.json
+D:\Classes\A290\Projects\A290Calculator\bin\Debug\netcoreapp3.1\A290Calculator.runtimeconfig.dev.json
+D:\Classes\A290\Projects\A290Calculator\bin\Debug\netcoreapp3.1\A290Calculator.dll
+D:\Classes\A290\Projects\A290Calculator\bin\Debug\netcoreapp3.1\A290Calculator.pdb
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.csprojAssemblyReference.cache
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.csproj.GenerateResource.cache
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.AssemblyInfoInputs.cache
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.AssemblyInfo.cs
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.csproj.CoreCompileInputs.cache
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.dll
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.pdb
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.genruntimeconfig.cache
+D:\Classes\A290\Projects\A290Calculator\obj\Debug\netcoreapp3.1\A290Calculator.A290CalculatorMain.resources

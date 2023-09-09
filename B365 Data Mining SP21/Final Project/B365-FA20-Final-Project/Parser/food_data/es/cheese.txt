@@ -1,0 +1,7 @@
+﻿Cheese es una aplicación incluida en el proyecto GNOME desde su versión 2.22 que utiliza la webcam para tomar fotografías y vídeos, aplicando efectos especiales divertidos, al estilo del Photo Booth de Apple.
+Fue escrito como parte del Google Summer of Code 2007 por Daniel G. Siegel y tuvo como mentor a Raphaël Slinckx.
+Cheese utiliza GStreamer para aplicar los efectos a las imágenes y a los vídeos.
+
+
+== Enlaces externos ==
+Cheese en GNOME

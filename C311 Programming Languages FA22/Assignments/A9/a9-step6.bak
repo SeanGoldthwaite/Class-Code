@@ -1,0 +1,277 @@
+#lang racket
+(require "parenthec.rkt")
+
+(define-union expr
+  (const cexp)
+  (var n)
+  (sub1 nexp)
+  (zero nexp)
+  (mult nexp1 nexp2)
+  (if test conseq alt)
+  (letcc body)
+  (throw kexp vexp)
+  (let exp body)              
+  (lambda body)
+  (app rator rand))
+
+(define value-of-cps
+  (lambda (*exp* *env-cps* *k*)
+    (union-case *exp* expr
+      [(const num)
+       (let* ([*k* *k*]
+              [*v* num])
+         (apply-k *k* *v*))
+       #;(apply-k *k* expr)]
+      [(var y)
+       (let* ([*k* *k*]
+              [*env-cps* *env-cps*]
+              [*y* y])
+         (apply-env *env-cps* *y* *k*))
+       #;(apply-env *env-cps* y *k*)]
+      [(sub1 x)
+       (let* ([*k* (make-sub1-k *k*)]
+              [*exp* x]
+              [*env-cps* *env-cps*])
+         (value-of-cps *exp* *env-cps* *k*))]
+      [(zero x)
+       (let* ([*k* (make-zero-k *k*)]
+              [*exp* x]
+              [*env-cps* *env-cps*])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps x
+                     *env-cps*
+                     (make-zero-k *k*))]
+      [(mult x1 x2)
+       (let* ([*k* (make-mult-outer-k x2 *env-cps* *k*)]
+              [*exp* x1]
+              [*env-cps* *env-cps*])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps x1
+                     *env-cps*
+                     (make-mult-outer-k x2 *env-cps* *k*))]
+      [(if test conseq alt)
+       (let* ([*temp-k* *k*]
+              [*k* (make-if-k *k*)]
+              [*exp* test]
+              [*env-cps* *env-cps*])
+         (if (value-of-cps *exp* *env-cps* *k*)
+             (let* ([*k* *temp-k*]
+                    [*exp* conseq]
+                    [*env-cps* *env-cps*])
+               (value-of-cps *exp* *env-cps* *k*))
+             (let* ([*k* *temp-k*]
+                    [*exp* alt]
+                    [*env-cps* *env-cps*])
+               (value-of-cps *exp* *env-cps* *k*))))
+       #;(if (value-of-cps test *env-cps* (make-if-k *k*))
+           (value-of-cps conseq *env-cps* *k*)
+           (value-of-cps alt *env-cps* *k*))]
+      [(letcc body)
+       (let* ([*exp* body]
+              [*env-cps* (extend-env *env-cps* *k*)]
+              [*k* *k*])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps body
+                     (extend-env *env-cps* *k*)
+                     *k*)]
+      [(throw k-exp v-exp)
+       (let* ([*k* (make-throw-k v-exp *env-cps*)]
+              [*exp* k-exp]
+              [*env-cps* *env-cps*])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps k-exp
+                     *env-cps*
+                     (make-throw-k v-exp *env-cps*))]
+      [(let e body)
+       (let* ([*exp* e]
+              [*env-cps* *env-cps*]
+              [k^ (value-of-cps *exp* *env-cps* *k*)]
+              [*k* *k*]
+              [*exp* body]
+              [*env-cps* (extend-env *env-cps* k^)])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps body
+                     (extend-env *env-cps* (value-of-cps e *env-cps* *k*))
+                     (empty-k))]
+      [(lambda body)
+       (let* ([*v* (make-clos body *env-cps* *k*)]
+              [*k* *k*])
+         (apply-k *k* *v*))
+       #;(apply-k *k* (make-clos body *env-cps* *k*))]
+      [(app rator rand)
+       (let* ([*k* (make-rator-k rand *env-cps* *k*)]
+              [*exp* rator]
+              [*env-cps* *env-cps*])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps rator
+                     *env-cps*
+                     (make-rator-k rand *env-cps* *k*))])))
+
+(define-union envr
+  (empty-env)
+  (extend-env env-cps^ k))
+ 
+(define apply-env
+  (λ (*env-cps* *y* *k*)
+    (union-case *env-cps* envr
+      [(empty-env)
+       `(error 'value-of "unbound identifier" ,*y*)]
+      [(extend-env env-cps^ k)
+       (if (zero? *y*)
+           (let* ([*k* *k*]
+                  [*v* k])
+             (apply-k *k* *v*))
+           #;(apply-k *k* k)
+           (let* ([*k* *k*]
+                  [*env-cps* env-cps^]
+                  [*y* (sub1 *y*)])
+             (apply-env *env-cps* *y* *k*))
+           #;(apply-env *env-cps* (sub1 *y*) *k*))])))
+
+(define empty-env
+  (lambda ()
+    (envr_empty-env)))
+
+(define extend-env
+  (λ (env-cps^ k^)
+    (envr_extend-env env-cps^ k^)))
+
+(define-union clos
+  (make body env-cps k))
+
+(define apply-clos
+  (λ (*rator* *arg* *k*)
+    (union-case *rator* clos
+      [(make body env-cps k^)
+       (let* ([*k* *k*]
+              [*exp* body]
+              [*env-cps* (extend-env env-cps *arg*)])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps body
+                     (extend-env env-cps arg)
+                     k)])))
+
+(define make-clos
+  (λ (body env-cps k)
+    (clos_make body env-cps k)))
+
+(define-union kt
+  (empty-k)
+  (make-sub1-k k)
+  (make-zero-k k)
+  (make-throw-k v-exp env-cps)
+  (make-rand-k v-rator k)
+  (make-rator-k rand env-cps k)
+  (make-mult-inner-k w k)
+  (make-mult-outer-k x2 env-cps k)
+  (make-if-k k))
+
+(define apply-k
+  (λ (*k* *v*)
+    (union-case *k* kt
+      [(empty-k)
+       *v*]
+      [(make-if-k k^)
+       *v*]
+      [(make-sub1-k k^)
+       (let* ([*k* k^]
+              [*v* (sub1 *v*)])
+         (apply-k *k* *v*))
+       #;(apply-k k^ (sub1 *v*))]
+      [(make-zero-k k^)
+       (let* ([*k* k^]
+              [*v* (zero? *v*)])
+         (apply-k *k* *v*))
+       #;(apply-k k^ (zero? *v*))]
+      [(make-throw-k v-exp^ env-cps^)
+       (let* ([*k* *v*]
+              [*exp* v-exp^]
+              [*env-cps* env-cps^])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps v-exp^
+                     env-cps^
+                     *v*)]
+      [(make-rand-k v-rator^ k^)
+       (let* ([*k* k^]
+              [*rator* v-rator^]
+              [*arg* *v*])
+         (apply-clos *rator* *arg* *k*))
+       #;(apply-clos v-rator^ *v* k^)]
+      [(make-rator-k rand^ env-cps^ k^)
+       (let* ([*k* (make-rand-k *v* k^)]
+              [*exp* rand^]
+              [*env-cps* env-cps^])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps rand^
+                     env-cps^
+                     (make-rand-k *v* k^))]
+      [(make-mult-inner-k w^ k^)
+       (let* ([*k* k^]
+              [*v* (* *v* w^)])
+         (apply-k *k* *v*))
+       #;(apply-k k^ (* *v* w^))]
+      [(make-mult-outer-k x2^ env-cps^ k^)
+       (let* ([*k* (make-mult-inner-k *v* k^)]
+              [*exp* x2^]
+              [*env-cps* env-cps^])
+         (value-of-cps *exp* *env-cps* *k*))
+       #;(value-of-cps x2^
+                     env-cps^
+                     (make-mult-inner-k *v* k^))])))
+
+(define empty-k
+  (λ ()
+    (kt_empty-k)))
+
+(define make-sub1-k
+  (λ (k^)
+    (kt_make-sub1-k k^)))
+
+(define make-zero-k
+  (λ (k^)
+    (kt_make-zero-k k^)))
+
+(define make-throw-k
+  (λ (v-exp^ env-cps^)
+    (kt_make-throw-k v-exp^ env-cps^)))
+
+(define make-rand-k
+  (λ (v-rator^ k^)
+    (kt_make-rand-k v-rator^ k^)))
+
+(define make-rator-k
+  (λ (rand^ env-cps^ k^)
+    (kt_make-rator-k rand^ env-cps^ k^)))
+
+(define make-mult-inner-k
+  (λ (w^ k^)
+    (kt_make-mult-inner-k w^ k^)))
+
+(define make-mult-outer-k
+  (λ (x2^ env-cps^ k^)
+    (kt_make-mult-outer-k x2^ env-cps^ k^)))
+
+(define make-if-k
+  (λ (k^)
+    (kt_make-if-k k^)))
+
+(define main 
+  (lambda ()
+    (value-of-cps 
+     (expr_let 
+      (expr_lambda
+       (expr_lambda 
+        (expr_if
+         (expr_zero (expr_var 0))
+         (expr_const 1)
+         (expr_mult (expr_var 0) (expr_app (expr_app (expr_var 1) (expr_var 1)) (expr_sub1 (expr_var 0)))))))
+      (expr_mult
+       (expr_letcc
+        (expr_app
+         (expr_app (expr_var 1) (expr_var 1))
+         (expr_throw (expr_var 0) (expr_app (expr_app (expr_var 1) (expr_var 1)) (expr_const 4)))))
+       (expr_const 5)))
+     (empty-env)
+     (empty-k))))
+
+(main)

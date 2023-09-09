@@ -1,0 +1,43 @@
+﻿Die Geochemie (griechisch γεω- geo- ‚die Erde betreffend‘ [zu γῆ ge ‚Erde‘] und -chemie) ist ein Teilgebiet der Chemie, der sich mit dem stofflichen Aufbau, der Verteilung, der Stabilität und dem Kreislauf von chemischen Elementen und deren Isotopen in Mineralen, Gesteinen, Boden, Wasser, Erdatmosphäre und Biosphäre befasst. Sie ist die naturwissenschaftliche Fachrichtung, die Geologie und Chemie verbindet. Dabei hat sie mit der Geologie den Untersuchungsgegenstand und mit der Chemie die Untersuchungsmethoden gemein.
+
+
+== Geschichte ==
+Bis in das späte 19. Jahrhundert hinein wurde in den Geowissenschaften ein beschreibender Ansatz verfolgt, der die Gesteine und Minerale nach ihren äußeren Eigenschaften zu verstehen suchte, hingegen jedoch nicht oder kaum die stoffliche Basis und deren chemische Dynamik mit einschloss. Ein Verständnis dieser Dynamik ist jedoch unerlässlich, denn viele Fragen lassen sich nur durch geochemische Ansätze beantworten.
+Die Geschichte der modernen Geochemie, zu deren Gründern Victor Moritz Goldschmidt, Wladimir Iwanowitsch Wernadski, Frank Wigglesworth Clarke und Alfred Treibs am Anfang bis Mitte des 20. Jahrhunderts gehörten, ist dadurch eng mit jener der Geologie und Mineralogie verknüpft. Der Begriff selbst geht auf den Schweizer Chemiker Christian Friedrich Schönbein (1838) zurück. Wichtige Etappen auf dem Weg zum modernen Verständnis der Geochemie stellten die Arbeiten von Karl Gustav Bischof (1846), Justus Roth (1818–1892; 1859) und James David Forbes (1868) dar.
+
+
+== Untersuchungsgegenstand ==
+In der modernen Geochemie ist eine Zweiteilung des Faches zu beobachten. Auf der einen Seite steht die Untersuchung metamorpher und magmatischer Gesteine, wobei das Hauptaugenmerk auf deren Spurenelementgehalten und (meist radiogenen) Isotopenverhältnissen liegt, mit dem Ziel, Aussagen über Alter (Geochronologie) und Bildungsbedingungen (Geothermobarometrie) machen zu können. Im Bereich der Rekonstruktion der frühesten Erdgeschichte gibt es hier Überschneidungen mit der Planetologie und der Kosmochemie. Auf der anderen Seite steht die Untersuchung von Sedimenten, Wässern, Böden, Lebewesen und der Luft, wobei die Untersuchung stabiler Isotope und der Speziierung von Elementen eine herausragende Rolle spielt. An diesem Ende des Spektrums der Geochemie bildet die Biogeochemie, also die Untersuchung des Einflusses von Organismen auf die Chemie der Erde, den Übergang zur Biochemie und zur Biologie.
+
+
+== Untersuchungsmethoden ==
+Für die Untersuchung flüssiger Proben wird für die Bestimmung der Hauptelemente oft die Ionenaustauschchromatographie, für die Spurenelemente die Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma (ICP-OES) und für Ultraspurenelemente die Massenspektrometrie mit induktiv gekoppeltem Plasma (ICP-MS) verwendet. Mit letzterer kann auch die Häufigkeit verschiedener Isotope in einer Probe gemessen werden. Durch die Kopplung mit einem Laser können mit der ICP-MS zudem feste Proben untersucht werden, wobei der Laser Material von der Probenoberfläche abträgt. Eine weitere Möglichkeit, die chemische Zusammensetzung fester Proben direkt zu messen, ist die Elektronenstrahlmikroanalyse. Oft werden feste Proben auch einem Aufschluss unterzogen und entweder aufgeschmolzen oder aufgelöst. Die erstarrte Schmelztablette kann dann mit der Röntgenfluoreszenzanalyse untersucht werden, während für Lösungen die gesamte Bandbreite der oben genannten Methoden zur Verfügung steht.
+Neben diese Standardmethoden existieren weitere Verfahren für besondere Fragestellungen: die Mößbauerspektroskopie zur Unterscheidung von zweiwertigem und dreiwertigem Eisen, die Elektronenspinresonanz zum Nachweis geringer Konzentrationen paramagnetischer Ionen in Mineralen, die Röntgenabsorptionsspektroskopie und die Rasterkraftmikroskopie zur chemischen Untersuchung von Oberflächen, die Raman-Spektroskopie und die Infrarotspektroskopie zum Nachweis bestimmter Bindungen und der an ihnen beteiligten Elemente sowie die Neutronenaktivierungsanalyse für extrem geringe Konzentrationen.
+
+
+== Anwendungen ==
+Geochemie der Lithosphäre Die Gehalte und die Verteilung von Elementen in einem Mineral geben Aufschluss über die Entstehungsgeschichte des Gesteins einschließlich der Druck- und Temperaturverhältnisse zur Zeit der Bildung (Geothermobarometrie). Viele Klassifikationen von Gesteinen beruhen auf geochemischen Daten. Beispiele hierfür sind das TAS-Diagramm (Total Alkali Silica) für glasige Vulkanite und die Unterteilung der Granite in S-Typ-Granite und I-Typ-Granite. Sehr oft werden die Konzentrationen der Lanthanoide zur Bestimmung der Entstehungsbedingungen und zur Klassifikation von Gesteinen verwendet.
+Geochemie der Hydrosphäre Die Hydrogeochemie untersucht die Wasserqualität von Oberflächen- und Grundwasser, den Wasserkreislauf und die Wechselwirkungen von Wasser mit Mineralen.
+Geochemie der Erdatmosphäre Wichtige Themen der Atmosphärenchemie sind der Treibhauseffekt, die Luftverschmutzung durch Feinstaub und der saure Regen.
+Isotopengeochemie Stabile Isotope geben Auskunft über Bildungsbereiche, Verwitterungsprozesse und Transportprozesse von Gesteinen, Erzen und Wässern, radiogene Isotope ermöglichen eine Altersbestimmung von Mineralen und Gesteinen (Geochronologie).
+Kosmochemie Die Untersuchung von Meteoriten gibt Aufschluss über die Entstehung des Universums, des Sonnensystems und der Erde.
+
+
+== Studiengänge ==
+Grundlagen der Geochemie werden in vielen geowissenschaftlichen Bachelor-Studiengängen (z. B. „Geowissenschaften“, „Geologie/Mineralogie“) vermittelt. Vertiefende Kenntnisse können im Master-Studiengang „Geomaterialien und Geochemie“ oder in geochemischen Vertiefungen meist mineralogisch orientierter Studiengänge erworben werden. In der deutschen Hochschulpolitik ist die Geochemie als Kleines Fach eingestuft; sie wird von der „Arbeitsstelle Kleine Fächer“ gemeinsam mit der Mineralogie, der Petrologie und ähnlichen Fachgebieten erfasst.
+
+
+== Literatur ==
+Allègre, C. J.; Michard G.; Varney, R.N.: Introduction to Geochemistry. ISBN 90-277-0497-X
+Faure, G. (1998): Principles and applications of geochemistry. 2. Auflage. Prentice Hall, New Jersey.
+Levinson, A. A. (1980): Introduction to Exploration Geochemistry, Second Edition, Applied Publishing Ltd., ISBN 0-915834-04-9
+Marshall, C. P.; Fairbridge, R. W. (1999): Encyclopedia of geochemistry. Encyclopedia of Earth Sciences Series. Springer-Verlag, ISBN 0-412-75500-9
+Mason, B. & Moore, C. (1985): Grundzüge der Geochemie. 2. Auflage. Spektrum Akademischer Verlag, ISBN 978-3-8274-1262-1
+Matschullat, J.; Tobschall, H. J.; Voigt, H.-J. (1997): Geochemie und Umwelt. Springer-Verlag, Berlin, ISBN 3-540-61866-X
+Schlesinger, W.H. (2005): Biogeochemistry. Vol. 8 in: Treatise on Geochemistry. Elsevier Science, ISBN 0-08-044642-6
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

@@ -1,0 +1,116 @@
+﻿Humus (lateinisch hūmus „Erde, Erdboden“) bezeichnet in der Bodenkunde die Gesamtheit der fein zersetzten organischen Substanz eines Bodens.Der Humus ist Teil der gesamten organischen Bodensubstanz. Er unterliegt vor allem der Aktivität der Bodenorganismen (Edaphon), die durch ihren Stoffwechsel laufend zum Auf-, Um- oder Abbau des Humus beitragen. Im eigentlichen Sinne gilt in der Fachliteratur nur der zersetzte organische Anteil im Boden als Humus, während der unzersetzte Anteil als Detritus bezeichnet wird. Da die jeweiligen Umwandlungsstufen fließend sind, ist eine genaue Abgrenzung nicht möglich. Weder Humus noch Detritus sind tote Substanz, sondern stark mit Bodenbakterien durchsetzt.
+
+
+== Entstehung ==
+Humus besteht aus einer Vielzahl komplexer Verbindungen, die nach dem Absterben organische Materie freisetzen und sowohl spontan als auch enzymatisch durch Bodenorganismen chemisch umgewandelt werden. Die Verbindungen unterscheiden sich erheblich in ihrer Abbaubarkeit durch Mikroorganismen. Niedermolekulare Kohlenhydrate und Proteine werden schnell zersetzt, komplexe Verbindungen wie Cellulose oder Lignin werden langsamer abgebaut. Daher verweilen bestimmte Humusbestandteile nur wenige Wochen oder Monate im Boden (Nährhumus), andere jedoch Jahrhunderte oder Jahrtausende lang (Dauerhumus).
+
+
+=== Vorphase der Zersetzung ===
+Zunächst finden biochemische Reaktionen (Hydrolyse- und Oxidations­vorgänge durch Gewebeenzyme) organismeneigener Stoffe in der Pflanze statt, z. B. führt der Abbau des Chlorophylls zu herbstlicher Verfärbung der Blätter. In der Vorphase der Zersetzung bleibt der Zellverband intakt.
+
+
+=== Initialphase ===
+In dieser Phase kommt es zur Hydrolyse und Oxidation hochpolymerer Verbindungen. Ferner werden wasserlösliche Komponenten (z. B. Zucker, Aminosäuren, organische Säuren) ausgewaschen. Dabei kommt es zu einer starken Zunahme von Mikroorganismen, die besonders von den freigesetzten Stoffen leben.
+
+
+=== Zerkleinerungsphase ===
+Streustoffe werden von der Makrofauna teils zerbissen, teils gefressen und modifiziert wieder ausgeschieden.
+Anschließend werden diese Verbindungen in den Boden durch Wenigborster (z. B. Regenwürmer, Enchytraeidae) und Gliederfüßer (z. B. Insekten, Tausendfüßer, Spinnentiere) eingearbeitet und begünstigen so allgemein auch die Zugänglichkeit für die Mesofauna (Collembolen, Milben, Nematoden).
+
+
+=== Ab- und Umbauphase ===
+Die organischen Fragmente werden nun enzymatisch gespalten und es kommt zur Freisetzung einfacher anorganischer Komponenten wie CO2, H2O, NH4+, NO2−, NO3−, PO43− (= Mineralisierung).
+Es kommt zu einer relativen Anreicherung schwer abbaubarer Stoffe (z. B. Lignin, Lipide). Lignin wird durch Spezialisten (z. B. Weißfäulepilze) ab- und umgebaut (Ligninolyse).
+Durch die oben beschriebenen Phasen entsteht zunächst Nährhumus (labile organische Substanz), im weiteren Stadium entsteht Dauerhumus (stabile organische Substanz).
+
+
+== Produkte der Humusbildung ==
+
+
+=== Nährhumus ===
+Nährhumus sind die organischen Stoffe, die im Boden rasch abgebaut werden. Hinzu kommt die Körpersubstanz aller abgestorbenen Bodenorganismen. Der Nährhumus pflanzlicher Herkunft hat folgende Zusammensetzung:
+
+Kohlenhydrate (Cellulose, Zucker, Stärke; meist über 50 %)
+Lignin (je nach Verholzungsgrad der Pflanzen 10–40 %)
+stickstoffhaltige Verbindungen (meist weniger als 10 %)Nährhumus dient den meisten Bodenorganismen als Nahrungsquelle und ist damit die Voraussetzung für die biologische Aktivität des Bodens. Flach eingearbeitet bzw. als Wurzelmasse fein verteilt (nach dem Abbau der Wurzeln bleibt ein fein verästeltes Röhrensystem zurück), fördert er die Durchlüftung und damit den Stoffumsatz. Mit dem Zellabbau werden die in der organischen Substanz gebundenen Pflanzennährstoffe wieder in den Stoffkreislauf zurückgeführt. Sie werden so für die Ernährung neuer Pflanzen verfügbar. Der Nährhumus liefert die Bausteine für den Aufbau der Huminstoffe des Dauerhumus.
+
+
+=== Dauerhumus ===
+Im Gegensatz zum Nährhumus wird der Dauerhumus nur sehr langsam abgebaut. Er entsteht durch weiteren Abbau von Nährhumus oder im Endstadium der Kompostierung.
+Er kann sowohl Wasser als auch Nährstoffe binden und wieder an die Pflanzen abgeben. Das Wasser- und Nährstoffbindungsvermögen beträgt ein Vielfaches von dem des Tons. Dauerhumus ist ein wesentliches Bau- und Stabilisierungselement des Bodengefüges durch Bildung von Ton-Humus-Komplexen und von stabilen Bodenaggregaten. Der Dauerhumus stellt den größten Teil der organischen Substanz des Bodens (im Allgemeinen über 90 %) und enthält die Hauptmasse des Bodenstickstoffs. Er verursacht die dunkle Farbe des humosen Oberbodens und fördert so die Erwärmung der Bodenoberfläche. Durch seine Eigenschaften bestimmt der Dauerhumus maßgeblich die Bodenfruchtbarkeit.
+
+
+== Eigenschaften ==
+
+Die Humusqualität kann am Stickstoffgehalt, und zwar am Kohlenstoff/Stickstoff-Verhältnis (C/N) gemessen werden. In der frisch abgestorbenen Substanz ist das C/N-Verhältnis hoch, allerdings mit starken Unterschieden in Abhängigkeit von Pflanzenart, Pflanzenteil und Alter der Pflanze (C/N-Verhältnis von Winterweizen: 71; Zuckerrübe: 20). Durch den Abbau im Boden verringert sich das C/N-Verhältnis. Ein optimales C/N-Verhältnis liegt bei 10 bis 15.
+Für die überschlägige Berechnung des Stickstoffgehaltes des humosen Oberbodens spielen der Humusgehalt und die Mächtigkeit des A-Horizontes eine Rolle. Dabei kann von einem Stickstoffgehalt in Höhe von 1/17 des Humusgehaltes und einem Gewicht des Krumenbodens von 1500 t/10 cm/ha ausgegangen werden. Unter feucht-gemäßigten Klimaverhältnissen wird damit gerechnet, dass jährlich etwa 2–3 % des organisch gebundenen Stickstoffs der Krume umgesetzt und damit pflanzenverfügbar werden (= Stickstoffnachlieferung des Bodens).Aufgrund des hohen C-Gehaltes des Humus (fast 60 %) kann durch hohe Humusgehalte gleichzeitig Kohlenstoff im Boden gebunden werden.Aufgrund ihres Porenvolumens können humusreiche Böden mehr Wasser speichern als andere.
+Kohlenstoff und andere Elemente sind Nahrungsmittel für Mikroorganismen, die sich besonders in humusreichen Böden ansiedeln und fortlaufend vermehren.
+
+
+== Humusformen ==
+
+
+=== Auflagehorizonte ===
+
+Die Humusauflage eines naturbelassenen nicht durchnässten Bodens kann im herkömmlichen Modell drei Bodenhorizonte umfassen:Mit L wird der Streu-Horizont (englisch litter – „Streu“) bezeichnet. Er enthält abgestorbene Pflanzenreste, die nicht oder nur wenig zersetzt sind. Diese sind als solche noch ohne Einschränkung erkennbar und nach Pflanzenart klassifizierbar. Der Anteil an Feinsubstanz beträgt weniger als 10 Vol.-‍%.
+O (von organisch) bezeichnet einen Horizont aus organischer Substanz mit mehr als 10 Vol.-‍% Feinsubstanz. Pflanzenreste sind bereits deutlich zersetzt. Der Horizont enthält weniger als 70 Masse-‍% mineralische Substanz. Der O-‍Horizont lässt sich untergliedern in Of- und Oh-‍Horizont.
+Of (vermodert, von schwedisch: Förmultningsskiktet) ist ein O-‍Horizont, in dem der Anteil der organischen Feinsubstanz (10 bis 70 Vol.-‍%) deutlich hervortritt. Durch Fermentation und Vermoderung hat bereits eine weitgehende Zersetzung der Pflanzenreste stattgefunden. Noch sind Strukturen pflanzlicher Gewebe erkennbar, diese sind jedoch bereits mit Humuspartikeln vermengt.
+Oh (von humos) bezeichnet den Dauerhumus- Horizont mit dunkel gefärbten Huminstoffen. An dem darin enthaltenen Material sind keinerlei pflanzliche Strukturen mehr erkennbar. Die Zersetzung des Pflanzenmaterials hat ein weit fortgeschrittenes Stadium erreicht. Der Anteil organischer Feinsubstanz (über 70 Vol.-%) überwiegt.
+Nicht mit zur Humusauflage gehört der Ah-Horizont. Dieser ist der mineralische Oberboden und enthält meist durch tierische Aktivität (etwa Regenwürmer und Maulwürfe) oder menschliche Aktivität (zum Beispiel Pflügen) eingebrachten Humus. Der Humusanteil beträgt hier maximal 30 Prozent.
+Wie stark die Humusauflage ausgeprägt ist, und welche der beschriebenen Horizonte sie aufweist, hängt insbesondere davon ab, inwieweit durch die bestehenden Umweltbedingungen (Temperatur, Feuchtigkeit, Boden­versauerung, Nährstoff­versorgung, Exposition, Lage, Breitengrad, Klima und anderes) Humus­akkumulation begünstigt wird. Allgemein ist die Humus­akkumulation umso stärker, je ungünstiger sich die Umwelt für die Aktivität der Mikroorganismen gestaltet.
+
+
+=== Mull ===
+Charakteristisch für die Humusform Mull ist leicht zersetzbares organisches Material (Laubstreu) und optimale Abbaubedingungen im mineralischen Oberboden. Dadurch bildet sich nur eine geringmächtige Humusauflage (L-Horizont). Streuzersetzung findet hauptsächlich im Ah-Horizont statt. Mull ist maßgeblich an der Bildung eines hohlraumreichen, stabilen Krümelgefüges basenreicher Böden beteiligt. Es überwiegen bodenwühlende Vertreter des Edaphons wie Regenwürmer, Asseln, Tausendfüßler und Fliegenlarven. Regenwürmer sorgen durch ihre stetigen Kotablagerungen auf der Bodenoberfläche und in ihren Gängen dafür, dass der Oberboden fortwährend mit neu gebildetem Mull versorgt wird. Die im Mull gebildeten Humusstoffe sind hochpolymer und daher kaum mobil.
+
+
+=== Rohhumus ===
+Der Rohhumus ist die ungünstigste Humusform. Rohhumus besteht aus schwer zersetzbaren Vegetationsrückständen (Streu). Auch ein zu kühles oder feuchtes Klima führt zu mangelhafter Umsetzung der Pflanzenabfälle.
+Beispielsweise ist die Streu der Nadelbäume schwerer zersetzbar als die vieler Laubbäume. Im Allgemeinen sind Bestandteile wie Wachse, Harze sowie Gerbstoffe und auch Lignin schwer umsetzbar, folglich überdauern abgestorbene Pflanzenteile mit hohen Anteilen dieser Stoffe auch wesentlich länger, und bringen oftmals nur minderwertigen Humus hervor. Das unzersetzte Streumaterial und die wenige vorhandene organische Feinsubstanz sind deutlich voneinander abgegrenzt.Aus dem Oberboden können die Huminstoffe weiter in den Unterboden (B-Horizont) ausgewaschen werden. Dazu kommt, dass schlecht zersetzte Streu eines Rohhumusbodens organische Säuren bilden kann. Dadurch wird auch das Eisen im Boden verstärkt wanderungsfähig und kann ebenfalls in den B-Horizont ausgewaschen werden. Rohhumus fördert damit die Podsolierung.
+
+
+=== Moder ===
+Moder ist eine Mischform zwischen Mull und Rohhumus.
+
+
+=== Hydromorphe Humusformen ===
+Sehr hohe Wassergehalte hemmen die Sauerstoffversorgung eines Bodens und somit die Zersetzung organischer Substanz, die sich demzufolge anreichert. Entsprechend dem Wasserhaushalt werden die dabei entstehenden Humusformen als Feuchthumus, Nasshumus und Sumpfhumus bezeichnet. Extrem nasse Standorte führen zur Torf­bildung. Am Grund von Gewässern gibt es den Seehumus (siehe Mulm).
+
+
+=== Felshumusboden ===
+Spaltenhumus oder Felshumusboden bezeichnet die Entstehung von Humus in Gesteinen und Bergwänden; die Humifizierung vollzieht sich von innen nach außen durch die Biozönose verschiedener Lithobionten. Er besteht aus lehmgelben bis kastanienbraunen kalkigen Tonen und besitzt hohe Feuchtigkeit und hohen Detritusgehalt. Auf Felsen entsteht er auf sogenannten Karrenfeldern und ergibt die Basis für alpine immergrüne Gewächse.
+
+
+== Humusgehalt der Böden ==
+
+Der Humusgehalt der Böden kann in weiten Grenzen schwanken. Er lässt sich aus Messwerten für den Gehalt des Bodens an organischen Kohlenstoff berechnen, indem man diese Werte mit dem Faktor 1,72 (bei Torfen und Auflagehumus Faktor 2) multipliziert. Abhängig ist der Humusgehalt vom Bodenhorizont, der Pflanzendecke, vom Klima, von der Bodenfeuchte und der Bodennutzung. Auch hinsichtlich der Verteilung des Humus im Boden bestehen große Unterschiede: In Waldböden liegt die Hauptmasse des Humus als mehr oder weniger mächtige Auflage (siehe Humusformen) über dem Mineralboden (Auflagehumus, Rohhumus). In landwirtschaftlich genutzten Mineralböden ist der Humus mit dem Mineralanteil innig vermischt. Der Gehalt nimmt von oben nach unten rasch ab. Der mittlere Humusgehalt beackerter Mineralböden liegt in der Krume bei 1,8–2,5 %, bei Grünlandböden im Mittel der oberen 10 cm bei 5–8 %. Höhere Humusgehalte sind typisch für tonige Böden, feuchte bis nasse Böden und Böden in niederschlagsreichem Klima. Stark durchlüftete, sandige Böden haben niedrigere Humusgehalte (1–2 %).
+Im Boden findet ein ständiger Abbau und Aufbau von Humus statt. In einem stabilen Ökosystem (zum Beispiel Wald, altes Grünland) halten sich beide Vorgänge die Waage, d. h. der Humusgehalt verändert sich kaum. Die Bodenbearbeitung verstärkt den Humusabbau. Deshalb muss eine ausreichende Zufuhr von organischer Substanz (Humusversorgung) erfolgen. Der Einfluss des Ackerbaus auf den Humusgehalt des Bodens lässt sich gut an Grünlandumbrüchen zeigen: Die unter Grünland höheren Humusgehalte sinken in den ersten Jahren der Ackernutzung rasch ab und stellen sich allmählich auf einen von Standort zu Standort unterschiedlichen, niedrigen Wert ein. Bei Neuansaat von Grünland nehmen sie allmählich wieder zu. Wenn der Resthumusgehalt, wie er in unseren Ackerböden vorkommt, auch relativ stabil ist, so ist er doch nicht unangreifbar. Er kann zum Beispiel durch den Anbau von Humuszehrern wie Zuckerrüben, Kartoffeln, Silomais oder Gemüse heruntergewirtschaftet werden. Im Rahmen von Cross Compliance wird auf die Erhaltung der organischen Substanz im Boden großer Wert gelegt. In bestimmten Fällen sind landwirtschaftliche Betriebe dazu verpflichtet, den Humusgehalt durch eine Bodenuntersuchung ermitteln zu lassen.
+
+
+== Organische Düngung ==
+Durch die Entdeckung des Edaphons und der Funktionen des Humus gab es die Möglichkeit, nach Alternativen in Form einer organischen Düngung zu suchen, nachdem im letzten Viertel des 20. Jahrhunderts der mineralische Dünger zunehmend in die Kritik geraten war (siehe Geschichte des Düngers).
+Die Zufuhr organischer Substanz erfolgt herkömmlich durch
+
+die bei der Ernte auf dem Feld verbleibenden Ernterückstände (Wurzeln, Stoppeln, Stroh, Sprossmasse),
+den gezielten Anbau von Zwischenfrüchten zur Gründüngung
+Wirtschaftsdünger (Mist, Gülle, Kompost, Klärdünger)
+RindenhumusDie Menge der dem Boden zugeführten organischen Substanz wird von der angebauten Pflanzenart und der Ernteweise bestimmt. Es kommt weniger darauf an, dass dem Boden Nährstoffe in großen Mengen zugeführt werden, sondern dass sie vom Boden „verarbeitet“ werden können. Ernterückstände, Zwischenfrüchte, Stallmist und Gülle sind in ihrer Wirkung auf den Humusgehalt unterschiedlich zu bewerten.
+Bei Ernterückständen handelt es sich um zersetzliche Substanzen, deren Abbau umso schneller erfolgt, je weicher (weniger verholzt) und eiweißreicher sie sind.
+
+
+== Dokumentarfilm ==
+Humus – Die vergessene Klima-Chance, 2009
+
+
+== Literatur ==
+Othmar Nestroy: Den Boden verstehen: Aufbau, Typen, Fruchtbarkeit. Stocker, Graz 2015. ISBN 978-3-7020-1193-2.
+W. Amelung, H.-P. Blume, H. Fleige, R. Horn, E. Kandeler, I. Kögel-Knabner, R. Kretschmar, K. Stahr, B.-M. Wilke: Scheffer/Schachtschabel Lehrbuch der Bodenkunde. 17. Auflage. Heidelberg 2018. ISBN 978-3-662-55870-6.
+
+
+== Weblinks ==
+
+humus-derfilm.at/ (Memento vom 15. März 2010 im Internet Archive)
+bodenwelten.de: Humus
+
+
+== Einzelnachweise ==

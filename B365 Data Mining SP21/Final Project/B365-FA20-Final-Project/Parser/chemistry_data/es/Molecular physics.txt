@@ -1,0 +1,13 @@
+﻿La física molecular es la rama de la física que estudia los problemas relacionados con la estructura atómica de la materia y su interacción con el medio, es decir con la materia o la luz.
+Por ejemplo, se tratan problemas como dinámica y de reacciones, dispersión, interacciones con campos electromagnéticos estáticos y dinámicos, enfriamiento y atrapamiento de átomos, interferometría atómica, interacciones de haces de iones y átomos con superficies y sólidos. Además, tiene múltiples conexiones con la biología, la fisicoquímica, las ciencias de los materiales, la óptica, la física de la atmósfera, la física del plasma y la astrofísica, entre otras. Desempeña un papel fundamental en la solución de preguntas fundamentales sin resolver en el estudio de los átomos y las moléculas.
+La física molecular incluye tratamientos tanto clásicos como cuánticos, ya que puede tratar sus problemas desde puntos de vista microscópicos o macroscópicos.
+
+
+== Bibliografía ==
+Física molecular, de A. N. Matveev.
+
+
+== Enlaces externos ==
+Física atómica y molecular en la Universidad de Antioquia, en Colombia.
+http://windows2universe.org/physical_science/chemistry/hydrogen_peroxide.html&edu=high&lang=sp Consultado el 18 de enero de 2011
+http://html.rincondelvago.com/fisica-atomica-y-molecular.html

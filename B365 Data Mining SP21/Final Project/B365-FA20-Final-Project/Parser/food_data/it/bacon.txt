@@ -1,0 +1,154 @@
+﻿Sir Francis Bacon, dapprima latinizzato in Franciscus Baco(nus) e poi italianizzato in Francesco Bacone (Londra, 22 gennaio 1561 – Londra, 9 aprile 1626), è stato un filosofo, politico, giurista e saggista inglese vissuto alla corte inglese, sotto il regno di Elisabetta I Tudor e di Giacomo I Stuart.
+
+Formatosi con studi in legge e giurisprudenza, divenne un sostenitore e strenuo difensore della Rivoluzione scientifica sostenendo il metodo induttivo fondato sull'esperienza, in senso gnoseologicamente antitetico al metodo deduttivo cartesiano, nonché base della futura teoria della tabula rasa lockiana, espressione che allude alla mancanza di conoscenze a priori e, quindi, già a partire da Aristotele, si esprime l'idea che l'essere umano nasce senza nulla di innato dal punto di vista conoscitivo.
+
+
+== Biografia ==
+Nacque il 22 gennaio 1561, nella York House  di Londra, la residenza di suo padre, sir Nicholas Bacon, che nei primi vent'anni del regno d'Elisabetta I Tudor, aveva tenuto il Gran Sigillo. Sua madre era Lady Anne Cooke, donna di grande cultura e poliglotta, cognata di Lord Burghley, che fu Lord Tesoriere della Regina Elisabetta, e uno degli uomini più potenti d'Inghilterra.
+Nel 1573 a 12 anni iniziò a frequentare il Trinity College dell'Università di Cambridge, ma dopo tre anni se ne allontanò generando un'accesa ostilità verso il culto di Aristotele volendo allontanare la filosofia dalla disputa scolastica per portarla su campi più pratici per illuminare ed accrescere l'umana felicità. Francis Bacon entrò nel giugno del 1576 nel Gray's Inn di Londra una delle scuole dove si formavano i giureconsulti e gli avvocati.
+Tre mesi più tardi partiva per la Francia al seguito di sir Amias Paulet nuovo ambasciatore alla corte di Enrico III: della Francia ebbe un'impressione negativa della quale resterà traccia nelle Note sul presente stato della cristianità (Notes on Present State of Christendom) composte nel 1582. Nelle Note dice che il re gli pare un uomo dagli sregolati piaceri, dedito alle danze, ai festini, alle cortigiane, la Francia un paese profondamente corrotto, male amministrato, povero e prossimo alla rovina.
+Il 20 marzo 1579 ritorna precipitosamente a Londra a causa della morte del padre. Nel 1584 fu eletto in Parlamento come rappresentante di Taunton. Nel 1595 il Conte di Essex, suo grande amico, gli fece dono di una proprietà a Twickenham; l'amicizia fra i due si infranse però quando il Conte fu scoperto congiurare contro la Regina Elisabetta e lo stesso Bacone prese parte attiva nell'accusa.
+La sua carriera politica lo vede ricoprire la carica di Solicitor general nel 1607, Attorney general (Avvocato generale) nel 1613, membro del Consiglio privato della Corona nel 1616, lord guardasigilli nel 1617, Lord cancelliere nel 1618; fu quindi ammesso tra i pari come barone di Verulamio e visconte di Sant'Albano (1621). Nel 1621, dopo essere stato incarcerato per una condanna di peculato da cui comunque fu graziato dal re e scarcerato dopo qualche giorno di prigionia, si ritirò a vita privata dedicandosi esclusivamente ai suoi studi ed alla stesura delle sue opere attraverso le quali esercitò una forte influenza nel mondo politico e culturale.
+Morì il 9 aprile 1626 a 65 anni nella residenza del conte di Arundel, a Highgate all'alba del giorno di pasqua, dopo aver contratto la polmonite mentre, secondo un controverso aneddoto, cercava di congelare un pollo nella neve per studiare gli effetti del congelamento sulle carni. Nel suo testamento lasciò ogni suo avere alla propria servitù.
+
+
+== Metodologia scientifica ==
+
+Nei suoi scritti filosofici si dipana una complessa metodologia scientifica, spesso indicata con il suo nome (metodo baconiano).
+Sir Francis Bacon è il filosofo empirista della rivoluzione scientifica che ha incentrato la sua riflessione nella ricerca di un metodo di conoscenza della natura che si può definire scientifico, nel senso che vuole essere ripetibile e che parta dall'osservazione della natura. Bacone teorizza che l'osservazione dei fenomeni naturali debba essere praticata compilando una tabula presentiae e una tabula absentiae in proximitate in cui si riportano i dati di temperatura, sostanze chimiche e altri fattori ambientali presenti e assenti in un dato momento in cui si è ottenuto un fenomeno di cui si cerca di scoprire i fattori che l'hanno determinato.
+Se il fenomeno si manifesta sia in presenza che in assenza di un dato fattore presunto, allora il fattore che è rilevato nel contesto è ininfluente. Se il fenomeno muta d'intensità, in presenza del fattore, ma si manifesta anche in sua assenza, ciò significa che il fattore condiziona il fenomeno ma non ne è ancora la causa. L'obiettivo dell'analisi è trovare quel fattore la cui presenza è condizione necessaria (anche se non sufficiente) del fenomeno stesso.
+La filosofia naturale si distingue in due parti: quella speculativa, che riguarda la ricerca delle cause dei fenomeni naturali, e quella pratica che si occupa della produzione degli effetti. La parte speculativa, a sua volta, si divide in fisica e metafisica: la fisica "indaga e tratta le cause materiali ed efficienti; la metafisica studia le cause finali e formali".
+Senza conoscere una causa come condizione necessaria e sufficiente dell'esistenza di un fenomeno non si potrà riprodurlo e nemmeno conoscerlo: un attributo sarà presente in un oggetto se, stimolato con la causa necessaria e sufficiente di quell'attributo, diventerà visibile e conoscibile; altrimenti se non si manifesta, ciò vorrà dire che l'oggetto non possiede tale attributo.
+Bacone trascorse la vita a cercare un esperimento che chiamò "istanza cruciale" (Experimentum crucis), tale da interrogare la natura in modo da costringerla a risponderci sì o no, come dicevano i naturalisti italiani.
+
+Le massimeTantum possumus quantum scimus (tradotta correntemente in «Sapere è potere») e Natura non nisi parendo vincitur («La natura può essere vinta solo ubbidendole») passeranno a detto comune.
+Il suo metodo anticipa quello galileiano, che dimostrerà come occorra un approccio quantitativo con equazioni e misure per trovare delle condizioni necessarie e/o sufficienti per conoscere i fenomeni e replicare quelli a noi più utili (e non soltanto qualitativo con tabule presentiae ed absentiae, ancora oggi utilizzate negli esperimenti dove è importante indicare le condizioni ambientali in cui avviene la misura).
+
+
+== Il Novum Organum ==
+
+In quest'opera, Bacone elabora una procedura di lavoro per poter raggiungere una conoscenza certa di un fenomeno. Tale procedura, definita metodo baconiano, consta di due parti fondamentali: la pars destruens e la pars costruens. Nella prima occorre liberare la mente dalle false credenze e convinzioni, che Bacone chiama "idola" e successivamente con la pars construens del Novum Organum o Novum Organum Scientiarum (trad. "Nuovo organo", "Nuovo Strumento delle Scienze"), elaborare una teorizzazione del ragionamento induttivo, più definita e rinnovata rispetto a quella già accennata da Aristotele. Infatti, l'induzione aristotelica, o induzione per enumerazione semplice, passa troppo presto dai casi particolari ai princìpi generali. Conclude, cioè, troppo precipitosamente, procedendo per semplice enumerazione. Ad esempio, dalle osservazioni particolari che questo cigno è bianco, che quest'altro è bianco, e che quest'altro ancora è sempre bianco, passa subito alla conclusione generale che tutti i cigni sono bianchi. Ma i dati raccolti per enumerazione semplice possono essere sempre confutati da esempi successivi (per es., nel nostro caso, dalla constatazione futura dell'esistenza di un cigno nero).
+Il superamento di questa falsa o impropria induzione passa secondo Bacone per l'instaurazione di una nuova metodologia scientifica che conduca all'induzione vera, non più per enumerazione semplice ma per esclusione degli elementi inessenziali a un fenomeno, e per scelta di quelli essenziali.
+Quello che Bacone vuole scoprire con l'induzione vera è la legge dei fenomeni. Sennonché questa legge è ancora concepita da Bacone aristotelicamente come "forma" (o "essenza", o "causa", o "natura") del fenomeno studiato, e non, come farà Galileo, come relazione quantitativa, di tipo matematico. In altre parole, la forma di un fenomeno (per es., del calore) è intesa, più o meno alla maniera di Aristotele, come il complesso delle qualità essenziali del fenomeno stesso, ossia come ciò che lo fa essere quello che è. Più precisamente, Bacone intende per forma il principio interno che spiega la costituzione, la struttura del fenomeno, ma che spiega anche il suo sviluppo, cioè la sua generazione e produzione. Il limite di Bacone consiste dunque nel fissare la sua attenzione sugli aspetti qualitativi del fenomeno studiato, mentre la scienza moderna si interessa anche dei suoi aspetti quantitativi, di quelli, cioè che, appunto perché quantitativi, possono essere misurati.
+
+
+=== Gli Idola: la pars destruens ===
+
+Nella pars destruens del suo Novum Organum sono esposti gli errori da cui dobbiamo liberarci per delineare il metodo della ricerca della verità. Occorre purificare la nostra mentalità da una serie di errori che avevano causato sino ad allora lo scarso progresso delle scienze.
+Ma prima ancora di classificare gli errori occorre indicare le cause degli errori:
+
+prima causa: l'uomo è più attaccato alle proprie idee che alle cose, ovvero l'uomo spesso dà più valore alle proprie idee che alla realtà
+seconda causa: l'insofferenza per il dubbio;
+terza causa: attribuire false finalità alla conoscenza. La conoscenza dice Bacone non è né serva né cortigiana ma sposa. Lo scienziato non si deve vendere come la cortigiana né asservirsi al potere di qualcuno ma accudire con amore alla sola scienza.Dopo aver parlato delle cause degli errori, Bacone elenca gli errori che chiama idoli poiché l'uomo li onora al posto del vero Dio, della verità:	
+
+Idola tribus, gli errori della tribù, quelli radicati nella specie umana, che è fatta in modo tale che inevitabilmente commette errori. Il fatto stesso di essere uomini ci porta ad errare;
+Idola specus, cioè gli errori della spelonca platonica, dovuti alla soggettività particolare dell'uomo. Ogni uomo è fatto in modo tale che oltre agli errori che commette in genere come uomo ci sono quelli legati alla sua particolare individualità;
+Idola fori, gli errori della piazza, delle «reciproche relazioni del genere umano», del linguaggio, che è convenzionale ed equivoco.
+Idola theatri, gli errori della finzione scenica che Bacone imputa alla filosofia che ha dato rappresentazioni non vere della realtà «favole recitate e rappresentate sulla scena», e come è accaduto con il sistema aristotelico che ha descritto un mondo fittizio non corrispondente alla realtà.La storia della filosofia allora da quest'ultimo punto di vista può essere suddivisa in tre specie: sofistica, empirica e superstiziosa. Di filosofia sofistica accusa Aristotele perché cercò di dare più una descrizione astratta delle cose che andare alla ricerca della loro vera realtà. 
+Una filosofia empirica è quella di Gilbert e degli alchimisti, che spiegano le cose per mezzo di limitati e particolari esperimenti. La filosofia "superstiziosa", infine, è quella che si fonde con la teologia come la filosofia pitagorica e platonica.
+
+
+=== Il metodo delle Tabulae: la pars construens ===
+L'induzione vera proposta da Bacone può anche definirsi la dottrina delle tavole. Secondo Bacone, infatti, quando vogliamo studiare la natura di un certo fenomeno fisico dobbiamo far uso di tre tavole: la tavola della presenza (tabula praesentiae), la tavola dell'assenza (tabula absentiae in proximitate) e la tavola dei gradi (tabula graduum).
+
+Nella tavola della presenza sono raccolti tutti i casi positivi, cioè tutti i casi in cui il fenomeno si verifica (per esempio, tutti i casi in cui appare il calore, comunque prodotto, dal sole, dal fuoco, dai fulmini, per strofinamento, ecc.).
+Nella tavola dell'assenza sono raccolti tutti i casi in cui il fenomeno non ha luogo, mentre si sarebbe creduto di trovarlo (per esempio, nel caso dei raggi della luna, della luce delle stelle, dei fuochi fatui, dei fuochi di Sant’Elmo, ecc.).
+Nella tavola dei gradi, infine, sono presenti i gradi in cui il fenomeno aumenta e diminuisce (ad esempio, si dovrà porre attenzione al variare del calore nello stesso corpo in ambienti diversi o in particolari condizioni).Dopo aver effettuato l'analisi e la comparazione dei risultati segnati nelle tre tavole, possiamo senz'altro tentare un'interpretazione iniziale o vindemiatio prima (prima vendemmia); in altre parole, le tavole consentono una prima ipotesi sulla forma cercata. Questa prima ipotesi procede per esclusione e per scelta. Lo scienziato esclude (cioè scarta) come forma del fenomeno le caratteristiche mancanti nella prima tavola, presenti nei corpi nella seconda, e che non risultano decrescenti col decrescere dell'intensità del fenomeno, o viceversa. Lo scienziato, invece, sceglie come causa del fenomeno una natura sempre presente nella prima tavola, sempre mancante nella seconda, e con variazioni correlate a quelle del fenomeno nella terza. Nel caso del calore, si può ipotizzare che la causa del fenomeno sia il movimento, non di tutto il corpo, ma delle sue parti, e piuttosto rapido. Il movimento, infatti, si trova quando il caldo è presente, manca quando il caldo è assente, aumenta o diminuisce a seconda della maggiore o minore intensità del calore. La causa del calore non può essere, invece, la luce, perché la luce è presente nella tavola dell'assenza.
+L'ipotesi va poi verificata con gli esperimenti. Bacone propone ben 27 tipi diversi di esperimenti e pone al culmine l'experimentum crucis (esperimento della croce), il cui nome deriva dalle croci erette nei bivi decisionali: quando, dopo aver vagliato le tavole, ci troviamo di fronte a due ipotesi ugualmente fondate, l'esperimento cruciale ci toglie dall'incertezza, perché dimostra vera una delle due ipotesi, e falsa l'altra. Esempi di problemi che richiedono l'esperimento cruciale sono la teoria della rotazione o meno della Terra intorno al Sole, le teorie sul peso dei corpi, ecc. Consideriamo, per esempio, quest'ultimo problema. Ecco il bivio: o i corpi pesanti tendono al centro della Terra per la loro stessa natura, cioè per una qualità intrinseca, come voleva Aristotele, o sono attratti dalla forza della massa terrestre. Se fosse vera la prima ipotesi, un corpo dovrebbe avere sempre lo stesso peso; invece, se fosse vera la seconda ipotesi, un corpo dovrebbe pesare di più avvicinandosi al centro della Terra, e di meno allontanandosene. Ed ecco l'esperimento cruciale: si prendano due orologi, uno con contrappesi di piombo e l'altro a molla. Si accerti che le loro lancette si muovano alla stessa velocità. Si ponga il primo in cima a un luogo altissimo, e l'altro a terra. Se è vera l'ipotesi che il peso dipende dalla forza di gravità, l'orologio piazzato in alto si muoverà più lentamente, a causa della diminuita forza di attrazione terrestre.
+
+
+== La nuova Atlantide ==
+La nuova Atlantide è un testo che fa parte del genere letterario utopico, assieme, ad esempio, alle opere L'Utopia di Thomas More o La città del Sole di Tommaso Campanella. Bacone prende spunto dal mito di Atlantide, narrato da Platone (che egli non apprezza) nel Crizia. Platone a capo del suo stato aveva messo i filosofi, Campanella un sacerdote, Bacone gli scienziati. Essi sono dotati di un sapere pratico capace di trasformare la realtà ed assicurare una vita migliore all'umanità. Le Utopie di Tommaso Moro e Campanella si ispirano a motivi morali e sociali: il tema centrale de La nuova Atlantide è da cercarsi invece nel potere che deriva all'uomo dalla scienza.
+Al centro dell'intera società utopica vi è la famiglia, la cui prosperità diventa un affare di stato, partendo dal privato, dai piccoli amori domestici, per poi trasformarsi in universale. Bacone immagina di approdare a Bensalem (tale è il nome della città sull'isola ideale) in seguito ad un naufragio. Egli ed i suoi compagni di viaggio entrano in contatto con una cultura più avanzata, una civiltà che conosce tutte le altre, ma dalle quali non è conosciuta e che ha sempre saputo (e intende continuare a farlo) rimanere pura, non traviarsi, come invece è capitato a tutte le altre. Proprio per questo, in un primo tempo, sono riluttanti ad accogliere e a far sbarcare gli stranieri anche se successivamente non esiteranno ad aiutare l'intero equipaggio.
+È una società radicalmente diversa rispetto a quelle allora conosciute, tuttavia qualcosa le accomuna; ad esempio le lingue sono il greco, l'ebraico, il latino e lo spagnolo; la loro religione è il Cristianesimo. Tutto ciò che gli abitanti di Bensalem si vedono intorno lo attribuiscono a Dio. Gli scienziati, che reggono la città, cercano di trasformare, alterare, imitare, riprodurre la realtà in quanto la conoscono secondo verità: il mondo stesso è a totale disposizione dell'uomo. Bensalem non è una semplice città ma un gigantesco laboratorio scientifico all'aria aperta il cui fine è conoscere le cause e le forze interne alla natura ed estendere i confini del potere umano. Ivi si preparano medicinali, si riproducono i fenomeni atmosferici, si fabbricano artificialmente insetti, si desalinizza l'acqua salata, si prolunga la vita dell'uomo, si edificano torri altissime, si creano pozioni, si sperimentano su animali ogni tipo di veleni per provvedere alla salute dell'uomo.
+Caratteristiche:
+
+non si tratta di una democrazia;
+la politica è una tecnocrazia. In Bacone è fortissima la convinzione che il governo stesso debba essere in mano agli scienziati, i quali devono governare in funzione del benessere dei cittadini;
+nasce l'idea che il sapere non sia frutto di un singolo individuo, la scienza è un lavoro di équipe.
+
+
+== L'avallo delle deportazioni in Virginia ==
+Dopo la privatizzazione delle terre, come uomo politico concettualizzò la scienza del terrore assecondando e sostenendo le deportazioni di massa dei diseredati e dei poveri nelle colonie americane della Virginia. Tra le altre cose è necessario ricordare che nel 1619 il Consiglio Privato, di cui a quel tempo Bacone faceva parte, violando apertamente la legge inglese, e per assecondare la volontà della Virginia Company, costrinse alla deportazione nelle colonie americane ben 165 bambini, provenienti dal Bridewell Palace. Di quei 165 bambini (di età compresa tra gli 8 e i 16 anni) nel 1625 a seguito dei maltrattamenti subiti nelle piantagioni ne rimasero in vita solo dodici. Le deportazioni continuarono coinvolgendo altri millecinquecento bambini nel 1627 e ulteriori quattrocento, di origine irlandese, nel 1653.
+
+
+== Influenze del pensiero baconiano ==
+Per studiare le idee di Bacone, un gruppo di 12 scienziati inglesi fondò la Società Reale, divenuta in seguito l'accademia nazionale inglese delle scienze. Ispirò profondamente il pensiero ed il lavoro di Hobbes e di Locke. Durante l'Illuminismo francese, l'Encyclopédie è stata dedicata a Bacone; D'Alembert chiamò Bacone il massimo, il più universale e più eloquente filosofo. La Convenzione Nazionale pubblicò le opere di Bacone a spese dello Stato.
+
+
+=== Nel Puritanesimo ===
+Sebbene Bacone non fosse un puritano, fu accolto molto positivamente quanto dichiarò nella prefazione del De interpretatione naturae del 1603:
+
+L'affermazione si schierava a favore di un progresso pratico delle scienze, opposto ad uno sterile scolasticismo. Il ripudio della scienza Scolastica trovò un solido punto di incontro con i Puritani, che iniziarono a occuparsi dei frutti della terra al servizio di Dio. Tale processo di crescita sarebbe stato agevolato dal rifiuto meccanicistico dell'esistenza di un ordine divino della natura e quindi dalla possibile scelta di una metodologia descrittiva più semplice, in quanto priva della necessità di coniugare fede e ragione.
+La visione del progresso fu spinta ai massimi termini in Magnalia naturae, opera che prefigurò un futuro nel quale il progresso avrebbe donato al genere umano l'allungamento della vita, la restituzione di un certo grado di giovinezza, il ritardo della vecchiaia, la cura delle malattie reputate incurabili e la mitigazione del dolore».
+
+
+== Opere ==
+1595 - Maxims of the Law
+1597 - Religious Meditation
+1605 - Pensieri e conclusioni sull’interpretazione della natura o sulla scienza operativa (Cogitata et Visa de Interpretatione Naturae)
+1605 - Sull’avanzamento e sul progresso del sapere umano e divino (The Advancement and Proficience of Learning Divine and Human)
+1609 - De Sapientia Veterum
+1620 - Novum Organum, ossia nuovi indizi sull'interpretazione della natura
+1623 - Sulla dignità e sul progresso delle scienze (De dignitate et augmentis scientiarum)
+1624 - La nuova Atlantide (New Atlantis)
+1625 - Saggi morali e civili (Essays, or Counsels Civil and Moral)
+1626 - Sylva sylvarum
+
+
+== Note ==
+
+
+== Bibliografia ==
+
+Agassi, Joseph, The Very Idea of Modern Science. Francis Bacon and Robert Boyle, Dordrecht: Springer, 2013.
+ Francis Bacon, Sylva sylvarum, London, William Lee and Thomas Williams, 1631.
+Fattori, Marta, Baconiana: nuove prospettive nella ricezione e fortuna delle opere di Francis Bacon, Rivista di storia della filosofia. Fascicolo 3, 2003 (Firenze: [poi] Milano: La Nuova Italia; Franco Angeli, 2003).
+Gaukroger, Stephen, Francis Bacon and the Transformation of Early-Modern Philosophy, Cambridge: Cambridge University Press, 2001.
+Gemelli, Benedino, Aspetti dell'atomismo classico nella filosofia di Francis Bacon e nel Seicento, Firenze: Olschki, 1996.
+Giglioni, Guido, Francesco Bacone, Roma: Carocci, 2011.
+Jardine, Lisa, Discovery and the Art of Discourse, Cambridge: Cambridge University Press, 1974.
+Malherbe, Michel & Pousseur, Jean-Marie (éds), Francis Bacon: science et méthode. Atti del colloquio di Nantes, Paris: Vrin. 1985.
+Matthews, Steven, Theology and Science in the Thought of Francis Bacon, Aldershot: Ashgate, 2008.
+Moretti, Masino Glauro, Machiavelli e Francesco Bacone. L'accesso alla modernità, Roma: Studium, 2011.
+Pagallo, Ugo, Homo homini deus. Per un'introduzione al pensiero giuridico di Francis Bacon, Padova: Cedam, 1995.
+Luciani, Francesco, Francesco Bacone. Modernità religiosa, scienza e ideologia, Cosenza, Solidarietà e Famiglia Editrice, 1995.
+Peltonen, Markku (ed.), The Cambridge Companion to Bacon, Cambridge: Cambridge University Press, 1996.
+Rossi, Paolo, Francesco Bacone. Dalla magia alla scienza, Bologna: Il Mulino, 2004.
+Vicker, Brian (ed.), Francis Bacon, New York: Oxford University Press, 1996.
+Zagorin, Perez, Francis Bacon, Princeton, NJ: Princeton University Press, 1998.
+
+
+== Voci correlate ==
+Metodo baconiano
+La nuova Atlantide
+Saggi (Bacone)
+Novum Organum
+
+
+== Altri progetti ==
+
+ Wikisource contiene una pagina dedicata a Francesco Bacone
+ Wikisource contiene una pagina in lingua inglese dedicata a Francesco Bacone
+ Wikiquote contiene citazioni di o su Francesco Bacone
+ Wikimedia Commons contiene immagini o altri file su Francesco Bacone
+
+
+== Collegamenti esterni ==
+
+(EN) Francesco Bacone / Francesco Bacone (altra versione), su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Francesco Bacone, su The Encyclopedia of Science Fiction. 
+(EN) Francesco Bacone, su Find a Grave. 
+ Opere di Francesco Bacone, su openMLOL, Horizons Unlimited srl. 
+(EN) Opere di Francesco Bacone, su Open Library, Internet Archive. 
+(EN) Opere di Francesco Bacone, su Progetto Gutenberg. 
+(EN) Audiolibri di Francesco Bacone, su LibriVox. 
+(EN) Opere riguardanti Francesco Bacone, su Open Library, Internet Archive. 
+(EN) Bibliografia di Francesco Bacone, su Internet Speculative Fiction Database, Al von Ruff. 
+(EN) Francis Bacon, su Goodreads. 
+ Bibliografia italiana di Francesco Bacone, su Catalogo Vegetti della letteratura fantastica, Fantascienza.com. 
+(EN) Spartiti o libretti di Francesco Bacone, su International Music Score Library Project, Project Petrucci LLC. 
+ Francesco Bacone da www.filosofico.net, su filosofico.net.
+ La filosofia di Francesco Bacone, su francisbacon.mysite.com.
+Sintesi del pensiero di Bacone in un'intervista allo storico della scienza Paolo Rossi, per l'Enciclopedia multimediale delle scienze filosofiche.
+(EN) The Works of Francis Bacon, su onlinebooks.library.upenn.edu.

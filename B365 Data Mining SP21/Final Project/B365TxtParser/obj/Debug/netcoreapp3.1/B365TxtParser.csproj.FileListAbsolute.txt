@@ -1,0 +1,17 @@
+D:\Classes\B365\Final Project\B365TxtParser\bin\Debug\netcoreapp3.1\B365TxtParser.exe
+D:\Classes\B365\Final Project\B365TxtParser\bin\Debug\netcoreapp3.1\B365TxtParser.deps.json
+D:\Classes\B365\Final Project\B365TxtParser\bin\Debug\netcoreapp3.1\B365TxtParser.runtimeconfig.json
+D:\Classes\B365\Final Project\B365TxtParser\bin\Debug\netcoreapp3.1\B365TxtParser.runtimeconfig.dev.json
+D:\Classes\B365\Final Project\B365TxtParser\bin\Debug\netcoreapp3.1\B365TxtParser.dll
+D:\Classes\B365\Final Project\B365TxtParser\bin\Debug\netcoreapp3.1\B365TxtParser.pdb
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.csprojAssemblyReference.cache
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.ParserMain.resources
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.csproj.GenerateResource.cache
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.AssemblyInfoInputs.cache
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.AssemblyInfo.cs
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.csproj.CoreCompileInputs.cache
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.dll
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.pdb
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.genruntimeconfig.cache
+D:\Classes\B365\Final Project\B365TxtParser\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\Classes\B365\Final Project\B365TxtParser\obj\Debug\netcoreapp3.1\B365TxtParser.csproj.CopyComplete

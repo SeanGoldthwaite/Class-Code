@@ -1,0 +1,38 @@
+﻿Molekülwolken sind interstellare Gaswolken, deren Größe, Dichte und Temperatur die Bildung von Molekülen erlaubt. Sehr dichte und kalte Molekülwolken sind als Dunkelwolken bekannt, es sind die Geburtsstätten von Sternen. Mehr als die Hälfte der (baryonischen) Masse der Milchstraße steckt in den Molekülwolken.
+
+
+== Arten von Molekülen ==
+Hauptbestandteil einer solchen Wolke ist molekularer Wasserstoff (H2), entsprechend der Häufigkeit der Elemente. Dieser ist jedoch sehr schwierig zu beobachten, weshalb seine Häufigkeit oftmals nur mithilfe anderer Moleküle bestimmbar ist. Das mit am einfachsten zu beobachtende Molekül ist Kohlenmonoxid (CO), dessen Spektrallinien mit Radioteleskopen nachgewiesen werden können. Die Häufigkeit anderer Moleküle ist jedoch mindestens um den Faktor 1000 niedriger als die Häufigkeit von H2.
+Wenn die Wolke dicht genug ist, können sich viele Arten von Molekülen bilden, bis hin zu komplexen Aminosäuren. Eine gewisse Dichte ist notwendig, um die Moleküle vor Strahlung zu schützen, die die Moleküle sonst wieder zerstört.
+Ab Mitte der 1960er Jahre wurde mit Radioteleskopen eine Vielzahl von Molekülen im interstellaren Medium nachgewiesen, unter anderem das Cyan- (CN) und das Hydroxyl-Radikal (OH). Diese Moleküle emittieren Strahlung im Millimeter-Wellenlängenbereich. Inzwischen sind über 150 unterschiedliche Moleküle
+in Molekülwolken entdeckt worden, wie z. B. Wasser (H2O), Cyanwasserstoff (HCN) oder Ethanol. Kohlenmonoxid ist von besonderer Bedeutung für die  Erforschung der Molekülwolken, weil man auf Grund des CO/H2-Verhältnisses die Masse einer solchen Wolke bestimmen kann.
+
+
+== Riesenmolekülwolken ==
+
+Sehr große Molekülwolken werden Riesenmolekülwolken (GMC – Giant Molecular clouds) genannt. Die Masse dieser GMCs beträgt etwa 104-107 Sonnenmassen (M☉), und sie haben eine typische Ausdehnung von 50 bis hin zu mehreren hundert Parsec.
+Etwa 80 % des molekularen Wasserstoffs in der Milchstraße ist in GMCs zu finden. Die Sternentstehung in der Milchstraße und benachbarten Galaxien findet fast ausschließlich in GMCs statt. Sie haben zunächst nur mittlere Dichten von etwa 10−20 g/cm³, kondensieren aber im Zuge der Sternentstehung um Faktoren von etwa 1018 bis 1020.
+Der Großteil der GMCs in unser Galaxie befindet sich in den Spiralarmen. Es wird angenommen, dass sich dort GMCs durch gravitative Instabilitäten aus noch größeren molekularen Gasreservoirs bilden, die GMA (Giant Molecular Association) genannt werden. Riesenmolekülwolken können auch in gravitativ gebundenen Komplexen auftreten, wie beispielsweise dem Orion-Molekülwolkenkomplex.
+Teilbereiche einer solchen Molekülwolke kollabieren durch Eigengravitation und bilden so fortlaufend neue Sterne, oft in größeren Ansammlungen, den Sternhaufen.
+Da wir in unserer eigenen Galaxie direkt in die galaktische Ebene blicken und ein Teil der GMCs (gerade vor und hinter dem galaktischen Zentrum) nicht beobachtbar oder in ihrer Entfernung bestimmbar sind, muss man für ein besseres Verständnis der GMCs auf Beobachtungen naher Galaxien zurückgreifen.
+Beobachtungen von GMCs in der Großen Magellanschen Wolke lassen auf einen Lebenszyklus für GMCs schließen (aufgrund der Entfernung und der mangelnden Empfindlichkeit für Leuchtkraft lässt sich nur die Entstehung von O-Sternen beobachten):
+
+Während der ersten 6 Millionen Jahre nach ihrer Entstehung gibt es noch keine Sternentstehung in der GMC.
+In den folgenden 13 Millionen Jahren findet man erste Zeichen für die Entstehung von Sternen – H-II-Regionen formieren sich.
+In den letzten 7 Millionen Jahren lassen sich Sternenhaufen mit sehr jungen Sternen beobachten. Das erzeugte Strahlungsfeld dieser jungen Sterne zerstört im Laufe dieser letzten Phase die gesamte GMC.Während sich in der Großen Magellanschen Wolke und in M33 in etwa 25–33 % aller GMCs noch kein Anzeichen für massereiche Sternentstehung zeigt, findet diese in der Milchstraße in fast allen GMCs statt.
+
+
+== Siehe auch ==
+Nebel (Astronomie)
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Fukui, Y. & Kawamura, A.: Molecular Clouds in Nearby Galaxies, Annual Review of Astronomy and Astrophysics, 2010, vol. 48, p. 547–580
+S.W. Stahler & F. Palla: The Formation of Stars. Kapitel I/3 Molecular Clouds, WILEY-VCH, Weinheim 2004, ISBN 3-527-40559-3
+
+
+== Weblinks ==
+Merkwürdige Molekülwolke Im Weltall pulst ein dunkles Herz. SPIEGEL Online-Artikel über die Dunkelwolke Barnard 68.

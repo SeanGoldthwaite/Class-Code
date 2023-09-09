@@ -1,0 +1,99 @@
+﻿Food science is the basic science and applied science of food; its scope starts at overlap with agricultural science and nutrition and leads through the scientific aspects of food safety and food processing, informing the development of food technology. The Institute of Food Technologists defines food science as "the discipline in which the engineering, biological, and physical sciences are used to study the nature of foods, the causes of deterioration, the principles underlying food processing, and the improvement of foods for the consuming public". The textbook Food Science defines food science in simpler terms as "the application of basic sciences and engineering to study the physical, chemical, and biochemical nature of foods and the principles of food processing".Activities of food technologists include the development of new food products, design of processes to produce these foods, choice of packaging materials, shelf-life studies, sensory evaluation of products using survey panels or potential consumers, as well as microbiological and chemical testing. Food scientists may study more fundamental phenomena that are directly linked to the production of food products and its properties.
+Food science brings together multiple scientific disciplines. It incorporates concepts from fields such as chemistry, physics, physiology, microbiology,  biochemistry. Food technology incorporates concepts from chemical engineering, for example.
+
+
+== Disciplines ==
+Some of the subdisciplines of food science are described below.
+
+
+=== Food chemistry ===
+
+Food chemistry is the study of chemical processes and interactions of all biological and non-biological components of foods. The biological substances include such items as meat, poultry, lettuce, beer, and milk as examples.
+It is similar to biochemistry in its main components such as carbohydrates, lipids, and protein, but it also includes areas such as water, vitamins, minerals, enzymes, food additives, flavors, and colors. This discipline also encompasses how products change under certain food processing techniques and ways either to enhance or to prevent them from happening.
+
+
+==== Food physical chemistry ====
+
+Food physical chemistry is the study of both physical and chemical interactions in foods in terms of physical and chemical principles applied to food systems, as well as the application of physicochemical techniques and instrumentation for the study and analysis of foods.
+
+
+=== Food engineering ===
+
+Food engineering is the industrial processes used to manufacture food.
+
+
+=== Food microbiology ===
+
+Food microbiology is the study of the microorganisms that inhabit, create, or contaminate food, including the study of microorganisms causing food spoilage.  "Good" bacteria, however, such as probiotics, are becoming increasingly important in food science. In addition, microorganisms are essential for the production of foods such as cheese, yogurt, bread, beer, wine and, other fermented foods.
+
+
+=== Food technology ===
+
+Food technology is the technological aspects.
+Early scientific research into food technology concentrated on food preservation. Nicolas Appert's development in 1810 of the canning process was a decisive event.  The process wasn't called canning then and Appert did not really know the principle on which his process worked, but canning has had a major impact on food preservation techniques.
+
+
+=== Foodomics ===
+
+In 2009, Foodomics was defined as "a discipline that studies the Food and Nutrition domains through the application and integration of advanced -omics technologies to improve consumer's well-being, health, and knowledge". Foodomics requires the combination of food chemistry, biological sciences, and data analysis.
+Foodomics greatly helps the scientists in an area of food science and nutrition to gain a better access to data, which is used to analyze the effects of food on human health, etc. It is believed to be another step towards better understanding of development and application of technology and food. Moreover, the study of foodomics leads to other omics sub-disciplines, including nutrigenomics which is the integration of the study of nutrition, gene and omics.
+
+
+=== Molecular gastronomy ===
+
+Molecular gastronomy is a subdiscipline of food science that seeks to investigate the physical and chemical transformations of ingredients that occur in cooking. Its program includes three axes, as cooking was recognized to have three components, which are social, artistic and technical.
+
+
+=== Quality control ===
+
+Quality control involves the causes, prevention and communication dealing with food-borne illness.
+Quality control also ensures that product meets specs to ensure the customer receives what they expect from the packaging to the physical properties of the product itself.
+
+
+=== Sensory analysis ===
+
+Sensory analysis is the study of how consumers' senses perceive food.
+
+
+== By country ==
+
+
+=== Australia ===
+
+The Commonwealth Scientific and Industrial Research Organisation (CSIRO) is the federal government agency for scientific research in Australia. CSIRO maintains more than 50 sites across Australia and biological control research stations in France and Mexico. It has nearly 6,500 employees.
+
+
+=== South Korea ===
+The Korean Society of Food Science and Technology, or KoSFoST, claims to be the first society in South Korea for food science.
+
+
+=== United States ===
+In the United States, food science is typically studied at land-grant universities. Some of the country's pioneering food scientists were women who had attended chemistry programs at land-grant universities (which were state-run and largely under state mandates to allow for sex-blind admission), but then graduated and had difficulty finding jobs due to widespread sexism in the chemistry industry in the late 19th and early 20th centuries. Finding conventional career paths blocked, they found alternative employment as instructors in home economics departments and used that as a base to launch the foundation of many modern food science programs.
+The main US organization regarding food science and food technology is the Institute of Food Technologists (IFT), headquartered in Chicago, Illinois, which is the US member organisation of the International Union of Food Science and Technology (IUFoST).
+
+
+== See also ==
+
+
+== Publications ==
+
+
+=== Books ===
+Food Science is an academic topic so most Food Science books are textbooks.   
+
+
+=== Journals ===
+
+
+== Notes and references ==
+
+
+== Further reading ==
+Wanucha, Genevieve (February 24, 2009). "Two Happy Clams: The Friendship that Forged Food Science". MIT Technology Review.
+
+
+== External links ==
+
+ Media related to Food science at Wikimedia Commons
+Food science at Curlie
+Learn about Food Science

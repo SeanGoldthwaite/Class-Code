@@ -1,0 +1,53 @@
+﻿La chimica verde (o sostenibile) in ecologia è una concezione della chimica che si propone di indirizzare su percorsi di sostenibilità l'approccio all'industria chimica, prevenendo eventuali problemi. Lo sviluppo sostenibile, chiave di volta del progresso tecnologico nel nuovo secolo, impone infatti alle scienze chimiche di giocare un ruolo primario nella riconversione di vecchie tecnologie in nuovi processi puliti e nella progettazione di nuovi prodotti e nuovi processi eco-compatibili.
+La consapevolezza del fatto che l'inquinamento non conosce confini nazionali, particolarmente quello dell'aria e dell'acqua, richiede sempre più l'adozione di politiche di controllo internazionalmente accettate.
+Le grandi agenzie ambientali governative, la grande industria ed il mondo della chimica in generale, stanno elaborando ed assumendo un codice di comportamento che individua strategie precise per prevenire l'inquinamento.
+Inoltre, dato che le scorte di combustibili fossili non sono eterne, un altro aspetto della Chimica verde è quello di cercare di ridurre il più possibile i consumi, gli sprechi energetici nell'eseguire i processi industriali, e di utilizzare fonti energetiche rinnovabili per il funzionamento degli impianti industriali.
+La moderna chimica di sintesi dipende ancora per gran parte dalla petrolchimica, che utilizza come materie prime i prodotti derivanti dal petrolio, in via di esaurimento; ne deriva un'attenzione particolare da parte delle nuove ricerche chimiche nel cercare di produrre materie plastiche e prodotti chimici ricavati da fonti biologiche e rinnovabili.
+
+
+== Il concetto ==
+Una prima formulazione o anticipazione del concetto di chimica verde può essere considerato il movimento cosiddetto della chemiurgia, nato negli Stati Uniti negli anni trenta, che si proponeva di integrare l'industria chimica a materie prime agricole e naturali, e facendo uso esclusivamente di risorse rinnovabili, senza recare danno all'ambiente.
+La locuzione chimica verde fu invece coniata nel 1991 dal docente dell'università di Berkley Paul Anastas e fa proprio riferimento al nuovo ordine di priorità con cui si fa innovazione scientifica e tecnologica sulla base di principi generali rivolti ad eliminare l'uso di procedure e di sostanze pericolose. Alcune strategie possibili per perseguire questi obiettivi sono:
+
+l'ottimizzazione del bilancio di massa globale così da minimizzare i reflui.
+la minimizzazione dei costi energetici, per esempio progettando processi a temperatura e a pressione ambiente.
+l'utilizzo di materie prime ricavate da fonti rinnovabili.
+laddove possibile, sostituire composti obsoleti con altri che mantengano la loro efficacia funzionale riducendo nel contempo la tossicità nei confronti dell'uomo e dell'ambiente naturale.
+l'utilizzo, a livello industriale, di microorganismi che svolgono al loro interno reazioni enzimatiche a temperatura e pressione ambiente.
+la riduzione, tramite l'utilizzo di processi biomimetici, dei sottoprodotti di reazione, presenti (in diverse percentuali) in tutte le reazioni della chimica organica tradizionale.
+
+
+== Esempi applicativi ==
+Alcuni esempi di innovazioni promosse da studi di design molecolare orientato all'ambiente sono:
+
+La sostituzione di solventi organici con liquidi supercritici. Biossido di carbonio allo stato di fluido supercritico (T > 31,4 °C, P > 74 bar) può rappresentare sotto ogni profilo di rischio un ottimo sostituto di solventi organici in diversi ambiti applicativi: nell'industria del lavaggio a secco, dove sostituisce solventi clorurati, nella produzione di semiconduttori, come solvente di reazione o come solvente di estrazione.La sostituzione di ritardanti di fiamma bromurati. Ritardanti di fiamma sono usati come additivi di materie plastiche in una varietà di prodotti, arredi, materiali tessili, apparecchiature elettroniche. I più usati sono composti aromatici contenenti bromo, che oltre ad essere persistenti nell'ambiente, sono capaci di bioaccumularsi negli organismi e di esercitare effetti nocivi per la salute. Per ovviare a questi problemi è in atto una gara fra colossi chimici per presentare soluzioni alternative prive di bromo, ad esempio costituite da miscele di resine epossidiche e da ossidi di metalli inerti.
+La sostituzione di fitofarmaci persistenti nell'ambiente e non selettivi. Negli ultimi 50 anni avevano trovato grande applicazione in agricoltura una classe di insetticidi policlorurati (aldrin) particolarmente resistenti a degradazione chimica o microbiologica nell'ambiente e bioaccumulabili negli organismi. Oggi si vanno intensificando studi svolti a sostituire i vecchi insetticidi con altri prodotti, ad esempio con i piretroidi, analoghi della sostanza naturale piretrina. Poiché la piretrina naturale presenta particolare instabilità chimica nell'ambiente, vengono progettati composti analoghi di sintesi più resistenti del composto naturale di riferimento, e soprattutto di bassissima tossicità per gli organismi superiori.
+
+
+== Limiti nell'utilizzo delle fonti rinnovabili come materia prima ==
+Bisogna tenere presente però che non è possibile utilizzare le fonti rinnovabili ad un ritmo più veloce rispetto al tempo necessario per la loro rigenerazione: se, per esempio, un qualsiasi materiale plastico venisse ricavato da vegetali e prodotto ad un ritmo più veloce di quanto i vegetali stessi (che in questo caso sono la materia prima) riescano a rinnovarsi, col passare del tempo non si potrebbe più produrre il tal materiale plastico e si perderebbe irrimediabilmente la risorsa vegetale primaria.
+Altro aspetto da tenere presente è quello di evitare di incentivare lo sviluppo fuori controllo della monocoltura (es.: per la produzione di biodiesel e/o bioetanolo), che può arrecare seri danni agli ecosistemi, agli equilibri biologici e sociali di intere zone del pianeta.
+Per far in modo che la Chimica verde e l'utilizzo di fonti rinnovabili continuino ad essere positivi e siano una buona soluzione al problema dell'inquinamento, questi devono andare di pari passo ad una progressiva riduzione dei consumi energetici e di materiali, sia da parte delle industrie che da parte dei consumatori.
+
+
+== Bibliografia ==
+Giuliana Vinci, Donatella Restuccia, Francesca Pirro, Industria chimica e sviluppo sostenibile: la chimica verde, Edizioni Nuova Cultura, Roma 2007.
+
+
+== Voci correlate ==
+Chemurgia
+Chimica ambientale
+Chimica industriale
+Fattore E di Sheldon
+Storia dell'industria chimica
+
+
+== Collegamenti esterni ==
+http://www.scienzagiovane.unibo.it/inquinamento.html
+(EN) Green Chemistry: Introduction and Abstracts, su organic-chemistry.org.
+(EN) EPA Green Chemistry, su epa.gov.
+(EN) I dodici principi della chimica verde, su epa.gov.
+(EN) EPA Green Chemistry Fact Sheet (PDF), su epa.gov.
+(EN) Green Chemistry Institute, su chemistry.org. URL consultato il 14 giugno 2005 (archiviato dall'url originale il 5 gennaio 2009).
+ Consorzio Interuniversitario Nazionale La Chimica per l'Ambiente - INCA, su incaweb.org.
+GREEN La Scienza al servizio dell'Uomo e dell'Ambiente: Rivista dedicata a studenti e professori

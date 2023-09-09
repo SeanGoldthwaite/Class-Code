@@ -1,0 +1,159 @@
+﻿Stephen William Hawking, CH, CBE, FRS (* 8. Januar 1942 in Oxford, England; † 14. März 2018 in Cambridge, England) war ein britischer theoretischer Physiker und Astrophysiker. Von 1979 bis 2009 war er Inhaber des renommierten Lucasischen Lehrstuhls für Mathematik an der Universität Cambridge. Stephen Hawking lieferte bedeutende Arbeiten zur Kosmologie, zur allgemeinen Relativitätstheorie und zu Schwarzen Löchern.
+1963 wurde bei Hawking Amyotrophe Lateralsklerose (ALS) diagnostiziert, eine degenerative Erkrankung des motorischen Nervensystems. Mediziner prophezeiten ihm, nur noch wenige Jahre zu leben. Allerdings handelte es sich vermutlich um eine chronisch juvenile ALS, die durch einen extrem langen Krankheitsverlauf gekennzeichnet war. Seit 1968 war er auf einen Rollstuhl angewiesen. Im Rahmen der Grunderkrankung (konsekutive progressive Bulbärparalyse) und der Behandlung einer schweren Lungenentzündung verlor er 1985 die Fähigkeit zu sprechen. Für die verbale Kommunikation nutzte er seitdem einen Sprachcomputer.
+Durch seine populärwissenschaftlichen Bücher über moderne Physik und umfangreiche mediale Berichterstattung wurde er auch einem breiten Publikum außerhalb der Fachwelt bekannt.
+
+
+== Leben und Werdegang ==
+
+
+=== Familiärer Hintergrund ===
+Stephen Hawking war der Sohn des Tropenmediziners Frank Hawking und der Wirtschaftswissenschaftlerin Isobel Hawking (geb. Walker). Sein Vater entstammte einer Familie von Großbauern in Yorkshire, aber Stephen Hawkings Urgroßvater hatte den Großteil seines Vermögens im Rahmen einer Landwirtschaftskrise zu Beginn des 20. Jahrhunderts verloren. Robert Hawking, der Vater von Frank, und dessen Frau konnten Frank Hawkings Medizinstudium nur mit Hilfe der Einnahmen einer kleinen Schule in Boroughbridge finanzieren und er selbst bekam einige Stipendien und Preise, mit denen er sich finanzierte und auch seinen Eltern etwas Geld zurückgeben konnte. 1937 befand er sich auf einer Forschungsreise in Afrika am Kongo. Zu Beginn des Zweiten Weltkriegs kehrte er nach England zurück, um sich dem Militär anzuschließen. Seine spätere Frau Isobel war die Tochter eines praktischen Arztes in Glasgow und eines von acht Kindern der Familie. Sie durfte trotz der finanziellen Engpässe der Familie studieren und arbeitete nach dem Studium zunächst als Finanzinspektorin und später als Sekretärin. Vor der Geburt ihres Sohnes zogen Frank und Isobel vorübergehend aus dem Londoner Stadtgebiet (Stadtteil Highgate) nach Oxford, um der Bedrohung durch die deutsche Bombardierung der Hauptstadt im Zweiten Weltkrieg zu entgehen. Anderthalb Jahre nach Stephen wurde seine Schwester Mary geboren; die zweite Schwester Phillippa kam auf die Welt, als er fünf Jahre alt war. Stephen Hawking wuchs im Norden Londons auf. 1950 zog die Familie erneut um, diesmal nach St Albans nördlich von London.
+
+
+=== Ausbildung und Karriere ===
+Ab 1953 besuchte Hawking die St Albans School. Der Wunsch des Vaters war, dass er Medizin studieren sollte, um in seine Fußstapfen als Arzt zu treten. Hawking konzentrierte sich daher in Leistungskursen auf Drängen seines Vaters auf Chemie und belegte Mathematik nur als Nebenfach. Noch vor dem Schulabschluss nahm er probeweise an einer Aufnahmeprüfung für die Universität Oxford teil, die er mit Auszeichnung bestand und die ihm überraschend ein Studien-Stipendium einbrachte.
+Stephen Hawking erwarb 1962 seinen Bachelor-Abschluss an der Universität Oxford. Wenig später wechselte er zu Trinity Hall an der Universität Cambridge, wo er seine Promotion über theoretische Astronomie und Kosmologie begann und 1966 bei Dennis Sciama promovierte (Ph.D.) mit der Dissertation Properties of expanding universes. Da ihm die für die Aufnahme in Cambridge notwendige Examensnote fehlte, trat er zu einer mündlichen Prüfung an, die er mit Bestnote bestand. Nach seiner Doktorarbeit wurde er Research Fellow und später Professorial Fellow am Gonville and Caius College der Universität Cambridge. Anfangs war er im Department of Applied Mathematics and Theoretical Physics (DAMTP) in Cambridge, ab 1968 im Institut für Astronomie und ab 1973 wieder am DAMTP. 1974 war er Sherman Fairchild Scholar am Caltech, wo er mit Kip Thorne zusammenarbeitete. 1975 wurde er Reader in Cambridge und 1977 Professor für Gravitationsphysik. Von 1979 bis 2009 war er Lucasian Professor. Ab 2009 war er Dennis Stanton Avery and Sally Tsui Wong-Avery Director of Research am DAMTP.
+
+
+=== Wissenschaftliche Arbeit ===
+Berühmt wurde er in den 1960er Jahren durch den Beweis der Notwendigkeit der Existenz von Singularitäten in der allgemeinen Relativitätstheorie unter sehr allgemeinen Voraussetzungen (gemeinsam mit Roger Penrose, siehe Singularitäten-Theorem). Für diese Arbeit erhielt er 1966 den angesehenen Adams Prize der Universität Cambridge. 1971 stellte er den zweiten Hauptsatz der Schwarzkörper-Thermodynamik auf: Die Oberfläche Schwarzer Löcher kann bei Verschmelzen Schwarzer Löcher, Sturz eines Teilchens in ein Schwarzes Loch und anderen Prozessen nicht abnehmen, was ein Analogon zur Entropie in der Thermodynamik nahelegt (siehe Bekenstein-Hawking-Entropie). 1974 entwickelte er das Konzept der „Hawking-Strahlung“, nach dem Schwarze Löcher in der Quantenfeldtheorie (je nach der Masse des Schwarzen Lochs mehr oder weniger schnell) zerstrahlen. Er versuchte damals, das 1973 von Jacob Bekenstein eingeführte Konzept der Entropie Schwarzer Löcher quantenmechanisch zu verstehen, und fand zu seiner eigenen Überraschung, dass Schwarzen Löchern eine Strahlung zugeordnet werden konnte – eine seiner bedeutendsten Entdeckungen.
+In den 1980er Jahren entwickelte Hawking mit James Hartle einen Zugang zur Quantengravitation und deren Kosmologie über eine euklidische Pfadintegralformulierung. Dabei wird in der mathematischen Pfadintegralformulierung, ursprünglich von Richard Feynman für die Quantenfeldtheorie entwickelt, über alle möglichen Konfigurationen von Raum-Zeiten („Pfade“) summiert, was durch Integrale über die Metrik-Tensorfelder, die nach der allgemeinen Relativitätstheorie die Raum-Zeiten festlegen, dargestellt wird. Um die Integrale mathematisch behandeln zu können, wird ein auch in der Quantenfeldtheorie üblicher Trick angewandt, die Wick-Rotation: Das Pfadintegral wird zu imaginären Werten der Zeit fortgesetzt, sodass die Metriken, über die summiert wird, eine Signatur wie bei der Metrik eines euklidischen Raumes statt des Vorzeichens des Minkowski-Raums wie in der allgemeinen Relativitätstheorie bekommen. Hartle und Hawking schlugen vor, in den Pfadintegralen nur geschlossene Raumzeiten ohne dreidimensionale Ränder zu berücksichtigen (kompakte euklidische Metriken), da diese die dominanten Beiträge liefern würden. Sie nannten dies ihren no boundary proposal („ohne Grenzen“ oder „ohne Rand“) und sahen darin eine natürliche Formulierung für Probleme der Quantenkosmologie („Die Randbedingung des Universums besteht darin, dass es keinen Rand hat“). Neben dem Vorschlag von Hawking und Hartle sind auch andere Möglichkeiten diskutiert worden, insbesondere die Tunnellösung von Alexander Vilenkin (1982), die Entstehung eines Universums aus dem Nichts. Ursprünglich favorisierte Hawking aufgrund seiner Theorie geschlossene Universen, in den 1990er Jahren zeigte er aber mit Neil Turok, dass auch offene inflationäre Universen als Lösung im no boundary proposal möglich sind. Der euklidische Pfadintegral-Zugang zur Quantenkosmologie ist wegen des Übergangs von Minkowski-Metriken, wie sie eigentlich in der Natur realisiert sind, zu euklidischen Metriken außerhalb der Hawking-Schule, die konsequent daran festgehalten hat, umstritten.
+Auf der 17. „General Relativity“-Konferenz in Dublin 2004 kündigte Hawking an, das Problem des Informationsverlustes Schwarzer Löcher gelöst zu haben, was jedoch auf Kritik stieß. Das Problem besteht in Folgendem: Schwarze Löcher „verschlucken“ Materie und damit Informationen. Sie selbst werden aber nach der klassischen Beschreibung durch die Allgemeine Relativitätstheorie nur durch wenige Parameter definiert und sind in der Quantentheorie, wie Hawking gezeigt hatte, Quellen thermischer Strahlung. Die einzige „Information“ dabei ist ihre Temperatur und Entropie, die proportional zu ihrer Oberfläche ist. Es werden somit Informationen vernichtet. In der Quantenmechanik entspricht das einer „nicht unitären“, die Wahrscheinlichkeiten nicht erhaltenden Zeitentwicklung, was den Prinzipien der Quantenmechanik entgegenläuft. Die Frage ist dann, ob es nicht doch einen Ausweg gibt, der die Informationen erhält. John Preskill hatte mit Hawking 1997 eine Wette abgeschlossen (die neben Hawking auch Kip Thorne hielt), dass es in der Quantengravitation einen solchen Ausweg gebe, Hawking hatte dagegen gehalten. In seiner Rede auf dem Kongress wechselte Hawking seinen Standpunkt und meinte, dass Information doch erhalten bleibe, was er mit einer Pfadintegral-Formulierung der Quantengravitation in nichttrivialen Topologien bewiesen zu haben glaubte.Das Problem spielt eine wichtige Rolle in der Quantengravitation und war dort seit der Formulierung des Problems durch Hawking 1975 Gegenstand kontroverser Debatten. Gegner von Hawking waren zum Beispiel Leonard Susskind und Gerardus ’t Hooft, die im Gegensatz zu Hawking für eine Gültigkeit der Quantenmechanik auch im Bereich Schwarzer Löcher eintraten. Susskind veröffentlichte darüber sogar ein Buch (The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics, 2008). Es besteht nach wie vor kein Konsens über die Lösung des Problems. Der bekannte Gravitationstheoretiker Kip Thorne beispielsweise weigerte sich im Gegensatz zu Hawking, den Verlust der Wette anzuerkennen.
+Hawkings letzte wissenschaftliche Arbeit (mit Andrew Strominger, Malcolm J. Perry und Sasha Haco), die erst wenige Tage vor seinem Tod fertiggestellt und posthum im Oktober 2018 von seinen daran beteiligten Kollegen veröffentlicht wurde, wird als Schritt zur Lösung des Informationsverlustes in Schwarzen Löchern gesehen. Die fehlende Information findet sich danach in den Photonen nahe dem Ereignishorizont (diese Informationsrelikte stehen für das soft hair im Titel der Arbeit, die auf das No-Hair-Theorem Schwarzer Löcher anspielt). Eine weitere Arbeit (mit Thomas Hertog), die Hawking kurz vor seinem Tod beschäftigte (seine letzte zu Lebzeiten eingeschickte Veröffentlichung), behandelt seinen alten No-Boundary-Vorschlag für den Ursprung des Universums (Big Bang). Dieser Vorschlag sagte ewige Inflation voraus und eine unendliche Zahl von dabei entstehenden Baby-Universen (Multiversum). In seiner letzten Arbeit benutzte er das holografische Prinzip für eine Beschreibung der Anfangssingularität im Rahmen einer Quantengravitatonstheorie, um die Anzahl der Universen im Multiversum auf eine endliche Anzahl zu reduzieren. Nach Hawking und Hertel sind glatte Universen ähnlich unserem am wahrscheinlichsten. Sie machten auch Vorhersagen aus ihrem Modell bezüglich Signalen von primordialen Gravitationswellen im CMB, die zwar nicht spezifisch für ihr Modell sind, es aber falsifizieren könnten.
+
+
+=== Populärwissenschaftliche Schriften und Rezeption ===
+1981 nahm Hawking an einer Kosmologietagung im Vatikan teil, auf der er sein Konzept vorstellte, laut dem das Universum keine Grenzen haben solle. In diesem Vortrag stellte er das All zugleich als ein Phänomen dar, das einfach vorhanden ist und dementsprechend keines Schöpfergottes bedarf.
+
+1988 erschien mit Eine kurze Geschichte der Zeit das erste populärwissenschaftliche Buch Hawkings, in dem er die Theorien zur Entstehung des Universums, zur Quantenmechanik und zu Schwarzen Löchern darstellt. Das Buch wurde weltweit ein Bestseller und verkaufte sich in Millionenauflage. Als wissenschaftlicher Autor schrieb Hawking zudem weitere erfolgreiche populärwissenschaftliche Werke.
+Im April 2010 äußerte sich Stephen Hawking über mögliche Risiken, die die Suche nach außerirdischem Leben für die Menschheit haben könnte. Hawking sah jedoch die Notwendigkeit, den Weltraum zu besiedeln.Im September 2010 sagte Hawking, dass für die Entstehung des Universums kein Gott notwendig gewesen war. Es sei unnötig, zur Erklärung die Hand Gottes ins Spiel zu bringen. Die Times zitierte aus seinem neuen Buch The Grand Design (dt. Der große Entwurf – Eine neue Erklärung des Universums):
+
+2016 äußerte Hawking bei einer Vortragsreihe für die BBC, dass die Menschheit vor großen Gefahren stehe, die langfristig ihre Existenz stark gefährdeten. So hätten gentechnisch veränderte Viren, Atomkriege, künstliche Intelligenz und die globale Erwärmung das Potenzial, die Menschheit in absehbarer Zeit auszulöschen. Über lange Zeiträume von tausenden Jahren betrachtet sei dies sogar fast sicher. Die größte Gefahr für die Menschheit sei die Menschheit selbst. In diesem Zusammenhang erneuerte er seine Forderung, weitere Himmelskörper im Sonnensystem zu besiedeln, um das Aussterben der Menschen zu verhindern. Diese Kolonien könnten aber frühestens in einem Jahrhundert unabhängig von der Erde existieren, deshalb sollte die Menschheit in diesem Zeitraum besonders vorsichtig sein.
+
+
+=== Privatleben ===
+Während seines Studiums in Oxford begannen die ersten Anzeichen für seine Erkrankung, die sich während seiner Studienzeit 1963 bis 1965 in Cambridge verstärkten. Die amyotrophe Lateralsklerose (ALS) begann, sein Nervensystem zu zerstören. Mediziner prophezeiten ihm, er habe nur noch wenige Jahre zu leben. Seine geistigen Fähigkeiten waren davon allerdings nicht betroffen. Die Diagnose veränderte sein Leben und bewirkte einen Motivationsschub. Hawking begann 1965 seine Doktorarbeit bei Dennis Sciama und heiratete Jane Wilde, mit der er drei Kinder bekam, darunter Lucy Hawking. Da seine Hand zu dieser Zeit bereits Lähmungserscheinungen zeigte, musste seine Dissertationsschrift von mehreren Helfern niedergeschrieben werden. Seit 1968 war er zur Fortbewegung auf den Rollstuhl angewiesen.
+
+Bei einem Besuch des Forschungszentrums CERN in Genf erlitt Hawking 1985 eine Lungenentzündung, die in seinem Zustand lebensbedrohlich war. Es kam zu einer Atemnot, die nur durch einen Luftröhrenschnitt überwunden werden konnte. Dadurch hatte Hawking infolge seiner Grunderkrankung auch seine Sprechfähigkeit verloren. Für die verbale Kommunikation nutzte er seitdem einen Sprachcomputer. 1990 verließ er seine Ehefrau Jane und lebte danach mit seiner Pflegerin Elaine Mason zusammen, die er – ein halbes Jahr nach der Scheidung von Jane – im September 1995 heiratete. Sie begleitete ihn während seiner Lehr- und Forschungstätigkeit sowie auf Forschungsreisen. 2006 ließen sie sich scheiden.Hawking war seit 1986 Mitglied der Päpstlichen Akademie der Wissenschaften und traf in diesem Zusammenhang mit vier Päpsten zusammen, als er Vorträge vor der Akademie hielt. Unter anderem traf er bei solchen Anlässen mit anderen Wissenschaftlern der Akademie 2008 Papst Benedikt XVI. im Vatikan und zuletzt im November 2016 Papst Franziskus. Zeitlebens war er für seine atheistische bzw. agnostische Grundhaltung bekannt.
+
+
+=== Tod und Bestattung ===
+Stephen Hawking starb am 14. März 2018 im Alter von 76 Jahren in seinem Haus in Cambridge. Am 31. März fand in der Kirche St. Mary the Great im Zentrum von Cambridge eine private Trauerfeier mit etwa 500 Gästen statt, zu der in erster Linie Familienmitglieder, Freunde und Kollegen eingeladen wurden. Eine große Menschenmenge wohnte vor der Kirche dem Gottesdienst bei. Sechs Kollegen Hawkings vom Gonville and Caius College trugen den Sarg in die Kirche, die Glocke schlug für jedes Lebensjahr Hawkings einmal.Obwohl Hawking Atheist war, fand die Trauerfeier als anglikanischer Gottesdienst statt. Nach der Trauerfeier wurde Hawkings Leichnam zur Einäscherung gebracht.
+Am 15. Juni 2018 wurde die Asche im Rahmen eines Gedenkgottesdienstes in der Westminster Abbey in London beigesetzt. Sein Grab liegt zwischen den Gräbern Sir Isaac Newtons und Charles Darwins. Mit seiner Beisetzung in der Westminster Abbey erhielt Hawking „die höchste Ehre, die einem berühmten Wissenschaftler auf der Insel zuteil werden kann“. 25.000 Briten hatten sich zuvor an einer Lotterie zur Vergabe der 1000 Besucherplätze in der Westminster Abbey beteiligt. Die letzten Naturwissenschaftler, die vor Hawking mit einer Beisetzung in der Westminster Abbey geehrt worden waren, waren 1937 Ernest Rutherford und 1940 Joseph John Thomson gewesen.
+
+
+== Sprachcomputer (DECtalk DTC01) ==
+
+Nach seiner Lungenentzündung im Jahr 1985 konnte Hawking nicht mehr sprechen. Zur Verständigung zog er eine Augenbraue hoch, wenn jemand auf den richtigen Buchstaben auf einer Tafel gedeutet hatte. Danach benutzte er einen Sprachcomputer. Mit einem Taster in der Hand konnte er aus einer Liste von Begriffen von einem Bildschirm wählen, die dann an einen Sprachgenerator geschickt wurden. So brachte er es auf bis zu fünfzehn Wörter in der Minute, bis seine Finger zu schwach dafür waren.
+
+Danach nutzte Hawking einen mit dem Sprachcomputer verbundenen Infrarotsensor in seiner Brille. Der Sensor sendete einen Infrarotstrahl aus, der unterschiedlich reflektiert wurde, je nachdem, ob Hawking seinen rechten Wangenmuskel anspannte. Dadurch wurde der Schalter ausgelöst und eine Auswahl auf dem Bildschirm bestätigt.
+
+
+== Rezeption in der Populärkultur ==
+In der Folge Angriff der Borg – Teil 1 der US-Science-Fiction-Fernsehserie Raumschiff Enterprise – Das nächste Jahrhundert (Erstausstrahlung 21. Juni 1993) wirkte Hawking auf eigene Bitte als Schauspieler mit. Er stellte als einzige Person im Star-Trek-Universum sich selbst dar, wobei er in der knapp 3-minütigen Eröffnungsszene, einer Holodecksimulation, zusammen mit Data (Brent Spiner), Isaac Newton (John Neville) und Albert Einstein (Jim Norton) pokert – und gewinnt. Als er die Kulissen des Maschinenraums mit dem Warpkern im Zentrum besichtigte, soll er sinngemäß gesagt haben: „Ich arbeite daran.“ Bereits zwei Jahre zuvor, in der Episode Odan, der Sonderbotschafter, trägt eine Transportfähre der Enterprise den Namen Hawking. Hawking hatte in mehreren Folgen der Zeichentrickserien Die Simpsons und Futurama Gastauftritte und lieh auch für diese die Stimme seines Sprachcomputers. Zudem hatte Hawking in den Fernsehserien Cosmo und Wanda, Dilbert, The Big Bang Theory und bei der Show Monty Python Live (mostly) (Juli 2014) Gastauftritte.
+Er wurde im Londoner Wachsfigurenkabinett Madame Tussauds verewigt.
+In dem Song Keep Talking der Gruppe Pink Floyd auf dem Album The Division Bell spricht Stephen Hawking mit seinem Sprachcomputer unter anderem den einleitenden Satz “For millions of years mankind lived just like the animals. Then something happened which unleashed the power of our imagination. We learned to talk.” (deutsch: „Millionen Jahre lang lebten die Menschen wie die Tiere. Dann passierte etwas, das die Kraft unserer Vorstellung entfesselte. Wir lernten zu sprechen.“). Ursprünglich hatte Hawking die auf dem Album verwendeten Zeilen für einen Werbespot im britischen Fernsehen eingesprochen. Auf Pink Floyds Album The Endless River ist in dem Titel Talkin’ Hawkin’ ebenfalls Hawkings Sprachcomputer mit demselben Text zu hören.Ein weiterer Musiktitel, in dem Hawking auftritt, ist A Glorious Dawn mit Carl Sagan, der als Single und Video 2009 erschien. Im Rahmen eines Projektes ließ Jack White 2016 die Vinyl-Ausgabe dieser Single in der Stratosphäre abspielen.In den Büchern der Hyperion-Saga von Dan Simmons werden Raumschiffe mit dem sogenannten Hawking-Antrieb auf Überlichtgeschwindigkeit beschleunigt. Eines der Schiffe trägt den Namen HS Stephen Hawking.
+Unter dem Titel Hawking – Die Suche nach dem Anfang der Zeit gibt es eine TV-Biografie (GB 2004) mit Benedict Cumberbatch in der Hauptrolle. Sie befasst sich mit den Jahren seines Studiums in Oxford – mit der Zeit also, als die ersten Symptome seiner Erkrankung auftauchten und er seine Doktorarbeit begann (1962–1965). The Theory of Everything (dt. Die Entdeckung der Unendlichkeit) aus dem Jahr 2014 ist eine weitere Biografie über diesen Zeitraum, die sich auf die Beziehung zu seiner damaligen Frau Jane Hawking konzentriert. Hawking wird darin von Eddie Redmayne gespielt, der für seine Darstellung Hawkings mit dem Golden Globe als Bester Hauptdarsteller – Drama und dem Oscar als Bester Hauptdarsteller ausgezeichnet wurde.
+2004 veröffentlichte der Nerdcore-Rapper MC Hawking sein Album A Brief History of Rhyme: MC Hawking’s Greatest Hits, trotz des Titels sein Debüt- und gleichzeitig einziges Album. Die fiktive Geschichte behauptet, dass Stephen Hawking ein Doppelleben als Rapper führt. Der Sprechgesang imitiert Hawkings Sprachcomputer.
+Im September 2013 erschien ein Dokumentarfilm über sein Leben mit dem Titel Hawking – Brief History of Mine (dt. Hawking – Die bemerkenswerte Geschichte eines wundervollen Genies), an dem Hawking als Drehbuchautor mitgewirkt hat.
+
+
+== Auszeichnungen und Mitgliedschaften ==
+
+1974: Mitglied („Fellow“) der Royal Society
+1975: Eddington-Medaille
+1976: Dannie-Heineman-Preis
+1979: Albert-Einstein-Medaille
+1982: Commander of the British Empire
+1984: Aufnahme in die American Academy of Arts and Sciences
+1984: Aufnahme in die American Philosophical Society
+1985: Goldmedaille der Royal Astronomical Society
+1986: Aufnahme in die Päpstliche Akademie der Wissenschaften (als bekennender Atheist)
+1987: Dirac-Medaille
+1988: Wolf Prize in Physics
+1989: Companion of Honour
+1989: Prinz-von-Asturien-Preis
+1992: Aufnahme in die National Academy of Sciences
+1998: Namensgeber für den Asteroiden (7672) Hawking
+1999: Julius-Edgar-Lilienfeld-Preis der American Physical Society
+2005: Smithson Bicentennial Medal der Smithsonian Institution
+2006: Copley Medal der Royal Society
+2009: Presidential Medal of Freedom
+2013: Special Fundamental Physics Prize
+2015: BBVA Foundation Frontiers of Knowledge AwardEr war dreizehnfacher Ehrendoktor.
+
+
+== Schriften (Auswahl) ==
+Properties of Expanding Universes. Dissertation, 1966.
+Mit George F. R. Ellis: The Large Scale Structure of Spacetime. Cambridge 1973.
+Hawking on the Big Bang and Black Holes. World Scientific, 1993 (Sammlung seiner wissenschaftlichen Arbeiten).
+Mit W. Israel (Hrsg.): General Relativity: An Einstein Centenary Survey. Cambridge 1979 (darin Hawking: The path integral approach to quantum gravity.).
+Quantum Cosmology. Les Houches Lectures, 1984.
+Quantum Mechanics of Black Holes. In: Scientific American. Februar 1977.
+The Edge of Spacetime. In: Davies (Hrsg.): The New Physics. 1989.
+The occurence of singularities in cosmology 1–3. In: Proceedings of the Royal Society A. Band 294, 1966, S. 511, Band 295, 1966, S. 490, Band 300, 1967, S. 107.
+Mit Roger Penrose: The singularities of gravitational collapse and cosmology. In: Proceedings of the Royal Society A. Band 314, 1970, S. 529–548.
+Particle Creation by black holes. In: Communications in Mathematical Physics. Band 43, 1975, S. 199.
+A brief history of time. Bantam Books, 1988.
+Eine kurze Geschichte der Zeit. rororo, 1991, ISBN 3-499-60555-4 (Platz 1 der Spiegel-Bestsellerliste in den Jahren 1988 und 1989).
+Black Holes and Baby Universes and Other Essays. Bantam Books, 1993; Paperback, 1996.
+Einsteins Traum. Expeditionen an die Grenzen der Raumzeit. rororo, 1996, ISBN 3-499-60132-X.
+Mit Roger Penrose: The Nature of Space and Time. Princeton 1996 (getrennte Vorlesungen von Penrose und Hawking; Hawkings Teil des Buches ist frei erhältlich unter arxiv:hep-th/9409195).
+Raum und Zeit. rororo, 2000.
+The Universe in a Nutshell. Bantam Books, 2001.
+Das Universum in der Nussschale. Erweiterte Neuausgabe. Dtv, 2003, ISBN 3-423-33090-2 (Platz 1 der Spiegel-Bestsellerliste vom 24. September 2001 bis zum 10. Februar 2002 und vom 18. Februar 2002 bis zum 3. März 2003)
+Stephen Hawking: Die kürzeste Geschichte der Zeit. Rowohlt, Reinbek bei Hamburg 2005, ISBN 3-498-02986-X. 
+Stephen Hawking: Giganten des Wissens. Eine bebilderte Reise in die Welt der Physik. Weltbild Buchverlag, Augsburg 2005, ISBN 3-89897-180-5. 
+Mit Lucy Hawking: Der geheime Schlüssel zum Universum. cbj-Verlag, 2007, ISBN 978-3-570-13284-5 (Kinderbuch).
+Mit Lucy Hawking: Die unglaubliche Reise ins Universum. cbj-Verlag, 2009, ISBN 978-3-570-13392-7 (Kinderbuch).
+Mit Leonard Mlodinow: Der große Entwurf. Eine neue Erklärung des Universums. Deutsch von Hainer Kober. Rowohlt, Reinbek 2010, ISBN 978-3-498-02991-3.
+Meine kurze Geschichte. Deutsch von Hainer Kober. Rowohlt Verlag, Reinbek 2013, ISBN 978-3-498-03025-4 (Taschenbuch 2015, ISBN 978-3-499-63058-3; englische Ausgabe My brief history. Bantam Books, 2013).
+Eine wunderbare Zeit zu leben. Übersetzer Hainer Kober, Essay von Bernd Schuh, Rowohlt Taschenbuch Verlag, 2017.
+Kurze Antworten auf große Fragen. Aus dem Englischen von Hainer Kober unter Mitarbeit von Susanne Held. Klett-Cotta Verlag, Stuttgart 2018, ISBN 978-3-608-96376-2 (postum) (Platz 1 der Spiegel-Bestsellerliste vom 27. Oktober bis zum 23. November 2018).
+
+
+== Filme und Serien ==
+1991 drehte Errol Morris die US-amerikanisch-japanische Dokumentation Eine kurze Geschichte der Zeit (A Brief History of Time) nach dem gleichnamigen Buch von Hawking.
+Eine sechsteilige Fernsehreihe des US-amerikanischen Public Broadcasting Service (PBS), Stephen Hawking’s Universe (300 Minuten insgesamt), 1997. Die Titel der einzelnen Teile lauten:
+1: Seeing is Believing (Sehen ist Glauben)
+2: The Big Bang (Am Anfang von Raum und Zeit)
+3: Cosmic Alchemy (Kosmische Alchemie)
+4: On the Dark Side (Der Joker: Dunkle Materie)
+5: Black Holes and Beyond (Schwarze Löcher und noch darüber hinaus)
+6: An Answer to Everything (Eine Antwort auf alles)Diese Serie sollte nicht verwechselt werden mit der 3-teiligen Reihe des Discovery Channel von 2010 Into the Universe with Stephen Hawking, die in Großbritannien allerdings unter dem Titel Stephen Hawking’s Universe ausgestrahlt wurde (deutscher TV-Titel: Stephen Hawking: Geheimnisse des Universums).Hawking – Die Suche nach dem Anfang der Zeit. (OT: Hawking.) Filmbiografie, BBC. Regie: Philip Martin. Vereinigtes Königreich 2004.
+Die Entdeckung der Unendlichkeit. (OT: The Theory of Everything.) Kinofilm. Regie: James Marsh. Vereinigtes Königreich 2014.
+Gastauftritt in der Serie Raumschiff Enterprise – Das nächste Jahrhundert.
+Mehrere Gastauftritte in der Serie The Big Bang Theory.
+Vier Gastauftritte in der Serie Die Simpsons.
+Gastauftritte in der Serie Futurama (Staffel 2, Episode 20; Staffel 6, Episode 26: Die Ära des Tentakels).
+
+
+== Literatur ==
+Hubert Mania (Hrsg.): Das große Stephen-Hawking-Lesebuch. Rowohlt, Reinbek bei Hamburg 2003, ISBN 3-498-04488-5.
+Michael White, John Gribbin: Stephen Hawking – Die Biographie. Rowohlt, Reinbek bei Hamburg 1995, ISBN 3-499-19992-0.
+Rüdiger Vaas: Hawkings neues Universum – Wie es zum Urknall kam. Kosmos, Stuttgart 2008, ISBN 978-3-440-11378-3.
+Rüdiger Vaas: Einfach Hawking! Geniale Gedanken schwerelos verständlich. Franckh-Kosmos, Stuttgart 2016, ISBN 978-3-440-15624-7.
+Gary Gibbons, Paul Shellard, Stuart Rankin (Hrsg.): The future of theoretical physics and cosmology – celebrating Stephen Hawking’s 60th birthday. Cambridge University Press 2003, ISBN 0-521-82081-2 (Konferenz zu Hawkings 60. Geburtstag in Cambridge, darin von Hawking: Sixty Years in a nutshell. Publikationsverzeichnis).
+Paul Parsons, Gail Dixon, John Gribbin (Vorwort): Stephen Hawking im 3-Minuten-Takt. Sein Leben, sein Werk, sein Einfluss. (Originaltitel: 3-Minute Stephen Hawking. übersetzt von Carl Freytag), Springer, Berlin 2013, ISBN 978-3-642-33003-2.
+Jane Hawking: Die Liebe hat elf Dimensionen. Mein Leben mit Stephen Hawking. (Originaltitel: Travelling to Infinity. Übersetzt von Ralf Pannowitsch und Christiane Wagler), Piper, München/Zürich 2013, ISBN 978-3-492-05559-8.
+Horst Völz: Das ist Zeit. Shaker Verlag, Düren 2019, ISBN 978-3-8440-6675-3.
+Florian Freistetter: Hawking in der Nussschale. Der Kosmos des großen Physikers. Carl Hanser Verlag, München 2018, ISBN 978-3-446-26245-4.
+
+
+== Rundfunkberichte ==
+Arndt Reuning und Frank Grotelüschen: 75. Geburtstag. Stephen Hawking Superstar. Bei: Deutschlandfunk – „Wissenschaft im Brennpunkt“ vom 8. Januar 2017.
+
+
+== Weblinks ==
+
+Literatur von und über Stephen Hawking im Katalog der Deutschen Nationalbibliothek
+Werke von und über Stephen Hawking in der Deutschen Digitalen Bibliothek
+Stephen Hawkings Website (englisch)
+Hawking, Stephen W. bei SPIRES
+John J. O’Connor, Edmund F. Robertson: Stephen William Hawking. In: MacTutor History of Mathematics archive.
+Mitschnitte von zahlreichen Vorträgen Stephen Hawkings am Kavli Institute for Theoretical Physics, Santa Barbara
+Vortrag von Stephen Hawking: „Asking big questions about the universe“
+Stephen Hawking in der Internet Movie Database (englisch)
+
+
+== Einzelnachweise ==

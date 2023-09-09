@@ -1,0 +1,54 @@
+﻿Bluefish es un software editor HTML multiplataforma POSIX y con licencia GPL, lo que lo convierte en software libre.
+Bluefish está dirigido a diseñadores web experimentados y programadores y se enfoca en la edición de páginas dinámicas e interactivas. Es capaz de reconocer diversos lenguajes de programación y de marcas.
+Bluefish corre en muchos de los sistemas operativos compatibles con POSIX (Portable Operating System Interface) tales Linux, FreeBSD, macOS, OpenBSD, Solaris y Tru64.
+Emplea principalmente las bibliotecas GTK y C posix. La última versión que trabajó con GTK 1.0 o 1.2 es la 0.7. La versión actual requiere como mínimo GTK versión 2.0 (o superior), libpcre 3.0 (o superior), libaspell 0.50 o superior (opcional) para corrección de ortografía y gnome-vfs (opcional) para archivos remotos.
+Es importante anotar que el programa no es oficialmente parte del proyecto Gnome, pero es utilizado a menudo en dicho entorno. 
+Los usuarios también pueden acceder a los recursos en línea, tales como servidores FTP o directorios WebDAV, de forma transparente, a través de Gnome VFS, una capa de abstracción al sistema de archivos.
+El nombre y logo de Bluefish (pez azul) fue propuesto por Neil Millar, quien lo sugirió al equipo de trabajo e inmediatamente los cautivó. Bluefish es un animal (pez) que se desplaza en cardúmenes numerosos y cerca de la costa. Es evidente que su nombre llama a la integración y a la compartición, ideales en el software libre.
+Bluefish cuenta con características tales como rapidez, posibilidad de abrir múltiples archivos simultáneamente, soporte multiproyecto, soporte para archivos remotos mediante gnome-vfs, marcado de sintaxis personalizable basado en expresiones regulares compatibles con Perl, soporte para sub-patrones y patrones predefinidos (para HTML, PHP, Javascript, JSP, SQL, XML, Python, Perl, CSS, ColdFusion, Pascal, R, Octave/Matlab), diálogos para etiquetas HTML, asistentes para creación fácil de documentos, creación de tablas, marcos (frames), soporte para múltiples codificaciones, trabajo con diferentes juegos de caracteres, numeración de líneas, menús desplegables, barras de herramientas configurables, diálogo para insertar imágenes, buscador de referencia de funciones, Integración personalizable con varios programas (make, javac, etc), resaltado de sintaxis (C, Java, JavaScript, Python, Perl, ColdFusion, Pascal, R y Octave), traducciones completas a aproximadamente veintidós idiomas entre ellos: portugués brasileño, búlgaro, chino, danés, finés, francés, alemán, húngaro, italiano, noruego, polaco, portugués, español, sueco, japonés, y tamil.
+
+
+== Historia ==
+El desarrollo del proyecto Bluefish inicia bajo un nombre diferente. Un buen (y a la vez libre) editor de texto dirigido al desarrollo web no estaba disponible. Es por ello que Olivier Sessink inicia el proyecto Prosite en el año de 1997, es importante resaltar que prácticamente simultáneamente Chris Mazuc trabajaba en un editor HTML. Gracias a una lista de correo de GTK ambos desarrolladores comentan sus iniciativas y deciden trabajar juntos. Olivier tiene un editor básico mientras que Chris posee muchos diálogos HTML. Mezclan su código y este nuevo proyecto recibe el nombre de Thtml.
+Posteriormente se incorpora al equipo de trabajo Neil Millar quien se encarga de agregarle el selector de colores y la integración con Weblint. Surge entonces la necesidad de un logo, mucho más fresco y llamativo, pues iban a aparecer las primeras versiones públicas y se quería ofrecer un producto con una imagen y un nombre más atrayente. Es en este momento, cuando Neil plantea como nuevo nombre: Bluefish y acompaña su propuesta de un hermoso pez azul que sugiere como logo. Estos continúan siendo los nombre y logo actuales. 
+Con el paso del tiempo se unieron más desarrolladores y Bluefish comenzó a acaparar la atención de la comunidad de código abierto.
+
+
+== Desarrollo ==
+Bluefish es un proyecto de software libre en el cual las listas de correo juegan un papel muy importante. A través de ellas, usuarios, desarrolladores y probadores pueden dar su opinión respecto a nuevas características, bugs y mejoras respecto a la GUI. Como todo buen proyecto de software libre sigue las pautas marcadas en el bazar, teniendo como motivación principal el bien común, del que todos se pueden obtener beneficio.
+
+
+== Estructuras organizativas/asociativas o de decisión ==
+Bluefish posee una estructura organizativa muy clara, en la cual cada participante del proyecto tiene sus tareas asignadas con sus respectivos líderes.
+La persona encargada actualmente del mantemiento es Olivier Sessink y los desarrolladores principales son Olivier Sessink, Roland Steinbach, Gero Takke, Pablo De Napoli y Kai Laman. Profundizando en las funciones, se puede decir que Olivier se encarga de liberar nuevas versiones, mantenimiento, diálogos de imagen, framework para programas principales (open, save, close etc.), funcionalidades como undo, copy/paste, optimización de iluminación sintaxis, menús personalizables, diálogos de referencia, soporte CSS, diálogos adicionales, barras de herramientas y asistentes (wizards), portabilidad, soporte de internacionalización, soporte de clic derecho, manejo de links, configuración GUI, pruebas y depuración entre otras funciones.
+Es importante anotar que Chris Mazuc y Neil Millar actualmente no están activos. Las labores de Chris Mazuc eran barras de herramientas generales, asistentes generales, características menores, depuración y limpieza, pruebas y correcciones. De igual manera Neil Millar se encargaba de selección de colores, apertura desde la web, incorporación de weblint, incorporación, características menores, depuración, limpieza y pruebas.
+Vale la pena anotar que los usuarios ocupan un papel muy importante en los giros que da el proyecto pues ellos pueden informar sobre errores y problemas al igual que proponer nuevas funcionalidades, enviar Patches, compilando y personalizando bajo MacOSX o compilando bajo Cygwin 
+
+
+== Industria relacionada ==
+Desde un principio Bluefish ha tenido como ideal principal la libertad. Olivier Sessink se ha destacado por su interés hacia el desarrollo de propuestas open-source. Esta misma preocupación la tenía Chris Mazuc. 
+
+
+== Estado actual ==
+Bluefish, como otros proyectos, tiene siempre dos versiones de la aplicación: una estable y otra de desarrollo (svn). La versión de desarrollo incluye las correcciones efectuadas y nuevas funcionalidades. Con este sistema, siempre tienen una versión estable para ofrecer a los usuarios y una versión de desarrollo que refleja la dirección que tomará el proyecto. Adicionalmente se tiene una versión “Snapshot”. Los Snapshot son hechos con regularidad para proveer a usuarios de las últimas funcionalidades sin necesidad tratar con SVN.
+
+
+== Radiografía ==
+Los datos y cifras presentes en la siguiente tabla nos permitirán profundizar un poco más en Bluefish. 
+La versión 1.0.5 posee aproximadamente 44 mil líneas que identifica el SLOCCount, una cifra que según el modelo COCOMO requeriría un esfuerzo para producir un software de este tamaño de 11 persona-años (para ello se ha utilizado la fórmula 2.4 Sk 1.05). Para calcular el tiempo se utiliza td = 2,5 km x 0,38, dando como resultado 1,3 años.
+Para calcular los costes se toma en consideración el salario de 56.286 $/año, que es el salario promedio de un programador en los Estados Unidos y luego se multiplica ese resultado por 2,4 (gastos extras).
+
+Otro aspecto a mencionar son los diversos lenguajes de programación utilizados en el desarrollo del proyecto, según el análisis realizado con SLOCCount, el lenguaje más utilizado es ansiC, seguido de sh.
+
+
+== Véase también ==
+Lista de editores HTML
+Quanta Plus
+CoffeeCup Linux
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Bluefish.
+Wiki de Bluefish
+Página oficial de Bluefish
+Interesante documento con fauna del software libre

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kMInEVdB0NUytcnjxTfufbrOsNrYT++eOL+joZRUMUyCWzmJtS8UjZFCNviaLNJEH0lKyIMdCYLG/lDx8qpuQ==",
+  "success": true,
+  "projectFilePath": "D:\\Classes\\B365\\Final Project\\B365TxtParser\\B365TxtParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\csvhelper\\16.1.0\\csvhelper.16.1.0.nupkg.sha512",
+    "C:\\Users\\Sean\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

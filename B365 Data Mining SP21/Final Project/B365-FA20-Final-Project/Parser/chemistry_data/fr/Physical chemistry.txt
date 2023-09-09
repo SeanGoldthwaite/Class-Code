@@ -1,0 +1,24 @@
+﻿En chimie quantique, une sous-couche électronique d'un atome est l'ensemble des orbitales atomiques partageant à la fois le même nombre quantique principal n et le même nombre quantique azimutal ℓ ; les orbitales atomiques qui ne partagent que le même nombre quantique principal n forment une couche électronique. Les termes couche et sous-couche sont hérités de la théorie des quanta du début du siècle dernier, et notamment des développements théoriques introduits par Arnold Sommerfeld autour du modèle de Bohr, qui expliquaient la structure fine des raies spectrales de l'atome d'hydrogène et des ions hydrogénoïdes par la quantification des niveaux d'énergie des électrons autour des noyaux atomiques en fonction de nombres quantiques.
+Les sous-couches électroniques sont notées par un nombre et une lettre : le premier représente le nombre quantique n qui définit la couche électronique, tandis que la lettre correspond à une valeur de ℓ définissant la sous-couche électronique, selon une correspondance issue de termes utilisés aux débuts de la spectroscopie pour qualifier les raies spectrales des métaux alcalins :
+
+s correspond à ℓ = 0, pour sharp ou simple ;
+p correspond à ℓ = 1, pour principal ;
+d correspond à ℓ = 2, pour diffuse ;
+f correspond à ℓ = 3, pour fine ou fundamental ;
+g, h, i, k, etc. par ordre alphabétique, correspondant à ℓ = 4, 5, 6, 7, etc.,,, en omettant la lettre j car certaines langues ne la distinguent pas de la lettre i.Les nombres n et ℓ sont des nombres entiers vérifiant n ≥ 1 et 0 ≤ ℓ ≤ n – 1. Les électrons d'un atome sont également caractérisés par deux autres nombres quantiques : le nombre quantique magnétique mℓ et le nombre quantique magnétique de spin ms, qui vérifient – ℓ ≤ mℓ ≤ ℓ et ms = ± 1/2, ces deux dernières valeurs étant couramment représentées par les symboles ↑ et ↓. Selon le principe d'exclusion de Pauli, deux électrons d'un même atome ne peuvent avoir le même état quantique ; ils ne peuvent donc avoir leurs quatre nombres quantiques (n, ℓ, mℓ, ms) égaux, de sorte que, par construction, une couche électronique n peut contenir au plus 2n2 électrons, tandis qu'une sous-couche ℓ peut contenir au plus 2(2ℓ + 1) électrons, répartis entre les différentes orbitales atomiques mℓ de la façon suivante :
+
+L'ordre de remplissage des sous-couches électroniques des cations pour donner des atomes électriquement neutres suit l'ordre des nombres n croissants puis, en cas d'égalité, des nombres ℓ croissants :
+
+1s → 2s → 2p → 3s → 3p → 3d → 4s → 4p → 4d → 4f → etc.En revanche, l'ordre de remplissage des sous-couches électroniques des atomes électriquement neutres à l'état fondamental par numéro atomique croissant suit la règle de Klechkowski — remplissage des sous-couches par n + ℓ croissant puis, en cas d'égalité, par n croissant — modifiée dans environ un cas sur cinq par la première règle de Hund :
+
+1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f → 5d → 6p → 7s → 5f → 6d → 7p.La succession des sous-couches électroniques par numéro atomique croissant le long des périodes du tableau périodique définit les blocs de ce tableau : bloc s, bloc p, bloc d et bloc f pour ℓ = 0, 1, 2 et 3 respectivement :
+
+
+== Notes et références ==
+
+
+== Articles connexes ==
+
+Couche électronique
+Orbitale atomique
+Configuration électronique Portail de la physique   Portail de la chimie

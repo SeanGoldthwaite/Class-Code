@@ -1,0 +1,89 @@
+﻿Mark Elliot Zuckerberg (IPA: [mɑɹk ˈɛliət ˈzʌkəɹbɜɹg]; White Plains, 14 maggio 1984) è un informatico e imprenditore statunitense, conosciuto per essere uno dei fondatori del social network Facebook.
+Dall'aprile 2013 Zuckerberg è presidente e amministratore delegato di Facebook Inc..
+Insieme ai suoi compagni di stanza e studenti dell'Harvard University (Eduardo Saverin, Andrew McCollum, Dustin Moskovitz e Chris Hughes) Zuckerberg creò Facebook in una stanza del dormitorio di Harvard, presentando poi il progetto anche ad altri campus universitari degli Stati Uniti, per poi trasferirsi a Palo Alto in California. Nel 2007, all'età di 23 anni, Zuckerberg divenne miliardario a seguito del successo di Facebook. Nel 2012, in tutto il mondo, il numero di utenti registrati a Facebook raggiunse il miliardo. Zuckerberg fu coinvolto in diverse azioni legali che furono intentate da altri membri del gruppo, i quali reclamavano una quota azionaria sulla base del loro coinvolgimento durante la fase di sviluppo di Facebook.
+Dal 2010 Time inserisce Zuckerberg tra le 100 persone più ricche e influenti del mondo nell'annuale classifica di persona dell'anno. Nel 2011 Zuckerberg si posizionò primo nella classifica degli "Ebrei più influenti del mondo" redatta dal Jerusalem Post e da allora ha sempre occupato le primissime posizioni di quella classifica. Una trasposizione cinematografica della storia della nascita di Facebook è stata narrata nel film del 2010 The Social Network. Al 2019, secondo la rivista Forbes, è il 5° uomo più ricco del mondo, con un patrimonio stimato di 72,3 miliardi di dollari.
+
+
+== Biografia ==
+Zuckerberg è nato a White Plains, Stato di New York, nel 1984. È figlio del dentista Edward Zuckerberg e della psichiatra Karen Kempner. Insieme alle tre sorelle Randi, Donna, e Arielle, è cresciuto a Dobbs Ferry, una piccola città a circa 10 miglia a nord di New York. Zuckerberg è stato educato secondo la religione ebraica ed ebbe il suo bar mitzvah all'età di 13 anni. Più tardi diverrà ateo, posizione a cui ha poi rinunciato.All'Ardsley High School, scuola pubblica di secondo grado che frequentò, è stato capitano della squadra di scherma. All'università, era noto per recitare a memoria versi di poemi epici come l'Iliade. Secondo quanto raccontato da Sean Parker, cofondatore di Napster e amico di Zuckerberg, era "molto preso da odissee greche e tutta quella roba", portando un episodio in cui Zuckerberg citò alcuni versi dell'Eneide di Virgilio durante una riunione negli uffici di Facebook.
+
+
+== Programmatore ==
+
+
+=== Primi anni ===
+Zuckerberg iniziò a usare computer e a scrivere software alle scuole medie. Suo padre gli insegnò BASIC, linguaggio di programmazione della Atari, negli anni novanta e più tardi assunse lo sviluppatore di software David Newman in modo che gli impartisse lezioni private. Newman lo definì un "prodigio", aggiungendo che "era difficile stargli dietro". Zuckerberg frequentò un corso universitario di programmazione al Mercy College, vicino a casa sua, quando ancora andava alle superiori. Era affascinato dalla scrittura di software, specialmente strumenti di comunicazione e giochi.
+Durante gli anni delle superiori Zuckerberg, attraverso la società Intelligent Media Group, sviluppò e caricò su Slashdot  un music player chiamato Synapse Media Player che utilizzava l'apprendimento automatico (machine learning) per imparare le preferenze musicali dell'utente, ottenne tre stelle su cinque da PC Magazine.
+
+
+=== Anni universitari ===
+Quando iniziò a frequentare Harvard, Zuckerberg aveva una solida reputazione come programmatore. Studiò informatica e psicologia ed entrò a far parte di Alpha Epsilon Pi, una confraternita universitaria ebraica, e di Kirkland House. Al secondo anno scrisse un programma chiamato CourseMatch, che consentiva agli utenti di scegliere i corsi da frequentare in base alle scelte di altri studenti e di creare gruppi di studio. Poco tempo dopo creò un altro programma, chiamato inizialmente Facemash, che consentiva agli studenti di stabilire, scegliendo tra diverse foto, la persona più bella. Secondo il compagno di stanza di Zuckerberg all'epoca, Arie Hasit, "creò il sito per divertimento" e spiegò:
+
+Avevamo libri chiamati Face Books, che riportavano i nomi e le foto di tutti quelli che vivevano nei dormitori degli studenti. All'inizio creò un sito e ci piazzò due foto, o foto di due maschi e di due femmine. I visitatori del sito dovevano scegliere chi fosse il più "figo" e in base ai voti ottenuti si sarebbe stilata una classifica.
+Il sito venne creato in un fine settimana ma il lunedì mattina l'università lo bloccò perché la sua popolarità aveva sovraccaricato uno degli switch della rete di Harvard e impediva agli studenti di accedere ad Internet. In più, diversi studenti lamentarono che le loro foto erano state utilizzate senza autorizzazione. Dopo l'accaduto Zuckerberg si scusò pubblicamente.Il semestre successivo nel gennaio 2004, Zuckerberg iniziò a scrivere del codice per un nuovo sito internet. Il 4 febbraio 2004 Zuckerberg lanciò "Thefacebook", all'indirizzo thefacebook.com.Quattro anni dopo il lancio del sito, tre studenti di Harvard, Cameron Winklevoss, Tyler Winklevoss e Divya Narendra, accusarono Zuckerberg di avergli intenzionalmente fatto credere che li avrebbe aiutati a creare un social network chiamato HarvardConnection.com, mentre utilizzò la loro idea per creare un prodotto concorrente. I tre si lamentarono dell'accaduto al giornale universitario Harvard Crimson che in risposta aprì un'indagine.
+In seguito al lancio di Facebook, i tre fecero causa contro Zuckerberg che terminò in un accordo fra le parti. L'accordo raggiunto riconosceva ai tre 1,2 milioni di azioni di Facebook che alla quotazione in borsa della società valevano 300 milioni di dollari.Zuckerberg abbandonò gli studi ad Harvard durante il suo secondo anno per completare questo progetto.
+
+
+== Facebook ==
+
+
+=== Fondazione e obiettivi ===
+Zuckerberg fondò Facebook dalla sua mensa di Harvard il 4 febbraio 2004. Una prima fonte di ispirazione per il progetto Facebook potrebbe essere fatta risalire al periodo della Phillips Exeter Academy, la scuola superiore da cui Zuckerberg si diplomò nel 2002 e dove pubblicò l'annuario "The Photo Address Book" che gli studenti della scuola iniziarono subito a chiamare "The Facebook". Questa sorta di annuari assumevano un ruolo di primo piano nella vita sociale degli studenti di molte scuole (prep schools in inglese), essendo essi usati per rintracciare e conoscere compagni di corso o comunque altri studenti.
+Una volta al college, il Facebook di Zuckerberg iniziò come un'esclusiva per gli studenti di Harvard finché Mark, con l'aiuto del suo compagno di stanza Dustin Moskovitz, decise di ampliarlo ad altre università.
+Le prime ad essere coinvolte furono la Stanford University, Dartmouth College, Columbia University, Università di New York, Cornell University, università della Pennsylvania, Università Brown, Università di Yale e altre ancora che avevano rapporti sociali con Harvard. Zuckerberg si trasferì quindi a Palo Alto, California, con Moskovitz e altri amici. Affittarono qui una piccola abitazione che funzionava da ufficio. Durante l'estate Mark conobbe Peter Thiel che investì nella compagnia. Il primo vero e proprio ufficio lo ottennero solo a metà del 2004. Secondo Zuckerberg, il gruppo inizialmente intenzionato a tornare ad Harvard, finì per rimanere in California. Avevano a questo punto già rifiutato diverse offerte avanzate da diverse compagnie intenzionate ad acquistare Facebook.
+In un'intervista del 2007, Zuckerberg spiegò: «Non fu per la somma che ci offrirono. Per me e i miei colleghi, la cosa più importante era creare un flusso di informazioni per la gente. L'idea che le corporazioni mediatiche siano possedute da conglomerati è assolutamente priva di ogni attrattiva per me». Ribadì poi quanto già affermato alla rivista Wired nel 2010: "L'unica cosa che realmente mi interessa è la mia missione, rendere il mondo aperto". Prima, nell'aprile 2009, Zuckerberg seguì i consigli dell'ex direttore finanziario di Netscape Peter Currie sulle strategie finanziarie per Facebook.
+Il 21 luglio 2010 Zuckerberg annunciò che la compagnia aveva raggiunto i 500 milioni di utenti. Quando gli fu chiesto se Facebook potesse incassare di più dalla pubblicità come risultato della sua strabiliante crescita, lui rispose: «Penso di sì... se guardate a quanto la nostra pagina è occupata da pubblicità e la comparate con la media dei motori di ricerca. La nostra media è poco meno del 10% della pagina e quella dei motori è circa il 20%... Questa è la cosa più semplice che si può fare. Ma noi non siamo così. Facciamo soldi a sufficienza. Insomma, continuiamo a far funzionare le cose; stiamo crescendo alla velocità che volevamo.»
+Nel 2010, Steven Levy, autore del libro Hackers. Eroi della Rivoluzione Informatica del 1984, scrisse che Zuckerberg "chiaramente pensa di essere un hacker". Zuckerberg disse che "Va bene rompere le cose per renderle migliori". Facebook ha istituito infatti gli "hackathons", delle competizioni tenute ogni sei o otto settimane in cui i partecipanti hanno a disposizione una notte per concepire e completare un progetto. La compagnia fornisce musica, cibo e birra agli hackathons, e molti membri dello staff di Facebook, incluso Mark, hanno spesso partecipato. "L'idea è che si può creare qualcosa di straordinario in una notte", ha detto Zuckerberg a Levy. "E questo è parte della personalità di Facebook... ed è veramente il cuore della mia personalità".
+La rivista inglese Vanity Fair ha posizionato Zuckerberg al 1º posto nella sua classifica delle "100 persone più influenti dell'Era dell'Informazione" del 2010. Zuckerberg era al 23º posto già nel 2009. Nel 2010, Zuckerberg comparve in 16ª posizione nella classifica delle 50 persone più influenti del mondo della rivista britannica New Statesman. In un'intervista del 2011 con la rete televisiva PBS dopo la morte di Steve Jobs, Zuckerberg ricordò come Jobs lo avesse consigliato su come creare un team di management per Facebook che fosse "concentrato e formato da qualità tanto alta quanto quella che c'è in te".
+Il 19 febbraio 2014, Mark Zuckerberg compra per 19 miliardi di dollari il famoso servizio di messaggistica WhatsApp.
+
+
+=== Wirehog ===
+Un mese dopo il lancio di Facebook nel 2004, i2hub, un'altra piattaforma esclusiva per college, creato da Wayne Chang, venne lanciato. i2hub era incentrato su condivisioni peer-to-peer. In quel periodo entrambi i social network avevano attirato l'attenzione per la stampa per la loro rapida crescita sia per il numero di utenti che per la pubblicità. Nell'Agosto 2004, Zuckerberg, Andrew McCollum, Adam D'Angelo e Sean Parker lanciarono una loro piattaforma di condivisioni peer-to-peer chiamata Wirehog, un precursore delle applicazioni Facebook Platform.
+
+
+=== Platform e Beacon ===
+Il 24 maggio 2007 Zuckerberg annunciò l'uscita di Facebook Platform, una piattaforma di sviluppo per programmatori ideata per creare applicazioni interne a Facebook. In poche settimane, molte applicazioni vennero messe a punto ed alcune raggiungevano già milioni di utenti. La crescita continuò fino a raggiungere 800 000 sviluppatori in tutto il mondo. Il 6 novembre 2007, Zuckerberg annunciò un nuovo sistema di social advertising chiamato Beacon, che permetteva alle persone di condividere informazioni con le loro amicizie su Facebook sulla base delle loro attività in altri siti. Per esempio, i venditori di eBay potevano fare in modo che gli amici sapessero automaticamente cosa fosse in vendita via Facebook non appena questi venivano messi in vendita.
+Il programma andò subito incontro ad un'attenta analisi per via delle possibili violazioni della privacy degli utenti. Zuckerberg e Facebook non risposero abbastanza velocemente a queste preoccupazioni e il 5 dicembre 2007 Mark fu costretto a scrivere un post su Facebook in cui prendeva responsabilità delle preoccupazioni e offriva una via facilitata di uscita per gli utenti. Nel 2007 Zuckerberg venne nominato dalla MIT Technology Review TR35 uno dei 35 migliori innovatori sotto i 35 anni del mondo. Solo il 23 luglio 2008 Zuckerberg annunciò Facebook Connect, una versione di Facebook Platform per gli utenti.
+
+
+== Patrimonio e investimenti ==
+Zuckerberg nel 2013 ha donato 1 miliardo di dollari in beneficenza, dando anche un contributo alla Silicon Valley, che era entrata in crisi finanziaria nel 2008.Nel 2015 ha donato 45 milioni di dollari, per avviare il trasferimento del 99% delle azioni di Facebook inc. ad una società impegnata in beneficenza, come sostenuto dallo stesso Zuckerberg, fondata dai coniugi Zuckerberg in onore della nascita della figlia Maxima.A maggio 2011 ha acquistato una casa di 450 metri quadrati per 7 milioni di dollari.A dicembre 2012 ha acquistato il castello di Lavezzole per 8 milioni di euro ed altre quattro case per un totale di oltre 30 milioni di dollari.Ad ottobre 2014 ha acquistato 283 ettari dell'isola di Kauai, nelle Hawaii per 100 milioni di dollari.A settembre 2015 ha acquistato una casa per la cifra di 22,3 milioni di dollari al centro di Manhattan.Possiede inoltre un'Acura TSX, una Golf GTI, una Honda Fit ed una Pagani Huayra acquistata per 1,3 milioni di dollari nel 2014, oltre ad un jet privato acquistato per 700.000 dollari nel 2012Nel 2012 ha sposato Priscilla Chan ed il 1º dicembre 2015 diventa papà. Ha inoltre acquistato nel 2016 una casa per 10 milioni di dollari dopo aver acquistato le altre sei abitazioni circostanti tre anni prima dal valore totale di 30 milioni di dollari, assumendo anche 16 guardie del corpo per tutelare la sua sicurezza.Ha donato 500 mila euro in crediti per comprare pubblicità su Facebook alla Croce Rossa Italiana dopo gli eventi del Sisma del centro Italia del 2016.Ha acquistato la Oculus VR, società produttrice di Oculus Rift, per 2 miliardi di dollari nel 2014.
+
+
+== Controversie ==
+Nel febbraio 2008 i gemelli Cameron e Tyler Winklevoss, colleghi universitari di Zuckerberg, intentarono una causa civile contro Mark Zuckerberg, cofondatore di Facebook, per furto di proprietà intellettuale. Tuttavia, a fronte di una richiesta di 600 milioni di dollari, ne ottennero 65. I fratelli Winklevoss, hanno riaperto la causa asserendo alcune illegalità nella determinazione del risarcimento in 65 milioni di dollari da parte di Mark Zuckerberg ed i media. Quattro anni prima i fratelli avevano avuto l'idea di un social network universitario per gli studenti di Harvard al quale avevano dato il nome HarvardConnection, ma che subito dopo diventò ConnectU. Chiamarono Zuckerberg per sviluppare l'idea sotto il profilo tecnico, ma quest'ultimo, appresa l'idea dei due gemelli e assunto l'incarico, dapprima si rese irreperibile adducendo come pretesto di essere molto impegnato, dopodiché prese spunto da questa idea e realizzò (assieme a Saverin che fornì 1000 dollari di capitale), un nuovo progetto sotto il nome di TheFacebook, che si mostra molto innovativo rispetto all'idea iniziale dei fratelli Winklevoss (il giudice della corte di appello ha infatti riconosciuto la paternità di Facebook a Zuckerberg).
+Saverin riuscì a trovare, grazie anche ai contatti della famiglia della propria ragazza, investitori che furono pronti a scommettere sull'idea. Secondo alcuni documenti Saverin avrebbe detenuto, inizialmente, il 30% della società; tuttavia, mentre si trovava a New York in cerca di nuovi investitori, Zuckerberg strinse accordi con alcuni venture capitalist californiani, circa un investimento di questi ultimi nella società, dando in cambio quote della stessa, diminuendo quindi la partecipazione percentuale dell'amico Saverin. Di conseguenza a tali azioni fu intentata una causa da Eduardo Saverin nei confronti di Facebook e Zuckerberg. In seguito al dibattimento la compagnia riconobbe pubblicamente il titolo di Saverin come cofondatore di Facebook. Saverin in seguito alla composizione formale ed economica del contenzioso con Facebook, firmò con Facebook un accordo di riservatezza sui termini della causa, quindi gli altri termini dell'accordo Saverin verso Facebook-Zuckerberg non sono noti.
+Facebook e il suo fondatore Mark Zuckerberg sono accusati di evasione fiscale. The Indipendent ha scoperto che a fronte di un fatturato di 220 milioni di euro in Gran Bretagna, solo 280 mila (pari a poco più dello 0,12%) finivano nelle casse dello Stato. Il trucco consisteva nel far passare le proprie entrate – quasi tutte derivanti dalla vendita di spazi pubblicitari – attraverso la vicina Irlanda, diventata una sorta di paradiso fiscale.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Adam Woog, Mark Zuckerberg: Facebook Creator, Kidhaven, 2009
+Ben Mezrich, The Accidental Billionaires: Sex, Money, Betrayal and the Founding of Facebook, Random House, 2010
+
+
+== Voci correlate ==
+Facebook
+Servizio di social network
+Web 2.0
+Privacy
+Eduardo Saverin
+WhatsApp
+Instagram
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni di o su Mark Zuckerberg
+ Wikimedia Commons contiene immagini o altri file su Mark Zuckerberg
+
+
+== Collegamenti esterni ==
+
+ Mark Zuckerberg, su Treccani.it – Enciclopedie on line, Istituto dell'Enciclopedia Italiana. 
+(EN) Mark Zuckerberg, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+(EN) Mark Zuckerberg, su Internet Movie Database, IMDb.com. 
+(EN) Mark Zuckerberg, su facebook.com.

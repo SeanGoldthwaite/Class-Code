@@ -1,0 +1,17 @@
+﻿Il s'agit d'une liste de l'ensemble des degrés d'oxydation des éléments chimiques, excluant les valeurs non entières de celui-ci. Les valeurs les plus courantes sont notées en gras.
+Ce tableau est basé sur le travail de Greenwood et Earnshaw publié en 1997 complété avec d'autres références.
+
+
+== Tableau des degrés d'oxydation ==
+
+En 1919, dans l'un de ses premiers articles sur la règle de l'octet, Irving Langmuir présente ses résultats sous la forme du graphique montré ci-après. La périodicité des états d'oxydation, manifeste sur la figure, a été l'un des arguments décisifs en faveur de cette règle de l'octet.
+
+
+== Notes et références ==
+
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « List of oxidation states of the elements » (voir la liste des auteurs).
+
+
+== Article connexe ==
+Nombre d'oxydation
+ Portail de la chimie

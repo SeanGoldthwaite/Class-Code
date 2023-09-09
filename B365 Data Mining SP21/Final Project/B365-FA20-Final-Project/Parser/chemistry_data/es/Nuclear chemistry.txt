@@ -1,0 +1,230 @@
+﻿La química nuclear es la rama de la química que tiene que ver con la radiactividad, con los procesos y propiedades nucleares.
+Es la química de los elementos radiactivos tales como los actínidos, radio y radón junto con la química asociada con el equipo (tales como los reactores nucleares), los cuales son diseñados para llevar a cabo procesos nucleares. Esto incluye la corrosión de superficies y el comportamiento bajo condiciones tanto normales como anormales de operación (un ejemplo de este último es durante un accidente nuclear). Un área importante es el comportamiento de los objetos y materiales después de ser dispuestos en un depósito de desechos nucleares o un sitio de eliminación de desechos.
+Incluye el estudio de los efectos químicos como resultado de la absorción de radiación dentro de los animales, plantas y otros materiales. La química de radiación controla gran parte de la biología de radiación ya que la radiación tiene efectos en los seres vivos a un nivel molecular, para explicarlo de otra forma, la radiación altera los bioquímicos dentro del organismo, la alteración de las biomoléculas cambian la química que ocurre dentro del organismo; es así como este cambio en la bioquímica puede generar un resultado biológico. Como resultado, la química nuclear asiste de manera significativa a la comprensión de tratamientos médicos (tales como cáncer, radioterapia) y ha permitido que estos tratamientos sean mejorados.
+Incluye el estudio de la producción y uso de fuentes radiactivas para cierta gama de procesos. Esto incluye radioterapia en aplicaciones médicas, el uso de trazadores radiactivos dentro de la industria, ciencia y medio ambiente y el uso de la radiación para modificar materiales tales como polímeros.[1]​
+También incluye el estudio y uso de procesos nucleares en áreas no radiactivas de la actividad humana. Por ejemplo, la espectroscopía de resonancia magnética nuclear (RMN) es comúnmente utilizada en síntesis de química orgánica, fisicoquímica y para análisis estructural en química macromolecular.
+
+
+== Historia reciente ==
+Después del descubrimiento de los rayos X, muchos científicos comenzaron a trabajar en la radiación ionizante. Uno de ellos fue Henri Becquerel, quien investigó la relación entre fosforescencia y el ennegrecido de placas fotográficas. Cuando Becquerel (trabajando en Francia) descubrió esto, sin una fuente de energía externa el uranio generó rayos que pudieron ennegrecer (o empañar) la placa fotográfica, así fue como se descubrió la radiactividad. Marie Curie (trabajando en París) y su esposo Pierre Curie aislaron dos nuevos elementos radiactivos a partir de una mena de uranio. Utilizaron métodos radiométricos para identificar cual era la traza radiactiva después de cada separación química; separaron la mena de uranio en cada uno de sus diferentes elementos químicos que eran conocidos en ese entonces y midieron la radiactividad de cada fracción. Después realizaron un intento para separar aún más estas fracciones radiactivas para aislar una fracción más pequeña con una actividad específica alta (radiactividad dividida por masa). De esta forma aislaron polonio y radio. Se notificó en 1901 que altas dosis de radiación podían causar daños en humanos. Henri Becquerel cargaba una muestra de radio en su bolsillo y como resultado sufrió una dosis altamente localizada que resultó el una quemadura por radiación,[6] este daño generó una investigación en las propiedades biológicas de la radiación, las cuales resultaron en el desarrollo de tratamientos médicos.
+Ernest Rutherford, quien trabajaba en Canadá e Inglaterra, mostró que el decaimiento radiactivo puede ser descrito con una ecuación simple (una derivada lineal de primer grado ahora conocida como cinética de primer orden), implicando que dada una sustancia radiactiva esta tiene "vida media" característica (el tiempo que toma a cierta cantidad de radiactividad presente disminuir su fuente a la mitad). También acuñó los términos alfa, beta y gamma, convirtió nitrógeno en oxígeno y lo más importante es que supervisó a los estudiantes que realizaron el experimento Geiger-Marsden (experimento de la placa de oro), el cual mostró que el 'modelo del pudín con pasas' del átomo estaba erróneo. En el modelo del pudín con pasas propuesto por J. J. Thomson en 1904 el átomo estaba compuesto por electrones rodeados por una 'nube' de carga positiva para balancear la carga negativa de los electrones. Para Rutherford el experimento de la placa de oro implicó que la carga positiva estaba confinada en un núcleo muy pequeño, dando así lugar al modelo de Rutherford y eventualmente al modelo de Bohr del átomo, en el cual el núcleo positivo está rodeado por los electrones negativos.
+En 1934 la hija de Marie Curie (Irène Joliot-Curie) y su esposo fueron los primeros en crear radiactividad artificial: bombardearon boro con partículas alfa para generar el isótopo escaso en neutrones nitrógeno-13; este isótopo emitía positrones.[2]​ Además bombardearon aluminio y magnesio con neutrones para hacer radioisótopos.
+
+
+== Áreas principales ==
+
+La radioquímica es la química de los materiales radiactivos, en donde los isótopos radiactivos de los elementos son utilizados para estudiar las propiedades y reacciones químicas de los isótopos no radiactivos (comúnmente dentro de la radioquímica la ausencia de radiactividad genera una sustancia descrita como inactiva mientras que los isótopos son estables).
+
+
+=== Química de radiación ===
+La química de radiación es el estudio de los efectos químicos de la radiación en la materia; esto es muy diferente de la radioquímica ya que no es necesario que se presente radiactividad en el material que está siendo químicamente modificado por la radiación. Un ejemplo es la conversión de agua en gas hidrógeno y peróxido de hidrógeno.
+
+
+=== Química para fuerza nuclear ===
+La radioquímica, química de radiación e ingeniería químico nuclear juegan un papel muy importante para la síntesis de combustibles precursores de uranio y torio, comenzando por las menas de estos elementos, la fabricación del combustible, la química de enfriamiento, reprocesamiento del combustible, tratamiento y almacenaje de desperdicios radiactivos, monitoreo de la liberación de elementos radiactivos durante el proceso de operación del reactor, almacenamiento geológico radiactivo, etc.[3]​ [7] (enlace roto disponible en Internet Archive; véase el historial y la última versión).
+
+
+=== Estudio de las reacciones nucleares ===
+Una combinación entre radioquímica y química de radiación es utilizada para estudiar las reacciones nucleares tales como fisión y fusión. Evidencia reciente para la fisión nuclear fue la formación de un radio-isótopo de vida corta a partir del bario, el cual fue aislado de un neutrón irradiado de uranio (139Ba, con una vida media de 83 minutos y 140Ba, con una vida media de 12.8 días, son productos de fisión del uranio). En aquel entonces se pensó que este era un nuevo isótopo del radio, posteriormente fue una práctica radioquímica estándar para utilizar sulfato de bario precipitado en el aislamiento de radio.[8]. Recientemente, una combinación de métodos radioquímicos y física nuclear han sido utilizados para intentar generar nuevos elementos 'súper fuertes'; se piensa que islas de estabilidad relativa existen en donde los núcleos tienen una vida media de año, de esta forma habilitando grandes cantidades de los nuevos elementos para ser aislados. Para más detalles del descubrimiento original de la fisión nuclear ver el trabajo de Otto Hahn.[4]​
+
+
+=== El ciclo nuclear del combustible ===
+Esta es la química asociada con cualquier parte del ciclo nuclear del combustible, incluyendo reprocesamiento nuclear. El ciclo del combustible incluye todas las operaciones que tienen que ver con producir combustible, desde la minería o mena procesada y enriquecida para la producción del combustible (Parte delantera del ciclo). También incluye el comportamiento 'en pila' (uso del combustible en un reactor) antes de la parte trasera del ciclo. La parte trasera incluye la administración del combustible nuclear usado, ya sea tanto en una alberca de combustible gastado o almacén seco antes de que sea colocado en un espacio de desperdicios bajo tierra o de reprocesado.[5]​
+
+
+==== Condiciones normales y anormales ====
+La química nuclear asociada con el ciclo nuclear del combustible puede ser dividida en dos áreas principales, a una de ellas le concierne la operación detrás de las condiciones planeadas, mientras que la otra área tiene que ver con una mala operación de las condiciones, en donde una alteración de las circunstancias normales ha ocurrido o (aún más raro) un accidente está ocurriendo.
+
+
+==== Reprocesamiento ====
+
+
+===== Legislación =====
+En los Estados Unidos es normal utilizar combustible una vez en un reactor nuclear antes de ubicarlo en un almacén de desechos. El plan a largo plazo es colocar el reactor civil de combustible usado en un almacén profundo. Esta política de no reprocesamiento comenzó en marzo de 1977 debido a las preocupaciones sobre la proliferación de armas nucleares. El presidente Jimmy Carter emitió un decreto Presidencial, el cual suspendía de manera indefinida el reprocesamiento comercial y reciclaje de plutonio en los Estados Unidos. Este decreto se asemejó a un intento de los Estados Unidos para guiar a otros países con el ejemplo, pero muchas otras naciones continuaron reprocesando combustibles nucleares gastados. El gobierno ruso a cargo del presidente Vladímir Putin revocó una ley en la cual se prohibía la importación del combustible nuclear usado, la cual hacía posible para los rusos ofrecer el servicio de reprocesamiento para clientes externos a Rusia (similar al ofrecido por la BNFL).[6]​
+
+
+===== Química PUREX =====
+El presente método de selección es para utilizar el proceso de extracción líquido-líquido PUREX que usa una mezcla de tributil fosfato/hidrocarburo para extraer tanto uranio como plutonio a partir del ácido nítrico. Esta extracción es a partir de las sales de nitrato y es clasificado como un mecanismo de solvatación. Por ejemplo, la extracción de plutonio por un agente extractor (S) en un medio de nitrato ocurre por la siguiente reacción.[7]​
+
+  
+    
+      
+        
+          
+            
+              
+                P
+                u
+              
+              
+                4
+                +
+              
+            
+          
+          
+            (
+            a
+            q
+            )
+          
+        
+        +
+        4
+         
+        
+          
+            
+              
+                N
+                
+                  O
+                  
+                    3
+                  
+                
+              
+              
+                −
+              
+            
+          
+          
+            (
+            a
+            q
+            )
+          
+        
+        +
+        2
+         
+        
+          S
+          
+            o
+            r
+            g
+            
+              
+                
+                  a
+                  ´
+                
+              
+            
+            n
+            i
+            c
+            o
+          
+        
+        ⟶
+        
+          
+            [
+            P
+            u
+            
+              
+                (
+                N
+                
+                  O
+                  
+                    3
+                  
+                
+                )
+              
+              
+                4
+              
+            
+            
+              S
+              
+                2
+              
+            
+            ]
+          
+          
+            o
+            r
+            g
+            
+              
+                
+                  a
+                  ´
+                
+              
+            
+            n
+            i
+            c
+            o
+          
+        
+      
+    
+    {\displaystyle {{Pu}^{4+}}_{(aq)}+4\ {{NO_{3}}^{-}}_{(aq)}+2\ S_{org{\acute {a}}nico}\longrightarrow {[Pu{(NO_{3})}_{4}S_{2}]}_{org{\acute {a}}nico}}
+  Un enlace complejo es formado entre el metal catión, los nitratos y el tributil fosfato y un compuesto modelo de dioxouranio(VI) complejo con dos nitratos y dos trietil fosfatos ha sido caracterizado por una cristalografía X-ray.[8]​
+Cuando la concentración de ácido nítrico es considerablemente alta, la extracción hacia la fase orgánica se ve favorecida y por otro lado cuando la concentración de ácido nítrico es baja, la extracción es al revés (la fase orgánica es quitada del metal). Es normal disolver el combustible usado en ácido nítrico, después de remover la materia insoluble el uranio y el plutonio son extraídos del licor altamente activo. Es normal posteriormente realizar la operación inversa de la fase orgánica generada para crear un medio activo que contenga más que nada uranio y plutonio con únicamente trazas pequeñas de productos de fisión. Esta mezcla de medio activo acuoso es de nuevo extraída por el tributil fosfato/hidrocarburo para formar una nueva fase orgánica, el comportamiento de dicha fase del metal es quitada de los metales para formar una mezcla acuosa de únicamente uranio y plutonio. Las dos fases de la extracción son utilizadas para mejorar la pureza del producto actínido; la fase orgánica utilizada para la primera extracción sufrirá una dosis de radiación mucho mayor. La radiación puede degradar el tributil fosfato en dibutil hidrógeno fosfato. El dibutil hidrógeno fosfato puede actuar como un agente de extracción tanto para los actínidos como para otros metales tales como el rutenio. El dibutil hidrógeno fosfato puede hacer que el sistema se comporte de una manera más compleja mientras tiende a extraer los metales mediante un mecanismo de intercambio iónico (extracción favorecida por una concentración baja de ácido); para reducir el efecto del dibutil hidrógeno fosfato es común para la fase orgánica usada que esta sea lavada con una solución de carbonato de sodio para remover la degradación ácida de productos del tributil fosfato.
+
+
+===== Nuevos métodos considerados para ser utilizados a futuro =====
+El proceso PUREX puede ser modificado para hacer un proceso UREX (EXtracción de URanio ), el cual puede ser utilizado para salvar espacio dentro del nivel mayor referente a sitios de desperdicios que involucran desechos nucleares tales como el almacén de desechos nucleares Yucca Mountain, esto al remover el uranio que genera la gran mayoría de la masa y el volumen de combustible usado y reciclándolo como uranio reprocesado.[9]​
+El proceso UREX es un proceso PUREX que ha sido modificado para prevenir que el plutonio sea extraído. Esto puede realizarse al añadir un reductor de plutonio antes de la primera etapa de extracción del metal. En el proceso UREX, alrededor del 99.9% del uranio y más del 95% del tecnecio son separados uno del otro y otros productos de fisión y actínidos. La llave es la adición de ácido acetohidroxámico (AHA) a la extracción y secciones de reserva del proceso. La adición de AHA disminuye de manera significativa la extracción de plutonio y neptunio, proveyendo una resistencia de proliferación mayor que con la etapa de extracción de plutonio del proceso PUREX.[9]​
+Añadir un segundo agente de extracción octil(fenil)-N, óxido de N-dibutil carbamometil fosfina (CMPO) en combinación con tributilfosfato, (TBP) el proceso PUREX puede convertirse en TRUEX (EXtracción TRansUránica); este es un proceso que fue inventado en EUA por Argonne National Laboratory y está diseñado para remover los metales transuránicos (Am/Cm) de los desechos. La idea es que al disminuir la actividad alfa de los desechos, la mayoría de los mismos pueden ser posteriormente utilizados con mayor comodidad. En común con PUREX, este proceso opera con el mecanismo de solvatación.[9]​
+Como una alternativa al TRUEX, un proceso de extracción utilizando malondiamina ha sido concebido. El proceso DIAMEX (EXtracciónDIAMida) tiene la ventaja de evadir la formación de desechos orgánicos que contienen elementos distintos a Carbono, Hidrógeno, Nitrógeno y Oxígeno. Un desecho orgánico de este tipo puede ser quemado sin la formación de gases ácidos que pudieran contribuir a la lluvia ácida. El proceso DIAMEX ha sido trabajado en Europa por la CEA francesa. El proceso es suficientemente maduro, tanto que una planta industrial podría ser construida con el conocimiento existente del proceso. En común con el proceso PUREX, este opera con un mecanismo de solvatación.[9]​
+[9][10]
+Extracción Selectiva de Actínidos (SANEX). Como parte de la administración de actínidos menores se ha propuesto que los lantánidos y actínidos trivalentes menores deben ser removidos del refinado PUREX por un proceso tal como DIAMEX o TRUEX. Para permitir a los actínidos tales como el americio ser tanto reutilizados en fuentes industriales o utilizados como combustible entonces los lantánidos deben ser removidos. Los lantánidos tienen largas secciones cruzadas de neutrones y debido a esto envenenan un neutrón conducido por una reacción nuclear. Datar el sistema de extracción para el proceso SANEX no ha sido definido, pero actualmente distintos grupos de investigación están trabajando hacia un proceso. Por ejemplo, la CEA francesa está trabajando en un proceso basado en bis-triaiznil piridina (BTP).[9]​
+Otros sistemas tales como el de ácidos ditiofosfínicos están siendo trabajados por otros tantos trabajadores.
+Este es el proceso de EXtracción UNiversal, el cual fue desarrollado en Rusia y la República Checa; es un proceso diseñado para remover los radioisótopos más problemáticos (Sr, Cs y actínidos menores) de los refinados que permanecen después de la extracción de uranio y plutonio a partir de combustible nuclear. [11][12] La química se basa en la interacción del cesio y estroncio con poli óxido de etileno (poli etilenglicol) [13] y un anión carborano cobalto. Los actínidos son extraídos por CMPO y el diluyente es un aromático polar tal como el nitrobenceno. Otros diluyentes tales como el meta-nitrobenzotrifluoruro y el fenil trifluorometil sulfona [14] han sido sugeridos de igual forma.[9]​
+
+
+==== Absorción de productos de fisión en superficies ====
+Otra importante área de la química nuclear es el estudio de cómo los productos de fisión interactúan con las superficies; esto es pensando para controlar la liberación y migración de los productos de fisión tanto de los contenedores de desperdicios bajo condiciones normales como reactores de fuerza bajo condiciones de accidente. Es interesante notar que como el cromato y el molibdato, el anión 99TcO4 puede reaccionar con superficies de acero para formar una capa resistente a la corrosión. De esta forma estos aniones metaloxo actúan como inhibidores de corrosión anódicos. La formación de 99TcO2 en superficies de acero es un efecto que retarda la aparición de 99Tc de las bobinas de desperdicio y equipo nuclear que se ha perdido antes de la descontaminación (por ejemplo, reactores submarinos perdidos en el mar). Esta capa 99TcO2 deja la superficie del acero pasiva, inhibiendo la reacción de corrosión anódica. La naturaleza radiactiva del tecnecio hace de esta protección contra la corrosión algo impráctico en la mayoría de las situaciones. También se ha demostrado que los aniones 99TcO4 reaccionan para formar una capa en la superficie del carbón activado (carbón vegetal) o aluminio.[10]​[15]. Un pequeño análisis de las propiedades bioquímicas de varias series de radioisótopos de larga vida puede ser leída en línea.[16]
+99Tc en desperdicio nuclear puede existir en formas químicas distintas al anión 99TcO4, estas otras formas tienen diferentes propiedades químicas.[17]
+De manera similar, el lanzamiento de iodina-131 en un serio accidente en un reactor pudo ser retardado por la absorción en superficies metálicas dentro de la planta nuclear.[11]​
+
+
+== Áreas de trabajo ==
+Algunos métodos desarrollados primeramente dentro de la química y física nuclear se han convertido en algo tan extensamente utilizado dentro de la química y otras ciencias físicas que tal vez debería ser una idea mejor separarlas de la química nuclear normal. Por ejemplo, el efecto isótopo es utilizado de manera extensiva para investigar mecanismos químicos y el uso de isótopos cosmogénicos e isótopos de larga vida inestables en geología, esto es bueno considerarlo para separar química isotópica de manera separada a la química nuclear.
+
+
+=== Cinética (utilizada dentro de la química de mecanismos) ===
+Los mecanismos de las reacciones químicas pueden ser investigados al observar cómo la cinética de la reacción cambia al realizar una modificación isotópica a un sustrato, conocido como efecto isotópico cinético. Este es ahora un método estándar en la química orgánica. En pocas palabras, reemplazar (protones) normales de hidrógeno por (deuterio) dentro de una molécula causa que la frecuencia de vibración molecular de los enlaces X-H (por ejemplo C-H, N-H y O-H) disminuya, lo cual genera un decrecimiento en la energía punto cero vibracional. Esto puede conllevar a una disminución en el rango de la reacción si la determinación del paso de este involucra romper un enlace entre el hidrógeno y otro átomo.[12]​ De este modo, si la reacción cambia en un rango cuando los protones son reemplazados por deuterio, es razonable asumir que el rompimiento del enlace a hidrógeno es parte del paso que determina el orden.
+
+
+=== Usos dentro de la geología, biología y ciencias forenses ===
+Los isótopos cosmogénicos son formados por la interacción de rayos cósmicos con el núcleo de un átomo. Estos pueden ser usados para cuestiones de fechado y para el uso como trazadores naturales. Además, mediante mediciones cuidadosas de algunos rangos de isótopos estables es posible obtener nuevas percepciones en el origen de la balas, muestras de la era de hielo, los años de la rocas y la dieta de una persona puede ser identificada a partir de un cabello u otra muestra tal como un pañuelo. (Ver geoquímica isotópica y firma isotópica para más detalles).[13]​
+
+
+==== Biología ====
+Dentro de cosas vivas, las etiquetas isotópicas (tanto radiactivas como no radiactivas) pueden ser utilizadas para probar cómo la compleja telaraña de reacciones que hace el metabolismo de un organismo convierte una sustancia en otra. Por ejemplo, una planta verde usa luz, energía para convertir agua y dióxido de carbono en glucosa por fotosíntesis. Si el oxígeno en el agua es etiquetado, entonces la etiqueta aparece en el gas oxígeno formado por la planta y no en la glucosa formada en los cloroplastos dentro de las células de la planta.[14]​
+Para experimentos bioquímicos y fisiológicos y métodos médicos, cierto número de isótopos específicos tienen aplicaciones importantes.
+
+Isótopos estables tienen la ventaja de no transportar dosis de radiación al sistema que está siendo estudiado; sin embargo, un exceso significativo de la misma en el órgano u organismo puede aún interferir con su funcionalidad y la disponibilidad de cantidades suficientes de estudios del animal entero son limitadas por tantos isótopos. La medición es también difícil y usualmente requiere espectrometría de masa para determinar cuánto del isótopo está presente en compuestos particulares y no hay razones para localizar las mediciones dentro de la célula.[15]​H-2 (deuterio), el isótopo estable del hidrógeno es un trazador estable, la concentración se puede medir por espectrometría de masa o RMN. Se incorpora a todas las estructuras celulares. Compuestos específicamente deuterados pueden ser producidos.
+N-15, el isótopo estable del nitrógeno, también ha sido utilizado. Se incorpora comúnmente en proteínas.Los isótopos radiactivos tienen la ventaja de ser detectables en cantidades muy pequeñas, las cuales pueden ser fácilmente medidas por contador de destellos u otros métodos radioquímicos y ser localizable en regiones particulares se una célula y cuantificable por autoradiografía. Muchos compuestos con los átomos radiactivos en posiciones específicas pueden ser preparados y son extensamente disponibles de manera comercial. En altas cantidades requieren precauciones para proteger a los trabajadores de los efectos de la radiación —y pueden fácilmente contaminar cristalería del laboratorio y otros equipos. Para algunos isótopos la vida media es tan corta que su preparación y medición es complicada.[16]​Por síntesis orgánica es posible crear moléculas complejas con una etiqueta radiactiva que puede ser confinada a una pequeña área de la molécula. Para isótopos de corta vida tal como el 11C, métodos sintéticos rápidos se han desarrollado para permitir la adición pronta del isótopo radiactivo a la molécula. Por ejemplo, un reacción de carbonilación paladio catalizado en un dispositivo microfluídico se ha utilizado para formar amidas de manera veloz[17]​ y puede ser posible utilizar este método para formar agentes de imágenes radiactivas para un escaneo de Tomografía por emisión de positrones.[18]
+
+³H, Tritio, el radioisótopo del hidrógeno, está disponible en actividades altamente específicas y compuestos con este isótopo en posiciones particulares son fáciles de preparar por reacciones químicas estándar tales como hidrogenación de precursores insaturados. El isótopo emite una radiación beta muy suave y puede ser detectada por contador de destellos.11C, Carbono-11 es usualmente producido por un bombardeo de 14N con protones por parte de un ciclotrón. La reacción nuclear resultante es 14N(p,α)11C.[18]​ Además el Carbono-11 puede ser generado utilizando un ciclotrón; boro en forma de óxido bórico reacciona con protones en una reacción (p,n). Otra ruta alternativa es reaccionar 10B con deuterios. Para una síntesis orgánica rápida, el compuesto 11C formado por el ciclotrón es convertido en un agente de escaneo el cual es utilizado para la TEP.14C, el Carbono-14 puede generarse (como se mencionó anteriormente) y es posible convertir el material objetivo en compuestos orgánicos e inorgánicos simples. En la mayoría de las síntesis orgánicas es normal intentar crear un producto a partir de dos de aproximadamente los mismos tamaños de fragmentos y utilizando una ruta convergente, pero cuando la etiqueta radiactiva es añadida es normal intentar de añadir la etiqueta de manera retrasada en la síntesis para en forma de un pequeño fragmento a la molécula para habilitar la radiactividad localizada en un grupo simple. La adición tardía de la etiqueta también reduce el número de etapas sintéticas en donde el material radiactivo es utilizado.18F, flúor-18 puede ser generado por la reacción del neón con deuterios, 20Ne reacciona en una reacción (d,4He). Es normal utilizar gas neón con una traza de flúor estable (19F2). El 19F2 actúa como transportador, el cual incrementa el paso de la radiactividad del objetivo ciclotrón al reducir la cantidad de radiactividad perdida por la absorción en las superficies. Sin embargo, esta reducción en la pérdida está en el costo de la actividad específica del producto final.
+
+
+=== Resonancia Magnética Nuclear (RMN) ===
+La espectroscopia RMN utiliza el espín neto de un núcleo en una sustancia tras una absorción de energía para identificar moléculas. Esto se ha convertido en una herramienta espectroscópica estándar dentro de la química sintética. Un gran uso de la RMN es para determinar la conectividad de enlace dentro de una molécula orgánica.[19]​
+El escáner RMN también utiliza el espín neto de un núcleo (comúnmente protones) para dicho escaneo. Esto es ampliamente utilizado para propósitos de diagnóstico en medicina y puede proveer imágenes detalladas del interior de una persona sin infligir algún tipo de radiación sobre la misma. En el marco medicinal, el RMN es comúnmente conocido simplemente como escáner de "resonancia magnética", esto ya que la palabra 'nuclear' tiene connotaciones negativas para muchas personas.[19]​
+
+
+== Referencias ==
+
+
+== Libros de texto ==
+Handbook of Nuclear Chemistry
+Comprehensive handbook in six volumes by 130 international experts. Edited by Attila Vértes, Sándor Nagy, Zoltán Klencsár, Rezső G. Lovas, Frank Rösch. ISBN 978-1-4419-0721-9, Springer, 2011.Radioactivity Radionuclides Radiation
+Textbook by Magill, Galy. ISBN 3-540-21116-0, Springer, 2005.Radiochemistry and Nuclear Chemistry
+Comprehensive textbook by Choppin, Liljenenzin and Rydberg. ISBN 0-7506-7463-6, Butterworth-Heinemann, 2001 [19].Radioactivity, Ionizing radiation and Nuclear Energy
+Basic textbook for undergraduates by Jiri Hála and James D Navratil. ISBN 80-7302-053-X, Konvoj, Brno  2003 [20]The Radiochemical Manual
+Overview of the production and uses of both open and sealed sources. Edited by BJ Wilson and written by RJ Bayly, JR Catch, JC Charlton, CC Evans, TT Gorsuch, JC Maynard, LC Myerscough, GR Newbery, H Sheard, CBG Taylor and BJ Wilson. The radiochemical centre (Amersham) was sold via HMSO, 1966 (second edition)

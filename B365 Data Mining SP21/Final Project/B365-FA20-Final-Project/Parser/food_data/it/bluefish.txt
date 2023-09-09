@@ -1,0 +1,86 @@
+﻿Bluefish è un editor HTML libero per lo sviluppo web, rivolto allo sviluppo di siti web dinamici.
+Supporta i linguaggi: HTML, XHTML, CSS, XML, PHP, C, JavaScript, Java, SQL, Perl, ColdFusion, JSP, Python, Ruby e script shell ed è disponibile su molte piattaforme, incluso GNU/Linux, Solaris, macOS e Windows.
+Bluefish è sviluppato in C/GTK+, si integra quindi in GNOME, ma può essere utilizzato anche indipendentemente da GNOME.
+Il programma va ad occupare quella nicchia di mercato tra i semplici editor di testo e i veri e propri IDE: è infatti relativamente leggero e ha una curva di apprendimento bassa, pur fornendo molte caratteristiche rivolte allo sviluppo di siti web.
+È un editor di tipo testuale ed offre un'interfaccia grafica pulita e amichevole.
+Bluefish mette a disposizione l'evidenziazione della sintassi dei principali linguaggi di web publishing e di scripting e le classiche funzionalità degli editor HTML e dispone di procedure guidate per la realizzazione di tabelle e frame.
+
+
+== Storia ==
+Lo sviluppo di Bluefish è stato avviato da Chris Mazuc e Olivier Sessink nel 1997 con lo scopo di agevolare il lavoro dei web developer su piattaforma Linux.
+Bluefish è stato sviluppato finora da un gruppo di sviluppatori web sotto la guida di Olivier Sessink. Il progetto ha avuto diversi nomi.
+Il primo nome (Thtml) fu abbandonato perché ritenuto troppo criptico.
+Il nome successivo (Prosite) è stato abbandonato per evitare scontri con le società di sviluppo web che usavano già questo nome in contesti commerciali in diversi paesi.
+Il nome Bluefish è stato scelto dopo che un logo grazioso (il disegno di un pesce blu di un bambino) è stato proposto sulla mailinglist.
+
+
+== Caratteristiche ==
+Bluefish ha molte caratteristiche, la seguente lista presenta le più importanti o particolari della versione 2.0. Non tutte sono disponibili nella versione 1.0 e su Windows.
+
+Leggerezza, Bluefish tenta di essere leggero e pulito, e quanto più possibile un editor con interfaccia grafica (GUI).
+Velocità, Bluefish si avvia molto velocemente (anche sui netbook) e carica centinaia di file in meno di un secondo;
+L'Interfaccia è del tipo "What You See Is What You Need";
+Interfaccia multi-documento, che consente di tenere aperti contemporaneamente più di 500 documenti (testato con più di 10000 file simultaneamente);
+Funzioni di ricerca e sostituzione molto prestazionali, in accordo con le direttive POSIX e Perl per la sostituzione delle "espressioni regolari" e delle "sub-pattern";
+Apertura file ricorsiva sfruttando "modelli" del nome file o del contenuto del file;
+Sidebar modificabile e adattabile per velocizzare il processo di scrittura del codice;
+Integrazione di programmi esterni, come make, lint, weblint, xmllint, tidy, javac o un programma/script scritto dall'utente per gestire funzioni avanzate di modifica del testo o per il controllo degli errori;
+Integrazione di filtri esterni;
+Funzione Annulla/Ripeti illimitata;
+Ripristino automatico dei file dopo un crash;
+Mappa caratteri dotata di tutti i caratteri unicode;
+Sincronizzazione tramite upload o download;
+Editing a schermo intero;
+Presenza di diversi strumenti come la trasformazione delle tabulazioni in spazi, l'unione delle linee, trasformazione di linee in colonne, ecc.;
+Supporto modificabile dei diversi linguaggi di programmazione:
+Guida alle funzioni e ai comandi inline (muovendo il mouse sopra il nome della funzione o al tag), disponibile per diversi linguaggi di programmazione;
+Evidenziazione dei diversi blocchi di codice;
+Highlighting della sintassi;
+Auto-completamento e chiusura automatica dei tag per diversi linguaggi di programmazione;
+Sono inclusi i seguenti linguaggi:
+C/C++;
+CSS;
+CFML;
+gettext PO;
+HTML;
+Java;
+JavaScript;
+JSP;
+Perl;
+PHP;
+Python;
+Ruby;
+Shell;
+SQL;
+XML;
+Supporto alle codifiche multiple. Bluefish lavora internamente con la codifica UTF-8, ma può salvare file in tutte le codifiche desiderate;
+Presenza dei segnalibri;
+Toolbar HTML:
+Wizard per i documenti HTML: tabelle, frame e altro;
+Dialoghi per molteplici tag HTML, con tutti i loro attributi;
+Finestra di dialogo completa per l'inserimento di immagini;
+Funzione per la creazione di thumbnail, con link automatico all'immagine originale;
+Generazione multipla di miniature per una facile creazione di album fotografici;
+barra degli strumenti modificabile dall'utente per velocizzare l'accesso a tutte le funzioni;
+Aderenza alle direttive di GNOME e KDE sulle interfacce utente;
+Tradotto in 10 lingue.
+
+
+== Voci correlate ==
+Lista di editor HTML
+Editor di testo
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Bluefish
+
+
+== Collegamenti esterni ==
+
+(EN) Sito ufficiale, su bluefish.openoffice.nl. 
+(EN) Bluefish, su SourceForge. 
+ Bluefish, su packages.debian.org. 
+ Repository sorgenti di Bluefish, su sourceforge.net. 
+(EN) Bluefish, su Free Software Directory. 
+(EN) Manuale di Bluefish, su bluefish.openoffice.nl.

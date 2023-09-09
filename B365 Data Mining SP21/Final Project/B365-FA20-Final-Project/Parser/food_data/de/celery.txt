@@ -1,0 +1,17 @@
+﻿Celery ist eine quelloffene Software, die eine asynchrone Aufgabenwarteschlange bereitstellt, welche auf verteilter Nachrichtenübergabe basiert. Das Programm unterstützt die Planung, konzentriert sich jedoch auf die Abarbeitung von Operationen in Echtzeit.
+
+
+== Übersicht ==
+Die als Tasks bezeichneten Ausführungseinheiten werden auf einem oder mehreren Worker-Knoten gleichzeitig im Multiprozess-Betrieb ausgeführt. Aufgaben können asynchron (im Hintergrund) oder synchron, also nacheinander, ausgeführt werden. Celery wird in Produktionssystemen, beispielsweise bei Instagram und Mozilla verwendet, um täglich Millionen von Aufgaben zu bearbeiten.
+
+
+== Technologie ==
+Celery ist in Python geschrieben, das verwendete Protokoll kann jedoch in jeder Sprache implementiert werden. Es kann auch mit anderen Sprachen über WebHooks betrieben werden.Die empfohlenen Nachrichtenbroker sind RabbitMQ oder Redis. Darüber hinaus werden MongoDB, Beanstalk, Amazon SQS, CouchDB, IronMQ und weitere Datenbanken und Services unterstützt.
+
+
+== Weblinks ==
+Asynchronous Tasks with Django and Celery
+Asynchronous Tasks with Falcon and Celery
+
+
+== Einzelnachweise ==

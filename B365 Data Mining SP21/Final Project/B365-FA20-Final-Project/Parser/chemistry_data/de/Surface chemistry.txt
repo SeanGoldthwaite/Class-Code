@@ -1,0 +1,668 @@
+﻿Oberflächenchemie (englisch surface chemistry, surface science) ist ein Teilgebiet der Physikalischen Chemie, bei dem die chemischen und strukturellen Vorgänge untersucht werden, die sich an Grenzflächen, meist fest/gasförmig, abspielen. Dabei werden oberflächensensitive analytische Methoden angewendet, für die in den letzten Jahrzehnten mehrere Nobelpreise vergeben wurden. Da die untersuchten Strukturen im Nanometerbereich liegen, zählt man die Oberflächenchemie zu den Nanowissenschaften.
+
+
+== Grundlagen ==
+Als Oberfläche (engl.: surface) ist dabei der Bereich eines Festkörpers definiert, in dem sich die physikalischen und chemischen Eigenschaften (z. B. Struktur, elektronische Eigenschaften) vom Rest (engl.: bulk) unterscheiden, wobei die Abweichung von den Volumeneigenschaften 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   i. a. exponentiell mit der Entfernung von der Oberfläche 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   abklingt (proportional zu 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        exp
+        ⁡
+        (
+        −
+        x
+        )
+      
+    
+    {\displaystyle f(x)=\exp(-x)}
+  ).
+Das Idealbild einer Oberfläche ist analog zum idealen Festkörper eine streng periodisch in zwei Raumrichtungen unendliche ausgedehnte Anordnung von Atomen oder Molekülen.
+
+
+=== Bravaisgitter ===
+Eine periodische Anordnung von Atomen oder Molekülen auf einer Oberfläche kann analog zum Festkörper in zwei Dimensionen mit einem Bravais-Gitter beschrieben werden. In zwei Dimensionen gibt es fünf Bravais-Gitter, die quadratische, die rechteckige, die rechteckig innenzentrierte, die rautenförmige und die hexagonale Struktur, wobei die hexagonalen oder rechteckig innenzentrierte Strukturen als Sonderfälle der rautenförmigen Struktur mit bestimmten Winkeln angesehen werden können.
+
+
+=== Einheitszelle ===
+
+Eine Einheitszelle spiegelt die Symmetrie des Bravais-Gitter wider, es besitzt dieselben Symmetrieelemente. Auf Grund der Periodizität des Gitters können die Einheitszellen durch einen Translationsvektor 
+  
+    
+      
+        
+          
+            
+              R
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {R}}}
+   aufeinander abgebildet werden. Die Einheitszellen selbst werden durch linear unabhängige Einheitsvektoren 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{1}}
+   und 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{2}}
+   aufgespannt. Dabei gilt:
+
+  
+    
+      
+        
+          
+            
+              R
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            1
+          
+        
+        +
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {R}}={\vec {a}}_{1}+{\vec {a}}_{2}}
+  
+Man kann das Gitter auch in einen anderen Raum mit anderen Basisvektoren 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            1
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{1}^{*}}
+   und 
+  
+    
+      
+        
+          
+            
+              
+                a
+                →
+              
+            
+          
+          
+            2
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}_{2}^{*}}
+   transformieren. Arbeitet man z. B. mit Beugungsmethoden, misst man die Einheitszelle im reziproken Raum, auch k-Raum genannt.
+Die Vektoren der Einheitszelle im Ortsraum können u. U. mittels Rastertunnelmikroskopie ermittelt werden. Die gemittelte Größe der Einheitszelle im reziproken Raum erhält man beispielsweise mit der Beugung langsamer Elektronen (LEED) an der Oberfläche.
+Eine spezielle Art der Einheitszelle ist die Wigner-Seitz-Zelle. Ihr entspricht die Brillouin-Zone 1. Ordnung im k-Raum.
+
+
+=== Punkte und Geraden im Gitter ===
+Ein Punkt 
+  
+    
+      
+        P
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle P(x,y,z)}
+   im Gitter wird durch einen Vektor 
+  
+    
+      
+        
+          
+            
+              P
+              →
+            
+          
+        
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle {\vec {P}}(x,y,z)}
+   vom Ursprung zum Punkt beschrieben. Eine Gerade wird mit einem Vektor beschrieben, der parallel zur Gittergeraden liegt.
+
+
+=== Gitterebenen ===
+Wenn ein Einkristall bricht, geschieht das häufig entlang der Gitterebene. Dadurch entstehen Oberflächen, die sich je nach 3-dimensionaler Kristallstruktur und Schnittrichtung in ihrer 2-dimensionalen Oberflächenstruktur unterscheiden. Die Schnittebenen können durch die Schnittpunkten 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        
+          a
+          
+            3
+          
+        
+      
+    
+    {\displaystyle a_{1},a_{2},a_{3}}
+   der Ebene mit den Achsen des Koordinatensystems beschrieben werden. Die gebräuchlichere Schreibweise ist allerdings die Angabe der Miller-Indizes 
+  
+    
+      
+        h
+        ,
+        k
+        ,
+        l
+      
+    
+    {\displaystyle h,k,l}
+  , die das ganzzahlige Vielfache der reziproken Achsenabschnitte sind. z. B. (111), (110), (100)
+
+
+=== Überstrukturen ===
+Überstrukturen sind zusätzliche, größere Strukturen, die sich durch Umordnung oder Adsorption an der Oberfläche bilden. Sie können mit Vektoren 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a_{2}}
+   und 
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+      
+    
+    {\displaystyle b_{2}}
+   als Vielfache der Basis-Vektoren 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+      
+    
+    {\displaystyle a_{1}}
+   und 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b_{1}}
+  , durch die woodsche Nomenklatur oder durch Matrixdarstellung beschrieben werden.
+
+
+== Oberflächenpräparation ==
+Bevor eine Oberfläche im mikroskopischen Maßstab reproduzierbar analysiert werden kann, muss sie von Verunreinigungen befreit werden. Um sie vor weiterer Kontamination zu schützen, wird sie im Ultrahochvakuum (UHV) (
+  
+    
+      
+        p
+        <
+        
+          10
+          
+            −
+            10
+          
+        
+        
+        
+          h
+          P
+          a
+        
+      
+    
+    {\displaystyle p<10^{-10}\,\mathrm {hPa} }
+  ) gehandhabt. Dadurch wird die Flächenstoßrate 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{i}}
+   von auftreffenden Molekülen aus der Gasphase verringert. Diese ist für ein Gasteilchen des Typs 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+        ≈
+        2
+        
+          ,
+        
+        6
+        ⋅
+        
+          10
+          
+            22
+          
+        
+        
+          
+            1
+            
+              m
+              b
+              a
+              r
+            
+          
+        
+        
+          
+            p
+            
+              
+                M
+                
+                  i
+                
+              
+              ⋅
+              T
+            
+          
+        
+      
+    
+    {\displaystyle n_{i}\approx 2{,}6\cdot 10^{22}{\frac {1}{\mathrm {mbar} }}{\frac {p}{\sqrt {M_{i}\cdot T}}}}
+  In einer Studie mit einer auf Ag(111) adsorbierten organischen Molekülschicht konnte eine Reaktion mit Sauerstoffgas mittels Rastertunnelmikroskopie direkt im Ortsraum sichtbar gemacht werden.Mögliche Ursachen für Oberflächenkontamination sind z. B.:
+
+Adsorption von Luftmolekülen
+Staub
+Wanderung von Teilchen aus dem Probeninneren an die Oberfläche
+
+
+== Oberflächendefekte ==
+Typische nanoskalige Defekte an Einkristalloberflächen [z. B. die Ag(111)-Oberfläche] sind Stufen, Kinken sowie aus Terrassen herausgelöste Atome. Diese können mittels Rastertunnelmikroskopie im atomaren Maßstab sichtbar gemacht werden und sind im Allgemeinen reaktiver als atomar glatte Terrassen.
+
+
+=== Methoden zur Oberflächenreinigung ===
+Werkstücke tragen nach der Bearbeitung (z. B. Schleifen, Drehen) im Allgemeinen Rückstände, wie Öle, Staub, Abrieb oder Schleifmittel. Diese Rückstände wirken sich meistens negativ auf die Bearbeitungsschritte aus und müssen daher entfernt werden. Typische Verfahren sind:
+
+Oxidation oder Reduktion der Oberfläche: Überführen der Verunreinigungen in flüchtige Verbindungen. Oxidation kann zur chemischen Umwandlung von Adsorbaten führen, die anschließend leichter desorbiert werden. Beispielsweise kann stark an eine Oberfläche gebundenes CO zu CO2 oxidiert werden, das auf Grund seiner chemischen Struktur nur noch schwach gebunden ist.
+Sputtern mit Argonionen: Beim Sputtern wird die Probe mit Ionen beschossen, die in einem elektrischen Feld beschleunigt werden. Allerdings bilden sich auf dem Substrat mehr oder weniger große „Krater“, die z. B. durch Heizen der Probe geglättet werden können.
+Tempern (Heizen der Probe): Beim Heizen der Probe auf eine bestimmte Temperatur (ca. 1000 K) kann sich das thermodynamische Gleichgewicht einstellen, dabei wird die Oberfläche minimiert, was einer Absenkung der Oberflächenenergie entspricht. Dabei können sich von der Temperatur abhängige Rekonstruktionen oder Strukturen bilden. Diese können in Domänen unterschiedlicher Orientierung vorliegen. Beim Tempern kann es außerdem zu Desorption von Adsorbaten kommen.
+
+
+=== Techniken zum Aufbringen von weiteren Schichten ===
+Auf eine Oberfläche können weitere Schichten von Atomen oder Molekülen aufgebracht werden, um die Eigenschaften der Grenzfläche zu modifizieren. Dadurch lassen sich z. B. Halbleiterbauelemente in dreidimensionaler Form in einem integrierten Schaltkreis (IC) unterbringen, weil sie durch die Schichten getrennt werden. Ein in der Grundlagenforschung wichtiges Hilfsmittel ist die Chemisorption von Sondenmolekülen, deren Schwingungseigenschaften z. B. Informationen über die Oberfläche geben.
+Das Aufbringen der Schichten geschieht i. a. mit einer der folgenden Methoden der Dünnschichttechnologie:
+
+Chemische Gasphasenabscheidung (CVD)
+Plasmaunterstützte chemische Gasphasenabscheidung (PECVD)
+Physikalische Gasphasenabscheidung (PVD)
+Molekularstrahlepitaxie (MBE)
+galvanotechnische Abscheidung
+Oxidation der Oberfläche mit Sauerstoff
+Sol-Gel-Verfahren
+
+
+== Beispiele für Fragestellungen ==
+Beispiele von Fragestellungen in der Oberflächenchemie sind: die elementaren Zusammensetzungen von Oberflächen, Konzentration von Elementen im Oberflächenbereich, die Verteilung von Elementen im Tiefenprofil der Oberfläche sowie die chemische Bindung von Adsorbaten. Auch die Erforschung der Adsorptionskinetik, der Adsorptionsenergie und der Desorptionskinetik sowie der (elektronischen) Struktur an der Grenzfläche und der Schwingungseigenschaften sind Aufgaben der Oberflächenchemie. Des Weiteren beschäftigt sich die Oberflächenchemie mit Reaktionsmechanismen von heterogen katalysierten Reaktionen, erstellt Modelle für katalytische Reaktionen für die Entwicklung von industriellen Katalysatoren und untersucht die Diffusion von Adsorbaten auf Oberflächen (Oberflächendynamik) sowie den Oxidationszustand von Oberflächenatomen.
+
+
+== Oberflächenkoordinationschemie ==
+
+Die Koordinationschemie an Metalloxidoberflächen hat viele Parallelen zur Komplexchemie in Lösungen. Hierbei dienen Oxidionen und insbesondere Hydroxidgruppen, die durch dissoziative Adsorption von Wassermolekülen an der Metalloxidoberfläche entstehen, als Liganden für Metallionen oder Metallionen-Komplexen aus einer angrenzenden Phase. Hierbei können Metallkomplexe durch schwache Wechselwirkungen gebunden werden (outer-sphere-Komplexe) oder die Bindung erfolgt über Austauschreaktionen von Liganden (inner-sphere-Komplexe).
+Beispiel für eine inner-sphere-Komplexbildung:
+
+  
+    
+      
+        
+          M
+          e
+          t
+          a
+          l
+          l
+          −
+          O
+          H
+          +
+          F
+          e
+          (
+          
+            H
+            
+              2
+            
+          
+          O
+          
+            )
+            
+              6
+            
+            
+              2
+              +
+            
+          
+          ⟶
+          M
+          e
+          t
+          a
+          l
+          l
+          −
+          O
+          F
+          e
+          (
+          
+            H
+            
+              2
+            
+          
+          O
+          
+            )
+            
+              5
+            
+            
+              +
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Metall-OH+Fe(H_{2}O)_{6}^{2+}\longrightarrow Metall-OFe(H_{2}O)_{5}^{+}+H_{3}O^{+}} }
+  Die Herstellung von Oberflächenkomplexen ist für heterogene Katalysatoren von großer Bedeutung.
+An der Oberfläche laufen insbesondere auch Säure-Base-Reaktionen ab. Die Hydroxidgruppen können entweder als Brönsted-Säure oder Brönsted–Base reagieren. Je nach Metall liegt dabei eine unterschiedliche Acidität der Brönsted-Säure vor. Solche Oberflächen spielen eine wichtige Rolle als Katalysator für säurekatalysierte Reaktionen in nichtwässrigen Lösungsmitteln und in der Gasphase. Ebenso spielen in der Katalyse Zentren an Metalloxidoberflächen eine Rolle, die als Lewis-Säuren reagieren können. Hierbei nimmt vor allem bei höheren Temperaturen die Anzahl von Metallkationen und damit die Lewis-Acidität zu.
+
+
+== Oberflächensensitive Methoden ==
+
+Oberflächenanalytische Methoden werden in der Industrie und in der Grundlagenforschung eingesetzt.
+
+Heterogene Katalyse (z. B. Haber-Bosch-Verfahren zur Herstellung von Ammoniak)
+Halbleitertechnologie
+Brennstoffzellenforschung
+Abläufe an Elektroden bei elektrochemischen Reaktionen
+Nanoelektronik, d. h. Herstellung von elektronischen Bauteilen auf Nanometerskala
+Informationsspeicher mit hoher Speicherdichte
+Klebstoffe
+Beständige Beschichtungen von Oberflächen (z. B. Korrosionsschutz)
+Medizintechnische Anwendungen
+Materialforschung, z. B. atomare Zusammensetzung von Oberflächen-Legierungen
+Bestimmte biologische FragestellungenUm die Vorgänge an Grenzflächen untersuchen zu können, müssen Methoden verwendet werden, die nur Prozesse in dem Bereich einer Probe „sehen“, der sich in seinen Eigenschaften vom restlichen Festkörper unterscheidet. Dazu werden die Wechselwirkungen von folgenden Wellen/Teilchen mit Materie genutzt:
+
+Die mittleren freien Weglängen von geladenen Teilchen sind auf Grund von Coulomb-Wechselwirkungen i. a. viel kleiner als die von neutralen. Ein weiterer starker Einfluss ist die kinetische Energie der Teilchen; in bestimmten Energiebereichen können Prozesse angeregt werden, was die mittlere freie Weglänge verringert. Entscheidend für die Oberflächensensitivität einer Methode ist, dass entweder das mit der Probe wechselwirkende oder das detektierte Teilchen oder Welle eine geringe mittlere freie Weglänge in der Materie besitzt. Deshalb ist auch für viele Methoden ein Ultrahochvakuum nötig. Die gewählte Methode hängt dabei von der Fragestellung ab. Die folgende Übersicht soll nur einen Überblick geben. Für mehrere Methoden existieren auch verschiedene ortsauflösende Techniken. Für weitere Beschreibung siehe deren Artikel. Jede der Methoden hat Vor- und Nachteile, die beim Experiment berücksichtigt werden müssen.
+
+
+=== Mikroskopie ===
+
+
+=== Spektroskopie ===
+
+Bei der Spektroskopie handelt es sich allgemein um ein Verfahren bei dem ein Spektrum erzeugt wird, d. h., eine Intensität wird gegen eine der Energie äquivalenten Größe aufgetragen, z. B. Frequenz.
+Bei der Elektronenspektroskopie ist die Energie von Elektronen, diejenige Größe, die gegen die Intensität aufgetragen wird.
+Es gibt folgende Methoden:
+
+
+=== Beugung ===
+
+
+=== Kinetische Methoden ===
+
+
+=== Sorptive Methoden ===
+
+
+=== Kombinationen ===
+Bestimmte Strahlungsarten können mehrere Prozesse anregen, die für die jeweilige Methode Vor- und Nachteile bringen kann. Beispielsweise können bei Ionisation durch Röntgenstrahlung gleichzeitig Auger-Elektronen und Photoelektronen entstehen, die sich möglicherweise im Spektrum überlagern und so die Auswertung erschweren. Andererseits werden bei der TEM durch die zusätzliche Emission von Auger- und Photoelektronen, rückgestreute Elektronen, emittierte Partikel und EELS zusätzliche Informationen über die Probe in einer Apparatur gewonnen.
+
+
+=== Die „Big Four“ ===
+Als die „Big Four“ (dt. »die großen Vier«) werden die Messmethoden XPS, AES, SIMS und ISS bezeichnet.
+
+
+== Nobelpreise für Entwicklungen in der Oberflächenchemie und Oberflächenphysik ==
+
+
+== Verwandte Themengebiete ==
+Oberflächenphysik
+Theoretische Chemie
+Nanoelektronik
+Lithographie
+
+
+== Siehe auch ==
+Aktives Zentrum
+Dispersion
+Dosis (Oberflächenchemie)
+Ensemble-Effekt
+Epitaxie
+Fraktale Strukturen, Selbstähnlichkeit
+Langmuir (Einheit)
+Haftkoeffizient
+Langmuir-Hinshelwood-Mechanismus, Eley-Rideal-Mechanismus, Mars-van-Krevelen-Mechanismus
+Paarkorrelation
+Pressure-Gap, Material-Gap
+Schichtwachstum (Frank-van-der-Merve-Wachstum, Stranski-Krastanov-Wachstum und Volmer-Weber-Wachstum)
+Kristallwachstum, Kristallisationskeim
+Selfassembling Monolayers (SAM)
+Top-down und Bottom-up
+Knudsenzelle
+Schwoebel-Effekt
+2D-Adgas
+Smoluchowski-Effekt
+
+
+== Literatur ==
+Einzelnachweise
+
+Bücher
+
+G. Ertl, J. Küppers: Low Energy Electrons and Surface Chemistry. 2. Auflage. Verlag Chemie, Weinheim 1985, ISBN 3-527-26056-0. 
+G. Ertl: Reactions at Solid Surfaces. 1. Auflage. Wiley, New Jersey 2009, ISBN 978-0-470-26101-9. 
+Gábor A. Somorjai: Introduction to Surface Chemistry and Catalysis. Wiley, New York 1994, ISBN 0-471-03192-5 (englisch). Artikel
+
+Gerhard Ertl: Reaktionen an Oberflächen: vom Atomaren zum Komplexen (Nobel-Vortrag). In: Angewandte Chemie. Band 120, Nr. 19, 2008, S. 3578–3590, doi:10.1002/ange.200800480. 
+K. Köhler, C.W. Schläpfer: Koordinationschemie an Oxidoberflächen. In: Chemie in unserer Zeit. 27, Nr. 5, ISSN 0009-2851, 1993, S. 248–255.Zeitschriften
+
+Surface Science, Elsevier, ISSN 0039-6028
+Surface Science Letters, Elsevier, ISSN 0167-2584
+Surface Science Reports, Elsevier, ISSN 0167-5729
+Surface Science Spectra, Elsevier, ISSN 1055-5269
+Applied Surface Science, Elsevier, ISSN 0169-4332
+Progress in Surface Science, Elsevier, ISSN 0079-6816
+Applications of Surface Science, Elsevier, ISSN 0378-5963
+ChemPhysChem 11, Special Issue on Surface Phenomena, 2010
+
+
+== Weblinks ==
+Einführung in die Oberflächenchemie (englisch) (Queen Mary University of London)
+Videodossier des Schweizer Fernsehens zum Thema Nanotechnologie (Memento vom 10. September 2010 im Internet Archive)
+Oberflächenchemie in Reinform. tagesschau.de, archiviert vom Original am 12. Februar 2013; abgerufen am 11. April 2015. 
+Richard Feynman: There’s Plenty of Room at the Bottom Vortrag am Caltech, 1959.

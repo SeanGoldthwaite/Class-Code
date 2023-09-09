@@ -1,0 +1,66 @@
+﻿Le cation trihydrogène est l'espèce chimique de formule H3+. C'est l'ion le plus abondant dans le milieu interstellaire, où il demeure stable compte tenu de la température très basse et de l'extrême ténuité de ce milieu. Il s'agit de la plus simple des molécules triatomiques, dans laquelle trois protons se partagent deux électrons, et c'est l'exemple le plus simple de système à liaison à trois centres et deux électrons. Les trois protons s'organisent en triangle équilatéral stabilisé par les deux électrons du système, chaque liaison ayant une énergie estimée à 435 kJ·mol-1 .
+
+
+== Dynamique du cation trihydrogène dans le milieu interstellaire ==
+
+
+=== Formation ===
+La principale voie de formation du cation trihydrogène dans l'espace fait intervenir une molécule de dihydrogène H2 et un cation dihydrogène H2+   :
+
+H2+ + H2 → H3+ + H·La cinétique de cette réaction est déterminée par la concentration en cations H2+, qui se forment dans les nuages interstellaires d'hydrogène moléculaire traversés par des rayons cosmiques, dont 90 % du flux est constitué de protons de haute énergie :
+
+H2 + rayon cosmique → H2+ + e- + rayon cosmique résiduelL'énergie requise pour ioniser une molécule d'H2 en H2+ est bien inférieure à l'énergie du rayonnement cosmique incident, de sorte qu'une même particule cosmique ionise une série de molécules d'hydrogène sur son passage, à l'origine ensuite d'une traînée de cations H3+.
+
+
+=== Destruction ===
+La principale voie de destruction du trihydrogène dans le milieu interstellaire diffus serait la recombinaison dissociative avec un électron, qui aboutirait à deux produits majeurs :
+
+H3+ + e- → 3 H· (dans 75 % des cas)
+H3+ + e- → H2 + H· (dans 25 % des cas)Dans le milieu interstellaire dense, typiquement les nuages de poussières interstellaires, la destruction du trihydrogène ferait intervenir le monoxyde de carbone C≡O, molécule la plus abondante dans l'espace après celle d'hydrogène H2 :
+
+H3+ + C≡O → HC≡O+ + H2Le cation HC≡O+ joue un rôle important dans la chimie du milieu interstellaire. Son moment dipolaire élevé le rend facilement détectable en radioastronomie.
+Le trihydrogène peut également réagir avec l'oxygène atomique :
+
+H3+ + :O → HO+ + H2L'hydrogène moléculaire H2 du milieu interstellaire réagit ensuite avec les cations produits pour conduire à l'ion hydronium H3O+ :
+
+HO+ + H2 → H2O+ + H·
+H2O+ + H2 → H3O+ + H·À ce niveau, la réaction cesse d'être exothermique et cède la place à une recombinaison dissociative pouvant conduire à quatre types de produits :
+
+H3O+ + e- → H2O + H· (dans 5 % à 33 % des cas)
+H3O+ + e- → HO· + H2
+H3O+ + e- → HO· + 2 H·
+H3O+ + e- → :O + H2 + H·
+
+
+== Trihydrogène ortho/para ==
+La collision d'une molécule d'hydrogène H2 avec un cation trihydrogène H3+ est chimiquement neutre, mais n'est pas forcément neutre du point de vue du spin nucléaire de chacune des espèces :
+
+H2 ortho (spin = 1) + H3+ ortho (spin = 3/2) → H2 ortho (spin = 1) + H3+ ortho (spin = 3/2)
+H2 para (spin = 0) + H3+ para (spin = 1/2) → H2 para (spin = 0) + H3+ para (spin = 1/2)mais :
+
+H2 para (spin = 0) + H3+ ortho (spin = 3/2) → H2 ortho (spin = 1) + H3+ para (spin = 1/2)
+
+
+== Détection astronomique du trihydrogène ==
+H3+ a été détecté dans deux types d'environnements : les nuages interstellaires et l'atmosphère des planètes géantes gazeuses de type Jupiter. Dans ces dernières, le trihydrogène a été détecté dans l'ionosphère, là où la densité d'hydrogène moléculaire est significative et où cet hydrogène reçoit les radiations solaires en quantités suffisantes pour produire de grandes quantités d'ions H3+ excités qui retombent à leur état fondamental en produisant les raies d'émission caractéristiques qui permettent de les détecter.
+
+Atmosphères planétairesLa première détection de trihydrogène a été rapportée en 1989 par Drossart et al. dans l'atmosphère de Jupiter, qui observèrent en tout vingt-trois lignes d'émissions de H3+. À partir de ces lignes, ils purent estimer la température de l'environnement de ces cations à environ 1 100 K, comparable aux estimations produites à partir d'autres espèces telles que H2.
+Le cation H3+ a été identifié sur Saturne en 1993 par Geballe et al. et la même année sur Uranus par Trafton et al..
+
+Nuages interstellaires moléculairesH3+ n'a été détecté dans le milieu interstellaire qu'en 1996 par Geballe et Oka dans la direction de deux nuages moléculaires, GL2136 et W33A, avec une température de l'ordre de 35 K et une concentration d'ions d'environ 1014 cm-2 en section. Depuis, les observations se sont multipliées dans les nuages moléculaires denses.
+
+Nuages interstellaires diffusDe façon plus inattendue, trois lignes de l'ion H3+ ont été détectées en 1998 par McCall et al. dans la direction de Cygnus OB2 No. 12 ; c'était inattendu car la densité de ce milieu était jugée trop faible pour permettre la formation de quantités décelables d'ions H3+. Pourtant, si la température calculée était de seulement 27 K, la concentration d'ions H3+ s'avérait du même ordre de grandeur que celle mesurée deux ans plus tôt par Geballe et Oka sur la ligne de visée des nuages denses GL2136 et W33A.
+Par la suite, H3+ a été détecté dans de nombreuses formations diffuses.
+
+
+== Notes et références ==
+
+
+== Articles connexes ==
+Dihydrogène (cation)
+Liaison à trois centres et deux électrons
+
+
+== Liens externes ==
+H3+ Resource Center
+Astrochemistry.net Portail de la chimie   Portail de l’astronomie

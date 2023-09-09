@@ -1,0 +1,204 @@
+﻿Aminosäuren (AS), unüblich auch Aminocarbonsäuren, veraltet Amidosäuren genannt, sind chemische Verbindungen mit einer Stickstoff (N) enthaltenden Aminogruppe und einer Kohlenstoff (C) und Sauerstoff (O) enthaltenden Carbonsäuregruppe. Aminosäuren kommen in allen Lebewesen vor. Sie sind die Bausteine von Proteinen (Eiweiß) und werden frei bei der Zerlegung von Proteinen (Proteolyse). Essentielle Aminosäuren kann ein Organismus nicht selber herstellen, sie müssen daher mit der Nahrung aufgenommen werden. 
+Zur Klasse der Aminosäuren zählen organische Verbindungen, die zumindest eine Aminogruppe (–NH2 bzw. substituiert –NR2) und eine Carboxygruppe (–COOH) als funktionelle Gruppen enthalten, also Strukturmerkmale der Amine und der Carbonsäuren aufweisen. Chemisch lassen sie sich nach der Stellung ihrer Aminogruppe zur Carboxygruppe unterscheiden – steht die Aminogruppe am Cα-Atom unmittelbar benachbart zur endständigen Carboxygruppe, nennt man dies α-ständig und spricht von α-Aminosäuren.
+Ausgewählte α-Aminosäuren sind die natürlichen Bausteine von Proteinen. Sie werden miteinander zu Ketten verknüpft, indem die Carboxygruppe der einen Aminosäure mit der Aminogruppe der nächsten eine Peptidbindung eingeht. Die auf diese Weise zu einem Polymer verketteten Aminosäuren unterscheiden sich in ihren Seitenketten und bestimmen zusammen die Form, mit der das Polypeptid im wässrigen Milieu dann zum nativen Protein auffaltet. Diese Biosynthese von Proteinen findet in allen Zellen an den Ribosomen nach Vorgabe genetischer Information statt, die in Form von mRNA vorliegt.
+Die Basensequenz der mRNA codiert in Tripletts die Aminosäurensequenz, wobei jeweils ein Basentriplett ein Codon darstellt, das für eine bestimmte proteinogene Aminosäure steht. Die hiermit als Bausteine für die Bildung von Proteinen in einer bestimmten Reihenfolge angegebenen Aminosäuren formen die Proteine. Beim Menschen sind es 21 verschiedene proteinogene Aminosäuren. Nach der Translation können die Seitenketten einiger im Protein eingebauter Aminosäuren noch modifiziert werden.
+Das Spektrum der Aminosäuren geht allerdings über diese rund zwanzig proteinogenen weit hinaus. So sind bisher über 400 nichtproteinogene natürlich vorkommende Aminosäuren bekannt, die biologische Funktionen haben. Die vergleichsweise seltenen D-Aminosäuren stellen hierbei eine spezielle Gruppe dar. Die Vielfalt der synthetisch erzeugten und die der theoretisch möglichen Aminosäuren ist noch erheblich größer.
+Einige Aminosäuren spielen als Neurotransmitter eine besondere Rolle, ebenso verschiedene Abbauprodukte von Aminosäuren; biogene Amine treten nicht nur als Botenstoffe im Nervensystem auf, sondern entfalten auch als Hormone und Gewebsmediatoren vielfältige physiologische Wirkungen im Organismus.
+Die einfachste Aminosäure, Glycin, konnte nicht nur auf der Erde, sondern auch auf Kometen, Meteoriten und in Gaswolken im interstellaren Raum nachgewiesen werden.
+
+
+== Geschichte ==
+Die erste Aminosäure wurde 1805 im Pariser Labor von Louis-Nicolas Vauquelin und dessen Schüler Pierre Jean Robiquet aus dem Saft von Spargel (Asparagus officinalis) isoliert und danach Asparagin genannt. Als letzte der üblichen proteinaufbauenden Aminosäuren wurde das Threonin 1931 im Fibrin entdeckt sowie 1935 seiner Struktur nach geklärt von William Rose. Rose hatte durch Experimente mit verschiedenen Futtermitteln herausgefunden, dass die bis dato entdeckten 19 Aminosäuren als Zusatz nicht ausreichten. Er stellte auch die Essentialität anderer Aminosäuren fest und ermittelte je die für ein optimales Wachstum mindestens erforderliche Tagesdosis.In der Zeit zwischen 1805 und 1935 waren viele der damals bekannten Chemiker und Pharmazeuten daran beteiligt, Aminosäuren erstmals zu isolieren sowie deren Struktur aufzuklären. So gelang Emil Fischer, auf den auch die Fischer-Projektion zurückgeht, die finale Aufklärung der Struktur von Serin (1901), Lysin (1902), Valin (1906) und Cystein (1908). Auch Albrecht Kossel (1896 Histidin aus Störsperma), Richard Willstätter (1900 Prolin via Synthese) und Frederick Hopkins (1901 Tryptophan aus Casein) wurden später Nobelpreisträger. Der deutsche Chemiker Ernst Schulze isolierte drei Aminosäuren erstmals – 1877 Glutamin aus Rüben, 1881 Phenylalanin und 1886 Arginin aus Lupinen – und war an der Strukturaufklärung weiterer Aminosäuren beteiligt. Zuvor hatte Heinrich Ritthausen 1866 Glutaminsäure aus Getreideeiweiß, dem Gluten, kristallin gewonnen. Wilhelm Dittmar klärte 1872 die Struktur von Glutamin und Glutaminsäure, deren Salze Glutamate sind.
+
+Bereits 1810 entdeckte William Hyde Wollaston das schwefelhaltige Cystin als „cystic oxide“ in Blasensteinen, doch erst 1884 Eugen Baumann das monomere Cystein. 1819 trennte Henri Braconnot das Glycin aus Leim ab und Joseph Louis Proust das Leucin aus Getreide. Eugen von Gorup-Besánez isolierte 1856 das Valin aus Pankreassaft. Schon 1846 hatte Justus von Liebig aus Casein erstmals das Tyrosin abtrennen können, dessen Struktur 1869 Ludwig von Barth klärte. Im Hydrolysat des Casein entdeckte Edmund Drechsel 1889 auch das Lysin und später John Howard Mueller 1922 das schwefelhaltige Methionin als 19. Aminosäure, deren Strukturformel George Barger und Philip Coine 1928 angaben. In Melasse hatte Felix Ehrlich schon 1903 als 18. das Isoleucin gefunden, ein Strukturisomer des Leucin.
+Friedrich Wöhler, dessen Synthesen in den 1820er Jahren das Gebiet der Biochemie eröffneten, entdeckte keine Aminosäure, doch waren drei seiner Schüler daran beteiligt, neben den erwähnten Gorup-Besánez und Schulze auch Georg Städeler (1863 Serin aus Rohseide). 18 der 20 entdeckten Aminosäuren wurden aus pflanzlichem oder tierischem Material isoliert, nur die beiden Aminosäuren Alanin (1850 Adolph Strecker) und Prolin (Willstätter) durch organische Synthese erhalten. Während die Analyse der stofflichen Zusammensetzung bis hin zur Summenformel mit den damaligen Methoden gut zu bewerkstelligen war, konnte die Strukturformel vieler Aminosäuren oftmals nur durch Teilschritte der Synthese endgültig aufgeklärt werden, was manchmal erst Jahre später gelang. Die Struktur des Asparagins und die von Asparaginsäure klärte Hermann Kolbe erst 1862 auf, 57 Jahre nach der ersten Beschreibung.
+Den Gattungsnamen verdanken Aminosäuren zwei funktionellen Gruppen, ihre Einzelnamen mal einem hellen Aussehen (z. B. Arginin, Leucin), einem süßen Geschmack (z. B. Glycin) oder dem Material, in dem sie gefunden wurden (z. B. Asparagin, Cystein, Serin, Tyrosin), Merkmalen der chemischen Struktur (z. B. Prolin, Valin, Isoleucin) bzw. beidem (z. B. Glutamin, Glutaminsäure) und mal auch den Edukten ihrer Synthese (z. B. Alanin).Dass Proteine als Ketten aus Aminosäuren, verbunden durch Peptidbindungen, aufgebaut sind, schlugen zuerst 1902 auf der Versammlung deutscher Naturforscher und Ärzte in Karlsbad gleichzeitig und unabhängig voneinander sowohl Emil Fischer als auch Franz Hofmeister vor (Hofmeister-Fischer-Theorie).
+
+
+== Struktur ==
+Aminosäuren bestehen aus mindestens zwei Kohlenstoffatomen. Die instabile Carbamidsäure besitzt lediglich ein Kohlenstoffatom und ist damit keine Aminosäure, sondern ein Kohlensäureamid. Aminosäuren lassen sich in Klassen einteilen je nach dem Kohlenstoffatom, an dem sich die Aminogruppe relativ zur Carboxygruppe befindet. Sind im Molekül mehrere Aminogruppen vertreten, so bestimmt das Kohlenstoffatom, dessen Aminogruppe dem Carboxy-Kohlenstoff am nächsten steht, um welche Klasse von Aminosäuren es sich handelt.
+
+α-Aminosäuren: Die Aminogruppe der α-Aminosäuren befindet sich am zweiten Kohlenstoffatom, einschließlich des Carboxy-Kohlenstoffatoms. Die Zählung beginnt immer mit dem Carboxy-Kohlenstoff. Die IUPAC-Bezeichnung lautet daher 2-Aminocarbonsäuren. Der einfachste Vertreter der α-Aminosäuren ist die proteinogene Aminosäure Glycin. Alle proteinogenen Aminosäuren sind α-Aminosäuren.Mit dem Ausdruck Aminosäuren ist oft eine bestimmte Gruppe von α-Aminosäuren gemeint, die hauptsächlich aus L-α-Aminosäuren besteht: die proteinogenen Aminosäuren. Diese sind die Bausteine sämtlicher Proteine allen Lebens auf der Erde und neben den Nukleinsäuren Grundbausteine des Lebens.β-Aminosäuren: Die Aminogruppe der β-Aminosäuren befindet sich am dritten Kohlenstoffatom (das Carboxy-Kohlenstoffatom mitgezählt). Die IUPAC-Bezeichnung lautet 3-Aminocarbonsäuren. Der einfachste Vertreter ist β-Alanin.
+γ-Aminosäuren: Die Aminogruppe der γ-Aminosäuren befindet sich am vierten Kohlenstoffatom (das Carboxy-Kohlenstoffatom mitgezählt). Die IUPAC-Bezeichnung lautet 4-Aminocarbonsäuren. Der einfachste Vertreter ist γ-Aminobuttersäure (GABA).Die Bezeichnung weiterer Klassen der Aminosäuren ergibt sich nach dem gleichen Schema.
+Die Aminosäuren einer Klasse unterscheiden sich durch ihre Seitenkette R. Ist die Seitenkette R verschieden von den anderen Substituenten, die sich am Kohlenstoff mit der Amino-Gruppe befinden, so befindet sich hier ein Stereozentrum und es existieren von der entsprechenden Aminosäure zwei Enantiomere. Enthält die Seitenkette R selbst weitere Stereozentren, so ergeben sich auch Diastereomere und die Zahl möglicher Stereoisomerer nimmt entsprechend zur Anzahl der weiteren Stereozentren zu. Von Aminosäuren mit zwei verschieden substituierten Stereozentren gibt es vier Stereoisomere.
+
+
+== Aminoacyl-Gruppe ==
+Aminoacyl-Gruppe bezeichnet die einwertige Gruppe, die aus einer Aminosäure durch Entfernen des Hydroxyls (-OH) aus der Carboxylgruppe (-COOH) entsteht, also das univalente Radikal. Aus einer α-Aminosäure wird so eine α-Aminoacyl-Gruppe gebildet; aus der Aminosäure Tyrosin beispielsweise entsteht so die Tyrosylgruppe als eine spezielle α-Aminoacyl-Gruppe.
+
+
+== Proteinogene Aminosäuren ==
+Als proteinogen werden Aminosäuren bezeichnet, die in Lebewesen als Bausteine der Proteine während der Translation nach Vorgabe genetischer Information verwendet werden. Bei der Biosynthese von Proteinen, die an den Ribosomen einer Zelle stattfindet, werden im Zuge der Proteinbiosynthese ausgewählte Aminosäuren durch Peptidbindungen in bestimmter Reihenfolge zur Polypeptidkette eines Proteins verknüpft. Die Aminosäurensequenz des ribosomal gebildeten Peptids wird dabei vorgegeben durch die in der Basensequenz einer Nukleinsäure enthaltene genetische Information, wobei nach dem genetischen Code eine Aminosäure durch ein Basentriplett codiert wird.
+
+Die proteinogenen Aminosäuren sind stets α-Aminosäuren. Bis auf die kleinste, Glycin, sind sie chiral und treten mit besonderer räumlicher Anordnung auf. Eine Besonderheit weist die Aminosäure Prolin auf, deren Aminogruppe ein sekundäres Amin besitzt, und die sich daher nicht so flexibel in eine Proteinfaltung einfügt wie andere proteinogene Aminosäuren – Prolin gilt beispielsweise als Helixbrecher bei α-helikalen Strukturen in Proteinen. Aufgrund der sekundären Aminogruppe wird Prolin auch als sekundäre Aminosäure – öfters fälschlicherweise bzw. veraltet auch als Iminosäure – bezeichnet.
+Von den spiegelbildlich verschiedenen Enantiomeren sind jeweils nur die L-Aminosäuren proteinogen (zur D / L-Nomenklatur siehe Fischer-Projektion; in Fällen wie Hydroxyprolin gibt es weitere Stereoisomere). Die molekularen Komponenten des zum Aufbau der Proteine notwendigen zellulären Apparats – neben Ribosomen noch tRNAs und diese mit Aminosäuren beladende Aminoacyl-tRNA-Synthetasen – sind selber auch chiral und erkennen allein die L-Variante.Dennoch kommen in Lebewesen vereinzelt auch D-Aminosäuren vor. Diese werden jedoch unabhängig von proteinogenen Stoffwechselwegen synthetisiert und dienen nicht dem ribosomalen Aufbau von Proteinen. So wird zum Beispiel D-Alanin in Peptidoglycane der bakteriellen Zellwand eingebaut oder D-Valin in bakterielle Cyclo-Depsipeptide wie Valinomycin. Verschiedene Arten von Archaeen, Bakterien, Pilzen und Nacktkiemern verfügen über nichtribosomale Peptidsynthetasen genannte Multienzymkomplexe, mit denen solche (nichtproteinogenen) Aminosäuren in ein nichtribosomales Peptid eingebaut werden können.
+
+
+=== Kanonische Aminosäuren ===
+Für 20 der proteinogenen Aminosäuren finden sich Codons in der (am häufigsten gebrauchten) Standardversion des genetischen Codes. Diese werden daher als Standardaminosäuren oder auch kanonische Aminosäuren bezeichnet.
+In Aminosäuresequenzen werden die Aminosäuren meist mit einem Namenskürzel im Dreibuchstabencode angegeben oder im Einbuchstabencode durch ein Symbol dargestellt.
+
+Neben den oben angegebenen Codes werden zusätzliche Zeichen als Platzhalter benutzt, wenn aus der Proteinsequenzierung oder Röntgenstrukturanalyse nicht auf die genaue Aminosäure geschlossen werden kann.
+
+
+=== Nichtkanonische Aminosäuren ===
+Zu den natürlich vorkommenden Aminosäuren gehören außer den kanonischen die übrigen als nichtkanonische Aminosäuren bezeichneten Aminosäuren, wozu proteinogene und nicht-proteinogene zählen. Hierbei lassen sich mehrere Gruppen unterscheiden:
+
+Zur ersten Gruppe gehören jene proteinogenen Aminosäuren, die durch eine Recodierung des genetischen Materials in Proteine eingebaut werden. Die 21. und die 22. proteinogene Aminosäure gehören hierzu: Selenocystein (bei Eukaryoten und manchen Bakterien und Archaeen) und Pyrrolysin (bei manchen Bakterien und Archaeen). Für beide Aminosäuren wurden spezifische tRNAs – tRNASec bzw. tRNAPyl – gefunden, die während der Translation einen Einbau am Ribosom möglich machen. Deren Anticodon paart, abhängig von Strukturelementen im Kontext der mRNA (siehe Secis), mit dem Codon UGA bzw. UAG; im Standardcode stellen diese ein Stopcodon dar. Doch nicht alle Organismen verwenden die nichtkanonischen proteinogenen Aminosäuren dieser Gruppe.
+Das übliche Startcodon AUG codiert für die Aminosäure Methionin. Bakterien verfügen neben der tRNAMet über eine besondere tRNAfMet, die ebenfalls mit Methionin beladen wird und als Initiator-tRNA dient. Die an tRNAifMet gebundene Aminosäure aber wird in Bakterien am N-Terminus formyliert zu N-Formylmethionin (fMet), noch bevor sie bei der Initiation am Ribosom zur ersten Aminosäure einer Peptidkette werden kann. Dieses Aminosäurederivat Formylmethionin wird daher gelegentlich auch als (23.) proteinogene Aminosäure gezählt. Auch Mitochondrien und Chloroplasten nutzen fMet initial. Dagegen wird es im Cytosol eukaryotischer Zellen und in Archaeen nicht bei der Translation verwendet.Eine zweite Gruppe bilden die im engen Sinn nicht proteinogenen Aminosäuren, die aus kanonischen Aminosäuren entstehen, wenn der Aminosäurerest R nach dem Einbau in Proteine verändert wird, d. h. durch eine der vielfältigen posttranslationale Modifikationen. So kann Prolin zu Hydroxyprolin, Serin zu O-Phosphoserin, Tyrosin zu O-Phosphotyrosin und Glutamat zu γ-Carboxyglutamat umgewandelt werden. Eine wichtige Änderung des Aminosäurerestes stellt auch die Glykosylierung dar: Hier werden Kohlenhydratreste auf die Aminosäurereste übertragen, wodurch Glykoproteine entstehen.Als dritte Gruppe lassen sich die strenggenommen nicht proteinogenen Aminosäuren fassen, die der Organismus nicht von den kanonischen Aminosäuren unterscheiden kann und die er so anstelle dieser in Proteine unspezifisch einbaut. Dazu gehört Selenomethionin, das anstelle des Methionins eingebaut werden kann, oder das Canavanin, das der Organismus nicht vom Arginin unterscheiden kann oder auch die Azetidin-2-carbonsäure, die als giftiges Prolin-Analogon wirkt. Viele der Aminosäuren dieser Gruppe sind toxisch, da sie oft zu einer Fehlfaltung des Proteins führen, wodurch die Form und somit die Funktionsfähigkeit des Proteins beeinträchtigt werden kann. So ist Azetidin-2-carbonsäure ein toxischer Bestandteil des Maiglöckchens, wobei sich das Maiglöckchen selber mit einer hochspezifischen Prolyl-tRNA-Synthetase vor dem unkontrollierten Einbau dieser Aminosäure in ihre Proteine schützt.Der Mensch nutzt neben den 20 kanonischen auch Selenocystein als proteinogene Aminosäure. Von den 20 kanonischen Aminosäuren werden 12 vom menschlichen Organismus beziehungsweise durch im menschlichen Verdauungstrakt lebende Mikroorganismen synthetisiert. Die restlichen 8 Aminosäuren sind für den Menschen essentiell, das heißt, er muss sie über die Nahrung aufnehmen.
+Der Einbau künstlicher, nahezu beliebig gebauter Aminosäuren im Zuge eines Proteindesigns ist unter anderem über die Ersetzung des Liganden in der entsprechenden Aminoacyl-tRNA-Synthetase möglich. Diese Verfahren sind teilweise so weit fortgeschritten, dass damit gezielt bestimmte Proteine eine Markierung erhalten können, die beispielsweise das Protein nach Behandlung mit spezifischen Reagenzien zur Fluoreszenz anregen (Beispiel: Einbau von Norbornen-Aminosäure via Pyrrolysyl-tRNA-Synthetase/Codon CUA). Damit ist eine genaue Lokalisierung des Proteins auch ohne Produktion und Reaktion mit Antikörpern möglich.
+
+
+=== Biochemische Bedeutung ===
+
+
+==== Aminosäuren als Bausteine von Proteinen ====
+
+L-Aminosäuren sind in der Biochemie von großer Bedeutung, da sie die Bausteine von Peptiden und Proteinen (Eiweißen) sind. Bisher sind über zwanzig sogenannte proteinogene Aminosäuren bekannt. Dies sind zunächst jene 20 L-α-Aminosäuren, die als Standard-Aminosäuren durch Codons von je drei Nukleinbasen in der DNA nach dem Standard-Code codiert werden. Zu diesen kanonisch genannten Aminosäuren sind inzwischen zwei weitere hinzugekommen, Selenocystein und Pyrrolysin. Beide nicht-kanonischen sind ebenfalls α-Aminosäuren, bezogen auf die endständige Carboxygruppe ist die Aminogruppe am unmittelbar benachbarten Kohlenstoffatom gebunden (Cα). Darüber hinaus gibt es noch weitere Aminosäuren, die als Bestandteil von Proteinen oder Peptiden auftreten, jedoch nicht codiert werden.
+Aminosäureketten mit einer Kettenlänge unter zirka 100 Aminosäuren werden meist als Peptide bezeichnet, bei den größeren ribosomal gebildeten spricht man von Proteinen. Die einzelnen Aminosäuren sind dabei innerhalb der Kette je über Peptidbindungen (Säureamid) verknüpft. Ein automatisiertes Verfahren zur Synthese von Peptiden liefert die Merrifield-Synthese.
+In Form von Nahrung aufgenommene Proteine werden bei der Verdauung in L-Aminosäuren zerlegt. In der Leber werden sie weiter verwertet. Entweder werden sie zur Proteinbiosynthese verwendet oder abgebaut (siehe auch: Aminosäureindex). Die wichtigsten Mechanismen des Aminosäurenabbaus sind:
+
+Transaminierung
+Desaminierung
+Decarboxylierung
+
+
+==== Essentielle Aminosäuren ====
+
+Aminosäuren, die ein Organismus benötigt, jedoch nicht selbst herstellen kann, heißen essentielle Aminosäuren und müssen mit der Nahrung aufgenommen werden. Alle diese essentiellen Aminosäuren sind L-α-Aminosäuren. Für Menschen sind Valin, Methionin, Leucin, Isoleucin, Phenylalanin, Tryptophan, Threonin und Lysin essentielle Aminosäuren.
+Seit 1985 wird von der WHO auch die Aminosäure Histidin als essenzielle Aminosäure eingestuft. Es gibt somit neun essenzielle Aminosäuren.
+Bedingt essentielle oder semi-essentielle Aminosäuren müssen nur in bestimmten Situationen mit der Nahrung aufgenommen werden, zum Beispiel während des Wachstums oder nach schweren Verletzungen. Die übrigen Aminosäuren werden entweder direkt synthetisiert oder aus anderen Aminosäuren durch Modifikation gewonnen. So kann Cystein aus der essentiellen Aminosäure Methionin synthetisiert werden. Solange das Vermögen, aus Phenylalanin die Aminosäure Tyrosin herzustellen, noch nicht ausgereift ist, zählt auch diese neben den anderen zu den essentiellen Aminosäuren im Kindesalter. Aus ähnlichem Grund muss auch bei einer Phenylketonurie Tyrosin zugeführt werden. Daneben gibt es andere Erkrankungen, die den Aminosäurestoffwechsel beeinträchtigen und die Aufnahme einer eigentlich nicht-essentiellen Aminosäure unter Umständen erfordern. Alle essentiellen bzw. semi-essentiellen Aminosäuren, die der menschliche Körper benötigt, sind in Hühnereiern enthalten.
+Pflanzen und Mikroorganismen können alle für sie notwendigen Aminosäuren selbst synthetisieren. Daher gibt es für sie keine essentiellen Aminosäuren.
+
+
+=== Chemisch-physikalische Eigenschaften ===
+Die proteinogenen Aminosäuren lassen sich nach ihren Resten in Gruppen aufteilen (siehe Tabellenübersicht der Eigenschaften). Dabei kann eine Aminosäure in verschiedenen Gruppen gleichzeitig auftauchen. In einem Mengendiagramm lassen sich die Überlappungen der Gruppen grafisch darstellen.
+Die Eigenschaften der Seitenkette von Cystein betreffend haben die Autoren unterschiedliche Ansichten: Löffler hält sie für polar, während Alberts sie für unpolar hält. Richtigerweise handelt es sich bei Schwefel um ein Heteroatom, folglich gilt: Die Seitenkette von Cystein hat schwach polare Eigenschaften.
+
+
+==== Säure- und Basen-Verhalten ====
+
+Aufgrund der basischen Aminogruppe und der sauren Carbonsäuregruppe sind Aminosäuren zugleich Basen und Säuren. Als Feststoffe und in neutralen wässrigen Lösungen liegen Aminosäuren als Zwitterionen vor, das heißt, die Aminogruppe ist protoniert und die Carboxygruppe ist deprotoniert.
+Verallgemeinert lässt sich das Zwitterion so darstellen:
+
+Als Zwitterion kann die protonierte Aminogruppe als Säure (Protonendonator) und die Carboxylatgruppe kann als Base (Protonenakzeptor) reagieren. In sauren Lösungen liegen Aminosäuren als Kationen und in basischen Lösungen als Anionen vor:
+
+Die Ladung eines Aminosäuremoleküls hängt vom pH-Wert der Lösung ab. Bei einem Zwitterion mit einer sauren und einer basischen Gruppe ist bei neutralem pH-Wert die Gesamtladung des Moleküls null. Daneben besitzen die Seitenketten der Aminosäuren teilweise saure oder basische geladene Gruppen. Der pH-Wert mit einer Nettoladung von Null ist der isoelektrische Punkt (pHI, pI) einer Aminosäure. Am isoelektrischen Punkt ist die Wasserlöslichkeit einer Aminosäure am geringsten.
+Für das Säure-Base-Verhalten proteinogener Aminosäuren ist vor allem das Verhalten ihrer Seitenkette (fortan mit R bezeichnet) interessant. In Proteinen sind die NH2- und COOH-Gruppen bei physiologischem pH-Wert (um pH 7) wegen der Peptidbindung nicht protonierbar und damit auch nicht titrierbar. Ausnahmen sind der Amino- und der Carboxy-Terminus des Proteins. Daher ist für das Säure-Base-Verhalten von Proteinen und Peptiden der Seitenkettenrest R maßgeblich.
+Das Verhalten der Seitenkette R hängt von ihrer Konstitution ab, das heißt, ob die Seitenkette selbst wieder als Protonenakzeptor oder als Protonendonator wirken kann. Die proteinogenen Aminosäuren werden nach den funktionellen Gruppen eingeteilt in solche mit unpolarer oder polarer Aminosäureseitenkette und weiter unterteilt in nach Polarität sortierte Untergruppen: aliphatische, aromatische, amidierte, Schwefel-enthaltende, hydroxylierte, basische und saure Aminosäuren.
+Die Seitenketten von Tyrosin und Cystein sind zwar im Vergleich zu den anderen unpolaren Seitenketten relativ sauer, neigen aber erst bei unphysiologisch hohen pH-Werten zum Deprotonieren. Prolin ist eine sekundäre Aminosäure, da der N-Terminus mit der Seitenkette einen fünfatomigen Ring schließt. Innerhalb eines Proteins bindet der Carboxy-Terminus einer vorhergehenden Aminosäure an den Stickstoff des Prolins, welcher aufgrund der bereits erwähnten Peptidbindung nicht protonierbar ist. Histidin, Tyrosin und Methionin kommen jeweils in zwei Untergruppen vor.
+
+Aliphatische Aminosäureseitenketten
+Alanin
+Glycin
+Isoleucin
+Leucin
+Methionin
+Prolin
+ValinAromatische Aminosäureseitenketten
+Phenylalanin
+Tryptophan
+TyrosinAmidierte Aminosäureseitenketten
+Asparagin
+GlutaminSchwefel-enthaltende Aminosäureseitenketten
+Cystein
+MethioninHydroxylierte Aminosäureseitenketten
+Serin
+Threonin
+TyrosinBasische Aminosäureseitenketten
+Lysin
+Arginin
+HistidinSaure Aminosäureseitenketten
+Asparaginsäure (dissoziiert zu Aspartat)
+Glutaminsäure (dissoziiert zu Glutamat)Der pK-Wert ist der pH-Wert, bei dem die titrierbaren Gruppen zu gleichen Teilen protoniert und deprotoniert vorliegen; die titrierbare Gruppe liegt dann zu gleichen Teilen in ihrer basischen wie in ihrer sauren Form vor (siehe auch: Henderson-Hasselbalch-Gleichung).
+Es ist meist üblich, anstatt vom pKS vom pK zu sprechen, so vom pK der Säure. In diesem Sinne müsste allerdings vom pK des Lysins als pKB, vom pK der Base gesprochen werden. Aus Gründen der Vereinfachung wird diese Notation aber allgemein weggelassen, da sich auch aus dem Sinnzusammenhang ergibt, ob die Gruppe als Base oder Säure wirkt.
+Der pK ist keine Konstante, sondern hängt von der Temperatur, der Aktivität, der Ionenstärke und der unmittelbaren Umgebung der titrierbaren Gruppe ab und kann daher stark schwanken.
+Ist der pH höher als der pK einer titrierbaren Gruppe, so liegt die titrierbare Gruppe in ihrer basischen (deprotonierten) Form vor. Ist der pH niedriger als der pK der titrierbaren Gruppe, so liegt die titrierbare Gruppe in ihrer sauren (protonierten) Form vor:
+
+Für Asp (pK = 03,86) bei pH 7: Die Seitenkette ist nahezu vollständig deprotoniert.
+Für Lys  (pK = 10,53) bei pH 7: Die Seitenkette ist nahezu vollständig protoniert.Die Seitenketten basischer Aminosäuren sind in ihrer protonierten (sauren) Form einfach positiv geladen und in ihrer deprotonierten (basischen) Form ungeladen. Die Seitenketten der sauren Aminosäuren (einschließlich Cystein und Tyrosin) sind in ihrer protonierten (sauren) Form ungeladen und in ihrer deprotonierten (basischen) Form einfach negativ geladen. Da das Verhalten der Seitenkette ein ganz anderes ist, wenn sie geladen bzw. ungeladen ist, spielt der pH-Wert für die Eigenschaften der Seitenkette eine so wichtige Rolle.
+Die titrierbaren Seitenketten beeinflussen zum Beispiel das Löslichkeitsverhalten der entsprechenden Aminosäure. In polaren Lösungsmitteln gilt: Geladene Seitenketten machen die Aminosäure löslicher, ungeladene Seitenketten machen die Aminosäure unlöslicher.
+In Proteinen kann das dazu führen, dass bestimmte Abschnitte hydrophiler oder hydrophober werden, wodurch die Faltung und damit auch die Aktivität von Enzymen vom pH-Wert abhängt. Durch stark saure oder basische Lösungen können Proteine daher denaturiert werden.
+
+
+==== Tabellenübersicht der Eigenschaften ====
+
+
+==== Stereochemie ====
+18 der 20 proteinogenen Aminosäuren haben gemäß der Cahn-Ingold-Prelog-Konvention am α-Kohlenstoff-Atom die (S)-Konfiguration, lediglich Cystein besitzt die (R)-Konfiguration, da hier der Kohlenstoff mit der Thiolgruppe eine höhere Priorität als die Carbonsäuregruppe hat. Glycin ist achiral, daher kann keine absolute Konfiguration bestimmt werden.
+Zusätzlich zum Stereozentrum am α-C-Atom besitzen Isoleucin und Threonin in ihrem Rest R je ein weiteres stereogenes Zentrum. Proteinogenes Isoleucin [R = –C*H(CH3)CH2CH3] ist dort (S)-konfiguriert, Threonin [R = –C*H(OH)CH3] (R)-konfiguriert.
+
+
+== Nichtproteinogene Aminosäuren ==
+
+Es sind bislang über 400 nichtproteinogene (d. h. nicht während der Translation in Proteine eingebaute) Aminosäuren, die in Organismen vorkommen, bekannt. Dazu gehört etwa das L-Thyroxin, ein Hormon der Schilddrüse, L-DOPA, L-Ornithin oder das in fast allen Arten von Cyanobakterien nachgewiesene Neurotoxin β-Methylaminoalanin (BMAA).
+Die meisten nichtproteinogenen Aminosäuren leiten sich von den proteinogenen ab, die L-α-Aminosäuren sind. Dennoch können dabei auch β-Aminosäuren (β-Alanin) oder γ-Aminosäuren (GABA) entstehen.
+Zu den nichtproteinogenen Aminosäuren zählen auch alle D-Enantiomere der proteinogenen L-Aminosäuren. D-Serin wird im Hirn durch die Serin-Racemase aus L-Serin (seinem Enantiomer) erzeugt. Es dient sowohl als Neurotransmitter als auch als Gliotransmitter durch die Aktivierung des NMDA-Rezeptors, was zusammen mit Glutamat die Öffnung des Kanals erlaubt. Zum Öffnen des Ionenkanals muss Glutamat und entweder Glycin oder D-Serin binden. D-Serin ist an der Glycin-Bindungsstelle des Glutamatrezeptors vom NMDA-Typ ein stärkerer Agonist als Glycin selbst, war aber zum Zeitpunkt der Erstbeschreibung der Glycin-Bindungsstelle noch unbekannt. D-Serin ist nach D-Aspartat die zweite D-Aminosäure, die in Menschen gefunden wurde.
+
+Zu den synthetischen Aminosäuren gehört die 2-Amino-5-phosphonovaleriansäure (APV), ein Antagonist des NMDA-Rezeptors und das ökonomisch wichtige D-Phenylglycin [Synonym: (R)-Phenylglycin], das in der Seitenkette vieler semisynthetischer β-Lactamantibiotica als Teilstruktur enthalten ist. (S)- und (R)-tert-Leucin [Synonym: (S)- und (R)-β-Methylvalin] sind synthetische Strukturisomere der proteinogenen Aminosäure (S)-Leucin und werden als Edukt in stereoselektiven Synthesen eingesetzt.
+Es gibt auch Aminosulfonsäuren [Beispiel: 2-Aminoethansulfonsäure (Synonym: Taurin)], α-Aminophosphonsäuren und α-Aminophosphinsäuren. Das sind auch α-Aminosäuren, jedoch keine α-Aminocarbonsäuren. Statt einer Carboxygruppe (–COOH) ist eine Sulfonsäure-, Phosphonsäure- bzw. Phosphinsäuregruppe in diesen α-Aminosäuren enthalten.
+
+
+== Nachweis ==
+Ein quantitativer photometrischer Nachweis von Aminosäuren kann unter anderem per Kaiser-Test mit Ninhydrin oder mit dem Folin-Reagenz erfolgen, wodurch primäre Amine nachgewiesen werden. Für sekundäre Amine werden der Isatin-Test oder der Chloranil-Test verwendet. Ebenso können Trennung und Nachweis von Aminosäuren per Kapillarelektrophorese oder per HPLC erfolgen, teilweise als Flüssigchromatographie mit Massenspektrometrie-Kopplung. Während die meisten Aminosäuren kein UV-Licht mit Wellenlängen über 220 nm absorbieren, sind die Aminosäuren Phenylalanin, Tyrosin, Histidin und Tryptophan aromatisch und absorbieren UV-Licht mit einem Maximum zwischen 260 nm und 280 nm. Die Aminosäurezusammensetzung eines Proteins kann durch Hydrolyse des Proteins untersucht werden. Die langsam eintretende Racemisierung der Aminosäuren in den ursprünglich ausschließlich aus L-Aminosäuren aufgebauten Proteinen wird bei der Aminosäuredatierung untersucht.
+
+
+== Gewinnung und Produktion ==
+Aminosäuren werden entweder aus Naturstoffen durch Auftrennung eines hydrolysierten Proteins oder auf synthetischem Wege gewonnen. Ursprünglich diente die Entwicklung einer Synthese für die diversen Aminosäuren hauptsächlich der Strukturaufklärung. Inzwischen sind diese Strukturfragen gelöst und mit den verschiedenen Synthesen, soweit sie noch aktuell sind, werden gezielt die gewünschten Aminosäuren dargestellt. Bei den Synthesen entstehen zunächst racemische Gemische, die getrennt werden können. Eine Methode hierfür ist eine selektive enzymatische Hydrolyse, die zur Racematspaltung eingesetzt wird.
+
+Nachfolgend ein Überblick über diverse Synthesen, die von Chemikern bereits ab Mitte des 19. Jahrhunderts entwickelt wurden. Einige dieser älteren Synthesen sind wegen geringer Ausbeuten oder sonstiger Probleme nur von historischem Interesse. Allerdings wurden diese alten Verfahren teilweise weiterentwickelt und einige sind auch noch heute zur Darstellung von Aminosäuren aktuell. Weitergehende Einzelheiten zu diesen Synthesen einschließlich der Gleichungen für die Synthesen sind unter den Links zu den Synthesen und den angegebenen Aminosäuren angeführt.
+
+Mit der Cyanhydrinsynthese des Chemikers Adolph Strecker 1850 wurde Alanin erstmals aus Acetaldehyd synthetisiert (siehe Strecker-Synthese).
+Eine Synthese für die Darstellung von Glycin über die α-Fettsäuren, die durch Reaktion von Brom- oder Chlorfettsäuren mit Ammoniak hergestellt werden, wurde von William H. Perkin sen. und Baldwin F. Duppa bereits 1859 entwickelt.
+Josef Pöchl entdeckte 1883 die Azlactonsynthese zur Darstellung von Aminosäuren. Deren genauer Ablauf wurde aber erst 1893 von Emil Erlenmeyer jun. aufgeklärt. Diese Methode wird deshalb auch Erlenmeyer-Synthese genannt. Mit diesem Verfahren wurden 1911 Histidin sowie Phenylalanin und Thyroxin hergestellt.
+Durch Reduktion von einer α-Oximinosäure wurde erstmals 1887 Asparaginsäure synthetisiert. Nach der gleichen Methode wurde 1906 von Louis Bouveault Isoleucin aus dem Oxim des Methyläthyl-brenztraubensäureesters dargestellt.
+Nach der von Siegmund Gabriel entwickelten Gabriel-Synthese, wurde 1889 Glycinhydrochlorid über Phthalimidkalium als Ausgangschemikalie synthetisiert. Obwohl diese Synthese für die Darstellung von Glycin überholt ist, eignet sie sich wegen ihrer hohen Ausbeuten für die Gewinnung anderer Aminosäuren.
+Mit der Cyanhydrinsynthese stellte Emil Fischer 1902 erstmals Serin über Glykolaldehyd her. 1906 wurde mit der von ihm entwickelten Malonestersynthese Leucin synthetisiert. Isoleucin, Norleucin, Methionin und Phenylalanin sind weitere Aminosäuren, die mit dieser Synthese leicht darstellbar sind.
+Theodor Curtius benutzte den von ihm entwickelten Curtiusschen Abbau für die Darstellung von α-Aminosäuren durch die Verwendung von Malonesterderivaten zur Synthese von Glycin, Alanin, Valin und Phenylalanin.
+1911 wurde Tyrosin, Phenylalanin und Tryptophan über eine Kondensation aromatischer Aldehyde mit Hydantoin gewonnen.
+Mit einer kombinierten Phthalimid-Malonester-Synthese wurde 1931 von George Barger Methionin synthetisiert. Nach der gleichen Methode können auch Phenylalanin, Prolin, Tyrosin, Asparaginsäure und Serin hergestellt werden. Vincent du Vigneaud stellte 1939 DL-Cystin mit dieser Methode her.Industriell werden Aminosäuren heute nach folgenden Verfahren hergestellt:
+
+Extraktionsmethode: Hierzu werden Proteine zunächst mit Säuren hydrolysiert. Nach Fällung des Aminosäuregemischs aus dem Hydrolysat erfolgt eine chromatographische Trennung per Ionenaustauschchromatographie. Bei der Elution werden die unterschiedlichen Polaritäten der Aminosäuren ausgenutzt.
+Chemische Synthese: Es gibt eine Vielzahl von Synthesemethoden. Beispiele sind die Strecker-Synthese von D,L-Valin, die Degussa-Synthese von D,L-Cystein und die Synthese von D,L-Methionin aus Methylmercaptan, Acrolein und Blausäure. Da die hergestellten Aminosäuren dabei als Racemat erhalten werden, müssen anschließend noch Verfahren zur Enantiomerentrennung erfolgen, wenn reine L- oder D-Aminosäuren benötigt werden.
+Enzymatische Verfahren: Dieses Verfahren hat den Vorteil enantiomerenreine L- oder D-Aminosäuren mit geeigneten Enzymen als Biokatalysatoren zu liefern. Beispiele sind die Herstellung von L-Asparaginsäure aus Fumarsäure mit L-Aspartase und die Herstellung von L-Tryptophan aus Indol und Brenztraubensäure mit Tryptopharase.
+Fermentationsverfahren: Bei der Fermentation werden die Aminosäuren mit Hilfe geeigneter Mikroorganismen hergestellt. Der Syntheseprozess läuft dabei über sehr komplexe Zwischenschritte innerhalb der Zellen ab. Ein Beispiel ist die Herstellung von L-Glutaminsäure aus Glucose. Hierbei kann man aus 2 Gramm Glucose 1 Gramm Glutaminsäure gewinnen. Die meisten Aminosäuren werden heute durch Fermentation hergestellt. Jährlich werden so weltweit 6 Millionen Tonnen an Glutaminsäure und Lysin produziert, teilweise aus hydrolysierter Stärke oder Melasse unter Verwendung der Bakterien Escherichia coli oder Corynebacterium glutamicum.
+
+
+== Verwendung ==
+Aminosäuren haben für die Ernährung des Menschen eine fundamentale Bedeutung, insbesondere weil die essentiellen Aminosäuren nicht selbst erzeugt werden können. In der Regel wird im Zuge einer ausgewogenen Ernährung der Bedarf an essentiellen Aminosäuren durch tierische oder eine geeignete Kombination verschiedener pflanzlicher Proteine (etwa aus Getreide und Hülsenfrüchten) vollkommen gedeckt. Pflanzliche Proteine haben meist eine geringere biologische Wertigkeit. Futtermittel in der Nutztierhaltung werden zusätzlich mit Aminosäuren angereichert, z. B. DL-Methionin und L-Lysin, aber auch verzweigte Aminosäuren (Leucin, Isoleucin, Valin), wodurch deren Nährwert erhöht wird. Verschiedene Aminosäuren werden als Nahrungsergänzungsmittel verkauft.
+Aminosäuren bzw. ihre Derivate finden Verwendung als Zusatz für Lebensmittel. Die menschliche Zunge besitzt einen Glutamatrezeptor, dessen Aktivierung allgemein mit einem gesteigerten Geschmack assoziiert ist. Daher wird als Geschmacksverstärker Natriumglutamat verwendet. Der Süßstoff Aspartam enthält eine Aminosäure. Aminosäuren sind Vorstufen für bestimmte Aromastoffe, die beim trockenen Garen von Speisen über die Maillard-Reaktion entstehen.
+Aminosäuren werden in der Zellbiologie und Mikrobiologie als Bestandteile von Zellkulturmedien verwendet. In der Biochemie werden Derivate von Aminosäuren wie Photo-Leucin oder Photo-Methionin zur Strukturaufklärung von Proteinen und andere zur Molekülmarkierung verwendet. Daneben werden Aminosäuren auch als Hilfsstoffe eingesetzt, z. B. als Salzbildner, Puffer. In der Pharmazie bzw. Medizin werden L-Aminosäuren als Infusionslösungen für die parenterale Ernährung und als Stabilisatoren bei bestimmten Lebererkrankungen angewendet. Bei Krankheiten mit einem Mangel von Neurotransmittern verwendet man L-Dopa. Für synthetische Peptidhormone und für die Biosynthese von Antibiotika sind Aminosäuren notwendige Ausgangsstoffe. Magnesium- und Kalium-Aspartate spielen bei der Behandlung von Herz- und Kreislauferkrankungen eine Rolle.
+Cystein, beziehungsweise die Derivate Acetylcystein und Carbocystein, finden zudem eine Anwendung bei infektiösen Bronchialerkrankungen mit erhöhtem Bronchialsekret. Zudem wird L-Cystein als Reduktionsmittel in der Dauerwelle eingesetzt. Aminosäuren werden in der Kosmetik Hautpflegemitteln und Shampoos zugesetzt.
+
+
+== Metabolismus ==
+
+Aminosäuren können nach ihren Abbauwegen in ketogene, glucogene und gemischt keto- und glucogene Aminosäuren eingeteilt werden. Ketogene Aminosäuren werden beim Abbau dem Citrat-Zyklus zugeführt, glucogene Aminosäuren der Gluconeogenese. Weiterhin werden im Stoffwechsel aus Aminosäuren verschiedene Abbauprodukte mit biologischer Aktivität (z. B. Neurotransmitter) gebildet. Tryptophan ist der Vorläufer von Serotonin. Tyrosin und sein Vorläufer Phenylalanin sind Vorläufer der Catecholamine Dopamin, Epinephrin (synonym Adrenalin) und Norepinephrin (synonym Noradrenalin). Phenylalanin ist der Vorläufer von Phenethylamin in Menschen. In Pflanzen ist Phenylalanin der Vorläufer der Phenylpropanoide. Glycin ist der Ausgangsstoff der Porphyrinsynthese (Häm). Aus Arginin wird der sekundäre Botenstoff Stickstoffmonoxid gebildet. Ornithin und S-Adenosylmethionin sind Vorläufer der Polyamine. Aspartat, Glycin und Glutamin sind Ausgangsstoffe der Biosynthese von Nukleotiden.Bei verschiedenen Infektionen des Menschen mit Pathogenen wurde eine Konkurrenz mit dem Wirt um die Aminosäuren Asparagin, Arginin und Tryptophan beschrieben.
+
+
+== Literatur ==
+
+
+=== Bücher ===
+Harold Hart: Organische Chemie: Ein kurzes Lehrbuch. VCH, 1989, ISBN 3-527-26480-9.
+Jeremy M. Berg, Lubert Stryer, John L. Tymoczko, Gregory J. Gatto: Biochemistry. Macmillan Learning, 2015, ISBN 978-1-464-12610-9.
+G. C. Barrett: Amino Acids and Peptides. Cambridge University Press, 1998, ISBN 978-0-521-46827-5.
+Uwe Meierhenrich: Amino Acids and the Asymmetry of Life. Springer-Verlag, Heidelberg und Berlin 2008, ISBN 978-3-540-76885-2.
+Hubert Rehm, Thomas Letzel: Der Experimentator: Proteinbiochemie / Proteomics. 6. Auflage, Spektrum Akademischer Verlag, Heidelberg 2009, ISBN 978-3-8274-2312-2.
+
+
+=== Zeitschriftenartikel ===
+Lei Wang, Peter G. Schultz: Die Erweiterung des genetischen Codes. In: Angewandte Chemie 117, Nr. 1, 2005, S. 34–68.
+H. Uneyama, H. Kobayashi, N. Tonouchi: New Functions and Potential Applications of Amino Acids. In: Advances in Biochemical Engineering/Biotechnology. Band 159, 2017, S. 273–287, doi:10.1007/10_2016_35, PMID 27872968.
+Bernd Hoppe, Jürgen Martens: Aminosäuren – Bausteine des Lebens, Chemie in unserer Zeit, 17. Jahrg. 1983, Nr. 2, S. 41–53.
+Bernd Hoppe, Jürgen Martens: Aminosäuren – Herstellung und Gewinnung, Chemie in unserer Zeit, 18. Jahrg. 1984, Nr. 3, S. 73–86.
+
+
+== Weblinks ==
+
+Amino Acids, FU Berlin
+Lerne die 20 proteinogenen Aminosäuren
+Aminosäure Eigenschaften (engl.)
+
+
+== Einzelnachweise ==

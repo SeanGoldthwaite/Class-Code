@@ -1,0 +1,56 @@
+﻿Wine est un logiciel libre permettant à des logiciels conçus seulement pour Windows de fonctionner dans d'autres environnements comme Linux ou Mac OS X. Pour ce faire il implémente une interface technique de type Windows dans les environnements X et UNIX (BSD, Linux).
+Le logiciel Wine n'a pas besoin du système d'exploitation Windows pour fonctionner. En cela, Wine se différencie des émulateurs de machines tels que QEMU et Bochs. Wine est maintenant sous licence LGPL, après avoir été sous licence WineHQ, puis X11.
+Il fournit à la fois les outils de développement (Winelib) pour porter du code source Windows vers Unix, et un chargeur de programmes permettant à de nombreux binaires de fonctionner sans modifications.
+
+
+== Dénomination ==
+Wine est l'acronyme récursif anglophone de « Wine Is Not an Emulator », littéralement Wine n'est pas un émulateur. Jusqu'en 1997, Wine était l'acronyme de « WINdows Emulator ».
+
+
+== Versions commerciales ==
+Le logiciel CrossOver (anciennement CrossOver Office) est une version commerciale de Wine, éditée par CodeWeavers (en). Toutes les modifications de Wine apportées par CodeWeavers sont en retour utilisables par la communauté, conformément à la licence LGPL. CodeWeavers emploie la grande majorité des développeurs de Wine, dont Alexandre Julliard (en).
+
+
+== Versions commerciales abandonnées ==
+Le logiciel Cedega (anciennement WineX) était une version commerciale basée sur Wine, éditée par l'entreprise TransGaming (en). Cedega avait pour but de rendre utilisables sous Linux un grand nombre de jeux vidéo disponibles uniquement sous Windows. En décembre 2004, il était compatible avec plus de 1 200 jeux et les bibliothèques DirectX. Les travaux de TransGaming ne furent pas une contribution à la communauté de Wine.
+
+
+== Projets liés ==
+Valve Proton
+Le projet Darwine vise à porter Wine sous Darwin et Mac OS X. Le projet a connu un renouveau depuis qu'Apple a sorti ses premiers Mac à base de processeurs Intel, ne nécessitant donc pas d'émulation matérielle pour exécuter les programmes conçus pour Windows.
+Les équipes travaillant sur le projet ReactOS et sur Wine travaillent conjointement à la mise au point des bibliothèques : ReactOS utilisant un noyau NT open-source, les tests sous ReactOS permettent un débogage plus précis.
+Le projet PlayOnLinux, un ensemble de scripts permettant de faire marcher facilement des jeux (entre autres), conçus pour le système Windows sous GNU/Linux à travers Wine.
+Le projet PlayOnMac permet de faire fonctionner wine très simplement sous Mac OS X.
+
+
+== Limitations de Microsoft ==
+Microsoft n'a pas fait de déclaration publique au sujet de Wine. Cependant, le logiciel Microsoft Update bloque les mises à jour des applications Microsoft fonctionnant sur un environnement basé sur Wine. Le 16 février 2005, Ivan Leo Puoti a découvert que Microsoft a commencé à tester dans la base de registre Windows la clef de configuration de Wine et pourrait bloquer la mise à jour de Windows pour certains composants. Puoti a écrit : « [...]même si c'est seulement un premier essai, ils ont l'air de vouloir établir une discrimination des utilisateurs de Wine. Si cela peut être acceptable pour les composantes et les mises à jour de système d'exploitation, c'est probablement une violation de la loi anti-trust pour tous les autres téléchargements. C'est aussi la première fois que Microsoft a reconnu l'existence de Wine, qu'il avait ignoré jusque-là ».
+Le système Windows Genuine Advantage (WGA) vérifie également l'existence de la clef de la base de registre de Wine, et la FAQ WGA déclare que WGA, de par sa conception, ne fonctionnera pas sous Wine, vu que Wine ne constitue pas un « genuine Windows » tel que décrit dans la FAQ WGA :
+« Lorsque le système de validation WGA détecte que Wine est exécuté sur le système, il avertit l'utilisateur qu'il utilise un logiciel Windows non original et qu'il ne sera donc pas autorisé à effectuer des téléchargements « Windows Original » pour ce système. » .
+En dépit de cela, certains rapports ont circulé disant que le système WGA fonctionne sous Wine tout de même.
+La version bêta de Microsoft Internet Explorer 7 vérifie au moment de l'installation la présence de WGA, et avertit les utilisateurs que Microsoft ne veut pas qu'Internet Explorer soit installé sous Linux en utilisant Wine. En conséquence, l'installation requiert de la part des utilisateurs la modification des fichiers d'installation d'Internet Explorer ou bien de Wine, à savoir que, désormais, Internet Explorer 7 est disponible sans validation WGA.
+
+
+== Fréquence de mise à jour ==
+Wine est mis à jour régulièrement, toutes les deux semaines environ.
+La version 1.0, première version stable de Wine est sortie le 17 juin 2008, soit quinze ans après le début du projet.
+La version 3.0 est publiée en janvier 2018,.
+La version 4.0 est publiée en janvier 2019, avec le support de Direct3D 12 et de l'API Vulkan.
+La version 5.0 est publiée le 21 janvier 2020La version 5.7 est publiée le 24 avril 2020, 2 semaines après la 5.6
+
+
+== Références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Cedega
+CrossOver Office
+Wabi (logiciel)
+
+
+=== Liens externes ===
+(en) Site officiel (Multilingue pour les navigateurs web qui le supportent)
+(en) Base de données des logiciels fonctionnant avec Wine Portail des logiciels libres

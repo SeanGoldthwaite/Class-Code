@@ -1,0 +1,3 @@
+Robust CNNs for object recognition like AlexNet and the VGG network have recently found uses in areas outside of just object recognition.
+One interesting use for them is in Neural Style Transfer: taking the content of one image and applying the style of another to it.
+Early results showed promise is creating art with CNNs but NST has since been applied to many more situations and may even be able to help neuroscientists understand the human brain. 

@@ -1,0 +1,52 @@
+﻿Un colloide (o sistema colloidale) è una particolare miscela in cui una sostanza si trova in uno stato finemente disperso, intermedio tra la soluzione e la dispersione.
+Questo stato "microeterogeneo" consiste quindi di due fasi: una fase costituita da una sostanza di dimensioni microscopiche (diametro da 88 nm a 1 μm) e una fase continua disperdente.
+
+La differenza con le soluzioni consiste nel fatto che queste ultime sono sistemi omogenei contenenti ioni o molecole di soluto disperse in un solvente libere di muoversi le une rispetto alle altre; esse risultano inoltre limpide, sottostanno alle leggi dell'ebullioscopia e crioscopia, e hanno tensione di vapore e pressione osmotica regolari. I sistemi colloidali, invece, sono sistemi eterogenei, che si presentano torbidi, non seguono le precedenti leggi e presentano tensioni di vapore e pressione osmotica non regolari.
+Molte sostanze a noi familiari sono colloidi, come per esempio il burro, la maionese, l'asfalto, la colla, la nebbia e il fumo.
+A seconda del tipo di fase dispersa (liquido, solido o gas) e fase continua si possono distinguere numerosi tipi di dispersioni colloidali: ad esempio sol e aerosol.
+
+
+== Cenni storici ==
+I primi studi sistematici sui colloidi sono dovuti all'italiano Francesco Selmi il quale nel quinquennio 1845-1850 pubblicò numerosi lavori sui colloidi inorganici, in particolare sul cloruro d'argento, sul blu di prussia e sui composti dello zolfo (questi ultimi in collaborazione con Ascanio Sobrero), individuando le principali proprietà distinguendo tra le soluzioni vere e le pseudosoluzioni. Il termine "colloide" si deve al chimico scozzese Thomas Graham il quale cominciò i primi studi sui colloidi attorno al 1860: egli divise le sostanze in due categorie in base alla loro capacità di attraversare particolari membrane animali e vegetali, tramite processo di dialisi, denominando cristalloidi quelle capaci di attraversarle e colloidi le altre. Tale distinzione risultò però insufficiente in quanto una stessa sostanza può dar luogo a soluzioni colloidali in acqua e non colloidali con altri solventi.
+Per tale motivo si preferisce parlare di sistemi colloidali, indicando con tale termine quei sistemi che presentano un insieme di proprietà quando determinate sostanze vengono poste in soluzione.
+In particolare, i colloidi liofobi sono sistemi colloidali caratterizzati da scarsa affinità tra la fase dispersa e quella disperdente, per cui risultano instabili e tendono a dar luogo a una separazione di fase nel tempo. Esempi di colloidi liofobi sono rappresentati dalle soluzioni colloidali di elementi come oro, argento, mercurio, zolfo, composti quali solfuri metallici, alogenuri di argento e idrossidi di ferro o alluminio.
+I colloidi liofili sono invece caratterizzati da elevata affinità tra fase dispersa e fase disperdente, per cui questi sistemi colloidali possono considerarsi omogenei. Messi in soluzione si rivestono di uno strato di molecole di solvente (solvatazione) e diventano così pseudo-solubili ovvero sembrano solubili. Esempi di colloidi liofili sono rappresentati dalle soluzioni di molti polimeri naturali (es. gomma, amido) o sintetici (nylon, polietilene), in ambito biochimico da soluzioni come quelle formate dalle proteine, dai polisaccaridi e dagli acidi nucleici, e ancora dalle soluzioni dei saponi e dei detergenti sintetici.
+Come si può immaginare la chimica dei colloidi è una scienza interdisciplinare, e coinvolge la chimica, la reologia e la fisica.
+
+
+== Proprietà dei colloidi ==
+Le forze che entrano in gioco nei fenomeni colloidali coinvolgono: interazioni elettrostatiche, forze entropiche, la tensione superficiale.
+Una delle proprietà caratteristiche che serve a distinguere i sistemi colloidali dalle soluzioni vere è l'effetto Tyndall: quando un raggio di luce attraversa un liquido puro o una soluzione vera il suo percorso non è visibile lateralmente perché le particelle in soluzione sono troppo piccole per diffondere la luce. Nei sistemi colloidali invece le dimensioni delle particelle sono in grado di diffonderla per cui il suo percorso è visibile lateralmente (questa è la ragione per cui, per esempio, il latte si mostra torbido e biancastro).
+Spesso la fase dispersa assume strutture di organizzazione supramolecolare di tipo micellare.
+La distruzione di un colloide si può ottenere per riscaldamento o per aggiunta di un elettrolita, dando vita a fenomeni di coagulazione o di flocculazione. Se il processo è di tipo reversibile, nel senso che è possibile ripristinare il sistema colloidale originario, si parlerà allora di peptizzazione.
+I colloidi protettori (ad esempio, la gelatina) sono sostanze utilizzate per aumentare la stabilità dei sol, per effetto protettivo dovuto all'impedimento dell'aggregazione. Il numero d'oro è l'unità di misura dell'azione stabilizzante e corrisponde ai milligrammi di sostanza secca necessari per impedire il viraggio, dal rosso all'azzurro, di 10 ml di un sol standard di oro colloidale quando a essi viene aggiunto 1 ml di soluzione al 10% in peso di cloruro di sodio.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Duncan J. Shaw, Introduction to Colloid and Surface Chemistry (1966, Third edition 1980), Butterworths & Co.; ISBN 0-408-71049-7
+Lyklema, J. Fundamentals of Interface and Colloid Science, vol.2, page.3.208, 1995
+Hunter, R.J. Foundations of Colloid Science, Oxford University Press, 1989
+Dukhin, S.S. & Derjaguin, B.V. Electrokinetic Phenomena, J.Willey and Sons, 1974
+Russel, W.B., Saville, D.A. and Schowalter, W.R. Colloidal Dispersions, Cambridge, 1989 University Press
+Kruyt, H.R. Colloid Science, Volume 1, Irreversible systems, Elsevier, 1959
+Dukhin, A.S. and Goetz, P.J. Ultrasound for characterizing colloids, Elsevier, 2002
+Rodil, Ma. Lourdes C., Chemistry The Central Science, 7th Ed., 1997, Prentice Hall College Div., ISBN 0-13-533480-2
+Evans, D. Fennel, Wennerström, H., The Colloidal Domain: Where Physics, Chemistry, Biology and Technology Meet, 2nd Ed., Wiley-VCH, 1999
+
+
+== Voci correlate ==
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «Colloide»
+ Wikimedia Commons contiene immagini o altri file su Colloide
+
+
+== Collegamenti esterni ==
+
+(EN) Colloide, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. 
+ Fun Science Gallery - Fenomeni di superficie e colloidi, su funsci.com.

@@ -1,0 +1,49 @@
+﻿Cette page compile les configurations électroniques des éléments chimiques jusqu'au 104Rf.
+
+
+== Configuration électronique des éléments chimiques ==
+Configuration électronique des atomes neutres à l'état fondamental : par sous-couches abrégées, par sous-couches détaillées et par nombre d'électrons dans chaque couche
+
+
+== Références ==
+Toutes les sources ci-dessous concourent à ces données, sauf dans les listes spécifiques qui suivent :
+
+
+=== http://physics.nist.gov ===
+http://physics.nist.gov/PhysRefData/IonEnergy/ionEnergy.html ; consulté en juillet 2005, (éléments 1 à 104) à partir de :
+Atomic Spectroscopy, de W.C. Martin et W.L. Wiese dans Atomic, Molecular, & Optical Physics Handbook, éd. G.W.F. Drake (AIP, Woodbury, NY, 1996) Chapitre 10, pp. 135-153.Ce site est également cité dans le CRC Handbook comme source du paragraphe 1, sous-paragraphe Electron Configuration of Neutral Atoms in the Ground State.
+
+91 Pa : [Rn] 5f2(3H4) 6d 7s2
+92 U : [Rn] 5f3(4Io9/2) 6d 7s2
+93 Np : [Rn] 5f4(5I4) 6d 7s2
+103 Lr : [Rn] 5f14 7s2 7p1 (avec un point d'interrogation)
+104 Rf : [Rn] 5f14 6d2 7s2 (avec un point d'interrogation)
+
+
+=== CRC Handbook of Chemistry and Physics ===
+David R. Lide (éd.), CRC Handbook of Chemistry and Physics, 84th Edition, version en ligne. CRC Press. Boca Raton, Floride, 2003 ; Section 1, Basic Constants, Units, and Conversion Factors; Electron Configuration of Neutral Atoms in the Ground State. (éléments 1 à 104).
+Également sous-section Periodic Table of the Elements, (éléments 1 à 103) à partir de:
+G. J. Leigh Édition, Nomenclature of Inorganic Chemistry, Blackwell Scientific Publications, Oxford, 1990.
+Chemical and Engineering News, 63(5), 27, 1985.
+« Atomic Weights of the Elements », 1999, Pure & Appl. Chem., 73, 667, 2001.
+
+
+=== http://www.webelements.com/ ===
+http://www.webelements.com/ ; consulté en juillet 2005, configuration électronique à partir de :
+Atomic, Molecular, & Optical Physics Handbook, Ed. Gordon W. F. Drake, American Institute of Physics, Woodbury, New York, USA, 1996.
+J.E. Huheey, E.A. Keiter, et R.L. Keiter dans Inorganic Chemistry : Principles of Structure and Reactivity, 4e édition, HarperCollins, New York, USA, 1993.
+R.L. DeKock et H.B. Gray dans Chemical Structure and bonding, Benjamin/Cummings, Menlo Park, California, USA, 1980.
+A.M. James et M.P. Lord dans Macmillan's Chemical and Physical Data, Macmillan, London, UK, 1992.
+
+
+=== Lange's Handbook of Chemistry ===
+J.A. Dean (ed), Lange's Handbook of Chemistry (15e Édition), version en ligne, McGraw-Hill, 1999; Section 4, Table 4.1 Electronic Configuration and Properties of the Elements. (Éléments 1 à 103)97 Bk : [Rn] 5f8 6d 7s2
+103 Lr : [Rn] 4f14 [sic] 6d 7s2
+
+
+=== Hill et Petrucci, General Chemistry ===
+Hill et Petrucci, General Chemistry: An Integrated Approach (3e édition), Prentice Hall. (Éléments 1 à 106)58 Ce : [Xe] 4f2 6s2
+103 Lr : [Rn] 5f14 6d1 7s2
+104 Rf : [Rn] 5f14 6d2 7s2 (en accord avec déduction précédente)
+105 Db : [Rn] 5f14 6d3 7s2
+106 Sg : [Rn] 5f14 6d4 7s2 Portail de la chimie   Portail de la physique

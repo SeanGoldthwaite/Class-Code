@@ -1,0 +1,60 @@
+#lang racket
+
+(define value-of-ds
+  (λ (exp env)
+    (match exp
+      [`,n #:when (number? n) n]
+      [`,b #:when (boolean? b) b]
+      [`,y #:when (symbol? y) (apply-env-fn env y)]
+      [`(* ,a ,b)
+       (* (value-of-ds a env) (value-of-ds b env))]
+      [`(zero? ,x)
+       (zero? (value-of-ds x env))]
+      [`(sub1 ,n)
+       (sub1 (value-of-ds n env))]
+      [`(if ,test ,conseq ,alt)
+       (if (value-of-ds test env)
+           (value-of-ds conseq env)
+           (value-of-ds alt env))]
+      [`(let ([,x ,def]) ,body)
+       #:when (symbol? x)
+       (let ([env (extend-env-fn x (value-of-ds def env) env)])
+         (value-of-ds body env))]
+      [`(lambda (,x) ,body)
+       #:when (symbol? x)
+       (make-closure-fn x body env)]
+      [`(,rator ,rand)
+       (apply-closure-fn
+        (value-of-ds rator env)
+        (value-of-ds rand env))]
+      )))
+
+(define apply-env-fn
+  (λ (env y)
+    (match env
+      [`(extend-env ,x ,arg ,env)
+       (cond
+         [(eqv? y x) arg]
+         [else (apply-env-fn env y)])]
+      [`(empty-env)
+       (error "Free Variable" y)]
+      [else (env y)])))
+
+(define extend-env-fn
+  (λ (x arg env)
+    `(extend-env ,x ,arg ,env)))
+
+(define empty-env-fn
+  (λ ()
+    `(empty-env)))
+
+(define apply-closure-fn
+  (λ (rator rand)
+    (match rator
+      [`(make-closure ,x ,body ,env)
+       (value-of-ds body (extend-env-fn x rand env))]
+      [else (rator rand)])))
+
+(define make-closure-fn
+  (λ (x body env)
+    `(make-closure ,x ,body ,env)))

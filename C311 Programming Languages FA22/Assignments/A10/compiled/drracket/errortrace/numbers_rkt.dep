@@ -1,0 +1,1 @@
+("8.6" ta6nt ("0ed7815f51a6d20a85102cd3613033fb3e742759" . "981a965f59f64d6fd8da18cdda8a728d377b5f4a") #"D:\\Classes\\CSCI-C 311\\Assignments\\A10\\mk.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,127 @@
+﻿La química supramolecular es la rama de la química que estudia las interacciones supramoleculares, esto quiere decir entre moléculas. Su estudio está inspirado por la biología y está basada en los mecanismos de la química orgánica e inorgánica sintética.
+La química supramolecular estudia el reconocimiento molecular y la formación de agregados supramoleculares lo que nos da paso para comprender e interfasear el mundo biológico, los sistemas complejos y la nanotecnología. La química Supramolecular se define como:
+"La química supramolecular es la química de los enlaces intermoleculares, cubriendo las estructuras y funciones de las entidades formadas por asociación de dos o más especies químicas"   J-M- Lehn[1]​
+"La química supramolecular se define como la química más allá de la molecular, una química de interacciones intermoleculares diseñadas" F. Vögtle[2]​
+Los agregados supramoleculares que son objeto de estudio por la química supramolecular son muy diversos, pudiendo abarcar desde sistemas biológicos donde intervienen un número elevado de moléculas que se organizan espontáneamente formando estructuras más grandes,[3]​ como monocapas, bicapas, micelas,[4]​ complejos enzimáticos y lipoproteínas, hasta conjuntos de pocas moléculas que sufren un fenómeno de autoensamblaje molecular,[5]​ como los catenanos, rotaxanos, poliedros moleculares y otras arquitecturas afines.
+
+
+== Historia ==
+El concepto de química supramolecular fue definido por primera vez en 1978 por el Premio Nobel Jean-Marie Lehn, que la define como “la química de los enlaces intermoleculares” pero antes se realizaron diversos trabajos que llevaron al desarrollo de la química supramolecular a como la conocemos hoy día.
+En 1810 Humphry Davy demuestra que el cloro es un elemento químico y le da ese nombre debido a su color amarillo verdoso. En 1823 los estudios en cloro continúan y Michael Faraday diseña la fórmula de los hidratos de cloro. En 1891 los científicos Villiers y Hebd desarrollan una investigación donde descubren las ciclodextrinas, las cuales son consideradas como moléculas anfitrionas; estos conceptos dieron paso a las contribuciones más importantes como la que realiza Alfred Werner en 1893 introduciendo el término de química de coordinación, concepto básico para entender la química supramolecular.
+En 1894 el premio Nobel Hermann Emil Fischer desarrolló las raíces filosóficas de la química supramolecular, sugirió que las interacciones enzima-sustrato se asemejan a una interacción "cerradura-llave", principio fundamental del reconocimiento molecular y la química hospedador-huésped (del inglés host-guest) . A principios del siglo XX los enlaces no covalentes se entendieron con más detalle, como el enlace de hidrógeno que describieron Latimer y Rodebush en 1920. 
+El uso de estos principios condujo a una mayor comprensión de la estructura de las proteínas y otros procesos biológicos. Por ejemplo, el importante avance que permitió la elucidación de la estructura de doble hélice del ADN se produjo cuando se vio que hay dos cadenas distintas de nucleótidos conectadas a través de enlaces de hidrógeno. El uso de enlaces no covalentes es esencial para la replicación, ya que permiten que las hebras se separen y se utilizan para nueva plantilla de ADN de doble cadena. Al mismo tiempo, los químicos empezaron a reconocer y estudiar estructuras sintéticas sobre la base de interacciones no covalentes, tales como micelas y microemulsiones.
+Con el tiempo, los químicos fueron capaces de tomar estos conceptos y aplicarlos a los sistemas sintéticos. El avance se produjo en la década de 1960 con la síntesis de los éteres corona por Charles J. Pedersen. A raíz de este trabajo, otros investigadores como Donald James Cram, Jean-Marie Lehn y Fritz Vögtle continuaron trabajando con esta química a lo largo de la década de 1980, lo que les permitió ganar el Premio Nobel de Química en 1987.
+
+
+== Bottom-Up ==
+Los sistemas
+supramoleculares funcionan particularmente debido al arreglo de sus componentes
+usando moléculas como bloques básicos, del mismo modo se pueden crear moléculas
+independientes con diferentes especies de átomos para crear moléculas complejas
+de las cuales se usaran para crean un sistema con propiedades sobre la base de las de la
+moléculas.
+Las únicas alternativas
+que se han encontrado para crear sistemas complejos son por medios bottom-up el
+cual ofrece una gran diversidad de métodos de los cuales se siguen investigando
+para crear nano estructuras de las cuales no se podrían comprender si usamos
+medios top-bottom debido a la dificultad de la manipulación a esa escala.
+Las fuentes de las cuales
+podemos asegurarnos de que la aproximación bottom-up up es confiable se
+encuentran principalmente en sistemas biológicas o que se originan en la
+naturaleza. Estos sistemas no utilizan interacciones covalentes por lo que sus
+costos de entropía de formación son prácticamente nulos al ser la mayoría de
+las interacciones reversibles, la forma de crear nano estructuras
+sintéticas imitando sistemas biológicos
+para que puedan reconocer componentes de moléculas es los objetivos que se
+quieren alcanzar con la aproximación bottom-up.
+
+
+== Reconocimiento Molecular ==
+El reconocimiento molecular explica las uniones que se desarrollan de manera específica en una molécula hacia su receptor molecular. Las moléculas que logran un reconocimiento eficiente y selectivo se llaman moléculas anfitrión (host) las cuales pueden ser compuesto cíclicos llamados macrocilos que tienen cavidades de tamaños específicos en su interior, útiles para albergar a otras moléculas más pequeñas definidas como huéspedes (huest)[6]​
+Este reconocimiento molecular está relacionado con los procesos catalíticos ya sea mediante el uso de catalizadores sintéticos o naturales como las enzimas que formaran compuestos supramoleculares en conjunto con el sustrato a través de tres pasos esenciales que son:
+
+Reconocimiento molecular entre catalizador y sustrato para formar un complejo, se define la selectividad del catalizador.
+La velocidad de reacción se acelera mientras que la energía de activación disminuye con el fin de estabilizar la reacción y definir el estado de transición.
+Regeneración del catalizador con la liberación del productor dando inicio a un nuevo ciclo, donde la velocidad definirá el número de ciclos catalíticos a realizar por unida de tiempo.Un concepto que explica de manera concreta el reconocimiento molecular es el modelo de llave-cerradura propuesto en 1884 por el bioquímico alemán E.Fisher
+Auto
+ensamblaje.
+Algunos de los sistemas biológicos que utilizan el autoensamblaje más conocidos es la replicación del ADN en una estructura con doble hélices unida por puentes de hidrógeno donde las interacciones están hechas por 4 moléculas que se unen 2 a 2: Guanina (G) con Citosina (C) formando 3 puentes de hidrógeno y Adenina (A) con Tiamina (T) formando 2 puentes de hidrógeno, creando las interacciones de unión entre las 2 hélices de ADN.
+En esta estructura solo depende de la afinidad de las moléculas para que se creen los puentes de hidrógeno siendo nada efectivo las diferentes combinación entre las moléculas para que se unan como lo hacen con la combinación convencional. Los errores que podrían ocurrir en la formación de la estructura del ADN son altamente nulos ya que la entropía de formación impide que las moléculas se acomoden en combinaciones equivocadas, por lo que nos proporcionaría una modalidad mucho más eficiente, óptima y rápida para crear sistemas nano estructurados en el futuro para que no existan costos por error en su fabricación.
+Metalosupramolecular
+Los compuestos de coordinación son usados en la química inorgánica para poder crear estructuras compuestas de una parte orgánica con algún ion o metal el cual queden a fines sus propiedades para crear nano estructuras, estos sistemas dependen de los factores en los cuales son sintetizados ya que al varias sus dimensiones general grandes cambios en la forma en la cual van a interactuar con moléculas que se les este dispuestas a cambiar.
+Estas estructuras son generalmente polígonos en dos dimensiones donde el tamaño y el Ángulo en donde los ligantes hace conexión con otras estructuras que harán al sistema óptimo para las moléculas que tengan afinidad con esta, de esta forma la selectividad tendrá un espectro específico con posibles especies que estén en su entorno.
+Rejillas
+Involucran una serie de componentes paralelos en una orientación ortogonal en otra serie de iones metálicos ligandos en una sección cruzada creando una red conforme se le va agregando más iones a las rejillas.
+
+
+== Entropía de formación ==
+Los costos de entropía se
+toman en consideración a la hora de crear nano estructuras para su arreglo y
+agregación adecuado y no sean inestables del cual dependen sus grados de
+libertad y se pueden estimar de diferentes formas en diferentes tipos de
+agregación.
+
+
+=== Entropía de traslación ===
+La magnitud de la entropía de traslación refleja la posibilidad de diferentes arreglos en una molécula en un espacio determinado pero en entornos líquidos donde igual se puede aplicar para gases, sin embargo al ser un gas su entropía será mucho mayor a la de un líquido por lo que se
+dificulta más la predicción de la entropía de formación en dichas estructuras en modelación computacional.
+
+
+=== Entropía rotacional ===
+Se define la densidad molecular de una molécula como su masa molecular en KG/molécula dividida por su volumen en compuestos orgánicos compuestos principalmente de carbón, nitrógeno y oxígeno dadas en estructuras esféricas en solución, la agregación de otros componentes dependerá de la inercia en la cual la molécula girara en una solución. 
+
+
+=== Entropía vibracional ===
+La frecuencia de las vibraciones a las que se puede someter una molécula puede tener efectos en el momento de agregar otras moléculas, algunas de ellas necesitas de vibraciones para poder agregarse correctamente en los sitios adecuados de otras, es por eso que las altas frecuencias aumentaras la entropía y en algunos casos puede ser favorable para la vinculación o agregación, por otro lado las bajas frecuencias igual favorecerán sistemas que necesiten de una vibración tenue.
+
+
+== Interacciones supramoleculares ==
+
+Las interacciones supramoleculares nos sirven para entender como es que las especies se mantiene unidas mediante una variedad de interacciones no covalentes donde su fuerza va de 2-300 kJmol-1. Las interaccione no covalentes utilizadas para la formación de sistemas supramoleculares son:
+
+IónicasIón-Ión: Esta interacción se presenta cuando dos especies con cargas opuestas están en contacto, por lo que no presentan dependencia de la direccionalidad. Un aspecto que afecta la estabilidad de la
+interacción es la fuerza iónica del medio, la cual puede ser analizada
+empleando la ecuación de DebyeHückel. Para el desarrollo de estas interacción se suele utilizar disolventes con constantes dieléctricas bajas como el cloroformo, acetonitrilo o diclorometano y evitar el agua en el medio ya es altamente competitivo.
+ión-dipolo: Estas interacciones se establecen entre una especie neutra y otra que estará cargada por lo que mostraran dependencia a la orientación del dipolo de tal manera que cuando la molécula orienta su dipolo hacia la especie cargada resulta una fuerza de enlace de alrededor de 5-200 kJmol-1
+En la química Supramolecular existen sistemas que explican esta interacción como los complejos formados por éteres corona con diferentes derivados de amonio, donde la interacción se establecerá entre los oxígenos del éter y el hidrógeno del huésped que estará cargado positivamente y la complejación de los anfitriones con metales alcalinos y alcalinos-térreos. También se ha observado al formación de rotaxanos a través de ciclodextrinas utilizadas como macrocilos y como ejes los cationes bipiridino.
+
+DipolaresDipolo-dipolo: Existen dos tipos de interacciones dipolo-dipolo, una es cuando las dos moléculas adyacentes alinean sus dipolos donde solo es necesario que solo una de las moléculas se oriente adecuadamente, el otro tipo es cuando simultáneamente ambas moléculas se alinean sus dos momentos dipolares, en este caso se es dependiente de la direccionalidad. Los sistemas que más frecuentemente se detectan como formadores de estas interacciones son neutros polares y por lo regular son los que presentan grupos carbonilo, nitro y aminas, como por ejemplo C=O/C=O,C=O/CN,
+
+De Van Der WaalsDentro de estas interacciones existen tres tipos de asociaciones entre dipolos, las cuales surgen a partir de las fluctuaciones de la distribución de electrones entre dos especies que se encuentran cercanas; estas interacciones van a mostrar dependencia a la polarización de las moléculas, siendo las más polarizables las que forman las interacciones fuertes.
+La interacción de Keersom es cuando las moléculas se encuentran interactuando a ciertas distancias poseen dipolos permanentes por lo que se alinean a esos dipolos de manera atractiva, por otro lado cuando una molécula con un dipolo permanente
+induce un dipolo en otra cercana se conocen como interacción de Debye y por
+último la interacción entre dos moléculas no polares pero polarizables es
+conocida como interacción de London. En la química supramolecular, más específicamente en sistemas anfitrión-huésped, estas interacciones juegan roles importantes.
+
+Interacciones π-π de apilamientoLa química supramolecular se basa en los comportamientos biológicos para imitarlos y desarrollar técnicas de reacción. Los enlaces  π- π son de gran importancia pues pueden observarse en el apilamiento de proteínas y la estructura del ADN.
+puente de hidrógenoEsta interacción ocurre entre especies donadoras parcialmente negativas con otras aceptoras de protones y un hidrógeno localizado entre ellas. Se considera que los puentes de hidrógenos con geometría lineal son más fuertes por lo que el requisito de direccionalidad lo hace selectivo al momento de formar complejos por lo que dentro de la química Supramolecular se considera la inteacción que será responsable de un ensamble organizado y estable pero es difícil hacerlo en un sistema acuoso dado que el agua es un excelente donador y aceptor de puentes de hidrógeno
+
+
+== Agregados supramoleculares ==
+A modo de ejemplo:
+
+Macrociclo
+Criptando
+Enzima
+Coloide
+Micela
+Ciclodextrina
+Liposoma
+Membrana plasmática
+Lipoproteína
+Ribosoma
+Cromatina
+Ciclofano
+Podando
+
+
+== Véase también ==
+ Portal:Química. Contenido relacionado con Química.
+Autoensamblaje molecular
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Química supramolecular.

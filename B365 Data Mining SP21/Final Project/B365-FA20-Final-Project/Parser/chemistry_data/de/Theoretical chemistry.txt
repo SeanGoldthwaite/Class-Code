@@ -1,0 +1,12 @@
+﻿Das Theoretical Chemistry Genealogy Project (Genealogie-Projekt Theoretische Chemie) ist eine Online-Datenbank, in der die in der theoretischen Chemie und in verwandten Gebieten verfassten Dissertationen erfasst und in einem akademischen Stammbaum verknüpft werden. 
+Das Projekt wurde im Jahr 2007 von Karl Jug initiiert, 2009 öffentlich freigegeben und war anfänglich auf den deutschsprachigen Raum (Deutschland, Österreich und die Schweiz) beschränkt, es wird gegenwärtig aber schrittweise erweitert. 
+2017 waren mehr als 3200 Einträge recherchierbar. Die beiden wichtigsten Stammbäume gehen auf den Chemiker Friedrich Stromeyer (1776–1835) sowie auf Carl Friedrich Gauß (1777–1855) zurück. In der Datenbank können verschiedene Suchfelder aufgerufen werden. Bei einer Namenssuche erhält man beispielsweise die Universität, an der die Promotion erfolgte, den Titel der Dissertation, das Promotionsjahr, den bzw. die Gutachter (Doktorvater, englisch: Advisor), die promovierten Schüler und die Anzahl von deren wissenschaftlichen Nachkommen. Für Hochschullehrer sind in der Datenbank zusätzlich die wissenschaftlichen Kurzbiographien verzeichnet.
+In seiner Struktur und den Recherchemöglichkeiten ähnelt das Theoretical Chemistry Genealogy Project dem Mathematics Genealogy Project.
+
+
+== Literatur ==
+Karl Jug, Dirk Andrae: Wissenschaftliche Stammbäume der theoretischen Chemie. In: Nachrichten aus der Chemie. Band 65, Nr. 11, 2017, S. 1137–1140, doi:10.1002/nadc.20174056545. 
+
+
+== Weblinks ==
+Website des Theoretical Chemistry Genealogy Project

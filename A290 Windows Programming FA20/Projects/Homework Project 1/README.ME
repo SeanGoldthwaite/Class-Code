@@ -1,0 +1,46 @@
+Required Property Changes:
+
+	//FrmBuffetOptions.Designer.cs lines 108-128
+	Options Form: ("this" refers to the FrmBuffetOptions object)
+1		this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+			I wanted the options dialog to look slightly different than the main window
+		
+2		this.MaximizeBox = false;
+3		this.MinimizeBox = false;
+			The options box should not be able to be maximized or minimized
+
+4		this.MaximumSize = new System.Drawing.Size(400, 400);
+5		this.MinimumSize = new System.Drawing.Size(400, 400);
+			The size of the options box should not be changed.
+
+6		this.ShowInTaskbar = false;
+			The options box should not be shown on the taskbar like the main window
+
+		
+7            	this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+			The user launches the options box from the main window, so it should be centered over the main window
+
+8		this.TopMost = true;
+			The options box should open "on top" of everything else
+
+9		this.DpdBorderColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+			The user should only be able to select from the pre-set options. The default value allows "writing in" which isn't the desired behavior
+
+	Main Form ("this" refers to the FrmBuffetMain object)
+10		this.*.tabIndex
+			I often use tab to navigate and the "correct" order is useful. In this case I used top-to-bottom,left-to-right but left-to-right,top-to-bottom would also be acceptable.
+
+
+
+"Weird" things & potential fixes
+
+	The program moving the cursor when the enlarge/shrink buttons are clicked is very weird. 
+	I would never do that in a serious application but this is a buffet and a demonstration of what could be done.
+	It isn't purposeless though, the cursor stays over the enlarge/shrink button so the user does not have to move the mouse between consecutive clicks
+
+	When "drag-and-dropping" the window size, the border does not move until you finish the drap-and-drop. This means that it goes "outside" of the window when decreasing the size.
+	I wasn't able to find a good solution to this.
+
+	When opening the options form, the current border color isn't selected in the dropdown menu. I tried but wasn't able to find a fix for this.
+
+	Some wonky stuff can happen when messing with the window size and image size. I think this is just fringe cases that are hard to detect, I am not positive though.

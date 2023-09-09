@@ -1,0 +1,12 @@
+﻿L'auto-assemblage moléculaire est le processus par lequel des molécules soi-montant adoptent un agencement sans la direction d'une source extérieure. En général, le terme fait référence à l'auto-assemblage intermoléculaire alors que l'auto-assemblage intramoléculaire prend plus communément le nom de pliage ou de repliement dans le cas de protéines.
+L'auto-assemblage moléculaire est un concept clé dans la chimie supramoléculaire, puisque l'assemblage des molécules dans de tels systèmes se fait par liaisons non-covalentes (ex. liaisons d'hydrogène, coordination métallique, forces hydrophobes, forces de van der Waals, empilements (π-π), l'électrostatique) en plus d'entre-actions électromagnétiques. 
+L'auto-assemblage moléculaire permet la construction de formes moléculaires difficiles. Par exemple il a été possible de réaliser, grâce à l'ADN, une structure pareille aux anneaux borroméens (un jeu d'anneaux imbriqués où l'enlèvement d'un seul déverrouille les autres). Plus récemment une structure semblable a été réalisé par moyen de composants non-biologiques.
+
+
+== Voir aussi ==
+Monocouche
+
+
+== Références ==
+
+ Portail de la chimie   Portail de la biologie cellulaire et moléculaire

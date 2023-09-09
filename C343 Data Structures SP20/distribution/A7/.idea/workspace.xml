@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e27fd3e-164b-4479-9fc4-a409faffcd0e" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
+    </list>
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/A9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/src/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/src/TreePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A9/test/HeapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/L8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/src/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/src/TreePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8/tests/BSTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AVL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  <component name="FUSProjectUsageTrigger">
+    <session id="2124966928">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5027" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5027" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="259" column="32" selection-start-line="259" selection-start-column="32" selection-end-line="259" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AVL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/BSTTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3451">
+              <caret line="210" selection-start-line="210" selection-end-line="210" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/AVLTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2057">
+              <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>leaf</find>
+    </findStrings>
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/BSTTest.java" />
+        <option value="$PROJECT_DIR$/test/AVLTest.java" />
+        <option value="$PROJECT_DIR$/src/AVL.java" />
+        <option value="$PROJECT_DIR$/src/BST.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="136" />
+    <option name="y" value="210" />
+    <option name="width" value="2614" />
+    <option name="height" value="1340" />
+  </component>
+  <component name="ProjectId" id="1YpEaXFyFPXWm8w8MOsJY2pDWn8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BST.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="A7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A7" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585847983862" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A9" />
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.project.settings" />
+  </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.BST">
+    <configuration name="AVL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AVL" />
+      <module name="A7" />
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AVLTest.AVLdelete">
+    <configuration name="AVLTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BST" />
+      <module name="A7" />
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+    <configuration name="AVLTest.AVLdelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLdelete" />
+      <option name="TEST_OBJECT" value="method" />
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <configuration name="AVLTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="TEST_OBJECT" value="class" />
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+    <configuration name="AVLTest.AVLeasyRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLeasyRight" />
+      <option name="TEST_OBJECT" value="method" />
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <configuration name="AVLTest.AVLdelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLdelete" />
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+    <configuration name="AVLTest.AVLrotateRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLTest" />
+      <option name="METHOD_NAME" value="AVLrotateRight" />
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <configuration name="BSTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTTest" />
+      <option name="TEST_OBJECT" value="class" />
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+    <configuration name="BSTTest.BSTiteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTTest" />
+      <option name="METHOD_NAME" value="BSTiteratorTest" />
+      <option name="TEST_OBJECT" value="method" />
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BST" />
+        <item itemvalue="JUnit.BSTTest" />
+        <item itemvalue="JUnit.AVLTest" />
+        <item itemvalue="Application.AVL" />
+        <item itemvalue="JUnit.AVLTest.AVLdelete" />
+=======
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+    <list>
+      <item itemvalue="JUnit.AVLTest.AVLeasyRight" />
+      <item itemvalue="JUnit.AVLTest.AVLrotateRight" />
+      <item itemvalue="JUnit.AVLTest.AVLdelete" />
+      <item itemvalue="JUnit.AVLTest" />
+      <item itemvalue="JUnit.BSTTest.BSTiteratorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AVLTest.AVLdelete" />
+        <item itemvalue="JUnit.BSTTest.BSTiteratorTest" />
+        <item itemvalue="JUnit.AVLTest" />
+        <item itemvalue="JUnit.AVLTest.AVLrotateRight" />
+        <item itemvalue="JUnit.AVLTest.AVLeasyRight" />
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e27fd3e-164b-4479-9fc4-a409faffcd0e" name="Default Changelist" comment="" />
+      <created>1583631198573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583631198573</updated>
+<<<<<<< HEAD
+      <workItem from="1584901401919" duration="21507000" />
+      <workItem from="1585513260360" duration="3426000" />
+      <workItem from="1585595692764" duration="8145000" />
+      <workItem from="1585847294773" duration="1287000" />
+      <workItem from="1586566962724" duration="17000" />
+    </task>
+    <servers />
+  </component>
+=======
+<<<<<<< HEAD
+      <workItem from="1583860261975" duration="3401000" />
+      <workItem from="1584034227398" duration="4138000" />
+      <workItem from="1584988613899" duration="3684000" />
+      <workItem from="1584996178852" duration="5099000" />
+      <workItem from="1585164349089" duration="6094000" />
+      <workItem from="1585252481556" duration="5867000" />
+      <workItem from="1585616439847" duration="3693000" />
+      <workItem from="1585767871110" duration="9793000" />
+      <workItem from="1585794736034" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+=======
+      <workItem from="1584901401919" duration="21507000" />
+      <workItem from="1585513260360" duration="3426000" />
+      <workItem from="1585595692764" duration="8145000" />
+      <workItem from="1585847294773" duration="1287000" />
+      <workItem from="1586566962724" duration="17000" />
+    </task>
+    <servers />
+  </component>
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  <component name="TestHistory">
+    <history-entry file="BSTTest_BSTiteratorTest - 2020.03.29 at 16h 46m 47s.xml">
+      <configuration name="BSTTest.BSTiteratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_BSTiteratorTest - 2020.03.29 at 16h 58m 41s.xml">
+      <configuration name="BSTTest.BSTiteratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_BSTiteratorTest - 2020.03.29 at 16h 59m 19s.xml">
+      <configuration name="BSTTest.BSTiteratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_BSTiteratorTest - 2020.03.29 at 17h 05m 05s.xml">
+      <configuration name="BSTTest.BSTiteratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 11m 50s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 12m 37s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 14m 57s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 15m 19s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 15m 54s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTest_AVLdelete - 2020.03.29 at 17h 16m 25s.xml">
+      <configuration name="AVLTest.AVLdelete" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34382000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21157557" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+<<<<<<< HEAD
+=======
+>>>>>>> 970c8099d69d25b9cdca7ab52f7a0f74023ffac9
+>>>>>>> 084c7665ad224a9f37a5393124d43ad4adba85b8
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585619095360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1585619095360" />
+    <state x="457" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1584037977527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584037977527" />
+    <state x="428" y="141" key="#com.intellij.ide.util.MemberChooser/0.23.1440.839@0.23.1440.839" timestamp="1583633492884" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583860592706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1583860592706" />
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1585779131019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585779131019" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1585779131019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585779131019" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1585779131019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585779131019" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1585779131019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585779131019" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585170453234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585170453234" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1585170453234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585170453234" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1585170453234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585170453234" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1585170453234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585170453234" />
+    <state x="327" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583631304596">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="327" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.839@0.23.1440.839" timestamp="1583631304596" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585777465116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585777465116" />
+    <state x="387" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583631310542">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="387" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.839@0.23.1440.839" timestamp="1583631310542" />
+    <state x="299" y="160" width="715" height="664" key="search.everywhere.popup" timestamp="1585777321115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="160" width="715" height="664" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585777321115" />
+    <state x="280" y="186" width="670" height="676" key="search.everywhere.popup/0.23.1440.839@0.23.1440.839" timestamp="1583635038083" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/BSTTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="259" column="32" selection-start-line="259" selection-start-column="32" selection-end-line="259" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AVL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BSTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3451">
+          <caret line="210" selection-start-line="210" selection-end-line="210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/AVLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="128" column="34" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>A7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

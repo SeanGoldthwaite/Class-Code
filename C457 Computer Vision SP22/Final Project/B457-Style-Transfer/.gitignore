@@ -1,0 +1,6 @@
+__pycache__/
+output/
+examples/
+checkpoints/
+imagenet-vgg-verydeep-19.mat
+*.pyc

@@ -1,0 +1,85 @@
+﻿This article provides a general overview and documents the status of locations affected by SARS-CoV-2, the virus which causes coronavirus disease 2019 (COVID-19) and is responsible for the COVID-19 pandemic. The first human cases of COVID-19 were identified in Wuhan, Hubei, China, in December 2019. The most recent country or territory to report its first confirmed case was Samoa on 18 November 2020.
+
+
+== Statistics ==
+
+
+=== Total cases and deaths ===
+
+As of 18:25 UTC on 29 November 2020, there are 62,531,000 confirmed cases, 21,084,422 active cases, 39,989,784 recoveries, and 1,456,794 deaths in about 191 countries/territories and 26 cruise/naval ships.
+
+
+=== Death rates by country ===
+
+Map of death rates per million citizens based on data published by national health agencies.
+
+
+=== Total cases and death rates by country ===
+Cases and death rates are as reported by the Johns Hopkins University Coronavirus Resource Center. The figures may differ from those in the 'Total cases and deaths' table above, which are based on a variety of sources.
+
+
+=== Cumulative monthly death totals by country ===
+This table contains the cumulative number of monthly deaths from the pandemic of coronavirus disease 2019 (COVID-19) reported by each country and territory to the World Health Organization (WHO) and published in the WHO's daily situation reports.
+
+
+=== Cases and deaths by region ===
+
+
+== By continent ==
+
+As a result of COVID-19 many regions have imposed  lockdowns, curfews and quarantines alongside new legislation and evacuations, or other restrictions for citizens of or recent travelers to the most affected areas. Other regions have imposed global restrictions that apply to all foreign countries and territories, or prevent their own citizens from travelling overseas.
+
+
+=== Africa ===
+
+
+=== Asia ===
+
+
+=== Europe ===
+
+
+=== North America ===
+
+
+=== Oceania ===
+
+
+=== South America ===
+
+
+=== Antarctica ===
+
+
+== At sea ==
+
+
+== Timeline of first confirmed case by country ==
+
+
+== Countries and territories with no confirmed cases ==
+Below is a list of countries and dependent territories that have not confirmed any cases of COVID-19, in order of greatest population.
+
+
+=== UN member states ===
+As of November 2020, 8 sovereign states (6 in Oceania and 2 in Asia) have not confirmed any cases of COVID-19. Below is a list of these countries, ordered by population.
+
+
+=== Dependent territories ===
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Center for Disease Control, US data
+Corona Map
+Coronavirus Timeline Map
+Epidemic data for COVID-19
+Coronavirus COVID-19 Global Cases and historical data by Johns Hopkins University
+CoronaMapper
+COVID-19 Corona Tracker
+Corona Time Map: See How COVID-19 Has Spread

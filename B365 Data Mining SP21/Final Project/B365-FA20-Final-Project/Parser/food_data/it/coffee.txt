@@ -1,0 +1,73 @@
+﻿Coffee Lake è il nome in codice di Intel per il secondo processo di ottimizzazione di processori a 14 nm che segue Broadwell, Skylake e Kaby Lake. La grafica integrata su questi processori consente il supporto dal DP 1.2 al HDMI 2.0 ed alla connettività HDCP 2.2. Coffee Lake supporta nativamente le memorie DDR4-2666 MHz in modalità dual channel se utilizzate con CPU Xeon, Core i5, i7 e i9; memoria DDR4-2400 MHz in modalità dual channel se utilizzate con CPU Celeron, Pentium e Core i3; memoria LPDDR3-2133 MHz se utilizzato con CPU mobile.
+I chip sono stati rilasciati il 5 ottobre 2017. I processori Coffee Lake vengono utilizzati in combinazione con il chipset della serie 300 e non funzionano con i precedenti chipset serie 100 e 200. Sebbene i nuovi processori utilizzino lo stesso socket di Skylake e Kaby Lake, LGA1151, hanno una conformazione diversa di pin che li rende non compatibili con i vecchi processori e schede madri.[1][3]Il 2 aprile 2018, Intel ha rilasciato ulteriori CPU desktop i3, i5, i7, Pentium Gold, Celeron e per la prima volta nella sua storia CPU mobile Core i7 e i9 a sei core, nonché Core i5 a quattro core hyper-threaded e le prime CPU Coffee Lake con grafica Intel Iris Plus.
+L'8 ottobre 2018, Intel ha lanciato la nona generazione di CPU, basata anch'essa su architettura Coffee Lake e con un massimo di otto core. Per evitare di incorrere in problemi termici ad alta velocità di clock, Intel è stata costretta a ritornare alla saldatura tra heatspreader (IHS) e die. La saldatura era stata abbandonata nel 2012, a partire da Ivy Bridge, in favore di una pasta termoconduttiva (TIM).
+
+
+== Caratteristiche ==
+Queste CPU di Intel sono costruite con litografia a 14 nm, con un affinamento del processo produttivo denominato 14 nm++.[5]Quest' affinamento ha consentito di incrementare il passo dei transistor, in modo tale da avere una densità di corrente inferiore e ottenere così una maggiore dispersione, che consente un incremento della potenza di picco e un incremento della frequenza, a discapito però della zona del die (di dimensione maggiore) e della potenza in idle 
+Coffee Lake segna inoltre, dopo oltre 10 anni, l'aumento del numero di core per i processori Intel del segmento mainstream. Nell'ottava generazione, il Core i7 sale a 6 core / 12 thread, l'i5 a 6 core / 6 thread mentre l'i3 a 4 core / 4 thread.
+
+
+=== 9ª generazione ===
+Con la nona generazione, fa il suo debutto nel settore mainstream la famiglia Core i9, con una CPU a 8 core / 16 thread. La nona generazione di Core i7 dispone di 8 core / 8 thread, con la perdita della tecnologia hyper-threading rispetto agli i7 di precedente generazione. I Core i5 di nona generazione invece, presentano 6 core / 6 thread, similmente ai loro predecessori.
+La nona generazione di Core i include correzioni hardware per Meltdown V3 e L1 Terminal Fault.
+
+
+== Chipset ==
+I chipset della serie 300, sebbene usino lo stesso socket LGA 1151 delle serie 100 e 200, sono compatibili solo con le CPU Coffee Lake. Conseguentemente le vecchie schede madri non supportano i chip di Coffee Lake.[1][3] Le CPU di 9ª generazione sono invece compatibili con le schede madri serie 300, previo aggiornamento del BIOS.[7]La versione di fascia alta Z370 è stata lanciata nell'ottobre 2017, insieme alle prime soluzioni Coffee Lake. Nell'aprile 2018 l'intera gamma di CPU è stata svelata, accompagnata dai più economici chipset H310, B360, H370 e Q370.
+Il chipset Z390 è stato lanciato insieme al rilascio delle CPU della nona generazione, supporta tutti i processori desktop di 8ª e 9ª generazione e rispetto allo Z370 si differenzia per l'offrire connettività Wi-Fi 802.11ac e Bluetooth 5.0.
+
+
+== Cambiamenti di architettura rispetto a Kaby Lake ==
+Coffee Lake presenta in gran parte le stesse caratteristiche di Skylake e Kaby lake, sia come core che come prestazioni in Mhz. Le caratteristiche specifiche includono:
+
+Incremento del numero di core a 6 sulle serie i5 e ottava generazione i7; incremento del numero di core a 4 sulla serie i3; incremento del numero di core a 8 sulla serie i7 e i9 di nona generazione
+Incrementata la cache L3 in base al numero di thread
+Incrementato il turbo clock sui processori i5 e i7 (aumentato di 400 MHz)
+Incrementato il clock speed dell'iGPU di 50 MHz e rinominato UHD (Ultra High Definition)
+Il supporto alle memorie DDR4 è ora salito a 2666 MHz (per i5, i7 e i9) e a 2400 MHz (per i3); le memorie DDR3 non sono più supportate sulle nuove schede madri LGA1151
+Possono essere montati sulla revisione del socket LGA1151, ovvero solo su chipset serie 300
+
+
+== Kaby Lake Refresh vs. Coffee Lake ==
+
+L'8 agosto 2017, Intel ha annunciato che la nuova 8ª generazione di processori sarebbe stata rivelata il 21 agosto. Poiché i cambiamenti precedenti di Intel nelle nuove generazioni di prodotti coincidevano con le nuove microarchitetture, ora non era chiaro se la nuova generazione fossero basati realmente sull'architettura di Coffee Lake. Tuttavia, quando è stato annunciato ufficialmente il 21 agosto 2017, Intel ha dichiarato che l'8ª generazione sarebbe stata basata su diverse microarchitetture, incluso Kaby Lake R, Coffee Lake e Cannonlake.Ulteriori risorse di base nei chip desktop Coffee Lake di fascia media di ottava generazione offrono significativi guadagni in termini di prestazioni rispetto alle precedenti CPU Intel di settima generazione in carichi di lavoro multithread. Tuttavia, l'architettura non offre alcuna differenza IPC da Skylake o Kaby Lake.
+
+
+== Elenco dei processori Coffee Lake ==
+
+
+=== Processori desktop ===
+Questa tabella mostra le CPU correnti basate su Coffee Lake e le relative specifiche, sono ufficialmente compatibili solo con i chipset della serie 300.
+Processori Core i3-8100 e Core i3-8350K con stepping B0 appartengono in realtà alla famiglia "Kaby Lake-S"
+
+
+=== Processori mobile ===
+Questa tabella mostra le CPU correnti basate su Coffee Lake e le relative specifiche.
+
+
+=== Processori workstation ===
+Questa tabella mostra le CPU correnti basate su Coffee Lake e le relative specifiche.
+
+
+== Coffee Lake Refresh (9ª generazione) ==
+
+
+=== Processori desktop ===
+Le prime CPU Coffee Lake di 9ª generazione sono state rilasciate nel quarto trimestre del 2018. Includono mitigazioni hardware contro certe vulnerabilità Meltdown/Spectre.
+Le principali differenze rispetto all' 8ª generazione( oltre alle frequenze aumentate) includono:
+
+I core i7 contengono 8/16 core/threads rispetto ai 6/12 degli i7 di 8ª generazione
+I core i3 sono dotati della tecnologia Turbo BoostNonostante le CPU con suffisso F non abbiano una GPU integrata, Intel ha fissato lo stesso prezzo per queste CPU delle loro controparti dotate di GPU integrata. Intel ha ridotto il prezzo di listino di queste CPU a Ottobre 2019.
+La CPU Core i9 9900KS, rilasciata alla fine di Ottobre 2019, è dotata  di una garanzia limitata di un anno sia per la versione boxed che per quella destinata agli OEM a causa del "volume limitato".
+Questa tabella mostra le CPU correnti basate su Coffee Lake Refresh e le relative specifiche.
+
+
+=== Processori mobile ===
+
+
+=== Processori Workstation ===
+Le CPU Coffe Lake-W richiedono i chipset C242 o C246 
+
+
+== Note ==

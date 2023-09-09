@@ -1,0 +1,87 @@
+﻿La photochimie est une branche de la chimie concernée par les effets chimiques de la lumière (au sens large, de l'infrarouge aux ultraviolets). Elle peut intervenir :
+
+Comme étape d'une réaction chimique, auquel cas elle est absorbée ;
+Comme étape catalytique, auquel cas elle est réémise et peut à nouveau réagir ;
+Enfin, il existe des processus chimiques qui, comme dans les lasers, donnent deux photons identiques par absorption d'un photon + réaction chimique.La chimie de ces processus est plutôt radicalaire que cationique ou anionique.
+
+
+== Histoire ==
+Les chimistes ont rapidement constaté que la lumière pouvait produire des radicaux libres, dégrader certaines molécules ou catalyser certaines familles de réactions chimiques (en chimie organique notamment, avec de premières « études de photochimie » dès le début du XXe siècle puis des modélisations de processus photochimiques hors du système terrestre, par exemple dans l'atmosphère de Titan.
+La photochimie (et la photobiologie) ont pris dans la seconde moitié du XXe siècle une importance considérable dans les domaines des sciences de l'environnement et en particulier dans l'étude et la protection de l'atmosphère en raison des interactions de la lumière et en particulier des UV solaires avec la pollution de l'air, la pollution de l'eau et moindrement celle des sols.
+
+
+== Principes ==
+
+
+=== Loi de Grotthuss–Draper et loi de Stark-Einstein ===
+La photoexcitation est la première étape d'un processus photochimique. Elle implique la montée du réactif jusqu'à un état de plus haute énergie, un état excité. La première loi de la photochimie est la loi de Grotthuss–Draper (d'après les chimistes Theodor Grotthuss et John William Draper) selon laquelle la lumière doit être absorbée par une substance chimique pour qu'une réaction photochimique ait lieu. Selon la deuxième loi de la photochimie, dite la loi de Stark-Einstein (d'après les physiciens Johannes Stark et Albert Einstein), pour chaque photon de lumière absorbé par un système chimique, une molécule au plus est activée pour faire une réaction chimique, tel que défini par le rendement quantique,.
+
+
+=== Fluorescence et phosphorescence ===
+Lorsqu'une molécule dans son état fondamental (S0) absorbe de la lumière, un électron est excité jusqu'à une orbitale de plus haute énergie. Cet électron maintient son spin selon la règle de sélection pour le spin ; d'autres transitions briseraient la loi de conservation du moment cinétique. L'excitation jusqu'à un état singulet plus élevé peut exciter l'électron de l'orbitale HO à l'orbitale BV, ou bien à une orbitale supérieure. Alors des états singulets excités S1, S2, S3 à différentes énergies sont possibles.
+La loi de Kasha précise que les états singulets plus élevés relaxent rapidement sans rayonnement jusqu'à S1. Alors S1 est normalement le seul état singulet excité d'importance. Cet état excité S1 peut ensuite relaxer davantage à S0, soit par la conversion interne sans rayonnement, soit par l'émission d'un photon au processus dit la fluorescence.
+
+Il est aussi possible que l'état excité S1 subisse le changement de spin d'un électron pour devenir un état excité triplet T1, avec deux électrons non appariés du même spin. Cette contravention de la règle de sélection du spin est rendue possible par la conversion intersystème des niveaux vibrationnels et électroniques de S1 et T1. Selon la première règle de Hund, cet état T1 sera plus stable que S1.
+Cet état triplet peut retourner à l'état fondamental S0 par la conversion intersystème sans rayonnement ou bien par l'émission radiative dite phosphorescence. Ce processus implique un changement de spin électronique, ce qui est interdit par la règle de sélection de spin. En conséquence la phosphorescence de T1 à S0 est beaucoup plus lente que la fluorescence de S1 à S0. En effet les états triplets possèdent généralement des temps de vie plus longs que les états singulets.
+Toutes ces transitions sont souvent mises en évidence dans un diagramme des énergie des états dit le diagramme de Jablonski, employé pour présenter un sommaire graphique de la photochimie moléculaire.
+Ces deux espèces excitées, S1 et T1, possèdent une orbitale demi-vide de basse énergie, et sont alors plus oxydantes que l'état fondamental. Mais au même temps, elles possèdent un électron dans une orbitale à haute énergie, et sont alors plus réductrices. En général, les espèces excitées ont tendance à participer aux processus de transfert d'électron.
+
+
+=== Montage expérimental ===
+
+Les réactions photochimiques exigent une source de lumière qui émet des longueurs d'onde qui correspondent aux transitions électroniques du réactif. Aux premières expériences (comme à la vie quotidienne), la source était la lumière du soleil, bien qu'elle soit polychromatique. Au laboratoire les lampes à vapeur de mercure sont plus communs. À basse pression, ces lampes émettent la lumière surtout à 254 nm. Pour des sources polychromatiques, l'emploi des filtres permet de choisir une gamme de longueurs d'onde. D'autres moyens d'obtenir des faisceaux approximativement monochromatiques sont les faisceaux laser qui sont normalement monochromatiques (quoiqu'on peut obtenir deux ou plusieurs longueurs d'onde par l'emploi de l'optique non linéaire), les diodes électroluminescentes à bandes plutôt étroites qui permettent l'emploi efficace, et les lampes Rayonet.
+
+La lumière émise doit atteindre le groupe fonctionnel ciblé sans être bloquée par le réacteur, par le milieu, ou par d'autres groupes fonctionnels en présence. Pour beaucoup d'applications, le quartz est employé pour les réacteurs ainsi que pour contenir la lampe. Le pyrex absorbe aux longueurs d'onde inférieures à 275 nm. Le choix du solvant est un paramètre expérimental important. Les solvants sont réactifs potentiels ; les solvants chlorés sont à éviter parce que la liaison C-Cl peut induire la chloration du substrat. Les solvants qui absorbent fortement empêchent les photons d'atteindre le substrat. Les solvants hydrocarbures n'absorbent qu'aux longueurs d'onde courtes, et sont alors préférables aux expériences photochimiques qui exigent des photons de haute énergie. Les molécules de solvant insaturées absorbent aux longueurs d'onde plus longues et peuvent alors filtrer les longueurs d'onde courtes. Par exemple, le cyclohexane et l'acétone absorbent fortement les longueurs d'onde plus courtes que 215 et 330 nm respectivement.
+
+
+=== Réactions photochimiques ===
+Au cas des réactions photochimiques, la lumière fournit l'énergie d'activation. Si la lumière laser est employée, il est possible d'exciter une molécule sélectivement afin de produire un état électronique et vibrationnel souhaité. Également, l'émission d'un état particulier peut être observée sélectivement, ce qui fournit une mesure du peuplement de cet état. Si le système chimique est à basse pression, ceci permet aux scientifiques d'observer la distribution d'énergie d'une réaction chimique avant que les différences en énergie ne soient dispersées et moyennées par des collisions répétées.
+L'absorption d'un photon de lumière par une molécule d'un réactif peut aussi permettre une réaction non seulement par l'apport de l'énergie d'activation requise, mais aussi par le changement de la symétrie de la configuration électronique moléculaire, ce qui permet un chemin réactionnel autrement inaccessible selon les règles de Woodward–Hoffmann. Une réaction de cycloaddition 2 + 2 est exemple d'une réaction péricyclique qui peut être analysée à l'aide de ces règles, ou bien à l'aide de la théorie connexe des orbitales frontières.
+Certaines réactions photochimiques sont plus rapides que les réactions thermiques par plusieurs ordres de grandeur ; des réactions aussi rapides que 10−9 seconde et des processus associés aussi rapides que 10−15 seconde sont souvent observés.
+Le photon peut être absorbé directement par le réactif ou bien par un photosensibilisant, qui absorbe le photon et transfère l'énergie au réactif. Le processus inverse est la désactivation, lorsqu'un état photoexcité est désactivé par un réactif chimique.
+La plupart des transformations photochimiques passent à travers une série d'étapes simples dites processus photochimiques primaires. Un exemple type serait le transfert d'un proton de l'état excité.
+
+
+== Réactions photochimiques ==
+Une réaction photochimique peut être, entre autres :
+
+photo-oxydation et photo-réduction ;
+photo-addition, photo-élimination, photo-substitution et réarrangement photochimique ;
+photolyse et photodégradation ;
+photo-polymérisation et photo-réticulation ;
+une réaction photochimique peut avoir lieu, entre autres, par photo-amorçage ou par photocatalyse, et inversement, la fluorescence a un lien avec la photochimie ;
+photosynthèse.
+
+
+== Exemples ==
+Nombreux sont les processus photochimiques naturels :
+
+la photosynthèse (des plantes vertes, d'algues et de bactéries photosynthétiques) : les molécules du pigment chlorophylle absorbent les photons solaires et permettent la synthèse des glucides ;
+la photolyse de l'ozone et du dioxygène : dans la stratosphère, elle nous protège des rayons ultraviolets. Elle produit aussi le smog oxydant (dit « de Los Angeles »), dans la troposphère ;
+la vision : elle fait intervenir la photoisomérisation de la rhodopsine dans la rétine de l'œil ;
+la pigmentation de la peau ;
+la chimiluminescence chimique ou biologique (bioluminescence) ;
+tous les photorécepteurs.La photographie argentique est également un processus photochimique : le cation Ag+ du bromure d'argent est transformé en argent métallique sous l'action de la lumière puis d'un réducteur doux.
+
+
+== Revues scientifiques ==
+Photochemical & Photobiological Sciences
+Photochemistry and Photobiology
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+V. Henri, Études de photochimie, Gauthier-Villars, 1919.
+N. Smith, Sensibilité des modèles théoriques de l'atmosphère de Titan aux incertitudes sur la photochimie des hydrocarbures simples, 1999 (thèse doctorale).
+
+
+=== Articles connexes ===
+Ozone troposphérique
+Couche d'ozone
+Destruction de la couche d'ozone
+ Portail de la chimie

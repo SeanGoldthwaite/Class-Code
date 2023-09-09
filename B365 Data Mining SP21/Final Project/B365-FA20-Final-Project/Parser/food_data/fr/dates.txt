@@ -1,0 +1,62 @@
+﻿La date est, au sens usuel, une indication de temps visant à définir un jour unique, généralement du calendrier grégorien. On l’utilise notamment pour repérer, avec l’heure, un événement temporel donné. Le calendrier grégorien, utilisé aujourd’hui par la plupart des pays européens, se base sur une année terrestre, c’est-à-dire une révolution de la Terre autour de son Soleil. Il découpe l’année en douze mois, pour un total de 365 jours (à l’exception des années bissextiles qui en comportent 366), soit 28 (29 pour les années bissextiles), 30 ou 31 jours par mois.
+
+
+== Dans des lettres ==
+Dans des lettres, on écrit « le 23 juin 2008 », pour indiquer le jour où la lettre a été écrite.
+
+
+== En informatique ==
+
+En informatique, la date est utilisée pour indiquer un jour calendaire dans le calendrier grégorien. Elle indique donc un jour (comme au sens usuel), mais peut également contenir une heure, relative à un fuseau horaire.
+Sous une version française de Linux, la date peut par exemple être représentée par la chaîne « jeu mai 4 00:27:50 CEST 2006 ».
+En informatique, la date peut également être représentée — afin de faciliter le tri automatique — en mettant les informations de poids fort en premier : « 2006-05-04 00:27:50 » (norme ISO 8601). Il est aussi possible d’obtenir une date comme un nombre de secondes écoulées depuis le 1er janvier 1970, on parle alors de temps Unix (Unix Timestamp).
+De nombreux langages informatiques contiennent une bibliothèque logicielle intégrée qui offre certaines fonctionnalités liées à la date ; c’est notamment le cas du C, C#, du java et du PHP.
+Ces bibliothèques se distinguent cependant par exemple, par leur capacité à régionaliser la date, ou sur le niveau de précision géré par la date.
+
+
+== En diplomatique ==
+Étymologiquement, le mot provient du latin datum, « donné ».
+En diplomatique, l’étude des documents officiels, on distingue la date dans son acception temporelle de la « date de lieu », c’est-à-dire l’indication du lieu où a été rédigé l’acte. La formule courante étant : « Donné à (date de lieu), le (date, sous la forme : jour, mois, années ou indication de règne) ».
+L’origine du concept vient donc de la nécessité d’ajouter l’indication chronologique dans la rédaction d’actes.
+
+
+== Variations par pays ==
+Il existe différentes formes légales d’indiquer la date selon les pays : les deux plus connues sont les formats little endian (jj-mm-aaaa) et big endian (aaaa-mm-jj). Cependant des formats intermédiaires existent.
+
+L'existence de plusieurs représentations simplifiées des dates complique les échanges internationaux, en particulier si l’année n'est indiquée que par deux chiffres. C'est l'intérêt du format ISO 8601, qui demande d'utiliser quatre chiffres pour l'année et qui fixe l'ordre des éléments : année (sur 4 chiffres), mois puis jour. Ce format facilite le tri d'une liste de dates par logiciel (tableur, par exemple).
+Les tableurs (Microsoft Excel par exemple) proposent généralement des formats supplémentaires entièrement chiffrés et personnalisables correspondant à d’autres usages couramment partagés (jj ou j, selon si le chiffre de la dizaine est affiché ou non si correspondant à 0 pour le jour ; mm ou m, idem pour le mois ; aaaa ou aa, selon si l’on veut afficher l’année sur ses quatre rangs ou uniquement en affichant les chiffres des dizaine et unité). 
+
+
+=== Pays utilisant le format jj/mm/aaaa ===
+
+Ce format présente les valeurs numériques, dans l'ordre, du jour, du mois et de l'année.
+
+
+=== Pays utilisant le format mm-jj-aa ===
+Dans ces pays, c'est le mois qui est au début de la forme simplifiée, suivi du jour puis de l'année.
+
+États-Unis
+
+
+=== Pays utilisant le format aaaa-mm-jj ===
+Ce format présente les valeurs numériques, dans l'ordre, de l'année, du mois et du jour. C'est l'ordre de la norme ISO 8601.
+
+Union européenne : un Comité des consommateurs (CC), comité consultatif de la Commission, envisage de préconiser ce format
+
+
+=== Pays utilisant la forme aaaa-mmm-jj ===
+Canada (comme dans 2006-JAN-01)
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+Date certaine
+Date julienne
+Date limite de consommation
+échéance
+Quantième Portail du temps

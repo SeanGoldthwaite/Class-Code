@@ -1,0 +1,95 @@
+﻿El avión de reconocimiento Kingfish (Criptónimo CIA Proyecto GUSTO) resultó de una serie de proposiciones de Convair para reemplazar el Lockheed U-2. "Kingfish" compitió con el Lockheed A-12 (Código CIA Lockheed ARCHANGEL[2]​) para la misión en el Proyecto OXCART perdiendo ante este y sería diseñado este último en 1959.
+
+
+== Trasfondo ==
+
+
+=== Problemas con el U-2 ===
+
+Antes de que el U-2 fuera operacional en junio de 1956, los oficiales de la CIA habían estimado su vida útil de vuelos seguros sobre la Unión Soviética entre 18 meses y dos años,[3]​ pero después de unos pocos sobrevuelos sobre los soviéticos, se demostró la capacidad de estos de rastrear y disparar sobre los U-2s por lo que esta estimación se demostró demasiado optimista; en agosto de 1956, Richard Bissell lo redujo a 6 meses.[4]​
+En orden a extender la vida útil del U-2, la CIA comenzó el Proyecto Rainbow, con el cual agregó una serie de contramedidas a este avión para confundir a los radares soviéticos y hacer la intercepción planeada mucho más difícil. Las técnicas antirradar desarrolladas por Rainbow consistían, primero, en una cubierta difusa sobre el fuselaje, y segundo, una serie de alambres que rodeaban el fuselaje y los bordes de las alas que supuestamente cancelarían la reflexión del radar de la célula y "radiarían" una emisión similar pero fuera de fase. Se realizaron muchos vuelo con el Rainbow, pero los soviéticos fueron capaces de rastrearlos también. El peso de los sistemas tenía como efecto colateral la disminución de la altitud de crucero, haciéndolos más vulnerables a la intercepción. Rainbow fue cancelado en 1958.[4]​
+
+
+=== Remplazo del U-2 ===
+
+Tempranamente, en 1956 Bissell había empezado a revisar la probabilidad de un avión enteramente nuevo que reemplazara al U-2, con énfasis en la reducción de la sección transversal de radar (RCS) tanto como fuera posible.[5]​ Los vuelos de gran altitud eran efectivos contra la intercepción por aviones de caza pero no lo eran contra los misiles.[5]​ Reduciendo la RCS, los radares de guía y enganche de los soviéticos necesitarían mayor tiempo de operación para "enganchar" los blancos, complicándoles el ataque a los misiles de su sistema.
+En agosto de 1957 estos estudios se reconvirtieron a estudios supersónicos,[5]​ ya que los aviones supersónicos eran muy difíciles de rastrear por los radares de esa época. Esto era debido a un efecto llamado relación blip/scan, el cual es referido por el "blip" generado por un avión visto en la pantalla de radar. Para filtrar el ruido aleatorio en la pantalla, los operadores de radar pueden apagar la amplificación de la señal de radar, por lo que los retornos rápidos no serían lo suficientemente brillantes para verlos. Los retornos de blancos reales, como un avión, pueden verse cuando varias señales de radar se dibujan en el mismo lugar de la pantalla, y aparecen como un único punto brillante. Si el avión se mueve a alta velocidad, la señal puede aparecer dibujada en varios puntos de la pantalla. Al igual que el ruido aleatorio, estos retornos se convierten en invisibles.
+
+
+=== Proyecto GUSTO ===
+
+Para el otoño de 1957 se habían enviado tantas ideas que Bissell creó un nuevo comité para estudiar los conceptos, conducido por Edwin Land bajo la designación Proyecto  Gusto.[6]​[7]​ El comité se reunió por primera vez en noviembre para analizar las ideas generadas. En esa reunión, el 23 de julio de 1958, muchos conceptos fueron estudiados.
+Kelly Johnson de Lockheed presentó el diseño Archangel I, que podía volar a velocidades de Mach 3 por largos periodos para tomar ventaja del fenómeno de blip/scan, sin embargo no fue diseñado para reducir la sección transversal de radar (RCS). Convair propuso un avión parásito que podría ser lanzado desde el aire, por el nuevo  B-58 Hustler que estaba siendo estudiada. La Armada de los Estados Unidos había introducido un vehículo inflable, trasportado y lanzado por submarinos que podía ser elevado por globos, acelerado con cohetes, y después llevado a velocidad de crucero con estatorreactores. Johnson fue consultado para tener una segunda opinión acerca del diseño de la Marina y el comité acordó reunirse prontamente . 
+En la siguiente reunión, en septiembre de 1958, el diseño fue re-definido. Johnson informó acerca del diseño de la Marina demostrando que su punto débil era el tiempo que pasaría colgado de un globo (1500 metros); esta petición fue cancelada. Boeing presentó un nuevo diseño de un vehículo inflable de 65 metros motorizado con hidrógeno líquido. Lockheed presentó varios diseños; el Lockheed CL-400 Suntan que parecía un F-104 Starfighter a escala con motores de hidrógeno líquido montados en la puntas alares, el G2A que era una versión subsónica con baja firma radárica, y el A-2 que era un diseño de ala en delta que usaba estatorreactores alimentados con HEF.
+
+
+== Fish ==
+
+El diseño parásito Convair era derivado del concepto Super Hustler que Convair había propuesto a la Fuerza Aérea de los Estados Unidos. La versión original tenía dos partes, la parte de atrás era un cohete no tripulado motorizado por un par de estatorreactores, y la parte frontal era un avión tripulado equipado con un solo estatorreactor.[5]​ El Super Hustler podía ser lanzado desde un bombardero B-58 o desde un remolque terrestre con cohetes auxiliares. Para el lanzamiento aéreo, el Super Hustler sería llevado a Mach 2 a 11.000 metros de altura, y lanzado. Los tres estatorreactores serían encendidos para aumentar la propulsión y la parte trasera no tripulada sería descartada. El cohete no tripulado podría haber sido usado como arma si era equipado como tal.[5]​ 
+Para el Proyecto GUSTO, el concepto se había simplificado y reducido a un solo avión. De nombre código Fish, estaba basado en un diseño de cuerpo sustentador muy parecido al avión espacial ASSET de hacía pocos años.[5]​ Difería en tener el cono de proa unido a una línea horizontal en vez de la línea circular del ASSET, y el fuselaje no era tan largo en la parte posterior. Dos superficies de control vertical estaban colocadas en la parte posterior,[5]​ y una pequeña ala en delta cubría el tercio trasero del avión.[5]​ Estaba motorizado con dos ramjets Marquardt RJ-59[5]​ durante la fase de crucero, dando una velocidad de crucero de Mach 4 a 25.000 metros para ascender a 30.000 metros cortando el combustible. Para manejar el intenso calor producido por la fricción a estas velocidades, los bordes de ataque serían construidos del nuevo material cerámico "pirocerámica", mientras que el resto del fuselaje seria un panal de abejas de acero inoxidable similar al propuesto para el XB-70 Valkyrie. Después de completar su misión, el avión volvería al espacio amigo, lentamente, y abriría dos tomas de aire para dos pequeños reactores y continuaría el vuelo a velocidades subsónicas.[5]​
+Las ideas de Lockheed también cambiaron durante la fase de investigación.[5]​ Su entrega original fue el Archangel II (A-2), diseño motorizado con ramjets, pero que sería lanzado desde tierra usando grandes motores jet.
+El comité no encontró ninguna de las ideas particularmente interesantes, y cuando el B-58B fue cancelado por la Fuerza Aérea de los Estados Unidos en 1959, el concepto "Fish" entero entró en duda. Hubo algunas mociones para reconvertir los B-58A existentes en transportadores de "Fish", pero estos aviones tenían limitaciones para lanzar los "Fish", y la Fuerza Aérea no tenía ganas para compartir ninguno de sus bombarderos en plena Guerra Fría. El comité sugirió usar los motores turboramjet existentes Pratt & Whitney J58 en los diseños.[5]​
+
+
+== Kingfish ==
+
+Después de ser cancelado el B-58B a mediados de 1959, Convair se volvió a un diseño completamente nuevo, similar al anterior sólo en el nombre. El nuevo diseño "Kingfish" tenía mucho en común con el F-106 Delta Dart, usando la clásica ala en delta de los productos Convair. Difería de este por tener dos motores J58 encastrados en el fuselaje posterior además de dos derivas verticales en la misma zona. Las tomas de aire estaban diseñadas para disminuir la sección radárica, parecidas a las del F-117, y el resto de avión era similar en concepto a éste. Los bordes de ataque de las alas y las toberas continuaron usando pirocerámica, mientras que las otras partes del avión siguieron usando materiales con baja reflexión de radar como la fibra de vidrio. Los nuevos motores redujeron la velocidad de crucero a Mach 3,2 comparados con los Mach 4,2 del "Fish", pero el alcance aumento hasta las 3.400 nmi (6.300 km).
+En agosto de 1959, los equipos se encontraron con los nuevos diseños. Lockheed había producido un avión similar al  "Kingfish", el A-11, pero de líneas más "convencionales".[5]​ Sin embargo a pesar de que el A-11 tenía mejor desempeño que el "Kingfish", el panel unánimemente prefirió el diseño de Convair debido a su bajo RCS. Johnson expresó escepticismo del RCS que afirmaba tener Convair y resaltó su mejor desempeño;
+
+ 
+
+Al final no fue el desempeño lo que decidió el desenlace; durante el proyecto U-2 Lockheed probó su habilidad de diseñar aviones de alta tecnología, en secreto, a tiempo, y dentro del presupuesto. En contraste, Convair había tenido gastos excesivos con el B-58 y no tenía fábricas seguras como el Skunk Works. Lockheed prometió bajar el RCS en una versión modificada del A-11 conocida como A-12,[5]​ y selló el trato.[5]​ El A-12 entró en servicio con la CIA en la década de 1960,[5]​ y fue ligeramente modificado por la Fuerza Aérea en su SR-71.[5]​
+
+
+== Legado ==
+Algunos modelos a escala del "Kingfish" fueron probados en el Área 51[8]​[9]​ a pesar de la elección del A-12, en el caso de que el A-12 fallara. Esto no ocurrió y los fondos para el "Kingfish" pronto desaparecieron.
+La CIA continuó los estudios en aviones de alto desempeño, estudiando reemplazar al A-12 bajo el Proyecto Isinglass. Isinglass se enfocó mezclando características del General Dynamics F-111 y del "Kingfish", lo cual se hizo posible cuando General Dynamics mudó los talleres de Convair a su sitio de Fort Worth. El nuevo diseño era un avión de reconocimiento capaz de alcanzar Mach 5 a una altitud de 33.000 metros. La CIA pensó que este desempeño extra no era suficiente para defenderlo de los sistemas misilísticos que atacaban al A-12, y el proyecto no prosperó.
+Irónicamente, la idea de burlar radares mediante el apagado del filtro de ruido aleatorio del radar no prosperó. Pronto se descubrió que la tobera sobrecalentada era un excelente reflector de radar a ciertas longitudes de onda. Lockheed propuso agregar cesio al combustible de los jet para enmascarar este efecto. Adicionalmente, la idea entera descansaba en problemas de los sistemas de visión de los radares, por lo que mejoras en estos sistemas cambiarían radicalmente este razonamiento. Finalmente, el A-12 fue considerado vulnerable y voló sólo sobre naciones secundarias como Vietnam, Cuba o Nicaragua. La falla de los A-12 para evitar los radares fue probada cuando los vietnamitas pudieron rastrear el A-12 con alguna facilidad, disparándole pero solo causando daños menores, una sola vez en 1967.[10]​
+
+
+== Véase también ==
+
+Criptónimo CIA , una pequeña guía para saber acerca de los nombres CIA de los proyectos.
+SR-71 Blackbird, un avión de reconocimiento estratégico, retirado en 1998.
+Proyecto Aurora
+X-15, la primera nave hipersonica tripulada.
+XB-70 Valkyrie, un bombardero de alta-altitud desarrollado en la década de 1950.
+SR-3 Blackstar, otro supuesto "Proyecto negro".
+TR-3A Black Manta, otro supuesto "Proyecto negro".
+Rockwell X-30, un concepto de "Avión Aero-Espacial" de la década de 1980.
+Boeing X-43A Hyper-X, un avión hipersonico experimental no tripulado, el actual dueño del record de velocidad aéreo para un avión respirador de aire.
+HOTOL/Skylon, un diseño para una aeronave hipersónica potenciado por hidrógeno capaz de alcanzar Mach 5.5.
+U-2
+Ayaks, avión soviético hipersónico rival del Aurora.
+B-58 Hustler  bombardero en delta desarrollado en los años 1950.
+Republic XF-103, interceptor hipersónico inspirado en los conceptos Aurora .
+Avión cohete X-15 , avión cohete hipersónico.
+Bristol 188, avión de reconocimiento estratégico británico similar al SR-71.
+Triángulo negro (Ovni), avión descrito por los avistadores de OVNIs , similar al  SR-95 y  TR-3B Ad Astra.
+
+
+== Referencias ==
+Notas
+BibliografíaConvair, "Super Hustler:  A New Approach to the Manned Strategic Bombing-Reconnaissance Problem," FMZ-1200-20, 26 May 1958.
+Convair, "Super Hustler SRD-17:  TAC Bomber Studies," FZM-1556B, 27 April 1960.
+McIninch, Thomas. "The Oxcart Story", Studies in Intelligence 15 (Winter 1971), Released 1994. Retrieved: 10 July 2009.
+Pedlow, Gregory W. and Donald E. Welzenbach. The Central Intelligence Agency and Overhead Reconnaissance:  The U-2 and OXCART Programs, 1954 - 1974, Chapter 6, "The U-2's Intended Successor:Project Oxcart, 1956-1968". Washington, DC: Central Intelligence Agency, 1992. Retrieved: 2 April 2009.
+Scott, Jeff. Convair Super Hustler, Fish & Kingfish." Aerospaceweb Question of the Week, 31 December 2006.
+Donald, David, ed. "Lockheed's Blackbirds: A-12, YF-12 and SR-71". Black Jets. Norwalk, CT: AIRtime, 2003. ISBN 1-880588-67-6.
+Graham, Richard H. SR-71 Revealed: The Inside Story. St. Paul, Minnesota: MBI Publishing Company, 1996. ISBN 978-0-7603-0122-7.
+Jenkins, Dennis R. Lockheed Secret Projects: Inside the Skunk Works. St. Paul, Minnesota: MBI Publishing Company, 2001. ISBN 978-0-7603-0914-8.
+Johnson, C.L. Kelly: More Than My Share of it All. Washington, DC: Smithsonian Books, 1985. ISBN 0-87474-491-1.
+Landis, Tony R. and Dennis R. Jenkins. Lockheed Blackbirds. Minneapolis, Minnesota: Specialty Press, revised edition, 2005. ISBN 1-58007-086-8.
+McIninch, Thomas. "THE OXCART STORY" Center for the Study of Intelligence, Central Intelligence Agency, 2 July 1996. Retrieved 10 April 2009.
+Merlin, Peter W. From Archangel to Senior Crown: Design and Development of the Blackbird. Reston, Virginia: American Institute of Aeronautics and Astronautics (AIAA), 2008. ISBN 978-1-56347-933-5.
+Pace, Steve. Lockheed SR-71 Blackbird. Swindon: Crowood Press, 2004. ISBN 1-86126-697-9.
+Pedlow, Gregory W. and Donald E. Welzenbach. The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954 - 1974. Washington, DC: Central Intelligence Agency, 1992. ISBN 0-7881-8326-5.
+Shul, Brian and Sheila Kathleen O'Grady. Sled Driver: Flying the World's Fastest Jet. Marysville, California: Gallery One, 1994. ISBN 0-929823-08-7.
+Rich, Ben R. and Leo Janos. Skunk Works: A Personal Memoir of My years at Lockheed. New York: Little, Brown and Company, 1994. ISBN 0-316-7433.
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Convair Kingfish.
+Convair Kingfish en el Área 51 Idioma inglés
+El Convair Kingfish, reemplazo propuesto por Convair para el U-2
+Competencia entre Convair y Lockheed para reemplazar el U-2 en idioma inglés

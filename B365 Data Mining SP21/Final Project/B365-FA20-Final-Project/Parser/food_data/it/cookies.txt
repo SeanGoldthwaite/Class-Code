@@ -1,0 +1,225 @@
+﻿I cookie (pron. cuchi; più precisamente denominati cookie web, o per antonomasia cookie)
+sono un tipo particolare di magic cookie (una sorta di gettone identificativo) e vengono utilizzati dalle applicazioni web lato server per archiviare e recuperare informazioni a lungo termine sul lato client.
+
+
+== Storia ==
+Il concetto e il termine cookie, che letteralmente significa "biscotto" , derivano dal magic cookie (biscotto magico) una tecnica nota in ambiente UNIX già negli anni '80 e tipicamente utilizzata per implementare meccanismi di identificazione di un client presso un server, come ad esempio l'autenticazione del server X Window System.
+Il primo uso di cookie in HTTP risale al 1994, quando furono usati per controllare se i lettori del sito di Netscape lo avessero già visitato in precedenza.
+Nel 1995 la gestione dei cookie è stata integrata in Internet Explorer 2.
+L'introduzione dei cookie inizialmente non è stata conosciuta da un ampio pubblico, ma se ne iniziò a parlare dopo un articolo pubblicato sul Financial Times il 12 febbraio 1996.
+Il dibattito che si scatenò aveva come tema le implicazioni dei cookie sulla segretezza.
+I cookie furono oggetto di due udienze della Commissione degli Stati Uniti in commercio federale nel 1996 e nel 1997.
+Da queste date si incominciò a regolare gli utilizzi dei cookie.
+Oggi le applicazioni più comuni riguardano la memorizzazione di informazioni sulle abitudini dell'utente stesso all'interno dei siti web che visita.
+Tali applicazioni hanno spesso sollevato dubbi da parte dei difensori della privacy dei navigatori, infatti un cookie potrebbe aiutarci nella navigazione oppure spiarci.
+In questo secondo caso rientrano molte catene di pubblicitari (che vendono pubblicità a molti siti differenti) i quali usano un cookie accluso all'immagine pubblicitaria per correlare le visite di uno stesso utente a più siti diversi, costruendo quindi una specie di profilo dei siti più graditi.
+Altri usi considerati convenienti perché utilizzano il cookie come servizio per l'utente sono per esempio la registrazione dei dati di una sessione per evitare la necessità di una nuova autenticazione in una visita successiva (come fa anche Wikipedia per i suoi utenti registrati), o per mantenere il contenuto del "carrello della spesa" nei siti di commercio elettronico.
+
+
+== Descrizione ==
+
+
+=== Generalità ===
+I server inviano i cookie nella risposta HTTP al client e ci si aspetta che i web browser salvino e inviino i cookie al server, ogni qual volta si facciano richieste aggiuntive al web server.
+Tale riconoscimento permette di realizzare meccanismi di autenticazione usati ad esempio per i login; di memorizzare dati utili alla sessione di navigazione, come le preferenze sull'aspetto grafico o linguistico del sito; di tracciare la navigazione dell'utente, ad esempio per fini statistici o pubblicitari; di associare dati memorizzati dal server, ad esempio il contenuto del carrello di un negozio elettronico.
+Date le implicazioni per la riservatezza dei naviganti del web, l'uso dei cookie è categorizzato e disciplinato negli ordinamenti giuridici di numerosi paesi, tra cui quelli europei, inclusa l'Italia. La sicurezza di un cookie di autenticazione dipende generalmente dalla sicurezza del sito che lo emette, dal browser web dell'utente, e dipende dal fatto che il cookie sia criptato o meno. Le vulnerabilità di sicurezza possono permettere agli hacker di leggere i dati del cookie, che potrebbe essere usato per ottenere l'accesso ai dati degli utenti, o per ottenere l'accesso (con le credenziali dell'utente) al sito web a cui il cookie appartiene (vedi cross-site scripting e cross-site request forgery per esempio).I cookie, e in particolare i cookie di terza parte, sono comunemente usati per memorizzare le ricerche di navigazione degli utenti; questi dati sensibili, possono essere una potenziale minaccia alla privacy degli utenti; proprio questo ha indotto le autorità europee e degli Stati Uniti a regolamentarne l'uso mediante una legge nel 2011. Infatti la legislazione europea impone a tutti i siti degli stati membri di informare gli utenti che il sito usa certi tipi di cookie.
+
+
+=== Caratteristiche ===
+In termini pratici e non specialistici, un cookie è simile ad un piccolo file, memorizzato nel computer da siti web durante la navigazione, utile a salvare le preferenze e a migliorare le prestazioni dei siti web. In questo modo si ottimizza l'esperienza di navigazione da parte dell'utente.
+Nel dettaglio, un cookie è una stringa di testo di piccole dimensioni inviata da un web server ad un web client (di solito un browser) e poi rimandata indietro dal client al server (senza subire modifiche) ogni volta che il client accede alla stessa porzione dello stesso dominio web. I cookie sono stati originariamente introdotti per fornire un modo agli utenti di memorizzare gli oggetti che volevano acquistare, mentre navigavano nel sito web (il cosiddetto "carrello della spesa").
+Oggi, tuttavia, il contenuto del carrello di un utente viene immagazzinato in un database sul server, piuttosto che in un cookie sul client. Per tenere traccia a quale utente è assegnato il carrello della spesa, il server Web invia un cookie al client che contiene un identificatore di sessione univoco (tipicamente, una lunga serie di lettere e numeri). Poiché i cookie vengono inviati al server ad ogni richiesta del client, l'identificatore di sessione sarà inviato al server ogni volta che l'utente visita una pagina sul sito web, ciò permette al server di sapere quale carrello deve fornire all'utente.
+Poiché i cookie di sessione contengono solo un identificatore di sessione univoco, questo rende la quantità di informazioni personali che un sito web può memorizzare virtualmente illimitata. Il sito non si limita alle restrizioni in materia di quanto possa essere lunga la stringa di testo che compone un cookie. I cookie di sessione possono anche contribuire a migliorare i tempi di caricamento delle pagine, dal momento che la quantità di informazioni in un cookie di sessione è piccolo e richiede poca banda.
+Il cookie principale, quello che serve per memorizzare le opzioni per tutti gli altri cookie, si chiama cookie tecnico (di consenso) ovvero quello che presiede all'invio e ricezione del pacchetto di informazioni (marcatori).
+Ogni dominio o sua porzione che viene visitata col browser può impostare dei cookie. Poiché una tipica pagina Internet, ad esempio quella di un giornale in rete, contiene oggetti che provengono da molti domini diversi e ognuno di essi può impostare cookie, è normale ospitare nel proprio browser molte centinaia di cookie.
+I cookie vengono spesso erroneamente ritenuti veri e propri programmi e ciò genera errate convinzioni. In realtà essi sono semplici blocchi di dati, incapaci, da soli, di compiere qualsiasi azione sul computer. In particolare non possono essere né spyware, né virus. Ciononostante i cookie provenienti da alcuni siti sono catalogati come spyware da molti prodotti anti-spyware perché rendono possibile l'individuazione dell'utente. I moderni browser permettono agli utenti di decidere se accettare o no i cookie, ma l'eventuale rifiuto rende alcuni oggetti inutilizzabili. Ad esempio, gli shopping cart implementati con i cookie non funzionano in caso di rifiuto.
+I cookie non sono solo utilizzati sui PC o simili, ma anche sugli smartphone e sui tablet.
+
+
+=== Funzionamento ===
+Un cookie è un header aggiuntivo presente in una richiesta (Cookie:) o risposta (Set-cookie:) HTTP: nel caso il server voglia assegnare un cookie all'utente, lo aggiungerà tra gli header di risposta. Il client deve notare la presenza del cookie e memorizzarlo in un'area apposita (in genere, si utilizza una directory dove ogni cookie viene memorizzato in un file). Il cookie è composto da una stringa di testo arbitraria, una data di scadenza (oltre la quale non deve essere considerato valido) e un pattern per riconoscere i domini a cui rimandarlo. È possibile impostare più cookie in una sola risposta HTTP.
+Il browser web client rimanderà il cookie, senza alcuna modifica, allegandolo a tutte le richieste HTTP che soddisfano il pattern, entro la data di scadenza. Il server può quindi scegliere di assegnare il cookie di nuovo, sovrascrivendo quello vecchio. Il reinvio tramite pattern permette a tutti i sottodomini di un dato dominio di ricevere il cookie, se così si vuole.
+I cookie vengono utilizzati per aggiungere uno stato ad un protocollo privo di stato. Senza i cookie non vi sarebbe differenza in una pagina caricata prima di effettuare un login, dalla stessa pagina caricata dopo. Dato che i cookie permangono nel sistema per lunghi periodi, i siti possono assegnare un indice all'utente e tenere traccia della sua navigazione all'interno del sito, solitamente allo scopo di creare statistiche. Possono essere utilizzati anche per tracciare la navigazione su siti terzi, nel caso in cui questi siti terzi utilizzino contenuti provenienti dal sito che ha impostato il cookie. Solitamente la pubblicità sui siti viene gestita da compagnie che hanno inserzioni su svariati siti internet.
+Il contenuto della pubblicità stessa viene caricato direttamente dal loro server (tramite una richiesta HTTP) e visualizzato in maniera integrata nel sito che l'utente desidera visitare. In questo modo il server della compagnia pubblicitaria riceverà dal browser dell'utente l'indirizzo della pagina che si sta visualizzando, e potrà inviare un cookie al client. Tramite questo meccanismo le società pubblicitarie possono aggregare informazioni sugli utenti e costruirne profili e mostrare loro pubblicità mirate.
+
+
+=== Utilizzo ===
+Poiché possono essere usati per monitorare la navigazione su Internet, i cookie sono oggetto di discussioni concernenti il diritto alla privacy. Molti paesi ed organizzazioni, fra cui gli Stati Uniti e l'Unione europea, hanno legiferato in merito. I cookie sono stati inoltre criticati perché non sempre sono in grado di identificare l'utente in modo accurato ed inoltre perché possono potenzialmente essere oggetto di attacchi informatici. Esistono alcune alternative ai cookie, ma tutte, insieme ad alcuni vantaggi, presentano controindicazioni.
+Nella cookie policy i gestori di un sito web devono specificare nel dettaglio la politica dei propri cookie o di quelli di terze parti.
+Le attività per le quali sono utilizzate sono di autenticazione, tracciatura di sessioni e memorizzazione di informazioni specifiche riguardanti gli utenti che accedono al server, come ad esempio siti web preferiti o, in caso di acquisti via internet, il contenuto dei loro "carrelli della spesa".
+Anche il motore di ricerca più famoso del mondo, Google, spedisce un cookie che immagazzina dati riguardanti le ricerche, le parole chiave delle ricerche e le abitudini dell'utente.
+Più in dettaglio i diversi utilizzi dei cookie sono dunque:
+
+Per riempire il carrello della spesa virtuale in siti commerciali (i cookie ci permettono di mettere o togliere gli articoli dal carrello in qualsiasi momento).
+Per permettere ad un utente il login in un sito web.
+Per personalizzare la pagina web sulla base delle preferenze dell'utente (per esempio il motore di ricerca Google permette all'utente di decidere quanti risultati della ricerca voglia visualizzare per pagina).
+Per tracciare i percorsi dell'utente (tipicamente usato dalle compagnie pubblicitarie per ottenere informazioni sul navigatore, i suoi gusti le sue preferenze. Questi dati vengono usati per tracciare un profilo del visitatore in modo da presentare solo i banner pubblicitari che gli potrebbero interessare).
+Per la gestione di un sito: i cookie servono a chi si occupa dell'aggiornamento di un sito per capire in che modo avviene la visita degli utenti, quale percorso compiono all'interno del sito. Se il percorso porta a dei vicoli ciechi il gestore se ne può accorgere e può migliorare la navigazione del sito.
+Per condividere le informazioni di reti sociali con altri utenti.Molti dei moderni browser permettono all'utente di decidere quando accettare cookie, ma respingere alcuni cookie non permette l'utilizzo di alcuni siti (prendiamo come esempio l'iscrizione ad un sito web come Wikipedia).
+Le impostazioni possono essere personalizzate per abilitarli o bloccarli sempre, entro un determinato periodo di permanenza, per filtrare i siti in base a liste bianche e liste nere, e per filtrare cookie che sono utilizzati dallo stesso server o anche da collegamenti (spesso pubblicitari) a siti ospitati su server differenti.
+È da notare che il funzionamento dei cookie è totalmente dipendente dal browser di navigazione che l'utente usa: in teoria, tale programma può dare all'utente il controllo completo dei cookie e permettere o rifiutare la loro creazione e diffusione. Microsoft Internet Explorer ha solo una gestione rudimentale dei cookie, mentre alternative come Opera o Mozilla Firefox danno un maggiore controllo all'utente e permettono di accettare/rifiutare cookie da siti specifici. Anche altri programmi, da usare come proxy, permettono all'utente un grado maggiore di controllo su cosa succede.
+Un Tor o un proxy server hanno l'effetto finale, non di cancellare l'indirizzo IP, ma di farne apparire uno differente da quello del proprio computer. Nel caso di rilevazione dell'indirizzo IP, con questi accorgimenti, non si incontra alcuna limitazione nel numero di siti navigabili.
+
+
+== Struttura ==
+
+
+=== Elementi ===
+Contrariamente a quanto comunemente si crede, un cookie non è un piccolo file di testo: può essere sì memorizzato in un file di testo, ma non necessariamente. Nel cookie solitamente possiamo trovare quattro attributi:
+
+Nome/valore è una variabile ed un campo obbligatorio.
+Scadenza (expiration date) è un attributo opzionale che permette di stabilire la data di scadenza del cookie. Può essere espressa come data, come numero massimo di giorni oppure come Now (adesso) (implica che il cookie viene eliminato subito dal computer dell'utente in quanto scade nel momento in cui viene creato) o Never (mai) (implica che il cookie non è soggetto a scadenza e questi sono denominati persistenti).
+Modalità d'accesso (HttpOnly) rende il cookie invisibile a JavaScript e altri linguaggi client-side presenti nella pagina.
+Sicuro (secure) indica se il cookie debba essere trasmesso criptato con HTTPS.
+
+
+=== Dominio e percorso ===
+Il dominio (domain) e il percorso (path), definiscono l'ambito di visibilità del cookie, indicano al browser che il cookie può essere inviato al server solo per il dominio e il percorso indicati. Se non specificati, come predefiniti prendono il valore del dominio e del percorso che li ha inizialmente richiesti. Un esempio di direttiva per la creazione dei cookie da parte di un sito web in seguito al logon di un utente è la seguente:
+
+Il primo cookie LSID ha come dominio predefinito docs.foo.com e percorso /accounts, che indicheranno al browser di usare il cookie solo quando la pagina richiesta contiene docs.foo.com/accounts. Gli altri 2 cookie HSID e SSID potranno essere inviati dal browser al server quando sono visitati, qualsiasi dei sottodomini in .foo.com con qualsiasi percorso, ad esempio www.foo.com/. I cookie possono essere impostati solo dai domini principali e dai loro sottodomini.
+
+
+=== Tipi di cookie ===
+La grande varietà esistente di cookie nel mondo del web rende difficile una loro classificazione. È possibile comunque stilarne una tassonomia generale separandoli in diverse categorie. L'attributo principale tramite cui possiamo dividere i cookie è il loro ciclo di vita, il quale ci permette di distinguerli in:
+
+Cookie di sessione: questi cookie non vengono memorizzati in modo persistente sul dispositivo dell'utente e vengono cancellati alla chiusura del browser. A differenza di altri cookie, i cookie di sessione non hanno una data di scadenza, ed in base a questo il browser riesce ad identificarli come tali.
+Cookie persistenti: invece di svanire alla chiusura del browser, come vale per i cookie di sessione, i cookie persistenti scadono ad una data specifica o dopo un determinato periodo di tempo. Ciò significa che, per l'intera durata di vita del cookie (che può essere lunga o breve a seconda della data di scadenza decisa dai suoi creatori), le sue informazioni verranno trasmesse al server ogni volta che l'utente visita il sito web, o ogni volta che l'utente visualizza una risorsa appartenente a tale sito da un altro sito (ad esempio un annuncio pubblicitario). Per questo motivo, i cookie persistenti possono essere utilizzati dagli inserzionisti per registrare le informazioni sulle abitudini di navigazione web di un utente per un periodo prolungato di tempo. Tuttavia, essi sono utilizzati anche per motivi "legittimi " (come ad esempio mantenere gli utenti registrati nel loro account sui siti web, al fine di evitare, ad ogni visita, l'inserimento delle credenziali per l'accesso ai siti web).È possibile poi classificare i cookie in base alla provenienza in:
+
+Cookie di prima parte: normalmente, l'attributo di dominio di un cookie corrisponderà al dominio che viene visualizzato nella barra degli indirizzi del browser web; sono i cookie inviati al browser direttamente dal sito che si sta visitando. Questo è chiamato un cookie di prima parte. Possono essere sia persistenti sia di sessione; sono gestiti direttamente dal proprietario e/o responsabile del sito e vengono utilizzati, ad esempio, per garantirne il funzionamento tecnico o tenere traccia di preferenze espresse in merito all'uso del sito stesso.
+Cookie di terza parte: i cookie di terze parti, appartengono a domini diversi da quello mostrato nella barra degli indirizzi. Questi tipi di cookie appaiono in genere quando le pagine web sono dotate di contenuti, come ad esempio banner pubblicitari, da siti web esterni. Questo implica la possibilità di monitoraggio della cronologia di navigazione dell'utente, ed è spesso usato dagli inserzionisti, nel tentativo di servire annunci rilevanti e personalizzati per ciascun utente. Per esempio, supponiamo che un utente visiti www.example.org. Questo sito web contiene un annuncio da ad.foxytracking.com, che, una volta scaricato, imposta un cookie che appartiene al dominio della pubblicità (ad.foxytracking.com). Quindi, l'utente visita un altro sito web, www.foo.com, che contiene anche un annuncio da ad.foxytracking.com/, e che stabilisce anche un cookie appartenente a quel dominio (ad.foxytracking.com). Alla fine, entrambi questi cookie saranno inviati al venditore quando si caricano le loro pubblicità o visitando il loro sito web. L'inserzionista può quindi utilizzare questi cookie per costruire una cronologia di navigazione degli utenti in tutti i siti che hanno gli annunci di questo inserzionista. La maggior parte dei moderni browser web contengono delle impostazioni di privacy che sono in grado di bloccare i cookie di terze parti.Infine, è possibile distinguerli dal punto di vista dell'utilizzo (o finalità) in:
+
+Cookie tecnici: servono per la navigazione (in quanto funzionalmente necessari per lo scorrimento della pagina, la consultazione dei contenuti, l’erogazione del servizio) e per facilitare l'accesso e la fruizione del sito da parte dell'utente. I cookie tecnici sono essenziali per esempio per accedere a Google o a Facebook senza doversi loggare a tutte le sessioni. Lo sono anche in operazioni molto delicate quali quelle della home banking o del pagamento tramite carta di credito o per mezzo di altri sistemi.
+Cookie statistici: vengono utilizzati a fini di ottimizzazione del sito, direttamente dal titolare del sito stesso, che potrà raccogliere informazioni in forma aggregata sul numero degli utenti e su come questi visitano il sito. A queste condizioni, per i cookie statistici valgono le stesse regole, in tema di informativa e consenso, previste per i cookie tecnici.
+Cookie per la memorizzazione delle preferenze: sono cookie utili a favorire l'utilizzo corretto del sito da parte dell'utente. Vengono utilizzati, ad esempio, per tenere traccia della lingua scelta.
+Cookie pubblicitari: questi cookie hanno lo scopo di fornire spazi pubblicitari. Essi possono essere installati, dal titolare del sito oppure da terze parti. Alcuni servono a riconoscere i singoli messaggi pubblicitari e sapere quali sono stati selezionati e quando. Altri cookie pubblicitari vengono utilizzati per ipotizzare un “profilo” di navigazione dell'utente, in modo da poter proporre messaggi pubblicitari in linea al suo comportamento e interessi nella rete. Tale “profilo” è anonimo e le informazioni raccolte tramite questi cookie non consentono di risalire all'identità dell'utente. In questo caso il cookie presiede uno dei sistemi per pilotare la cosiddetta "pubblicità comportamentale".
+Cookie di social network: si tratta dei cookie che consentono di condividere anche con altri utenti i contenuti del sito che si sta visitando. Sono i cookie tipicamente utilizzati per attivare le funzioni “Mi piace” o “Segui” delle reti sociali quali Facebook e Twitter, solo per citarne alcuni. Queste funzioni consentono alle reti sociali di identificare i propri utenti e raccogliere informazioni anche mentre navigano su altri siti.Altri tipi utili di cookie:
+
+Secure cookie: un cookie con il Secure flag può essere trasmesso solo su una connessione crittografata (cioè HTTPS). Questo diminuisce la probabilità di essere esposti al furto di cookie tramite intercettazioni. Per raggiungere questo obiettivo, i browser che supportano questo flag, invieranno soltanto i cookie con il Secure flag quando viene richiesta una pagina HTTPS. In altri termini, il browser non invierà un cookie con il Secure flag su una richiesta HTTP, ovvero su una connessione non crittografata.
+HttpOnly cookie: cookie con il flag HttpOnly possono essere utilizzati solo se trasmessi via HTTP (o HTTPS). Essi non sono accessibili attraverso non-HTTP API come JavaScript. Questa restrizione elimina la minaccia del furto di cookie tramite cross-site scripting (XSS), evitando le minacce del cross-site tracing(XST) e cross-site request forgery (CSRF).
+SameSite cookie: Google Chrome 51 ha introdotto un nuovo flag SameSite che consente l'invio del cookie solo per richieste provenienti dalla stessa fonte, riuscendo così a neutralizzare attacchi come CSRF e altri tipi di attacchi.
+SuperCookie: Il "supercookie" è un cookie con un'origine di un dominio di primo livello (ad esempio .com) o un public suffix (come ad esempio.co.uk). I cookie ordinari, al contrario, hanno origine in un determinato dominio, ad esempioexample.com. I supercookie possono essere un potenziale problema di sicurezza e sono quindi spesso bloccati dai browser web. Se sbloccato dal computer client, un utente malintenzionato, attraverso un sito web malevolo, potrebbe impostare un supercookie, e potenzialmente distruggere o reindirizzare le richieste degli utenti legittimi ad un altro sito web che condivide lo stesso dominio di primo livello o public suffix del sito web malevolo. Ad esempio, un supercookie con dominio .com, potrebbe maliziosamente influenzare una richiesta avanzata a example.com, anche se il cookie non ha avuto origine da example.com. Questo può essere usato per effettuare falsi accessi o modificare le informazioni degli utenti. La Public Suffix List aiuta a a diminuire il rischio che si può creare attraverso i supercookie. Questo elenco è un'iniziativa trasversale che mira a fornire un'accurata e aggiornata lista di nomi dei domini. Le vecchie versioni dei browser non possono avere un elenco aggiornato, e saranno quindi vulnerabili a supercookie da determinati domini.
+Zombie cookie: Gli Zombie cookie sono cookie che vengono ricreati automaticamente dopo essere stati eliminati. Questo si ottiene attraverso la memorizzazione dei contenuti del cookie in più posizioni, come la flash local storage, HTML5 storage, e attraverso altri meccanismi di archiviazione sia da parte del client che da parte del server. Quando viene rilevata l'assenza del cookie, quest'ultimo viene ricreato utilizzando i dati memorizzati in queste posizioni. Un esempio di cookie zombie è dato dalla libreria Evercookie.
+
+
+== Manipolazioni sui cookie ==
+Una procedura di manipolazione sui cookie è la cookie poisoning. Consiste nel modificare i contenuti di un cookie (per esempio le informazioni personali salvate nel computer dell'utente) al fine di eludere i meccanismi di sicurezza.
+Attraverso questa tecnica, chi attacca può ottenere informazioni private e non autorizzate da un utente, nonché rubare la sua identità digitale. I cookie immagazzinati nel computer dell'utente contengono le informazioni che permettono alle applicazioni di autenticare lo userID, monitorare i comportamenti dell'utente, e personalizzare i contenuti di un sito. In genere, questi dati sono sottoposti a cifratura, ma non sempre gli algoritmi sono sicuri per cui qualche utente con intenzioni malevole potrebbe carpire i nostri dati e utilizzarli o modificarli. Secondo l'organizzazione The Open Web Application Security Project, comunemente detta OWASP, la manipolazione dei cookie è uno dei 20 attacchi più utilizzati dagli hacker, soprattutto nei sistemi di commercio elettronico, e serve per identificare l'utente.
+La maggior parte dei siti web utilizzano i cookie come unici identificatori per le sessioni degli utenti, in quanto altri metodi di identificazione hanno dei limiti e delle vulnerabilità. Esiste comunque un rischio, infatti, potrebbe permettere agli aggressori di rubare ed impersonare le richieste degli utenti. Dal punto di vista del server web, una richiesta effettuata da un utente con intenzioni malevole (cioè un utente che ha rubato i cookie di altri utenti) non ha alcuna differenza rispetto alla richiesta effettuata dalla vittima.
+Qui elencate vi sono diverse tecniche di furto di cookie che funzionano esclusivamente con i siti web che si basano sui cookie HTTP per l'autenticazione degli utenti.
+
+
+=== Intercettazioni di rete ===
+
+Il traffico di una rete può essere intercettato e letto da un computer connesso ad una rete diversa rispetto a quella del mittente e destinatario (in particolare quando si è connessi ad una rete Wi-Fi non criptata). Questo traffico include cookie inviati su sessioni HTTP non cifrate, e può permette agli aggressori di leggere le comunicazioni di altri utenti della rete, inclusi i cookie HTTP, nonché l'intero contenuto delle conversazioni, ai fini di un attacco man-in-the-middle.
+Un utente malintenzionato potrebbe utilizzare i cookie intercettati per impersonare l'utente proprietario dei cookie, ed effettuare operazioni dannose, come ad esempio trasferire somme di denaro dal conto bancario della vittima su altri conti, spesso e volentieri non rintracciabili.
+Questo problema può essere risolto attraverso una comunicazione cifrata, tra il computer dell'utente e il web server, utilizzando Transport Layer Security (protocollo HTTPS). Il server può specificare il flag Secure durante l'impostazione dei cookie, in modo che il browser possa inviare i cookie solo su un canale crittografato, come ad esempio una connessione SSL.
+
+
+=== Falsi sotto-domini & DNS cache poisoning ===
+Se un utente malintenzionato è in grado di nascondere un server DNS, e di far utilizzare all'utente un server DNS fittizio/fasullo (DNS cache poisoning), allora questo potrebbe consentire al malintenzionato di ottenere l'accesso ai cookie dell'utente. Ad esempio, un utente malintenzionato potrebbe utilizzare DNS cache poisoning per creare un DNS fasullo di f12345.www.example.com che in realtà punta all'indirizzo IP del server dell'attaccante. Quest'ultimo può quindi inserire l'immagine URL del proprio server (ad esempio, http://f12345.www.example.com/img_4_cookie.jpg) . Le vittime leggendo il messaggio dell'attaccante andranno a scaricare questa immagine da f12345.www.example.com. Dal momento che f12345.www.example.com è un sottodominio di www.example.com , il browser delle vittime provvederà ad inviare tutti i cookie example.com al server dell'attaccante.
+Se un utente malintenzionato è in grado di raggiungere questo obiettivo, di solito la colpa è dei fornitori dei servizi Internet (Internet Service Providers) che non hanno garantito una connessione sicura dei server DNS. Tuttavia, la gravità di questo attacco può essere ridotta se il sito destinatario utilizza i cookie protetti. In questo caso, l'utente malintenzionato avrà un ulteriore ostacolo, quello di ottenere il certificato SSL del sito Web di destinazione da un'autorità di certificazione, dal momento che i cookie sicuri possono essere trasmessi solo tramite una connessione criptata. Senza un certificato SSL, i browser delle vittime avrebbero visualizzato un messaggio di avviso relativo al certificato non valido del sito web dell'attaccante, che potrebbe aiutare gli utenti a non visitarlo, evitando così di inviare i cookie ad un sito non sicuro.
+
+
+=== Cross-site scripting: furto dei cookie ===
+I cookie possono anche essere rubati utilizzando una tecnica chiamata cross-site scripting. Ciò si verifica quando un attaccante sfrutta un sito web che permette agli utenti di inviare contenuto non filtrato HTML e JavaScript. Inviando dei contenuti malevoli HTML e JavaScript, l'attaccante può servirsi del browser della vittima per prendere il controllo dei suoi cookie.
+A titolo di esempio, un utente malintenzionato può inviare un messaggio sul www.example.com con il seguente link:
+
+Quando un altro utente clicca su questo link, il browser esegue un pezzo di codice all'interno dell'attributo onclick , sostituendo così la stringa document.cookie con la lista dei cookie che sono accessibili dalla pagina corrente. Come risultato, questo elenco di cookie viene inviato al server attacker.com. Se la connessione avviene mediante HTTPS https://www.example.com, i Secure cookie saranno inviati lo stesso ad attacker.com in formato testo.
+È responsabilità degli sviluppatori dei siti web filtrare tale codice dannoso.
+Tali attacchi possono essere ridotti utilizzando i cookie HttpOnly. Questi cookie non saranno accessibili dal lato client attraverso linguaggi di scripting come JavaScript e, quindi, l'attaccante non sarà in grado di rubare questi cookie.
+
+
+=== Cross-site scripting: richiesta proxy ===
+Nelle versioni più vecchie di molti browser, ci furono buchi di sicurezza che permisero agli attaccanti di sporcare gli script di una richiesta proxy, dal lato client, tramite XMLHttpRequest API. Ad esempio, la vittima sta leggendo un post di un attaccante su www.example.com , e lo script dell'attaccante viene eseguito nel browser della vittima. Lo script genera una richiesta per www.example.com con attacker.com come server proxy. Dal momento che la richiesta è per www.example.com, tutti i cookie di example.com verranno inviati insieme alla richiesta, tuttavia verranno instradati attraverso il server proxy dell'attaccante. Quindi, l'attaccante sarebbe in grado di intercettare i cookie della vittima.
+Questo attacco non avrebbe funzionato con i Secure cookie, in quanto possono essere trasmessi solo su connessioni HTTPS, e il protocollo HTTPS implementa una crittografia end-to-end (vale a dire che le informazioni sono crittografate sul browser dell'utente e decifrate sul server di destinazione). In questo caso, il server proxy avrebbe visto solo i primi byte cifrati della richiesta HTTP.
+
+
+=== Cross-site request forgery ===
+Ad esempio, Bob potrebbe navigare in un forum in cui un altro utente, Mallory, ha postato un messaggio. Supponiamo che Mallory abbia realizzato un'immagine HTML che fa riferimento ad un'operazione sul sito web della banca di Bob, (piuttosto che un file immagine) ad esempio:
+
+ 
+Se la banca di Bob mantiene le sue informazioni di autenticazione in un cookie, e se il cookie non è scaduto, allora il tentativo da parte del browser di Bob di caricare l'immagine presenterà il modulo di rinuncia del suo cookie, autorizzando in tal modo una transazione senza l'approvazione di Bob.
+
+
+=== Eliminazione ===
+Una volta che si è impostato il browser perché accetti i cookie, essi sono archiviati in una speciale cartella del sistema, solitamente nel percorso dell'utente. Il percorso ove materialmente sono memorizzati i file corrispondenti dipende dalla combinazione tipologia dispositivo/sistema operativo/browser. Si possono facilmente cancellare sia agendo sui comandi previsti dal browser (i medesimi che permettono di cancellare la cronologia, la cache, le informazioni di login, i dati di compilazione dei moduli, ecc.) oppure utilizzando uno dei tanti "pulitori" di terze parti, quali ad esempio CCleaner, Spybot- Search & Destroy. Oltre alla eliminazione massiva si può ricorrere a quella dei singoli file ma allora occorre riconoscerli agendo (nella cartella relativa) sugli specifici cookie di interesse.
+Una volta eseguita l'eliminazione dei cookie, è normale che il browser e i vari siti web si ripresentino con delle richieste, rispettivamente, di personalizzazione impostazione e di accettazione cookie oppure la navigazione su siti abituali sia leggermente e inizialmente un poco più lenta: questo è dovuto, appunto, alla pulizia eseguita.
+
+
+== Aspetti giuridici ==
+
+
+=== Legislazione italiana ===
+In Italia la norma di riferimento relativamente ai cookie è l'art. 122 del codice della privacy che nella sua formulazione a fine maggio 2012 recepisce la direttiva comunitaria 2009/136/CE E-Privacy. È quindi necessario che l'utente, salvo casi particolari, sia informato e presti esplicitamente il consenso, prima che i cookie vengano salvati. Tale indicazione, pur se tesa a dare maggiori garanzie agli utenti, creò a suo tempo allerta negli operatori per il rischio che potesse compromettere le modalità di navigazione come le conosciamo oggi.
+Il 2 giugno 2015 divenne obbligatorio per i gestori di siti web adeguarsi al Provvedimento “Individuazione delle modalità semplificate per l'informativa e l'acquisizione del consenso per l'uso dei cookie” (Gazzetta Ufficiale n. 126 del 3 giugno 2014) dell'8 maggio 2014, con cui il Garante per la Protezione dei Dati Personali detta le regole sulle modalità di adempimento agli obblighi di rilascio dell'informativa e di acquisizione del consenso degli utenti in caso di utilizzo di cookie.
+Per tutti i siti web che utilizzano Cookie non tecnici (di profilazione) il Provvedimento stabilisce che nel momento in cui si accede ad una qualsiasi pagina del sito web deve immediatamente comparire in primo piano un banner(contenente l'informativa breve) di idonee dimensioni, con caratteristiche tali da determinare una discontinuità dell'esperienza di navigazione, indicante:
+a) L'utilizzo di Cookie di profilazione al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dall'utente nell'ambito della navigazione in rete;
+b) se il sito consente l'invio di Cookie "terze parti";
+c) il link all'informativa estesa;
+d) la possibilità di negare il consenso all'installazione di qualunque cookie;
+e) che la prosecuzione della navigazione comporta la prestazione del consenso all'uso dei cookie.
+Al banner di informativa breve deve essere poi collegato un Cookie tecnico che permetta di tenere traccia del consenso dell'utente per le successive navigazioni sul medesimo sito internet.
+Attraverso il banner di informativa, e attraverso i riferimenti in calce ad ogni pagina del sito, l'utente deve quindi poter accedere all'informativa estesa (la cosiddetta cookie policy) che deve contenere tutti gli elementi previsti dall'art. 13 del Codice, descrivere in maniera specifica e analitica le caratteristiche le finalità dei Cookie installati dal sito, consentire all'utente di selezionare o deselezionare i singoli cookie, contenere i link aggiornati alle informative e ai moduli di consenso delle terze parti con le quali l'editore ha stipulato accordi per l'installazione di Cookie tramite il proprio sito. Qualora l'editore abbia contatti indiretti con le terze parti, dovrà inserire i link dei siti che fanno da intermediari tra lui e le stesse terze parti.
+L'informativa deve infine richiamare la possibilità per l'utente di manifestare le proprie opzioni in merito all'uso dei Cookie da parte del sito anche attraverso le impostazioni del browser, indicando almeno la procedura da eseguire per configurare tali impostazioni.
+In caso di omessa o inidonea informativa, oltre che nelle previsioni di cui all'art. 13 del Codice, nel provvedimento è prevista la sanzione amministrativa del pagamento di una somma da seimila a trentaseimila euro (art. 161 del Codice).
+L'installazione di Cookie sui terminali degli utenti in assenza del preventivo consenso degli stessi comporta, invece, la sanzione del pagamento di una somma da diecimila a centoventimila euro (art. 162, comma 2-bis, del Codice)L'omessa o incompleta notifica al Garante da parte di soggetti che utilizzano Cookie di 'profilazione' comporta una sanzione da venti mila a centoventi mila euro (art. 163 del Codice). Esclusi da tale obbligo sono coloro che non utilizzano direttamente i cookie di 'profilazione':
+-siti che trasmettono cookie di 'profilazione' di "terze parti";
+-siti che utilizzano direttamente cookie tecnici.
+Il garante ha altresì fornito in merito ai casi in cui sia necessaria la notifica ulteriori chiarimenti nel documento web n. 993385.
+In merito ai chiarimenti richiesti sull'ambito di applicazione della normativa in materia di cookie, si evidenzia che la stessa riguarda tutti i siti che, a prescindere dalla presenza di una sede nel territorio dello Stato, installano cookie sui terminali degli utenti, utilizzando quindi per il trattamento "strumenti situati sul territorio dello Stato" (cfr. art. 5, comma 2, del Codice privacy).
+Dal 25 maggio 2018 la regolamentazione sui cookie è prescritta dal GDPR (vedi paragrafo).
+
+
+=== La nuova legislazione europea: il GDPR ===
+Dal 25 maggio 2018 è applicato il regolamento generale sulla protezione dei dati (GDPR, General Data Protection Regulation- Regolamento UE 2016/679). Il GDPR sostituisce l’attuale legge italiana sulla protezione dei dati (ufficialmente Direttiva 95/46/EC) e abroga le norme del Codice per la protezione dei dati personali (dlgs.n. 196/2003) che risulteranno con esso incompatibili. Pertanto, gli articoli del codice italiano che non siano specificatamente coperti dal GDPR rimangono in vigore (a meno di futuri provvedimenti legislativi).
+Secondo la Commissione Europea "i dati personali sono qualunque informazione relativa a un individuo, collegata alla sua vita sia privata, sia professionale o pubblica. Può riguardare qualunque dato personale: nomi, foto, indirizzi email, dettagli bancari, interventi su siti web di social network, informazioni mediche o indirizzi IP di computer."Per questo anche i cookie devono essere trattati come dati personali e devono essere gestiti come segue:
+
+I dati personali non possono essere tracciati o usati prima che l’utente abbia dato il consenso esplicito;
+Devono essere specificati tutti i tracciamenti dei dati personali su tutte le pagine/URLs del sito coinvolte;
+Gli utenti del sito devono essere informati in un linguaggio semplice su:
+Chi riceve i loro dati e come sono usati;
+La data di scadenza dei cookie;
+Ogni autorizzazione deve essere salvata/registrata per provare alle autorità che è stata concessa (Formato della prova);
+La revoca del consenso deve essere facile da fare, anche in un secondo momento.Inoltre la cookie policy deve contenere la lista di tutti i cookie presenti su tutte le pagine del sito e per ognuno di essi: chi riceve i dati, per cosa sono utilizzati e la data di scadenza.
+Nel gennaio 2017 la Commissione Europea propose un’alternativa  volta a semplificare l’esperienza online, auspicando che siano gli stessi browser a poter gestire le preferenze degli utenti per il consenso/rifiuto dei cookie – eliminando quindi la necessità di gestire le singole accettazione dei cookie nei singoli siti. Questa proposta non ha avuto seguiti ed è stata molto criticata e giudicata non fattibile.Tecnicamente i browser non riescono a leggere lo scopo di un cookie (come viene utilizzato) e non possono fornire  una sua descrizione in un “linguaggio semplice” così come è richiesto nel GDPR. Inoltre i browser non possono registrare tutti i cookie presenti in un intero sito, ma solo uno per volta per pagina singola. I browser non possono gestire consensi differenti in base ai diversi siti (per cui sarebbe un’accettazione di tutti i cookie o di nessuno) e non possono inoltre fornire il Formato della prova (il salvataggio dei consensi) così come richiesto dal GDPR. Alla luce di nessun nuovo sviluppo di questa proposta da parte della Commissione Europea, i gestori dei siti web dovranno attenersi a quanto richiesto dal GDPR.
+
+
+=== Cosa cambia rispetto alla legislazione attuale ===
+Nel caso di un sito con la presenza di soli cookie tecnici/funzionali (shopping cart, selezione lingua, preferenze) e/o di cookie di statistica di prima parte (es. Piwik e simili): rimane tutto come è ora e quindi non è necessario avere un cookie banner, il blocco preventivo dei cookie prima del consenso e il salvataggio dei consensi (formato della prova).
+In questo caso rientrano anche i cookie di statistica di terza parte come Google Analytics con IP anonimizzato in modo tale che non possa essere ricostruito l’indirizzo IP con tecniche di “reverse engineering”. Utilizzando Google Analytics bisogna quindi disattivare la condivisione dei dati con gli altri prodotti/servizi Google, altrimenti si rientra nel caso successivo.
+Nel caso di presenza di altri tipi di cookie, e quindi quelli pubblicitari (Google Adsense, DoubleClick, retargeting, ecc) e tutti gli altri di terze parti (Social Network, YouTube, ecc) oltre al cookie banner il GDPR richiede:
+
+il consenso esplicito (opt-in) e quindi non più implicito come ad esempio "scrollare" la pagina;
+il blocco preventivo dei cookie prima del consenso;
+la registrazione dei log del consenso da fornire come “prova”;
+la descrizione per ogni cookie che comprende chi riceve i dati, per quale scopo e la data di scadenza;
+la possibilità di revocare il consenso in modo semplice anche in un secondo momento.
+
+
+== Tecnologie analoghe ==
+Nel mondo del web storage esiste anche il DOM storage che è una tipologia di contenuti evoluti che ha funzioni simili ai cookie. In pratica, è un cookie articolato e complesso. Ogni sistema operativo, mediante il browser, archivia le informazioni memorizzate dai siti web visitati che alimentano il DOM storage (detto anche Web Storage) che può essere disabilitato e/o cancellato esattamente come i cookie. Oltre ai cookie i browser hanno un'opzione per abilitare o disabilitare l'archiviazione del dom storage dei siti web che lo richiedono.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Browser
+Cache
+Header file
+Sessione
+Pagina web
+Sito web
+Big data
+Profilazione dell'utente
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su cookie
+
+
+== Collegamenti esterni ==
+Manuale - Breve spiegazione di come abilitare i cookie nei vari browser e sistemi operativi
+ Controlla le tue informazioni registrate dai "Flash Cookie", su abtechno.org.
+Attacco ai Cookie - Descrizione e Contromisure della tecnica di Hacking Cookie Manipulation

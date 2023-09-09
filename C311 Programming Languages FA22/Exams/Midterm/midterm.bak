@@ -1,0 +1,7 @@
+#lang racket
+
+(let ([f (lambda (n)
+(if (zero? n)
+1
+(* n (f (sub1 n)))))])
+(f 5))

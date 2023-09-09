@@ -1,0 +1,15 @@
+D:\Classes\A290\Projects\PathfindingVisualizer\bin\Debug\netcoreapp3.1\PathfindingVisualizer.exe
+D:\Classes\A290\Projects\PathfindingVisualizer\bin\Debug\netcoreapp3.1\PathfindingVisualizer.deps.json
+D:\Classes\A290\Projects\PathfindingVisualizer\bin\Debug\netcoreapp3.1\PathfindingVisualizer.runtimeconfig.json
+D:\Classes\A290\Projects\PathfindingVisualizer\bin\Debug\netcoreapp3.1\PathfindingVisualizer.runtimeconfig.dev.json
+D:\Classes\A290\Projects\PathfindingVisualizer\bin\Debug\netcoreapp3.1\PathfindingVisualizer.dll
+D:\Classes\A290\Projects\PathfindingVisualizer\bin\Debug\netcoreapp3.1\PathfindingVisualizer.pdb
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.csprojAssemblyReference.cache
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.csproj.GenerateResource.cache
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.AssemblyInfoInputs.cache
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.AssemblyInfo.cs
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.csproj.CoreCompileInputs.cache
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.dll
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.pdb
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.genruntimeconfig.cache
+D:\Classes\A290\Projects\PathfindingVisualizer\obj\Debug\netcoreapp3.1\PathfindingVisualizer.FrmPathfinderMain.resources

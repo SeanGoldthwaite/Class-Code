@@ -1,0 +1,483 @@
+﻿Elektronegativität (Abkürzung EN; Formelzeichen 
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+   (griechisch Chi)) ist ein relatives Maß für die Fähigkeit eines Atoms, in einer chemischen Bindung Elektronenpaare an sich zu ziehen. Sie wird unter anderem von der Kernladung und dem Atomradius bestimmt. Die Elektronegativität kann daher als Anhaltspunkt für die Polarität und den Ionenbindungscharakter einer Bindung genommen werden: Je höher der Unterschied in der Elektronegativität der gebundenen Elemente, desto polarer ist die Bindung.
+Atome mit hoher Elektronegativität bezeichnet man auch als elektronegativ, solche mit geringer Elektronegativität als elektropositiv. Die Elektronegativität ist umso größer, je weniger Elektronen auf der Außenschale zur Edelgaskonfiguration fehlen, weil diese „Lücken“ leicht aufgefüllt werden können. Sie nimmt daher in der Regel innerhalb einer Elementperiode von links nach rechts zu, da die Kernladungszahl höher wird. Innerhalb einer Elementgruppe nimmt sie von oben nach unten ab, hauptsächlich weil der Abstand zum Kern immer größer wird. Die Anziehungskraft des Kerns auf die Elektronen wird dadurch kleiner.
+Nichtmetalle sind stärker elektronegativ und nehmen daher bevorzugt Elektronen auf. Metalle sind schwach elektronegativ und geben Elektronen ab. Edelgase besitzen keine Elektronegativität, weil sie sich bereits in einem sehr stabilen Zustand befinden.
+
+
+== Bestimmung ==
+Es existieren verschiedene Methoden zur Bestimmung der EN. Die Hauptschwierigkeit dabei ist, dass sich die EN auf das Verhalten eines bestimmten Atoms in einem Atomverband – in einer Einfachbindung – bezieht und nicht auf einzelne, voneinander isolierte Atome im Gaszustand (wie die Ionisierungsenergie und Elektronenaffinität), und dass sie in hohem Maß von der Art und der Anzahl der mit dem betreffenden Atom sonst noch verbundenen Atome abhängt. Durch Berechnung der Elektronegativitätsdifferenz zwischen möglichen Reaktionspartnern lassen sich jedoch unter Zuhilfenahme von Faustregeln Aussagen zur Heftigkeit aktivierter Reaktionen und zur chemischen Bindung der dadurch entstehenden Stoffe treffen.
+
+
+== Einteilungssysteme ==
+Das Elektronegativitätsmodell wurde 1932 durch Linus Pauling eingeführt und später mehrmals verfeinert. Heute finden neben der Pauling-Skala auch die Skalen von Allred-Rochow und Mulliken Verwendung.
+
+
+=== Allred-Rochow-Skala ===
+Die Elektronegativität nach Albert L. Allred und Eugene G. Rochow (1958) wird oft auch mit 
+  
+    
+      
+        
+          c
+          
+            A
+            R
+          
+        
+      
+    
+    {\displaystyle c_{AR}}
+   oder 
+  
+    
+      
+        
+          χ
+          
+            A
+            R
+          
+        
+      
+    
+    {\displaystyle \chi _{AR}}
+   bezeichnet.
+Die Skala beruht auf der Überlegung, dass die Elektronegativität proportional zur elektrostatischen Anziehungskraft F ist, die die Kernladung Z auf die Bindungselektronen (von inneren Elektronen abgeschirmt) ausübt:
+
+  
+    
+      
+        F
+        ∼
+        
+          
+            
+              
+                e
+                
+                  2
+                
+              
+              ⋅
+              
+                Z
+                
+                  
+                    e
+                    f
+                    f
+                  
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F\sim {\frac {e^{2}\cdot Z_{\rm {eff}}}{r^{2}}}}
+  wobei r der Atomradius, e die Elementarladung und 
+  
+    
+      
+        
+          Z
+          
+            
+              e
+              f
+              f
+            
+          
+        
+      
+    
+    {\displaystyle Z_{\rm {eff}}}
+   die effektive Kernladungszahl ist.
+
+
+=== Mulliken-Skala ===
+In der Mulliken-Skala (1934 von Robert S. Mulliken vorgeschlagen) wird die Elektronegativität als Mittelwert aus der Ionisierungsenergie 
+  
+    
+      
+        
+          E
+          
+            I
+          
+        
+      
+    
+    {\displaystyle E_{I}}
+   und der Elektronenaffinität 
+  
+    
+      
+        
+          E
+          
+            
+              e
+              a
+            
+          
+        
+      
+    
+    {\displaystyle E_{\rm {ea}}}
+   (electron affinity) berechnet:
+
+  
+    
+      
+        
+          χ
+          
+            
+              M
+            
+          
+        
+        =
+        
+          
+            
+              
+                E
+                
+                  
+                    e
+                    a
+                  
+                
+              
+              +
+              
+                E
+                
+                  I
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \chi _{\rm {M}}={\frac {E_{\rm {ea}}+E_{I}}{2}}}
+  Diese Energie wird in Elektronenvolt angegeben.Mit folgender Formel kann die Mulliken-Skala recht gut an die Pauling-Skala angepasst werden:
+
+  
+    
+      
+        
+          χ
+          
+            P
+          
+        
+        =
+        1
+        
+          ,
+        
+        35
+        
+        
+          χ
+          
+            M
+          
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        −
+        1
+        
+          ,
+        
+        37
+      
+    
+    {\displaystyle \chi _{P}=1{,}35\,\chi _{M}^{1/2}-1{,}37}
+  Es sind auch andere Umrechnungsformeln in Gebrauch, wie zum Beispiel die lineare Formel:
+
+  
+    
+      
+        
+          χ
+          
+            P
+          
+        
+        =
+        0.336
+        
+          (
+          
+            
+              χ
+              
+                M
+              
+            
+            −
+            0
+            ,
+            615
+          
+          )
+        
+      
+    
+    {\displaystyle \chi _{P}=0.336\left(\chi _{M}-0,615\right)}
+  
+
+
+=== Pauling-Skala ===
+Das Pauling-Modell beruht auf der Elektronegativitätsdifferenz zweier Atome A und B als Maß für den ionischen Anteil ihrer Bindung A-B. Sie setzt die Kenntnis der experimentell ermittelten Bindungsdissoziationsenergien der Moleküle A–B, A2 und B2 voraus.
+Die Elektronegativitätsdifferenz zweier Atome A und B ergibt sich gemäß:
+
+  
+    
+      
+        
+          D
+          
+            A
+            B
+          
+        
+        −
+        
+          
+            
+              D
+              
+                A
+                A
+              
+            
+            
+              D
+              
+                B
+                B
+              
+            
+          
+        
+        =
+        96
+        
+          ,
+        
+        48
+         
+        
+          
+            
+              k
+              J
+            
+            
+              m
+              o
+              l
+            
+          
+        
+        (
+        
+          χ
+          
+            A
+          
+        
+        −
+        
+          χ
+          
+            B
+          
+        
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle D_{AB}-{\sqrt {D_{AA}D_{BB}}}=96{,}48~{\frac {\rm {kJ}}{\rm {mol}}}(\chi _{A}-\chi _{B})^{2}}
+  
+Zur Berechnung der dimensionslosen Elektronegativitätswerte der chemischen Elemente aus der Differenz wurde für Fluor der Wert 
+  
+    
+      
+        
+          χ
+          
+            F
+          
+        
+        =
+        3
+        
+          ,
+        
+        98
+      
+    
+    {\displaystyle \chi _{F}=3{,}98}
+   als Referenzpunkt festgelegt.
+In der Literatur finden sich oft unterschiedliche Werte für die EN nach Pauling, was auf folgende Gründe zurückzuführen ist:
+
+Die Bindungsdissoziationsenergien sind für manche Elemente bzw. Verbindungen experimentell schwer zugänglich.
+Früher verwendete Referenzwerte waren 
+  
+    
+      
+        
+          χ
+          
+            F
+          
+        
+        =
+        4
+        
+          ,
+        
+        00
+      
+    
+    {\displaystyle \chi _{F}=4{,}00}
+   und 
+  
+    
+      
+        
+          χ
+          
+            H
+          
+        
+        =
+        2
+        
+          ,
+        
+        10
+      
+    
+    {\displaystyle \chi _{H}=2{,}10}
+  .
+Statt des geometrischen Mittels 
+  
+    
+      
+        
+          
+            
+              D
+              
+                A
+                A
+              
+            
+            
+              D
+              
+                B
+                B
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {D_{AA}D_{BB}}}}
+   wurde früher auch das arithmetische Mittel 
+  
+    
+      
+        
+          
+            
+              
+                
+                  D
+                  
+                    A
+                    A
+                  
+                
+                +
+                
+                  D
+                  
+                    B
+                    B
+                  
+                
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {D_{AA}+D_{BB}}{2}}}
+   verwendet.
+Schließlich finden sich in der Literatur unterschiedliche Werte für den Proportionalitätsfaktor.
+
+
+=== Andere Elektronegativitäts-Skalen ===
+Nach Leland C. Allen wird die Elektronegativität aus dem Energiezustand der Valenzelektronen berechnet, was eine spektroskopische Bestimmung erlaubt.
+R. T. Sanderson führt die Elektronegativität wie Allred und Rochow auf die effektive Kernladung zurück.
+
+
+== Fußnoten und Einzelnachweise ==
+
+
+== Literatur ==
+Bücher
+
+Linus Pauling: The nature of the chemical bond and the structure of molecules and crystals. Mei Ya Publications Taipei, 1960. 
+Hans Rudolf Christen, Gerd Meyer: Grundlagen der allgemeinen und anorganischen Chemie. Sauerländer, Frankfurt am Main 1997. ISBN 3-7941-3984-4.Zeitschriftenaufsätze
+
+Robert S. Mulliken: A New Electroaffinity Scale; Together with Data on Valence States and on Valence Ionization Potentials and Electron Affinities. In: The Journal of Chemical Physics. Band 2, Nr. 11, 1934, S. 782–793, doi:10.1063/1.1749394. 
+A. L. Allred: Electronegativity values from thermochemical data. In: Journal of Inorganic and Nuclear Chemistry. Band 17, Nr. 3–4, Mai 1961, S. 215–221, doi:10.1016/0022-1902(61)80142-5. 
+A. L. Allred, E. G. Rochow: A scale of electronegativity based on electrostatic force. In: Journal of Inorganic and Nuclear Chemistry. Band 5, Nr. 4, 1958, S. 264–268, doi:10.1016/0022-1902(58)80003-2. 
+William B. Jensen: Electronegativity from Avogadro to Pauling, 2 Teile, Journal of Chemical Education, Band 73, 1996, S. 11-20, Band 80, 2003, S. 279–287
+S. G. Bratsch: Revised Mulliken Electronegativities. In: Journal of Chemical Education. Band 65, Nr. 1, 1988, S. 34–41. 
+R. T. Sanderson: Chemical principles revisited: Principles of electronegativity – Part I. General nature. In: Journal of Chemical Education. Band 65, Nr. 2, 1988, S. 112–118. 
+R. T. Sanderson: Chemical principles revisited: Principles of electronegativity – Part II. Applications. In: Journal of Chemical Education. Band 65, Nr. 3, 1988, S. 227–231. 
+L. C. Allen: Electronegativity is the average one-electron energy of the valence-shell electrons in ground-state free atoms. In: Journal of the American Chemical Society. Band 111, Nr. 25, 1989, S. 9003–9014, doi:10.1021/ja00207a003. 
+
+
+== Weblinks ==
+
+Elektronegativitäten (EN) auf The Creative Chemistry on the Internet
+ChemGlobe – Elektronegativität
+Elektronegativität bei UNI TERRA

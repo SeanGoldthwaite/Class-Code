@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CsvHelper/16.1.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/CsvHelper.dll": {
+            "assemblyVersion": "16.0.0.0",
+            "fileVersion": "16.1.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "CsvHelper/16.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mxgC3egEdsdJuuoy+hn5onYTetvT6qWvxDPFm/Eq0VY8aK3zcpuYnnKCQELQy05RtxO2pusMAuyRp8T6SviVZw==",
+      "path": "csvhelper/16.1.0",
+      "hashPath": "csvhelper.16.1.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+    }
+  }
+}

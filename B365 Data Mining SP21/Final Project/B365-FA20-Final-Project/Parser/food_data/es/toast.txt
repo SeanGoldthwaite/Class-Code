@@ -1,0 +1,5 @@
+﻿Toast es una aplicación para la grabación de discos ópticos, como discos compactos, DVD, Blu-ray y HD DVD, desarrollada por Roxio, para el sistema operativo Mac OS X. Además de grabar, permite importar y crear video de alta definición desde TiVo, EyeTV, AVCHD, y comprimir DVD en formato DVD-9 de doble capa al formato estándar DVD-5 y la grabación de audio directamente desde Internet.
+
+
+== Enlaces externos ==
+Sitio web oficial de Roxio
